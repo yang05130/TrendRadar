@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T15:16:52.491656+08:00",
-  "total_titles_processed": 934,
+  "generated_at": "2025-12-21T16:22:24.019098+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
@@ -46,8 +46,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 15时16分]"
+          "appearance_count": 18,
+          "time_info": "[00时19分 ~ 16时22分]"
         },
         {
           "title": "【早报】三部门发布《互联网平台价格行为规则》；摩尔线程发布新一代GPU架构花港",
@@ -55,11 +55,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时26分 ~ 15时16分]"
+          "appearance_count": 7,
+          "time_info": "[11时26分 ~ 16时22分]"
         },
         {
           "title": "摩尔线程与图灵量子达成合作，推动量子经典混合技术应用",
