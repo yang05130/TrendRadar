@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T22:18:40.714120+08:00",
-  "total_titles_processed": 1820,
+  "generated_at": "2025-12-22T23:19:34.898136+08:00",
+  "total_titles_processed": 1905,
   "failed_sources": [],
   "trends": [
     {
@@ -148,6 +148,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY日内下跌0.50%，现报98.24。英镑兑美元GBP/USD涨至1.3457，创10月17日以来新高。",
+          "url": "https://flash.jin10.com/detail/20251222223718248800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         }
       ]
     }
