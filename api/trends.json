@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T15:22:00.917335+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2025-12-23T16:25:27.413695+08:00",
+  "total_titles_processed": 1425,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，咱博爱89627.99美元；以太坊涨1.80%，报3043.51美元。",
@@ -19,6 +19,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "美元指数跌破98，创5日新低，日内跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3025481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "周一（12月22日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨0.58%，报88575美元。 CME以太币期货DCR主力合约跌0.03%，报2997.50美元。 美股加密货币与加密货币关联指数涨1.41%，报63.84点，高开之后在北京时间23:10刷新日高至66.30点，随后逐步回吐涨幅。 最近24小时，MarketVector数字资产100小盘指数涨2.30%，暂报3579.08点。 MarketVector数字资产100指数涨0.12%，暂报18093.84点。",
           "url": "https://wallstreetcn.com/livenews/3025144",
           "source": "华尔街见闻-快讯",
@@ -29,6 +40,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时17分]"
+        },
+        {
+          "title": "美元指数DXY跌破98，创5日新低。",
+          "url": "https://flash.jin10.com/detail/20251223161014189800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "美元指数22日下跌",
@@ -92,8 +114,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时18分 ~ 15时22分]"
+          "appearance_count": 8,
+          "time_info": "[09时18分 ~ 16时25分]"
         },
         {
           "title": "金属狂欢！金银铜同创新高，铂钯金全线大涨",
@@ -106,8 +128,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时17分 ~ 15时22分]"
+          "appearance_count": 9,
+          "time_info": "[07时17分 ~ 16时25分]"
         },
         {
           "title": "LME期铜收涨44美元，报11925美元/吨。 LME期铝收跌4美元，报2942美元/吨。 LME期锌收涨12美元，报3085美元/吨。 LME期铅收跌13美元，报1925美元/吨。 LME期镍收涨473美元，报15276美元/吨。 LME期锡收跌280美元，报42947美元/吨。 LME期钴收平，报52790美元/吨。",
