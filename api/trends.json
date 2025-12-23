@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T09:18:47.812963+08:00",
-  "total_titles_processed": 792,
+  "generated_at": "2025-12-23T11:24:41.846903+08:00",
+  "total_titles_processed": 958,
   "failed_sources": [],
   "trends": [
     {
@@ -91,9 +91,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 11时24分]"
         },
         {
           "title": "金属狂欢！金银铜同创新高，铂钯金全线大涨",
@@ -101,11 +101,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时17分 ~ 09时18分]"
+          "appearance_count": 3,
+          "time_info": "[07时17分 ~ 11时24分]"
         },
         {
           "title": "LME期铜收涨44美元，报11925美元/吨。 LME期铝收跌4美元，报2942美元/吨。 LME期锌收涨12美元，报3085美元/吨。 LME期铅收跌13美元，报1925美元/吨。 LME期镍收涨473美元，报15276美元/吨。 LME期锡收跌280美元，报42947美元/吨。 LME期钴收平，报52790美元/吨。",
@@ -203,11 +204,12 @@
             11,
             9,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时16分 ~ 09时18分]"
+          "appearance_count": 11,
+          "time_info": "[01时16分 ~ 11时24分]"
         }
       ]
     }
