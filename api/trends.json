@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T11:22:01.845513+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2025-12-24T12:33:58.287180+08:00",
+  "total_titles_processed": 1045,
   "failed_sources": [],
   "trends": [
     {
@@ -46,17 +46,6 @@
           "time_info": "[00时22分 ~ 11时22分]"
         },
         {
-          "title": "机构：12月的大涨料将推动铜价录得2009年以来最佳表现",
-          "url": "https://flash.jin10.com/detail/20251224111604855800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
           "title": "强劲GDP提振科技股，标普四连涨收创新高，金银铜再新高，人民币强势逼近7.01",
           "url": "https://wallstreetcn.com/articles/3761906",
           "source": "华尔街见闻",
@@ -90,6 +79,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "机构：12月的大涨料将推动铜价录得2009年以来最佳表现",
+          "url": "https://flash.jin10.com/detail/20251224111604855800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 12时33分]"
         },
         {
           "title": "伦铜收涨至12000美元整数位心理关口上方",
@@ -188,7 +189,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         }
@@ -206,8 +207,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时17分 ~ 11时22分]"
+          "appearance_count": 4,
+          "time_info": "[09时17分 ~ 12时33分]"
         },
         {
           "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",
