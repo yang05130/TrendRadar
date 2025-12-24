@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T09:17:48.143272+08:00",
-  "total_titles_processed": 797,
+  "generated_at": "2025-12-24T11:22:01.845513+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "\"圣诞行情\"开启，标普逼近历史高位，特斯拉盘中新高，金银铜齐新高，原油大涨",
@@ -38,11 +38,23 @@
             13,
             12,
             10,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 09时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 11时22分]"
+        },
+        {
+          "title": "机构：12月的大涨料将推动铜价录得2009年以来最佳表现",
+          "url": "https://flash.jin10.com/detail/20251224111604855800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         },
         {
           "title": "强劲GDP提振科技股，标普四连涨收创新高，金银铜再新高，人民币强势逼近7.01",
@@ -54,6 +66,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "金银铜携手创新高 强势GDP数据压制美股期指 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2238119",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时19分 ~ 11时22分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至12月16日当周，COMEX黄金投机者将净多头头寸增加9,493份合约，至134,130份合约；COMEX白银投机者将净多头头寸削减3,681份合约，至24,297份合约；COMEX铜投机者将净多头头寸增加4,904份合约，至75,987份合约。",
@@ -90,24 +115,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时17分]"
-        },
-        {
-          "title": "金银铜携手创新高 强势GDP数据压制美股期指 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2238119",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 09时17分]"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美元指数23日下跌",
@@ -167,6 +180,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "澳元兑美元上涨0.1%至0.6708，为2024年10月以来最高水平。 隔夜指数掉期显示， 澳洲联储加息两次的可能性超过70%，第一次加息最早可能在明年6月发生。",
+          "url": "https://wallstreetcn.com/livenews/3025903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         }
       ]
     },
@@ -181,9 +205,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时17分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 11时22分]"
         },
         {
           "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",
