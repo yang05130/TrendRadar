@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T04:19:14.999773+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2025-12-26T05:16:19.178579+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 04时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 05时16分]"
         },
         {
           "title": "内盘国际铜与沪铜夜盘至少收涨超2.5%",
@@ -26,11 +27,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时25分 ~ 04时19分]"
+          "appearance_count": 4,
+          "time_info": "[02时25分 ~ 05时16分]"
         },
         {
           "title": "国际铜主力合约日内涨3000.00元，现报88710.00元/吨，涨幅3.50%。",
@@ -58,8 +60,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 04时19分]"
+          "appearance_count": 8,
+          "time_info": "[01时15分 ~ 05时16分]"
         },
         {
           "title": "人民币汇率破7对房价股市有何影响",
