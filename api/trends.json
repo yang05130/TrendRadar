@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T15:20:04.727602+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2025-12-25T16:24:31.089489+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时24分 ~ 15时20分]"
+          "appearance_count": 9,
+          "time_info": "[11时24分 ~ 16时24分]"
         },
         {
           "title": "国际铜夜盘收跌0.07%，沪铜收跌0.25%，沪铝收跌0.29%，沪锌收跌0.84%，沪铅收涨0.82%，沪镍收跌1.47%，沪锡收跌2.17%。 氧化铝夜盘收跌1.01%，铝合金收跌0.35%。 不锈钢夜盘收跌0.62%。",
@@ -55,18 +56,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "商品期货收盘，钯主力合约跌超7%，沪镍、沪锡跌超1%。多晶硅、铂涨超4%，沪银、乙二醇、国际铜涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3026610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -107,6 +97,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时19分 ~ 06时17分]"
+        },
+        {
+          "title": "商品期货收盘，钯主力合约跌超7%，沪镍、沪锡跌超1%。多晶硅、铂涨超4%，沪银、乙二醇、国际铜涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3026610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 16时24分]"
         },
         {
           "title": "江西铜业拟收购矿企SolGold，交易价值或高达8.67亿英镑",
@@ -223,7 +225,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "科技股助标普收创新高，金银铜再新高，人民币强势逼近7.0，GDP强劲打击美债",
@@ -249,6 +251,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时17分]"
+        },
+        {
+          "title": "美债抛售潮背后的地缘金融信号",
+          "url": "https://www.toutiao.com/trending/7587662581184073257/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         }
       ]
     },
@@ -279,11 +292,12 @@
           "url": "https://www.toutiao.com/trending/7587644987605519891/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 15时20分]"
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 16时24分]"
         }
       ]
     }
