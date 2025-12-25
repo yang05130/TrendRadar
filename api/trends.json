@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T09:18:24.855791+08:00",
-  "total_titles_processed": 734,
+  "generated_at": "2025-12-25T11:25:00.246058+08:00",
+  "total_titles_processed": 880,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "国际铜夜盘收跌0.07%，沪铜收跌0.25%，沪铝收跌0.29%，沪锌收跌0.84%，沪铅收涨0.82%，沪镍收跌1.47%，沪锡收跌2.17%。 氧化铝夜盘收跌1.01%，铝合金收跌0.35%。 不锈钢夜盘收跌0.62%。",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时15分 ~ 04时19分]"
+        },
+        {
+          "title": "连续三日创历史新高！“铜博士”飙升，释放出何种经济信号？",
+          "url": "https://www.cls.cn/detail/2239468",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 11时25分]"
         },
         {
           "title": "LME期铜收涨102美元，报12162美元/吨。 LME期铝收涨22美元，报2960美元/吨。 LME期锌收涨23美元，报42815美元/吨。 LME期铅收涨12美元，报1994美元/吨。 LME期镍收涨47美元，报15786美元/吨。 LME期锡收涨23美元，报42815美元/吨。 LME期钴收平，报52790美元/吨。",
@@ -104,7 +115,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -115,7 +126,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         }
