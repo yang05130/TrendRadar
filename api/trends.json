@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-26T03:14:10.790221+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2025-12-26T04:19:14.999773+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
       "match_count": 3,
       "titles": [
+        {
+          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
+          "url": "https://www.zhihu.com/question/1987171318681068732",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 04时19分]"
+        },
         {
           "title": "内盘国际铜与沪铜夜盘至少收涨超2.5%",
           "url": "https://wallstreetcn.com/livenews/3026811",
@@ -16,20 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 03时14分]"
-        },
-        {
-          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
-          "url": "https://www.zhihu.com/question/1987171318681068732",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时25分 ~ 04时19分]"
         },
         {
           "title": "国际铜主力合约日内涨3000.00元，现报88710.00元/吨，涨幅3.50%。",
@@ -57,8 +58,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时15分 ~ 03时14分]"
+          "appearance_count": 7,
+          "time_info": "[01时15分 ~ 04时19分]"
         },
         {
           "title": "人民币汇率破7对房价股市有何影响",
