@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T18:19:15.475634+08:00",
-  "total_titles_processed": 1400,
+  "generated_at": "2025-12-26T19:16:31.673177+08:00",
+  "total_titles_processed": 1493,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时19分 ~ 18时19分]"
+          "appearance_count": 9,
+          "time_info": "[13时19分 ~ 19时16分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
