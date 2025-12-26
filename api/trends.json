@@ -1,350 +1,55 @@
 {
-  "generated_at": "2025-12-26T23:18:17.176535+08:00",
-  "total_titles_processed": 1827,
+  "generated_at": "2025-12-27T00:20:42.252665+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 20,
+      "match_count": 4,
       "titles": [
         {
-          "title": "8.67亿英镑，中国巨头拿下南美顶级铜金矿！该矿已被国际同行验证多年，但因开发难度高而陷入犹豫",
-          "url": "https://wallstreetcn.com/articles/3762093",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时19分 ~ 21时32分]"
-        },
-        {
-          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
-          "url": "https://www.zhihu.com/question/1987171318681068732",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11,
-            10,
-            7,
-            8,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 09时18分]"
-        },
-        {
-          "title": "内盘国际铜与沪铜夜盘至少收涨超2.5%",
-          "url": "https://wallstreetcn.com/livenews/3026811",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            8,
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时25分 ~ 06时17分]"
-        },
-        {
-          "title": "沪铜主力合约日内上涨3.51%，现报98710元/吨。国际铜主力合约日内大涨3010.00元，现报88720.00元/吨，涨幅3.51%。",
-          "url": "https://flash.jin10.com/detail/20251226090641353800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
-          "title": "美股指开盘涨跌不一，金属再度狂飙，金银铜齐创新高，沪铜首次站上十万关口",
+          "title": "美股指开盘涨跌不一，霸王茶姬股价创新低，金属再度狂飙，金银铜齐创新高，沪铜首次站上十万关口",
           "url": "https://wallstreetcn.com/articles/3762133",
           "source": "华尔街见闻",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时17分 ~ 23时18分]"
-        },
-        {
-          "title": "纽约期铜日内涨超4.00%，现报5.7980美元/磅。",
-          "url": "https://flash.jin10.com/detail/20251226165033469800",
-          "source": "金十数据",
-          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时19分"
+          "time_info": "00时20分"
         },
         {
-          "title": "沪铜主力合约日内大涨4.00%，现报99110.00元/吨。国际铜主力合约日内暴涨4030.00元，现报89740.00元/吨，涨幅4.70%。",
-          "url": "https://flash.jin10.com/detail/20251226135539668800",
+          "title": "国际铜主力合约涨超3%，现报91410元/吨。",
+          "url": "https://flash.jin10.com/detail/20251226235002838800",
           "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时27分"
-        },
-        {
-          "title": "午盘收盘，国内期货主力合约多数上涨。铂涨超9%，碳酸锂涨超8%，沪银涨超6%，氧化铝涨超5%，国际铜、沪铜、对二甲苯（PX）涨超3%，PTA、苯乙烯涨近3%。跌幅方面，钯跌超2%，多晶硅、焦煤、焦炭跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251226150043338800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "商品期货收盘，铂主力合约涨超9%，碳酸锂涨超8%，沪银涨超6%，氧化铝涨超5%，沪铜、国际铜、对二甲苯涨超3%。钯跌超2%，多晶硅、焦炭、焦煤跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3027106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "商品期货开盘，铂主力合约涨超9%，钯涨超6%，沪银涨超5%，国际铜、碳酸锂涨近3%。",
-          "url": "https://wallstreetcn.com/livenews/3026909",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时18分"
+          "time_info": "00时20分"
         },
         {
-          "title": "沪铜主力合约夜盘站上十万关口，为历史首次，当前涨幅近2%。",
-          "url": "https://wallstreetcn.com/livenews/3027376",
-          "source": "华尔街见闻-快讯",
+          "title": "沪铜主力合约涨超3%，现报101080元/吨。",
+          "url": "https://flash.jin10.com/detail/20251226234747540800",
+          "source": "金十数据",
           "ranks": [
-            8
+            9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时18分"
+          "time_info": "00时20分"
         },
         {
-          "title": "沪铜主力合约日内大涨4%，现报99110.00元/吨。 国际铜主力合约日内涨4.70%，现报89740.00元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3027076",
+          "title": "沪铜夜盘涨幅扩大至超过3.1%，国际铜涨超2.9%，沪锡涨3.3%。",
+          "url": "https://wallstreetcn.com/livenews/3027403",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 15时20分]"
-        },
-        {
-          "title": "纽约铜涨超4%。",
-          "url": "https://wallstreetcn.com/livenews/3027186",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时19分]"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约涨跌互现。铂涨超8%，碳酸锂、沪银涨超6%，氧化铝涨超4%，国际铜、沪铜涨超3%，菜粕涨近3%。跌幅方面，焦煤、焦炭跌超2%，甲醇、螺纹钢跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251226113036498800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 13时19分]"
-        },
-        {
-          "title": "国际铜主力合约日内涨幅扩大至2.00%，现报90520.00元/吨。",
-          "url": "https://flash.jin10.com/detail/20251226224446001800",
-          "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "沪铜主力合约日内涨幅扩大至2.00%，现报100080.00元/吨。",
-          "url": "https://flash.jin10.com/detail/20251226223827373800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "上期所：本周铜库存增加1.59万吨，铝库存增加7,998吨，锌库存减少3,054吨，铅库存减少780吨，镍库存减少826吨，锡库存增加382吨，天然橡胶库存增加2547吨。",
-          "url": "https://wallstreetcn.com/livenews/3027166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
-          "title": "国际铜主力合约日内涨3000.00元，现报88710.00元/吨，涨幅3.50%。",
-          "url": "https://flash.jin10.com/detail/20251225215853013800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "沪铜主力合约站上十万关口，为历史首次，日内涨幅近2%。",
-          "url": "https://flash.jin10.com/detail/20251226222430116800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "国家发改委：鼓励大型氧化铝、铜冶炼骨干企业实施兼并重组，提升规模化、集团化水平",
-          "url": "https://wallstreetcn.com/livenews/3026955",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "离岸人民币汇率升破7",
-          "url": "https://www.baidu.com/s?wd=%E7%A6%BB%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E5%8D%87%E7%A0%B47",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            25,
-            28,
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时15分 ~ 07时16分]"
-        },
-        {
-          "title": "如何看待人民币汇率破7",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E7%A0%B47",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时18分 ~ 13时19分]"
-        },
-        {
-          "title": "人民币汇率",
-          "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
-          "title": "人民币汇率破7对房价股市有何影响",
-          "url": "https://www.toutiao.com/trending/7587658680007396883/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 07时16分]"
-        },
-        {
-          "title": "人民币汇率破7对股市有何影响",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E7%A0%B47%E5%AF%B9%E8%82%A1%E5%B8%82%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "赛力斯 问界",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "问界M9上市两周年交付超26万台",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8CM9%E4%B8%8A%E5%B8%82%E4%B8%A4%E5%91%A8%E5%B9%B4%E4%BA%A4%E4%BB%98%E8%B6%8526%E4%B8%87%E5%8F%B0%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 16时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数DXY向上触及98，日内涨0.04%。",
-          "url": "https://flash.jin10.com/detail/20251226143852951800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
+          "time_info": "00时20分"
         }
       ]
     }
