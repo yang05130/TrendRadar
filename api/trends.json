@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T11:22:50.788049+08:00",
-  "total_titles_processed": 813,
+  "generated_at": "2025-12-26T12:35:19.810566+08:00",
+  "total_titles_processed": 921,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -61,6 +61,17 @@
           "time_info": "09时18分"
         },
         {
+          "title": "早盘收盘，国内期货主力合约涨跌互现。铂涨超8%，碳酸锂、沪银涨超6%，氧化铝涨超4%，国际铜、沪铜涨超3%，菜粕涨近3%。跌幅方面，焦煤、焦炭跌超2%，甲醇、螺纹钢跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251226113036498800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
           "title": "国际铜主力合约日内涨3000.00元，现报88710.00元/吨，涨幅3.50%。",
           "url": "https://flash.jin10.com/detail/20251225215853013800",
           "source": "金十数据",
@@ -78,7 +89,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         }
