@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T00:20:42.252665+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-27T01:15:01.697394+08:00",
+  "total_titles_processed": 360,
   "failed_sources": [],
   "trends": [
     {
@@ -12,33 +12,36 @@
           "url": "https://wallstreetcn.com/articles/3762133",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时15分]"
         },
         {
           "title": "国际铜主力合约涨超3%，现报91410元/吨。",
           "url": "https://flash.jin10.com/detail/20251226235002838800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时15分]"
         },
         {
           "title": "沪铜主力合约涨超3%，现报101080元/吨。",
           "url": "https://flash.jin10.com/detail/20251226234747540800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时15分]"
         },
         {
           "title": "沪铜夜盘涨幅扩大至超过3.1%，国际铜涨超2.9%，沪锡涨3.3%。",
@@ -48,8 +51,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时15分]"
         }
       ]
     }
