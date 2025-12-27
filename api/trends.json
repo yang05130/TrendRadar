@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T22:16:05.138685+08:00",
-  "total_titles_processed": 1463,
+  "generated_at": "2025-12-27T23:16:41.904684+08:00",
+  "total_titles_processed": 1502,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时16分 ~ 22时16分]"
+          "appearance_count": 16,
+          "time_info": "[09时16分 ~ 23时16分]"
         },
         {
           "title": "内外盘齐创历史新高！今年银称霸明年换铜？沪铜站上10万大关，纽铜盘中涨超5%",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时16分 ~ 22时16分]"
+          "appearance_count": 11,
+          "time_info": "[15时16分 ~ 23时16分]"
         },
         {
           "title": "美股指开盘涨跌不一，霸王茶姬股价创新低，金属再度狂飙，金银铜齐创新高，沪铜首次站上十万关口",
@@ -158,11 +158,12 @@
           "source": "今日头条",
           "ranks": [
             27,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时26分 ~ 22时16分]"
+          "appearance_count": 4,
+          "time_info": "[21时26分 ~ 23时16分]"
         },
         {
           "title": "金饰价格突破1400元黄金回收遇冷",
