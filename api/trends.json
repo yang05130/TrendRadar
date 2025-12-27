@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T17:18:14.448506+08:00",
-  "total_titles_processed": 1115,
+  "generated_at": "2025-12-27T18:17:41.810869+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时16分 ~ 17时18分]"
+          "appearance_count": 10,
+          "time_info": "[09时16分 ~ 18时17分]"
         },
         {
           "title": "美股指开盘涨跌不一，霸王茶姬股价创新低，金属再度狂飙，金银铜齐创新高，沪铜首次站上十万关口",
@@ -42,8 +42,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时16分 ~ 17时18分]"
+          "appearance_count": 10,
+          "time_info": "[09时16分 ~ 18时17分]"
+        },
+        {
+          "title": "内外盘齐创历史新高！今年银称霸明年换铜？沪铜站上10万大关，纽铜盘中涨超5%",
+          "url": "https://wallstreetcn.com/articles/3762163",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时16分 ~ 18时17分]"
         },
         {
           "title": "金属市场集体大涨：金银铜齐创新高，氧化铝涨超 6%，锂矿石涨近8%",
@@ -56,19 +69,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时16分 ~ 14时25分]"
-        },
-        {
-          "title": "内外盘齐创历史新高！今年银称霸明年换铜？沪铜站上10万大关，纽铜盘中涨超5%",
-          "url": "https://wallstreetcn.com/articles/3762163",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时16分 ~ 17时18分]"
         },
         {
           "title": "白银期货涨超10，创历史新高逼近80美元关口，纽约铜涨5%追随沪铜创历史新高的表现",
