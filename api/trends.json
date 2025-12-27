@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T12:31:07.200429+08:00",
-  "total_titles_processed": 851,
+  "generated_at": "2025-12-27T14:25:55.989400+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
     {
@@ -28,19 +28,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时16分 ~ 12时31分]"
+          "appearance_count": 5,
+          "time_info": "[09时16分 ~ 14时25分]"
         },
         {
           "title": "金属市场集体大涨：金银铜齐创新高，氧化铝涨超 6%，锂矿石涨近8%",
           "url": "https://wallstreetcn.com/articles/3762117",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时16分 ~ 12时31分]"
+          "appearance_count": 5,
+          "time_info": "[09时16分 ~ 14时25分]"
         },
         {
           "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
@@ -52,8 +53,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时16分 ~ 12时31分]"
+          "appearance_count": 5,
+          "time_info": "[09时16分 ~ 14时25分]"
         },
         {
           "title": "白银期货涨超10，创历史新高逼近80美元关口，纽约铜涨5%追随沪铜创历史新高的表现",
