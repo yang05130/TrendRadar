@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T00:20:00.052993+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-28T01:15:10.926259+08:00",
+  "total_titles_processed": 346,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 01时15分]"
         },
         {
           "title": "内外盘齐创历史新高！今年银称霸明年换铜？沪铜站上10万大关，纽铜盘中涨超5%",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 01时15分]"
         }
       ]
     },
@@ -40,11 +40,12 @@
           "url": "https://www.toutiao.com/trending/7588294573819101226/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 01时15分]"
         }
       ]
     }
