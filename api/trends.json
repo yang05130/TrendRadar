@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T11:20:46.584994+08:00",
-  "total_titles_processed": 765,
+  "generated_at": "2025-12-27T12:31:07.200429+08:00",
+  "total_titles_processed": 851,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时16分 ~ 11时20分]"
+          "appearance_count": 4,
+          "time_info": "[09时16分 ~ 12时31分]"
         },
         {
           "title": "金属市场集体大涨：金银铜齐创新高，氧化铝涨超 6%，锂矿石涨近8%",
@@ -39,8 +39,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时16分 ~ 11时20分]"
+          "appearance_count": 4,
+          "time_info": "[09时16分 ~ 12时31分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
+          "url": "https://www.cls.cn/detail/2241688",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时16分 ~ 12时31分]"
         },
         {
           "title": "白银期货涨超10，创历史新高逼近80美元关口，纽约铜涨5%追随沪铜创历史新高的表现",
@@ -82,18 +95,6 @@
           "time_info": "[00时20分 ~ 01时15分]"
         },
         {
-          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
-          "url": "https://www.cls.cn/detail/2241688",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时16分 ~ 11时20分]"
-        },
-        {
           "title": "沪铜主力合约涨超3%，现报101080元/吨。",
           "url": "https://flash.jin10.com/detail/20251226234747540800",
           "source": "金十数据",
@@ -116,6 +117,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时20分 ~ 02时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金饰价格突破1400元黄金回收遇冷",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E7%AA%81%E7%A0%B41400%E5%85%83%E9%BB%84%E9%87%91%E5%9B%9E%E6%94%B6%E9%81%87%E5%86%B7%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 12时31分]"
         }
       ]
     },
