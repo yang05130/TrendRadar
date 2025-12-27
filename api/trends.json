@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T06:16:27.316337+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2025-12-28T07:16:43.944275+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 07时16分]"
         },
         {
           "title": "内外盘齐创历史新高！今年银称霸明年换铜？沪铜站上10万大关，纽铜盘中涨超5%",
           "url": "https://wallstreetcn.com/articles/3762163",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 07时16分]"
         }
       ]
     },
