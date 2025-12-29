@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T01:16:39.183657+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2025-12-30T02:26:14.504433+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股指集体低开，纳指跌超0.7%，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
@@ -15,19 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时16分]"
-        },
-        {
-          "title": "沪锡夜盘收跌超6.7%，国际铜、沪铜至少跌约4.4%",
-          "url": "https://wallstreetcn.com/livenews/3028279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时16分"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时26分]"
         },
         {
           "title": "铜价飙涨背后的“冰与火”：冶炼与矿端极限博弈“0加工费”",
@@ -35,11 +24,35 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时26分]"
+        },
+        {
+          "title": "LME期铜涨0.56美元，报12201.50美元/吨。 LME期铝跌0.20美元，报2950.50美元/吨。 LME期锌跌0.03美元，报3085.50美元/吨。 LME期铅涨0.54美元，报2008.50美元/吨。 LME期镍涨0.54美元，报15745美元/吨。 LME期锡跌5.70美元，报40070美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3028293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "沪锡夜盘收跌超6.7%，国际铜、沪铜至少跌约4.4%",
+          "url": "https://wallstreetcn.com/livenews/3028279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时16分]"
+          "time_info": "[01时16分 ~ 02时26分]"
         },
         {
           "title": "智利国家铜业公司（Codelco）高管Maximo Pacheco：智利考虑重新成为（全球）第一大锂生产国。 公司与智利化学矿业公司（SQM）的目标是，扩大锂生产、同时（对公司业绩）产生更小的影响。",
@@ -51,6 +64,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美债波动率或创2009年以来最大年度降幅",
+          "url": "https://wallstreetcn.com/livenews/3028295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         }
       ]
     }
