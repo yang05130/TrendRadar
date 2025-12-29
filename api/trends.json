@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T03:14:31.699685+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2025-12-30T04:20:25.531356+08:00",
+  "total_titles_processed": 498,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 04时20分]"
         },
         {
           "title": "铜价飙涨背后的“冰与火”：冶炼与矿端极限博弈“0加工费”",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 04时20分]"
         },
         {
           "title": "沪锡夜盘收跌超6.7%，国际铜、沪铜至少跌约4.4%",
@@ -38,11 +38,12 @@
           "ranks": [
             1,
             14,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 04时20分]"
         },
         {
           "title": "LME期铜涨0.56美元，报12201.50美元/吨。 LME期铝跌0.20美元，报2950.50美元/吨。 LME期锌跌0.03美元，报3085.50美元/吨。 LME期铅涨0.54美元，报2008.50美元/吨。 LME期镍涨0.54美元，报15745美元/吨。 LME期锡跌5.70美元，报40070美元/吨。",
@@ -50,11 +51,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时26分 ~ 04时20分]"
         },
         {
           "title": "智利国家铜业公司（Codelco）高管Maximo Pacheco：智利考虑重新成为（全球）第一大锂生产国。 公司与智利化学矿业公司（SQM）的目标是，扩大锂生产、同时（对公司业绩）产生更小的影响。",
@@ -71,7 +73,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美债波动率或创2009年以来最大年度降幅",
@@ -79,11 +81,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时26分 ~ 04时20分]"
+        },
+        {
+          "title": "美债波动率或录得2009年以来最大年度跌幅",
+          "url": "https://flash.jin10.com/detail/20251230031305470800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         }
       ]
     }
