@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T15:23:58.902032+08:00",
-  "total_titles_processed": 1159,
+  "generated_at": "2025-12-29T16:27:13.388701+08:00",
+  "total_titles_processed": 1250,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "金银跳水，白银从涨6%到跌2%，黄金跌破4500美元关口，伦铜飙升逾5%",
@@ -54,6 +54,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "“完美风暴”导致铜价暴涨 市场仍为铜短缺感到担忧",
+          "url": "https://flash.jin10.com/detail/20251229160518234800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "伦铜日内大涨6.00%，现报12845.30美元/吨。",
@@ -146,11 +157,12 @@
           "ranks": [
             13,
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时46分 ~ 15时23分]"
+          "appearance_count": 7,
+          "time_info": "[11时46分 ~ 16时27分]"
         },
         {
           "title": "多因素支撑人民币汇率走强 双向波动仍将是常态",
