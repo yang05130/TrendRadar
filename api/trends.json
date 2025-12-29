@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T13:26:20.371960+08:00",
-  "total_titles_processed": 986,
+  "generated_at": "2025-12-29T14:29:42.418671+08:00",
+  "total_titles_processed": 1068,
   "failed_sources": [],
   "trends": [
     {
@@ -145,11 +145,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时46分 ~ 13时26分]"
+          "appearance_count": 4,
+          "time_info": "[11时46分 ~ 14时29分]"
         },
         {
           "title": "多因素支撑人民币汇率走强 双向波动仍将是常态",
