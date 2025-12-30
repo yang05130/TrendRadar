@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T07:16:53.391008+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2025-12-30T09:18:55.699560+08:00",
+  "total_titles_processed": 786,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股指集体低开，纳指跌超0.7%，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时21分 ~ 06时17分]"
+        },
+        {
+          "title": "早盘开盘，国内期货主力合约多数下跌。铂跌停，跌幅13%，报589.85元/克；钯跌超12%，碳酸锂跌超7%，沪银、沪锡跌超6%，沪铜、国际铜跌超4%。涨幅方面，沥青、甲醇涨超1%。",
+          "url": "https://flash.jin10.com/detail/20251230090002468800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "沪锡夜盘收跌超6.7%，国际铜、沪铜至少跌约4.4%",
