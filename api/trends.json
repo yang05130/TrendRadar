@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T19:15:59.807873+08:00",
-  "total_titles_processed": 1352,
+  "generated_at": "2026-01-01T20:34:56.460738+08:00",
+  "total_titles_processed": 1403,
   "failed_sources": [],
   "trends": [
     {
@@ -115,6 +115,20 @@
           "time_info": "[13时25分 ~ 18时19分]"
         },
         {
+          "title": "金十整理：造车新势力最新成绩单——小米12月交付量站上5万 赛力斯再创单月交付新高",
+          "url": "https://flash.jin10.com/detail/20260101161336403800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 20时34分]"
+        },
+        {
           "title": "赛力斯：12月新车交付超57000台，再创单月交付新高。2025年新车交付超42万台。",
           "url": "https://flash.jin10.com/detail/20260101130626262800",
           "source": "金十数据",
@@ -126,19 +140,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时25分 ~ 15时21分]"
-        },
-        {
-          "title": "金十整理：造车新势力最新成绩单——小米12月交付量站上5万 赛力斯再创单月交付新高",
-          "url": "https://flash.jin10.com/detail/20260101161336403800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 19时15分]"
         }
       ]
     },
