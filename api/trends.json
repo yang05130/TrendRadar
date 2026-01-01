@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T15:21:01.228215+08:00",
-  "total_titles_processed": 1112,
+  "generated_at": "2026-01-01T16:24:33.835462+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
@@ -99,6 +99,20 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "赛力斯12月新车交付超57000台，再创单月交付新高，2025年新车交付超42万台。",
+          "url": "https://wallstreetcn.com/livenews/3029573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 16时24分]"
+        },
+        {
           "title": "赛力斯：12月新车交付超57000台，再创单月交付新高。2025年新车交付超42万台。",
           "url": "https://flash.jin10.com/detail/20260101130626262800",
           "source": "金十数据",
@@ -106,19 +120,6 @@
             1,
             6,
             21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 15时21分]"
-        },
-        {
-          "title": "赛力斯12月新车交付超57000台，再创单月交付新高，2025年新车交付超42万台。",
-          "url": "https://wallstreetcn.com/livenews/3029573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            14
           ],
           "is_new": false,
           "appearance_count": 3,
