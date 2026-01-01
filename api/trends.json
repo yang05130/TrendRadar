@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T22:17:17.924055+08:00",
-  "total_titles_processed": 1516,
+  "generated_at": "2026-01-01T23:18:05.767666+08:00",
+  "total_titles_processed": 1552,
   "failed_sources": [],
   "trends": [
     {
@@ -140,6 +140,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时25分 ~ 15时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2025年大涨后，人民币对美元汇率2026年如何走",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32292462",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时17分 ~ 23时18分]"
         }
       ]
     },
