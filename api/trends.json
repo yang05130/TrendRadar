@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T12:38:06.486010+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2026-01-02T13:23:32.019345+08:00",
+  "total_titles_processed": 860,
   "failed_sources": [],
   "trends": [
     {
@@ -32,11 +32,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 12时38分]"
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 13时23分]"
         }
       ]
     }
