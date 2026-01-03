@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-03T11:20:01.022745+08:00",
-  "total_titles_processed": 701,
+  "generated_at": "2026-01-03T12:30:23.772120+08:00",
+  "total_titles_processed": 774,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
       "match_count": 3,
       "titles": [
+        {
+          "title": "为什么我认为 10 版红楼梦铜钱头很丑，而戏曲发贴片很好看？",
+          "url": "https://www.zhihu.com/question/664115643",
+          "source": "知乎",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 12时30分]"
+        },
         {
           "title": "LME期铜跌0.29%，报12460美元/吨。 LME期铝涨.075%，报30195美元/吨。 LME期锌跌0.10%，报3123美元/吨。 LME期铅跌0.22%，报2001美元/吨。 LME期镍涨0.09%，报16765美元/吨。 LME期锡跌0.54%，报40250美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3029909",
@@ -18,17 +30,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时25分 ~ 03时12分]"
-        },
-        {
-          "title": "为什么我认为 10 版红楼梦铜钱头很丑，而戏曲发贴片很好看？",
-          "url": "https://www.zhihu.com/question/664115643",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
         },
         {
           "title": "铜价创新高推升诉求，Capstone智利矿工发起罢工",
@@ -57,11 +58,12 @@
           "ranks": [
             5,
             10,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时17分 ~ 11时20分]"
+          "appearance_count": 4,
+          "time_info": "[07时17分 ~ 12时30分]"
         }
       ]
     },
