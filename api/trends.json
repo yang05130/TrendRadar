@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-05T22:22:01.418536+08:00",
-  "total_titles_processed": 1851,
+  "generated_at": "2026-01-05T23:20:49.039413+08:00",
+  "total_titles_processed": 1944,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
       "match_count": 11,
       "titles": [
+        {
+          "title": "美股指期货上扬，美股盘前石油股集体走高，伦铜触及1.3万美元创新高，委内瑞拉动荡下金银齐涨，原油转涨",
+          "url": "https://wallstreetcn.com/articles/3762559",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时21分 ~ 23时20分]"
+        },
         {
           "title": "中金2026展望：泡沫加速！美国“财政主导”利好中美股市和金银铜",
           "url": "https://wallstreetcn.com/articles/3762526",
@@ -17,17 +29,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时29分 ~ 18时22分]"
-        },
-        {
-          "title": "美股指期货上扬，美股盘前石油股集体走高，伦铜触及1.3万美元创新高，委内瑞拉动荡下金银齐涨，原油转涨",
-          "url": "https://wallstreetcn.com/articles/3762559",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
         },
         {
           "title": "夜盘期货开盘，焦煤、氧化铝跌逾1%，纯碱、焦炭、玻璃等下跌；沪铜、国际铜、白糖等上涨。",
@@ -70,7 +71,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -92,7 +93,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -114,7 +115,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -125,7 +126,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         }
