@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T11:27:02.661417+08:00",
-  "total_titles_processed": 1006,
+  "generated_at": "2026-01-06T12:37:35.066549+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -98,6 +98,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 03时19分]"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨多跌少，碳酸锂涨超8%，沪银涨超7%，铂涨超6%，沪锡、钯涨超4%，沪镍、沪铜、国际铜涨超3%，沪铝、PVC、沪锌、甲醇、苹果、铝合金、硅铁涨超2%。跌幅方面，胶合板、焦炭、焦煤跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260106113101394800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：12月30日当周，投机者所持COMEX黄金净多头头寸减少10,668手合约，至126,873手合约。 COMEX白银净多头头寸减少7,270手合约，至16,595手合约。 COMEX铜净多头头寸减少5,563手合约，至70,433手合约。",
