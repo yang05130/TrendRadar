@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T07:17:49.975811+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2026-01-06T09:20:37.713710+08:00",
+  "total_titles_processed": 856,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -20,6 +20,28 @@
           "time_info": "[00时23分 ~ 06时18分]"
         },
         {
+          "title": "伦铜期货涨至13090美元/吨上方，再创新高。",
+          "url": "https://wallstreetcn.com/livenews/3031226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "早盘开盘，国内期货主力合约涨多跌少，碳酸锂涨超4%，沪银、钯、沪铝、铝合金、国际铜、苹果、PVC、甲醇涨超2%。跌幅方面，焦煤跌超2%，焦炭、玻璃跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260106090001807800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
           "title": "LME期铜收涨522美元，报12992美元/吨。 LME期铝收涨70美元，报3086美元/吨。 LME期锌收涨68美元，报3195美元/吨。 LME期铅收涨17美元，报2024美元/吨。 LME期镍收涨183美元，报17003美元/吨。 LME期锡收涨2057美元，报42466美元/吨。 LME期钴收涨1480美元，报54835美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3031044",
           "source": "华尔街见闻-快讯",
@@ -29,6 +51,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
+        },
+        {
+          "title": "商品期货开盘，碳酸锂主力合约涨超4%，沪银、钯、沪铝、铂、沪铜、铝合金、国际铜、苹果涨超2%。焦煤跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3031219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
           "title": "国际铜夜盘收涨2.03%，沪铜收涨2.22%，沪铝收涨2.57%，沪锌收涨1.16%，沪铅收涨0.32%，沪镍收涨0.71%，沪锡收涨1.05%。 氧化铝夜盘收跌0.72%，铝合金收涨2.10%。 不锈钢夜盘收涨0.08%。",
