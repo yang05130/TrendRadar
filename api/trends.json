@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T19:16:58.413180+08:00",
-  "total_titles_processed": 1757,
+  "generated_at": "2026-01-06T20:37:00.081455+08:00",
+  "total_titles_processed": 1847,
   "failed_sources": [],
   "trends": [
     {
@@ -237,7 +237,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -291,7 +291,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.30%，暂报4152.79点，整体呈现出W形走势。 MarketVectorTM数字资产100中盘指数涨0.13%，报3917.91点，也呈现出W形走势。 MarketVector数字资产100指数涨2.20%，报19397.47点，北京时间08:00和22:36先后出现一波上涨行情。 目前，Solana涨1%，狗狗币涨0.2%，XRP涨4.8%。 比特币涨2.68%，暂报93706美元；以太坊涨1.37%，报3181.60美元。",
@@ -326,6 +326,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "地缘避险情绪对冲经济疲软忧虑 美元指数震荡回升",
+          "url": "https://flash.jin10.com/detail/20260106193112753800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         }
       ]
     },
