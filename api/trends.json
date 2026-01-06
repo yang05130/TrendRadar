@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T18:20:11.722049+08:00",
-  "total_titles_processed": 1662,
+  "generated_at": "2026-01-06T19:16:58.413180+08:00",
+  "total_titles_processed": 1757,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,20 @@
           "time_info": "[00时23分 ~ 06时18分]"
         },
         {
+          "title": "铜价升破13000关口后续创新高",
+          "url": "https://www.toutiao.com/trending/7592125722534088233/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            7,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 19时16分]"
+        },
+        {
           "title": "伦铜期货涨至13090美元/吨上方，再创新高。",
           "url": "https://wallstreetcn.com/livenews/3031226",
           "source": "华尔街见闻-快讯",
@@ -29,19 +43,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
-        },
-        {
-          "title": "铜价升破13000关口后续创新高",
-          "url": "https://www.toutiao.com/trending/7592125722534088233/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 18时20分]"
         },
         {
           "title": "早盘开盘，国内期货主力合约涨多跌少，碳酸锂涨超4%，沪银、钯、沪铝、铝合金、国际铜、苹果、PVC、甲醇涨超2%。跌幅方面，焦煤跌超2%，焦炭、玻璃跌超1%。",
@@ -227,8 +228,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美债收益率震荡回升 市场紧盯经济走软信号",
+          "url": "https://flash.jin10.com/detail/20260106185806265800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
         {
           "title": "美债价格在ISM数据不及预期后上涨，交易员布局看涨期权",
           "url": "https://wallstreetcn.com/livenews/3031120",
@@ -345,7 +357,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         }
