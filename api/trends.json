@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T04:21:14.840157+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-01-08T05:17:38.702718+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "存储与金属狂潮继续！标普道指新高，闪迪暴涨27%领衔存储股全线大涨，银铜镍大涨",
@@ -15,8 +15,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 05时17分]"
+        },
+        {
+          "title": "谈判无果 智利Mantoverde铜矿罢工将持续",
+          "url": "https://flash.jin10.com/detail/20260108042635921800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         },
         {
           "title": "国际铜夜盘收跌2.05%，沪铜收跌1.98%，沪铝收跌1.21%，沪锌收跌0.72%，沪铅收跌0.23%，沪镍收跌1.44%，沪锡收跌0.28%。 氧化铝夜盘收跌0.69%，铝合金收跌0.54%。 不锈钢夜盘收涨0.40%。",
@@ -54,6 +65,17 @@
           "time_info": "02时27分"
         },
         {
+          "title": "谈判无果，智利Mantoverde铜矿罢工将持续",
+          "url": "https://wallstreetcn.com/livenews/3032677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
           "title": "智利Capstone铜业与罢工矿工的谈判未能达成协议。",
           "url": "https://flash.jin10.com/detail/20260107233435950800",
           "source": "金十数据",
@@ -68,7 +90,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",
@@ -80,6 +102,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时25分 ~ 04时21分]"
+        },
+        {
+          "title": "美股指涨跌互现，英特尔涨超11%，欧美债价格上行，金银跌幅扩大，油价承压",
+          "url": "https://wallstreetcn.com/articles/3762734",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "10年期美债收益率跌约4个基点",
+          "url": "https://wallstreetcn.com/livenews/3032682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         },
         {
           "title": "美国10年期国债收益率短线从4.1338%反弹至接近4.16%的水平，美国ISM非制造业数据和职位空缺数据发布后，日内整体跌幅收窄至不足2个基点。 两年期美债收益率刷新日高至3.4674%，数据发布前一分钟显著下挫至3.4427%刷新日低。",
@@ -96,7 +140,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.98%，刷新期内低点至4056.70点。 MarketVectorTM数字资产100中盘指数跌2.54%，报3826.43点。 MarketVector数字资产100指数跌1.86%，报19003.78点。 目前，比特币跌1.45%，报91163.91美元；以太坊跌2.66%，报3156.10美元。 Solana跌2.34%，狗狗币涨0.21%，XRP跌2.60%。",
@@ -109,6 +153,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时24分 ~ 02时27分]"
+        },
+        {
+          "title": "美元指数涨0.1%",
+          "url": "https://wallstreetcn.com/livenews/3032675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         }
       ]
     }
