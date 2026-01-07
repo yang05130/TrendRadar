@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T09:20:38.540955+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2026-01-07T11:27:19.228214+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
@@ -80,9 +80,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 11时27分]"
         },
         {
           "title": "现货白银涨超6%，纽约铜一度涨穿6.11美元，铂金涨超7%",
