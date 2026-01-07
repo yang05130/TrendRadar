@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T21:38:15.979074+08:00",
-  "total_titles_processed": 2017,
+  "generated_at": "2026-01-07T22:21:30.773898+08:00",
+  "total_titles_processed": 2110,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "存储与金属狂潮继续！标普道指新高，闪迪暴涨27%领衔存储股全线大涨，银铜镍大涨",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时20分 ~ 21时38分]"
+          "appearance_count": 16,
+          "time_info": "[09时20分 ~ 22时21分]"
         },
         {
           "title": "美股指涨跌互现，纳指涨0.3%，闪迪股价创新高，全球股指触及历史高位，现货白银日内涨4%，伦铜再创新高，油价震荡",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时20分 ~ 19时18分]"
+        },
+        {
+          "title": "智利国家铜业公司2025年铜产量将比2024年多5000吨。",
+          "url": "https://flash.jin10.com/detail/20260107214515973800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "山东：支持企业与智利、秘鲁等国家矿企签订长期铜精矿采购协议",
@@ -72,7 +83,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
@@ -141,7 +152,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
@@ -163,7 +174,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         }
@@ -180,7 +191,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
