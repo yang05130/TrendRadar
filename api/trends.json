@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T22:22:31.908874+08:00",
-  "total_titles_processed": 2069,
+  "generated_at": "2026-01-08T23:22:04.914418+08:00",
+  "total_titles_processed": 2168,
   "failed_sources": [],
   "trends": [
     {
@@ -50,6 +50,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "白银锡铜集体下挫，上期所限手数调费率最快今晚生效，有色回调序幕开启？",
+          "url": "https://www.cls.cn/detail/2252151",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时22分 ~ 23时22分]"
         },
         {
           "title": "伦敦金属交易所（LME）：铜库存141075吨，减少2150吨。 铝库存499750吨，减少2000吨。 镍库存276300吨，增加666吨。 锌库存108000吨，增加2500吨。 铅库存226450吨，减少3975吨。 锡库存5405吨，持平。",
@@ -108,17 +120,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
-        },
-        {
-          "title": "白银锡铜集体下挫，上期所限手数调费率最快今晚生效，有色回调序幕开启？",
-          "url": "https://www.cls.cn/detail/2252151",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
         },
         {
           "title": "获利资金撤离铜市 纪录高位回调震荡",
@@ -223,7 +224,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
@@ -234,8 +235,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时20分 ~ 22时22分]"
+          "appearance_count": 20,
+          "time_info": "[09时20分 ~ 23时22分]"
         },
         {
           "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",
@@ -259,6 +260,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时17分 ~ 06时18分]"
+        },
+        {
+          "title": "特朗普要加军费，全球军工股大涨，纳指跌0.5%，美债强势，金银继续回调，白银失守75美元",
+          "url": "https://wallstreetcn.com/articles/3762848",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时22分]"
         },
         {
           "title": "特朗普要加军费，全球军工股大涨，纳指期货盘前跌0.5%，美债强势，金银继续回调，白银失守75美元",
@@ -353,7 +365,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         }
