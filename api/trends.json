@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T05:18:20.735317+08:00",
-  "total_titles_processed": 615,
+  "generated_at": "2026-01-09T06:18:21.812714+08:00",
+  "total_titles_processed": 666,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 06时18分]"
         },
         {
           "title": "LME期铜收跌179美元，报12720美元/吨。 LME期铝收涨2美元，报3091美元/吨。 LME期锌收跌32美元，报3135美元/吨。",
@@ -79,8 +80,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 06时18分]"
         },
         {
           "title": "特朗普要加军费，全球军工股大涨，纳指跌0.5%，美债强势，金银继续回调，白银失守75美元",
@@ -91,8 +92,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 06时18分]"
         },
         {
           "title": "10年期美债收益率涨超3个基点",
@@ -101,7 +102,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         }
@@ -116,11 +117,12 @@
           "url": "https://flash.jin10.com/detail/20260109044102190800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时18分]"
         },
         {
           "title": "美元指数涨超0.2%",
@@ -129,7 +131,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         }
