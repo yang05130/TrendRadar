@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T21:38:58.659485+08:00",
-  "total_titles_processed": 1980,
+  "generated_at": "2026-01-08T22:22:31.908874+08:00",
+  "total_titles_processed": 2069,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "存储与金属狂潮继续！标普道指新高，闪迪暴涨27%领衔存储股全线大涨，银铜镍大涨",
@@ -110,6 +110,17 @@
           "time_info": "02时27分"
         },
         {
+          "title": "白银锡铜集体下挫，上期所限手数调费率最快今晚生效，有色回调序幕开启？",
+          "url": "https://www.cls.cn/detail/2252151",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "获利资金撤离铜市 纪录高位回调震荡",
           "url": "https://flash.jin10.com/detail/20260108170547163800",
           "source": "金十数据",
@@ -127,7 +138,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
@@ -204,7 +215,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         }
@@ -223,8 +234,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时20分 ~ 21时38分]"
+          "appearance_count": 18,
+          "time_info": "[09时20分 ~ 22时22分]"
         },
         {
           "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",
@@ -250,6 +261,18 @@
           "time_info": "[05时17分 ~ 06时18分]"
         },
         {
+          "title": "特朗普要加军费，全球军工股大涨，纳指期货盘前跌0.5%，美债强势，金银继续回调，白银失守75美元",
+          "url": "https://wallstreetcn.com/articles/3762848",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 22时22分]"
+        },
+        {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
           "url": "https://wallstreetcn.com/articles/3762734",
           "source": "华尔街见闻",
@@ -259,17 +282,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
-        },
-        {
-          "title": "特朗普要加军费，全球军工股大涨，纳指期货盘前跌0.5%，美债强势，金银继续回调，白银失守75美元",
-          "url": "https://wallstreetcn.com/articles/3762848",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
         },
         {
           "title": "10年期美债收益率跌约4个基点",
@@ -297,7 +309,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美元指数7日上涨",
@@ -333,6 +345,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "在美国贸易帐等数据公布后，现货黄金短线下跌8美元，报4427美元/盎司；美元指数DXY小幅走高8点，报98.81。",
+          "url": "https://flash.jin10.com/detail/20260108213531999800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         }
       ]
     },
