@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T03:18:29.609312+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2026-01-09T04:21:32.456491+08:00",
+  "total_titles_processed": 566,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2252151",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 03时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 04时21分]"
         },
         {
           "title": "LME期铜收跌179美元，报12720美元/吨。 LME期铝收涨2美元，报3091美元/吨。 LME期锌收跌32美元，报3135美元/吨。",
@@ -47,7 +48,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
         },
@@ -74,11 +75,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 03时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 04时21分]"
         },
         {
           "title": "特朗普要加军费，全球军工股大涨，纳指跌0.5%，美债强势，金银继续回调，白银失守75美元",
@@ -89,8 +91,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 03时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 04时21分]"
         }
       ]
     }
