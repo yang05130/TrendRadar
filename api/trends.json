@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T15:22:26.710114+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2026-01-08T16:26:12.057149+08:00",
+  "total_titles_processed": 1460,
   "failed_sources": [],
   "trends": [
     {
@@ -36,7 +36,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -168,8 +168,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时20分 ~ 15时22分]"
+          "appearance_count": 11,
+          "time_info": "[09时20分 ~ 16时26分]"
         },
         {
           "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",
