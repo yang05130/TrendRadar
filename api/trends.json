@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T20:37:17.244795+08:00",
-  "total_titles_processed": 1930,
+  "generated_at": "2026-01-09T21:36:21.732855+08:00",
+  "total_titles_processed": 2033,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "白银锡铜集体下挫，上期所限手数调费率最快今晚生效，有色回调序幕开启？",
@@ -60,7 +60,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -139,9 +139,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
+        },
+        {
+          "title": "伦镍日内大涨4.00%，现报17697.00美元/吨。沪铜主力合约日内涨幅扩大至2.00%，现报102290.00元/吨。国际铜主力合约日内涨幅达2.00%，现报91070.00元/吨。",
+          "url": "https://flash.jin10.com/detail/20260109210229992800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         }
       ]
     },
@@ -183,8 +194,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时27分 ~ 20时37分]"
+          "appearance_count": 12,
+          "time_info": "[11时27分 ~ 21时36分]"
         },
         {
           "title": "黄金成全球最大储备资产，30年来首次超越美债！",
@@ -267,7 +278,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         }
