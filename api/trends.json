@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T05:18:41.058018+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2026-01-10T06:18:22.011285+08:00",
+  "total_titles_processed": 647,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时18分]"
         },
         {
           "title": "波兰铜业集团公司（KGHM）涨6.2%，创最近15周最佳盘中表现。",
@@ -49,9 +49,9 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时18分]"
         },
         {
           "title": "国际铜夜盘收涨1.92%，沪铜收涨1.93%，沪铝收涨1.81%，沪锌收涨0.36%，沪铅收涨0.61%，沪镍收涨2.78%，沪锡收涨3.15%。 氧化铝夜盘收涨0.53%，铝合金收涨0.96%。 不锈钢夜盘收涨1.24%。",
@@ -77,11 +77,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 06时18分]"
         },
         {
           "title": "美元指数非农日涨0.2%，本周累涨超0.7%",
@@ -90,7 +91,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         }
