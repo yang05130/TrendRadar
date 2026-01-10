@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T19:15:17.959291+08:00",
-  "total_titles_processed": 1405,
+  "generated_at": "2026-01-10T20:32:55.853487+08:00",
+  "total_titles_processed": 1478,
   "failed_sources": [],
   "trends": [
     {
@@ -105,8 +105,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时18分 ~ 19时15分]"
+          "appearance_count": 15,
+          "time_info": "[09时18分 ~ 20时32分]"
         },
         {
           "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
@@ -148,7 +148,7 @@
     },
     {
       "keyword_group": "赛力斯 问界",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "问界M7全系累计交付突破40万台",
@@ -164,6 +164,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时32分 ~ 16时22分]"
+        },
+        {
+          "title": "问界M7增程长续航版预售29.98万起",
+          "url": "https://www.toutiao.com/trending/7593189830688034346/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "问界M7全系累计交付突破40万台",
