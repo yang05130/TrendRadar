@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T15:17:03.072889+08:00",
-  "total_titles_processed": 1158,
+  "generated_at": "2026-01-10T16:22:11.834584+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
@@ -97,6 +97,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "非农数据“温和”，标普新高，美元指数四连涨，黄金重回4500关口",
+          "url": "https://wallstreetcn.com/articles/3762954",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时18分 ~ 16时22分]"
+        },
+        {
           "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
           "url": "https://wallstreetcn.com/articles/3762954",
           "source": "华尔街见闻",
@@ -109,18 +121,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时22分 ~ 06时18分]"
-        },
-        {
-          "title": "非农数据“温和”，标普新高，美元指数四连涨，黄金重回4500关口",
-          "url": "https://wallstreetcn.com/articles/3762954",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时18分 ~ 15时17分]"
         },
         {
           "title": "非农数据”温和“，标普新高，美元指数四连涨，黄金重回4500关口",
@@ -158,11 +158,12 @@
             4,
             10,
             14,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时32分 ~ 15时17分]"
+          "appearance_count": 5,
+          "time_info": "[12时32分 ~ 16时22分]"
         },
         {
           "title": "问界M7全系累计交付突破40万台",
