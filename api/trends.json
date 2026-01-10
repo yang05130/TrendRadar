@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T14:25:49.980176+08:00",
-  "total_titles_processed": 1097,
+  "generated_at": "2026-01-10T15:17:03.072889+08:00",
+  "total_titles_processed": 1158,
   "failed_sources": [],
   "trends": [
     {
@@ -119,8 +119,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时18分 ~ 14时25分]"
+          "appearance_count": 8,
+          "time_info": "[09时18分 ~ 15时17分]"
         },
         {
           "title": "非农数据”温和“，标普新高，美元指数四连涨，黄金重回4500关口",
@@ -157,11 +157,12 @@
           "ranks": [
             4,
             10,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时32分 ~ 14时25分]"
+          "appearance_count": 4,
+          "time_info": "[12时32分 ~ 15时17分]"
         },
         {
           "title": "问界M7全系累计交付突破40万台",
@@ -216,11 +217,12 @@
           "ranks": [
             4,
             8,
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时32分 ~ 14时25分]"
+          "appearance_count": 4,
+          "time_info": "[12时32分 ~ 15时17分]"
         }
       ]
     }
