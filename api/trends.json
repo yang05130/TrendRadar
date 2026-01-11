@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T22:16:32.132397+08:00",
-  "total_titles_processed": 1351,
+  "generated_at": "2026-01-11T23:17:13.541152+08:00",
+  "total_titles_processed": 1406,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             3,
             12,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时33分 ~ 22时16分]"
+          "appearance_count": 4,
+          "time_info": "[20时33分 ~ 23时17分]"
         },
         {
           "title": "中信建投：铜必将接力金银，行情仍未结束",
@@ -40,11 +41,12 @@
           "ranks": [
             8,
             17,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时33分 ~ 22时16分]"
+          "appearance_count": 4,
+          "time_info": "[20时33分 ~ 23时17分]"
         },
         {
           "title": "中国有色矿业：谦比希东南矿体主副井于年初复产 预计公司今年综合铜产量约48.4万吨",
@@ -52,11 +54,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            16
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 22时16分]"
+          "appearance_count": 3,
+          "time_info": "[21时28分 ~ 23时17分]"
         }
       ]
     },
