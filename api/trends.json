@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T00:21:06.064831+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-12T01:14:59.235872+08:00",
+  "total_titles_processed": 338,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时14分]"
         },
         {
           "title": "中国有色矿业：谦比希东南矿体主副井于年初复产 预计公司今年综合铜产量约48.4万吨",
@@ -25,9 +25,9 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时14分]"
         },
         {
           "title": "中信建投：铜必将接力金银，行情仍未结束",
@@ -36,9 +36,9 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时14分]"
         }
       ]
     }
