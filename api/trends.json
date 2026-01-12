@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T19:18:18.759453+08:00",
-  "total_titles_processed": 1465,
+  "generated_at": "2026-01-12T20:39:16.799112+08:00",
+  "total_titles_processed": 1582,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 19时18分]"
+          "appearance_count": 6,
+          "time_info": "[17时28分 ~ 20时39分]"
         },
         {
           "title": "中国有色矿业：谦比希东南矿体主副井于年初复产，预计公司今年综合铜产量约48.4万吨",
@@ -88,11 +88,12 @@
           "ranks": [
             8,
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时27分 ~ 19时18分]"
+          "appearance_count": 7,
+          "time_info": "[16时27分 ~ 20时39分]"
         },
         {
           "title": "泡泡玛特：近期会和知名手机品牌推出IP联名合作",
