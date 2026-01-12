@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T03:19:57.862448+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-01-13T04:21:07.232580+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 04时21分]"
         },
         {
           "title": "国际铜夜盘收涨0.74%，沪铜收涨0.54%，沪铝收涨0.18%，沪锌收涨1.06%，沪铅收跌0.14%，沪镍收跌0.04%，沪锡收涨5.24%。 氧化铝夜盘收跌0.63%，铝合金收涨1.03%。 不锈钢夜盘收跌0.72%。",
@@ -55,8 +55,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 04时21分]"
         }
       ]
     }
