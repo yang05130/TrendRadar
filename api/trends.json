@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T09:24:22.276181+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2026-01-12T11:46:49.734219+08:00",
+  "total_titles_processed": 779,
   "failed_sources": [],
   "trends": [
     {
@@ -26,7 +26,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -65,9 +65,26 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "多重因素共振推动现货金银早盘齐创历史新高，贵金属引来新一轮狂欢。黄金多头较上一交易日升温，白银现卖出信号。尽管油价早盘走高，但高盛研报称，供应充裕将使价格继续下行，当前市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260112105142529800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
         }
       ]
     },
@@ -100,7 +117,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         }
