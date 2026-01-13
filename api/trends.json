@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T17:25:37.295124+08:00",
-  "total_titles_processed": 1534,
+  "generated_at": "2026-01-13T18:20:43.815206+08:00",
+  "total_titles_processed": 1601,
   "failed_sources": [],
   "trends": [
     {
@@ -30,24 +30,13 @@
           "time_info": "01时21分"
         },
         {
-          "title": "伦敦金属交易所（LME）：铜库存141550吨，增加4325吨。 铝库存494000吨，减少1825吨。 镍库存284148吨，减少414吨。 锌库存106900吨，增加100吨。 铅库存218925吨，减少2525吨。 锡库存5930吨，增加25吨。",
-          "url": "https://wallstreetcn.com/livenews/3035990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
           "title": "伦敦金属交易所(LME)：锌库存增加100吨，镍库存减少414吨，铜库存增加4325吨，铅库存减少2525吨，铝库存减少1825吨，锡库存增加25吨。",
           "url": "https://flash.jin10.com/detail/20260113170046887800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -62,6 +51,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时28分 ~ 03时19分]"
+        },
+        {
+          "title": "伦敦金属交易所（LME）：铜库存141550吨，增加4325吨。 铝库存494000吨，减少1825吨。 镍库存284148吨，减少414吨。 锌库存106900吨，增加100吨。 铅库存218925吨，减少2525吨。 锡库存5930吨，增加25吨。",
+          "url": "https://wallstreetcn.com/livenews/3035990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时20分]"
         }
       ]
     },
