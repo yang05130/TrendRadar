@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T02:29:05.350098+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2026-01-15T03:17:50.293682+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 02时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时17分]"
+        },
+        {
+          "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 03时17分]"
         },
         {
           "title": "伊朗局势担忧加剧，美股指集体下挫，纳指跌近0.8%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -29,17 +41,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时25分 ~ 01时26分]"
-        },
-        {
-          "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 02时29分]"
         },
         {
           "title": "报道：欧盟将允许成员国将铜线网络关停时间推迟至2035年",
@@ -68,8 +69,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 02时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时17分]"
         }
       ]
     },
@@ -84,7 +85,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
         }
