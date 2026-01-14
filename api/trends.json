@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T03:17:50.293682+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2026-01-15T04:18:40.229543+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "贵金属狂欢继续，现货白银史上首次站上92美元关口，铜、锡再创新高！",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 04时18分]"
         },
         {
           "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 03时17分]"
+          "appearance_count": 4,
+          "time_info": "[02时28分 ~ 04时18分]"
         },
         {
           "title": "伊朗局势担忧加剧，美股指集体下挫，纳指跌近0.8%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -53,6 +53,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时26分 ~ 02时29分]"
+        },
+        {
+          "title": "智利国家铜业公司：已获得一项价值28亿美元的环境许可，用于延长Ministro Hales矿山的开采年限。",
+          "url": "https://flash.jin10.com/detail/20260115034412709800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         }
       ]
     },
@@ -66,11 +77,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 04时18分]"
         }
       ]
     },
