@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T17:25:13.496906+08:00",
-  "total_titles_processed": 1666,
+  "generated_at": "2026-01-15T18:20:39.707028+08:00",
+  "total_titles_processed": 1749,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时19分 ~ 17时25分]"
+          "appearance_count": 11,
+          "time_info": "[09时19分 ~ 18时20分]"
         },
         {
           "title": "贵金属狂欢继续，现货白银史上首次站上92美元关口，铜、锡再创新高！",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时25分 ~ 17时25分]"
+          "appearance_count": 23,
+          "time_info": "[00时25分 ~ 18时20分]"
         },
         {
           "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -57,17 +57,6 @@
           "time_info": "[00时25分 ~ 01时26分]"
         },
         {
-          "title": "伦敦金属交易所(LME)：铝库存减少2000吨，镍库存增加624吨，锡库存减少5吨，铜库存减少500吨，锌库存减少25吨，铅库存减少3800吨。",
-          "url": "https://wallstreetcn.com/livenews/3037835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
           "title": "纽约期银涨超7%，一度刷新历史高位至93美元上方，纽约铜在亚太时段涨穿6.15美元",
           "url": "https://wallstreetcn.com/livenews/3037316",
           "source": "华尔街见闻-快讯",
@@ -78,6 +67,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时16分]"
+        },
+        {
+          "title": "伦敦金属交易所(LME)：铝库存减少2000吨，镍库存增加624吨，锡库存减少5吨，铜库存减少500吨，锌库存减少25吨，铅库存减少3800吨。",
+          "url": "https://wallstreetcn.com/livenews/3037835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时20分]"
         },
         {
           "title": "关税忧虑缓解叠加美元走强 铜价正从历史高位回落",
@@ -165,7 +166,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
