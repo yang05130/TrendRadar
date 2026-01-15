@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T04:21:43.954736+08:00",
-  "total_titles_processed": 533,
+  "generated_at": "2026-01-16T05:18:58.426889+08:00",
+  "total_titles_processed": 590,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 05时18分]"
         },
         {
           "title": "湖北一男子挖出青铜古剑上交博物馆",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 05时18分]"
         },
         {
           "title": "工人挖出青铜古剑 上交获200元奖励",
@@ -40,11 +40,12 @@
             14,
             10,
             8,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 05时18分]"
         },
         {
           "title": "LME期铜收跌82美元，报13106美元/吨。 LME期铝收跌18美元，报3168美元/吨。 LME期锌收涨38美元，报3314美元/吨。 LME期铅收涨21美元，报2100美元/吨。 LME期镍收跌125美元，报18569美元/吨。 LME期锡收跌1431美元，报52031美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -84,25 +85,8 @@
       ]
     },
     {
-      "keyword_group": "人民币",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "春节前结汇潮将至，人民币偏强运行？央行最新发声：汇率将继续双向浮动，保持弹性",
-          "url": "https://www.cls.cn/detail/2259207",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌5.91%，暂报4113.13点，期内震荡走低，北京时间23:52刷新低点至4055.52点。 MarketVectorTM数字资产100中盘指数跌4.10%，报3810.61点。 MarketVector数字资产100指数跌1.26%，报19912.96点。 目前，Solana跌2.53%，狗狗币跌3.97%，XRP跌2.64%。 此外，比特币跌0.99%，暂报96602美元；以太坊跌1.5%，暂报3325.96美元。",
@@ -115,6 +99,74 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时30分 ~ 02时31分]"
+        },
+        {
+          "title": "周四（1月15日）纽约尾盘，ICE美元指数涨0.28%，报9.337点，日内交投区间为99.086-99.492点，全天处于上涨状态，北京时间20:30过后出现一波上涨行情，22:43刷新日高。 彭博美元指数涨0.07%，报1211.49点，日内交投区间为1210.07-1213.79点。",
+          "url": "https://wallstreetcn.com/livenews/3038199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "美元指数15日上涨",
+          "url": "https://flash.jin10.com/detail/20260116044459205800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中国11月减持美债 日本增持",
+          "url": "https://flash.jin10.com/detail/20260116050328025800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "两年期美债收益率涨超5个基点",
+          "url": "https://wallstreetcn.com/livenews/3038210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "春节前结汇潮将至，人民币偏强运行？央行最新发声：汇率将继续双向浮动，保持弹性",
+          "url": "https://www.cls.cn/detail/2259207",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 05时18分]"
         }
       ]
     }
