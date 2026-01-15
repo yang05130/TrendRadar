@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T03:22:06.048553+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-01-16T04:21:43.954736+08:00",
+  "total_titles_processed": 533,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时21分]"
         },
         {
           "title": "湖北一男子挖出青铜古剑上交博物馆",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时21分]"
         },
         {
           "title": "工人挖出青铜古剑 上交获200元奖励",
@@ -39,11 +39,12 @@
           "ranks": [
             14,
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时21分]"
         },
         {
           "title": "LME期铜收跌82美元，报13106美元/吨。 LME期铝收跌18美元，报3168美元/吨。 LME期锌收涨38美元，报3314美元/吨。 LME期铅收涨21美元，报2100美元/吨。 LME期镍收跌125美元，报18569美元/吨。 LME期锡收跌1431美元，报52031美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -51,11 +52,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 04时21分]"
         },
         {
           "title": "湖北一居民挖出疑似战国青铜剑",
@@ -78,6 +80,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "春节前结汇潮将至，人民币偏强运行？央行最新发声：汇率将继续双向浮动，保持弹性",
+          "url": "https://www.cls.cn/detail/2259207",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         }
       ]
     },
