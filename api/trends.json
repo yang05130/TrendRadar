@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T18:20:39.707028+08:00",
-  "total_titles_processed": 1749,
+  "generated_at": "2026-01-15T19:18:05.489347+08:00",
+  "total_titles_processed": 1846,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时19分 ~ 18时20分]"
+          "appearance_count": 13,
+          "time_info": "[09时19分 ~ 19时18分]"
         },
         {
           "title": "贵金属狂欢继续，现货白银史上首次站上92美元关口，铜、锡再创新高！",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时25分 ~ 18时20分]"
+          "appearance_count": 25,
+          "time_info": "[00时25分 ~ 19时18分]"
         },
         {
           "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -216,6 +216,34 @@
       ]
     },
     {
+      "keyword_group": "人民币",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "央行：人民币汇率预计将继续双向浮动",
+          "url": "https://www.toutiao.com/trending/7594812956157362182/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 19时18分]"
+        },
+        {
+          "title": "央行：人民币汇率预计将继续双向浮动，保持弹性",
+          "url": "https://wallstreetcn.com/livenews/3037771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -271,23 +299,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 06时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "央行：人民币汇率预计将继续双向浮动，保持弹性",
-          "url": "https://wallstreetcn.com/livenews/3037771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时26分"
         }
       ]
     }
