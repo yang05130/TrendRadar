@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T20:37:49.667779+08:00",
-  "total_titles_processed": 1961,
+  "generated_at": "2026-01-15T21:38:12.728831+08:00",
+  "total_titles_processed": 2073,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时19分 ~ 20时37分]"
+          "appearance_count": 16,
+          "time_info": "[09时19分 ~ 21时38分]"
         },
         {
           "title": "贵金属狂欢继续，现货白银史上首次站上92美元关口，铜、锡再创新高！",
@@ -55,6 +55,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时25分 ~ 01时26分]"
+        },
+        {
+          "title": "工人挖出青铜古剑 上交获200元奖励",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E6%8C%96%E5%87%BA%E9%9D%92%E9%93%9C%E5%8F%A4%E5%89%91+%E4%B8%8A%E4%BA%A4%E8%8E%B7200%E5%85%83%E5%A5%96%E5%8A%B1",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 21时38分]"
         },
         {
           "title": "纽约期银涨超7%，一度刷新历史高位至93美元上方，纽约铜在亚太时段涨穿6.15美元",
@@ -155,7 +166,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
