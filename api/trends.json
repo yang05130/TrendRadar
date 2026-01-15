@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T22:22:09.337082+08:00",
-  "total_titles_processed": 2166,
+  "generated_at": "2026-01-15T23:21:57.185402+08:00",
+  "total_titles_processed": 2266,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时19分 ~ 22时22分]"
+          "appearance_count": 19,
+          "time_info": "[09时19分 ~ 23时21分]"
         },
         {
           "title": "贵金属狂欢继续，现货白银史上首次站上92美元关口，铜、锡再创新高！",
@@ -62,11 +62,12 @@
           "source": "百度热搜",
           "ranks": [
             1,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时37分 ~ 22时22分]"
+          "appearance_count": 5,
+          "time_info": "[21时37分 ~ 23时21分]"
         },
         {
           "title": "纽约期银涨超7%，一度刷新历史高位至93美元上方，纽约铜在亚太时段涨穿6.15美元",
@@ -93,6 +94,18 @@
           "time_info": "[17时25分 ~ 18时20分]"
         },
         {
+          "title": "湖北一居民挖出疑似战国青铜剑",
+          "url": "https://www.toutiao.com/trending/7595516944998432819/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时21分 ~ 23时21分]"
+        },
+        {
           "title": "关税忧虑缓解叠加美元走强 铜价正从历史高位回落",
           "url": "https://flash.jin10.com/detail/20260115114712671800",
           "source": "金十数据",
@@ -115,17 +128,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时26分 ~ 02时29分]"
-        },
-        {
-          "title": "湖北一居民挖出疑似战国青铜剑",
-          "url": "https://www.toutiao.com/trending/7595516944998432819/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
         },
         {
           "title": "高盛：价格上涨行情已基本走完，铜价愈发容易出现回调。",
@@ -219,7 +221,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨3.15%，暂报4382.96点。 MarketVectorTM数字资产100中盘指数涨2.56%，报3980.94点。 MarketVector数字资产100指数涨4.39%，报20205.32点。 Solana目前涨2.49%，狗狗币涨3.96%，XRP涨1.32%。 比特币涨3.19%，暂报97353.99美元；以太坊涨5.26%，暂报3370.99美元。",
@@ -252,9 +254,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
+        },
+        {
+          "title": "美股开盘，道指涨100点、标普500指数涨0.64%、纳指涨0.88%。明星科技股普涨，阿斯麦(ASML.O)涨6.8%，总市值突破5200亿美元；台积电(TSM.N)涨4%和美光科技(MU.O)涨3%。纳斯达克中国金龙指数涨0.1%。",
+          "url": "https://flash.jin10.com/detail/20260115223034290800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         }
       ]
     },
