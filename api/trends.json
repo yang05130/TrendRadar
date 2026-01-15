@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T23:21:57.185402+08:00",
-  "total_titles_processed": 2266,
+  "generated_at": "2026-01-16T00:31:33.339508+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 18,
+      "match_count": 3,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -15,348 +15,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时19分 ~ 23时21分]"
-        },
-        {
-          "title": "贵金属狂欢继续，现货白银史上首次站上92美元关口，铜、锡再创新高！",
-          "url": "https://wallstreetcn.com/articles/3763245",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时25分 ~ 19时18分]"
-        },
-        {
-          "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时28分 ~ 06时19分]"
-        },
-        {
-          "title": "伊朗局势担忧加剧，美股指集体下挫，纳指跌近0.8%，金属狂飙，现货白银站上92美元，锡铜新高",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时26分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
           "title": "工人挖出青铜古剑 上交获200元奖励",
           "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E6%8C%96%E5%87%BA%E9%9D%92%E9%93%9C%E5%8F%A4%E5%89%91+%E4%B8%8A%E4%BA%A4%E8%8E%B7200%E5%85%83%E5%A5%96%E5%8A%B1",
           "source": "百度热搜",
           "ranks": [
-            1,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时37分 ~ 23时21分]"
-        },
-        {
-          "title": "纽约期银涨超7%，一度刷新历史高位至93美元上方，纽约铜在亚太时段涨穿6.15美元",
-          "url": "https://wallstreetcn.com/livenews/3037316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时16分]"
-        },
-        {
-          "title": "伦敦金属交易所(LME)：铝库存减少2000吨，镍库存增加624吨，锡库存减少5吨，铜库存减少500吨，锌库存减少25吨，铅库存减少3800吨。",
-          "url": "https://wallstreetcn.com/livenews/3037835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时20分]"
-        },
-        {
-          "title": "湖北一居民挖出疑似战国青铜剑",
-          "url": "https://www.toutiao.com/trending/7595516944998432819/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时21分 ~ 23时21分]"
-        },
-        {
-          "title": "关税忧虑缓解叠加美元走强 铜价正从历史高位回落",
-          "url": "https://flash.jin10.com/detail/20260115114712671800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 13时23分]"
-        },
-        {
-          "title": "报道：欧盟将允许成员国将铜线网络关停时间推迟至2035年",
-          "url": "https://wallstreetcn.com/livenews/3037212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 02时29分]"
-        },
-        {
-          "title": "高盛：价格上涨行情已基本走完，铜价愈发容易出现回调。",
-          "url": "https://wallstreetcn.com/livenews/3037491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时28分"
+          "time_info": "00时31分"
         },
         {
-          "title": "高盛：价格大幅上涨已经基本完成，铜价正日益容易出现回调。",
-          "url": "https://flash.jin10.com/detail/20260115104906784800",
-          "source": "金十数据",
+          "title": "湖北一男子挖出青铜古剑上交博物馆",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8C%97%E4%B8%80%E7%94%B7%E5%AD%90%E6%8C%96%E5%87%BA%E9%9D%92%E9%93%9C%E5%8F%A4%E5%89%91%E4%B8%8A%E4%BA%A4%E5%8D%9A%E7%89%A9%E9%A6%86%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时28分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约跌多涨少。沪锡涨超7%，沪镍涨超3%，不锈钢（SS）涨超2%，沪锌、鸡蛋、生猪涨超1%；跌幅方面，铂跌超6%，钯跌超5%，碳酸锂跌超4%，纯碱、20号胶、沪铝、铝合金、国际铜、焦煤、棕榈油跌超2%。",
-          "url": "https://flash.jin10.com/detail/20260115113103774800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "内盘期货多数收跌，钯、铂跌逾4%，烧碱、纯碱、棕榈油跌逾2%，沪铝、国际铜、橡胶、纸浆、碳酸锂、沪铜、硅铁、铁矿石、焦煤跌逾1%；沪锡涨逾8%，沪镍涨4%，鸡蛋、沪锌涨逾2%，沪银、燃油涨逾1%。",
-          "url": "https://wallstreetcn.com/livenews/3037657",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时23分"
-        },
-        {
-          "title": "专家：此次铜价快速上涨，既有供需失衡的影响，也有情绪溢价与资金炒作等多重因素",
-          "url": "https://wallstreetcn.com/livenews/3037970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "智利国家铜业公司：已获得一项价值28亿美元的环境许可，用于延长Ministro Hales矿山的开采年限。",
-          "url": "https://flash.jin10.com/detail/20260115034412709800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "伦敦金属交易所(LME)：铝库存减少2000吨，镍库存增加624吨，锡库存减少5吨，铜库存减少500吨，锌库存减少25吨，铅库存减少3800吨。",
-          "url": "https://flash.jin10.com/detail/20260115170109069800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
-          "title": "沪铜主力合约日内跌幅达2.00%，现报102070.00元/吨。伦铜日内走低2.00%，现报13007.60美元/吨。",
-          "url": "https://flash.jin10.com/detail/20260115112128724800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨3.15%，暂报4382.96点。 MarketVectorTM数字资产100中盘指数涨2.56%，报3980.94点。 MarketVector数字资产100指数涨4.39%，报20205.32点。 Solana目前涨2.49%，狗狗币涨3.96%，XRP涨1.32%。 比特币涨3.19%，暂报97353.99美元；以太坊涨5.26%，暂报3370.99美元。",
-          "url": "https://wallstreetcn.com/livenews/3037221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 02时29分]"
-        },
-        {
-          "title": "周三（1月14日）纽约尾盘，ICE美元指数跌0.06%，报99.077点，日内交投区间为99.248-98.933点，北京时间00:02刷新日低，全天V形走势。 彭博美元指数跌0.10%，报1210.52点，09:35微涨至1212.63点刷新日高，最后震荡走低，00:03刷新日低至1209.09点。",
-          "url": "https://wallstreetcn.com/livenews/3037289",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时19分]"
-        },
-        {
-          "title": "美元指数短线拉升，现涨0.29%，报99.36。现货黄金短线下挫，现报4596美元/盎司。纳斯达克100指数期货盘前涨幅扩大至1%。",
-          "url": "https://wallstreetcn.com/livenews/3038041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "美股开盘，道指涨100点、标普500指数涨0.64%、纳指涨0.88%。明星科技股普涨，阿斯麦(ASML.O)涨6.8%，总市值突破5200亿美元；台积电(TSM.N)涨4%和美光科技(MU.O)涨3%。纳斯达克中国金龙指数涨0.1%。",
-          "url": "https://flash.jin10.com/detail/20260115223034290800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "赛力斯 问界",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "赛力斯三年半采购华为 750 亿元，如何看待这一数据？",
-          "url": "https://www.zhihu.com/question/1994699990333953373",
-          "source": "知乎",
-          "ranks": [
-            6,
-            10,
-            9,
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 09时19分]"
-        },
-        {
-          "title": "赛力斯申请艺芯智能体商标",
-          "url": "https://wallstreetcn.com/livenews/3037597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "央行：人民币汇率预计将继续双向浮动",
-          "url": "https://www.toutiao.com/trending/7594812956157362182/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
-        },
-        {
-          "title": "央行：人民币汇率预计将继续双向浮动，保持弹性",
-          "url": "https://wallstreetcn.com/livenews/3037771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中长期美债收益率跌约4个基点",
-          "url": "https://wallstreetcn.com/livenews/3037290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时19分]"
-        },
-        {
-          "title": "避险情绪升温推低美债收益率 30年期国债创年内新低",
-          "url": "https://flash.jin10.com/detail/20260115013842934800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
+          "time_info": "00时31分"
         }
       ]
     }
