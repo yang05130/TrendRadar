@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T21:36:02.744917+08:00",
-  "total_titles_processed": 1973,
+  "generated_at": "2026-01-16T22:20:58.133867+08:00",
+  "total_titles_processed": 2055,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -75,8 +75,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时25分 ~ 21时36分]"
+          "appearance_count": 8,
+          "time_info": "[16时25分 ~ 22时20分]"
         },
         {
           "title": "铜资源争夺加剧！力拓将向亚马逊AI数据中心供应铜",
@@ -124,6 +124,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时21分 ~ 07时18分]"
+        },
+        {
+          "title": "COMEX期铜下跌逾3%，至每磅5.79美元。",
+          "url": "https://flash.jin10.com/detail/20260116213958618800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "LME期铜收跌82美元，报13106美元/吨。 LME期铝收跌18美元，报3168美元/吨。 LME期锌收涨38美元，报3314美元/吨。 LME期铅收涨21美元，报2100美元/吨。 LME期镍收跌125美元，报18569美元/吨。 LME期锡收跌1431美元，报52031美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -354,8 +365,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时17分 ~ 21时36分]"
+          "appearance_count": 5,
+          "time_info": "[19时17分 ~ 22时20分]"
         }
       ]
     }
