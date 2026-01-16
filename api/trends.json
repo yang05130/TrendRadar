@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T14:29:26.365553+08:00",
-  "total_titles_processed": 1241,
+  "generated_at": "2026-01-16T15:22:51.248016+08:00",
+  "total_titles_processed": 1346,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -57,11 +57,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 14时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时37分 ~ 15时22分]"
         },
         {
           "title": "铜资源争夺加剧！力拓将向亚马逊AI数据中心供应铜",
@@ -74,6 +75,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时21分 ~ 12时37分]"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约跌多涨少。多晶硅、菜油涨超2%，玻璃涨超1%；跌幅方面，碳酸锂、集运欧线跌超8%，沪锡跌超6%，沪镍、丁二烯橡胶、燃料油、烧碱、SC原油跌超3%，苹果、液化石油气（LPG）、沪铜跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260116150052812800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "湖北一居民挖出疑似战国青铜剑",
@@ -111,6 +123,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "英伟达悄悄修改数据中心铜用量表述",
+          "url": "https://www.toutiao.com/trending/7595820351934697014/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "铜矿减产拖累经济引擎 秘鲁11月增长遇冷",
@@ -226,11 +249,12 @@
           "url": "https://www.toutiao.com/trending/7595764841839595014/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 15时22分]"
         }
       ]
     },
@@ -249,6 +273,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时21分 ~ 07时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "分析师：伊朗局势放缓及降息预期减弱令黄金价格有所回落",
+          "url": "https://flash.jin10.com/detail/20260116144201337800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         }
       ]
     }
