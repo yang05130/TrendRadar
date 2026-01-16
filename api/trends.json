@@ -1,377 +1,39 @@
 {
-  "generated_at": "2026-01-16T23:21:03.043368+08:00",
-  "total_titles_processed": 2140,
+  "generated_at": "2026-01-17T00:24:20.034460+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "铜",
-      "match_count": 16,
+      "keyword_group": "美债",
+      "match_count": 1,
       "titles": [
         {
-          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时18分]"
-        },
-        {
-          "title": "湖北居民挖出疑似战国青铜剑，上交获 200 元奖励，怎样看待这一奖励？最终确认为文物能获得更多奖励吗？",
-          "url": "https://www.zhihu.com/question/1995195338911343259",
-          "source": "知乎",
-          "ranks": [
-            10,
-            8,
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时25分 ~ 23时21分]"
-        },
-        {
-          "title": "湖北一男子挖出青铜古剑上交博物馆",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8C%97%E4%B8%80%E7%94%B7%E5%AD%90%E6%8C%96%E5%87%BA%E9%9D%92%E9%93%9C%E5%8F%A4%E5%89%91%E4%B8%8A%E4%BA%A4%E5%8D%9A%E7%89%A9%E9%A6%86%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 09时21分]"
-        },
-        {
-          "title": "工人挖出青铜古剑 上交获200元奖励",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E6%8C%96%E5%87%BA%E9%9D%92%E9%93%9C%E5%8F%A4%E5%89%91+%E4%B8%8A%E4%BA%A4%E8%8E%B7200%E5%85%83%E5%A5%96%E5%8A%B1",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            10,
-            8,
-            6,
-            9,
-            7,
-            12,
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 11时27分]"
-        },
-        {
-          "title": "英伟达悄然修改论文错误 数据中心铜需求重估",
-          "url": "https://www.cls.cn/detail/2259799",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时37分 ~ 18时20分]"
-        },
-        {
-          "title": "铜资源争夺加剧！力拓将向亚马逊AI数据中心供应铜",
-          "url": "https://www.cls.cn/detail/2259623",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时21分 ~ 12时37分]"
-        },
-        {
-          "title": "上期所：本周铜库存较上周增32972吨至213515吨；铝库存较上周增42051吨至185879；铅库存较上周增6933吨至37044吨；锌库存较上周增2459吨至76311吨；锡库存较上周增2614吨至9549吨；镍库存较上周增1530吨至48180吨。",
-          "url": "https://flash.jin10.com/detail/20260116160229469800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "午盘收盘，国内期货主力合约跌多涨少。多晶硅、菜油涨超2%，玻璃涨超1%；跌幅方面，碳酸锂、集运欧线跌超8%，沪锡跌超6%，沪镍、丁二烯橡胶、燃料油、烧碱、SC原油跌超3%，苹果、液化石油气（LPG）、沪铜跌超2%。",
-          "url": "https://flash.jin10.com/detail/20260116150052812800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "湖北一居民挖出疑似战国青铜剑",
-          "url": "https://www.toutiao.com/trending/7595516944998432819/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            30,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时21分 ~ 07时18分]"
-        },
-        {
-          "title": "COMEX期铜下跌逾3%，至每磅5.79美元。",
-          "url": "https://flash.jin10.com/detail/20260116213958618800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
-          "title": "LME期铜收跌82美元，报13106美元/吨。 LME期铝收跌18美元，报3168美元/吨。 LME期锌收涨38美元，报3314美元/吨。 LME期铅收涨21美元，报2100美元/吨。 LME期镍收跌125美元，报18569美元/吨。 LME期锡收跌1431美元，报52031美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3038154",
+          "title": "现货黄金日内跌幅达1.5%，报4546.43美元/盎司。 纽约银日内跌幅达6.0%，报86.81美元/盎司。 纽蒙特矿业跌2.3%。 标普跌0.18%，纳指跌0.2%，半导体指数涨幅收窄至0.8%。 两年期美债收益率涨幅扩大至2.6个基点，刷新日高至3.59%上方。 美元指数短线从99.20点下方反弹，重返99.33一线。 特朗普称，希望哈塞特继续担任白宫顾问。",
+          "url": "https://wallstreetcn.com/livenews/3038910",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时31分 ~ 04时21分]"
-        },
-        {
-          "title": "伦敦金属交易所（LME）： 铜库存143575吨，增加2450吨。 铝库存488000吨，减少2000吨。 镍库存285732吨，增加450吨。",
-          "url": "https://wallstreetcn.com/livenews/3038655",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 18时20分]"
-        },
-        {
-          "title": "英伟达悄悄修改数据中心铜用量表述",
-          "url": "https://www.toutiao.com/trending/7595820351934697014/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 16时25分]"
-        },
-        {
-          "title": "英伟达修改技术论文错误表述 大幅下调数据中心铜使用量",
-          "url": "https://flash.jin10.com/detail/20260116105111989800",
-          "source": "金十数据",
-          "ranks": [
-            12
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "伦敦金属交易所(LME)：锌库存减少175吨，铜库存增加2450吨，锡库存增加10吨，铅库存减少5050吨，铝库存减少2000吨，镍库存增加450吨。",
-          "url": "https://flash.jin10.com/detail/20260116170043310800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
-          "title": "铜矿减产拖累经济引擎 秘鲁11月增长遇冷",
-          "url": "https://flash.jin10.com/detail/20260116011246111800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "time_info": "00时24分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
-          "title": "芯片股撑美股反弹，半导体指数新高，台积电涨超4%，美元站上99关口，金银微跌",
-          "url": "https://wallstreetcn.com/articles/3763348",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时17分 ~ 07时18分]"
-        },
-        {
-          "title": "标普500指数转跌，道指下跌逾百点、跌幅超0.2%，纳指大致持平。 美元/日元日内跌幅达0.5%，报157.84。",
-          "url": "https://wallstreetcn.com/livenews/3038894",
+          "title": "美元指数涨幅扩大至0.1%，刷新日高至99.42上方。",
+          "url": "https://wallstreetcn.com/livenews/3038922",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌5.91%，暂报4113.13点，期内震荡走低，北京时间23:52刷新低点至4055.52点。 MarketVectorTM数字资产100中盘指数跌4.10%，报3810.61点。 MarketVector数字资产100指数跌1.26%，报19912.96点。 目前，Solana跌2.53%，狗狗币跌3.97%，XRP跌2.64%。 此外，比特币跌0.99%，暂报96602美元；以太坊跌1.5%，暂报3325.96美元。",
-          "url": "https://wallstreetcn.com/livenews/3038139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时30分 ~ 02时31分]"
-        },
-        {
-          "title": "周四（1月15日）纽约尾盘，ICE美元指数涨0.28%，报9.337点，日内交投区间为99.086-99.492点，全天处于上涨状态，北京时间20:30过后出现一波上涨行情，22:43刷新日高。 彭博美元指数涨0.07%，报1211.49点，日内交投区间为1210.07-1213.79点。",
-          "url": "https://wallstreetcn.com/livenews/3038199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 06时19分]"
-        },
-        {
-          "title": "美元指数15日上涨",
-          "url": "https://flash.jin10.com/detail/20260116044459205800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "美股开盘，道指涨54点、标普500指数涨0.18%、纳指涨0.4%。美光科技(MU.O)涨4.8%，其董事会成员Teyin Liu斥资约780万美元增持公司股份。诺和诺德(NVO.N)涨4.6%，英国监管机构批准以更高剂量的Wegovy治疗肥胖。纳斯达克中国金龙指数跌0.1%。",
-          "url": "https://flash.jin10.com/detail/20260116223032607800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中国11月减持美债 日本增持",
-          "url": "https://flash.jin10.com/detail/20260116050328025800",
-          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "两年期美债收益率涨超5个基点",
-          "url": "https://wallstreetcn.com/livenews/3038210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 06时19分]"
-        },
-        {
-          "title": "中国11月减持美债 日本增持",
-          "url": "https://www.toutiao.com/trending/7595485057666973702/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "赛力斯 问界",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "赛力斯向华为交750亿“学费”",
-          "url": "https://www.toutiao.com/trending/7595764841839595014/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 15时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "春节前结汇潮将至，人民币偏强运行？央行最新发声：汇率将继续双向浮动，保持弹性",
-          "url": "https://www.cls.cn/detail/2259207",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时21分 ~ 07时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "分析师：伊朗局势放缓及降息预期减弱令黄金价格有所回落",
-          "url": "https://flash.jin10.com/detail/20260116144201337800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
+          "time_info": "00时24分"
         }
       ]
     },
@@ -381,15 +43,31 @@
       "titles": [
         {
           "title": "泡泡玛特星星人",
-          "url": "https://s.weibo.com/weibo?q=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E6%98%9F%E6%98%9F%E4%BA%BA&t=31&band_rank=6&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E6%98%9F%E6%98%9F%E4%BA%BA%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            6,
-            7
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时17分 ~ 23时21分]"
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "铜",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "湖北居民挖出疑似战国青铜剑，上交获 200 元奖励，怎样看待这一奖励？最终确认为文物能获得更多奖励吗？",
+          "url": "https://www.zhihu.com/question/1995195338911343259",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
         }
       ]
     }
