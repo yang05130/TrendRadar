@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T20:36:43.978002+08:00",
-  "total_titles_processed": 1862,
+  "generated_at": "2026-01-16T21:36:02.744917+08:00",
+  "total_titles_processed": 1973,
   "failed_sources": [],
   "trends": [
     {
@@ -75,8 +75,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时25分 ~ 20时36分]"
+          "appearance_count": 7,
+          "time_info": "[16时25分 ~ 21时36分]"
         },
         {
           "title": "铜资源争夺加剧！力拓将向亚马逊AI数据中心供应铜",
@@ -354,8 +354,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 20时36分]"
+          "appearance_count": 4,
+          "time_info": "[19时17分 ~ 21时36分]"
         }
       ]
     }
