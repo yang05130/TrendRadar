@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T07:18:11.828706+08:00",
-  "total_titles_processed": 690,
+  "generated_at": "2026-01-16T09:21:47.389519+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时21分]"
         },
         {
           "title": "工人挖出青铜古剑 上交获200元奖励",
@@ -43,11 +43,12 @@
             6,
             9,
             7,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时21分]"
         },
         {
           "title": "湖北一居民挖出疑似战国青铜剑",
@@ -61,6 +62,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时21分 ~ 07时18分]"
+        },
+        {
+          "title": "铜资源争夺加剧！力拓将向亚马逊AI数据中心供应铜",
+          "url": "https://www.cls.cn/detail/2259623",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "LME期铜收跌82美元，报13106美元/吨。 LME期铝收跌18美元，报3168美元/吨。 LME期锌收涨38美元，报3314美元/吨。 LME期铅收涨21美元，报2100美元/吨。 LME期镍收跌125美元，报18569美元/吨。 LME期锡收跌1431美元，报52031美元/吨。 LME期钴收平，报56290美元/吨。",
