@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T03:18:53.552674+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-01-17T04:19:32.801101+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1995195338911343259",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 04时19分]"
         },
         {
           "title": "LME期铜收跌303美元，报12803美元/吨。 LME期铝收跌34美元，报3134美元/吨。 LME期锌收跌106美元，报3209美元/吨。 LME期铅收跌56美元，报2044美元/吨。 LME期镍收跌991美元，报17578美元/吨。 LME期锡收跌4049美元，报47982美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -24,11 +25,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 03时18分]"
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 04时19分]"
         },
         {
           "title": "铜矿概念股普遍下跌，特朗普不愿意让白宫顾问哈塞特担任美联储主席。 泰克资源跌2.99%，美国铜指数基金跌2.77%，自由港跌2.33%，铜矿ETF跌1.9%，必和必拓ADR、力拓ADR、南方铜业、淡水河谷ADR至多跌1.9%，McEwen涨1.57%，Gold Com涨4.43%。",
@@ -105,8 +107,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 04时19分]"
         }
       ]
     }
