@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T18:17:41.725485+08:00",
-  "total_titles_processed": 1260,
+  "generated_at": "2026-01-17T19:15:07.279790+08:00",
+  "total_titles_processed": 1331,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时17分 ~ 18时17分]"
+          "appearance_count": 15,
+          "time_info": "[09时17分 ~ 19时15分]"
         },
         {
           "title": "湖北居民挖出疑似战国青铜剑，上交获 200 元奖励，怎样看待这一奖励？最终确认为文物能获得更多奖励吗？",
@@ -55,11 +55,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时17分]"
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 19时15分]"
         },
         {
           "title": "LME期铜收跌303美元，报12803美元/吨。 LME期铝收跌34美元，报3134美元/吨。 LME期锌收跌106美元，报3209美元/吨。 LME期铅收跌56美元，报2044美元/吨。 LME期镍收跌991美元，报17578美元/吨。 LME期锡收跌4049美元，报47982美元/吨。 LME期钴收平，报56290美元/吨。",
