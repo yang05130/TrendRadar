@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-17T13:18:26.536345+08:00",
-  "total_titles_processed": 959,
+  "generated_at": "2026-01-17T14:25:49.799484+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
       "match_count": 7,
       "titles": [
+        {
+          "title": "美联储主席人选生变，美国股债齐跌，美元走V收平，金银铜盘中跌",
+          "url": "https://wallstreetcn.com/articles/3763450",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时17分 ~ 14时25分]"
+        },
         {
           "title": "湖北居民挖出疑似战国青铜剑，上交获 200 元奖励，怎样看待这一奖励？最终确认为文物能获得更多奖励吗？",
           "url": "https://www.zhihu.com/question/1995195338911343259",
@@ -23,20 +35,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时24分 ~ 13时18分]"
-        },
-        {
-          "title": "美联储主席人选生变，美国股债齐跌，美元走V收平，金银铜盘中跌",
-          "url": "https://wallstreetcn.com/articles/3763450",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时17分 ~ 13时18分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 14时25分]"
         },
         {
           "title": "英伟达修改数据中心铜用量表述",
@@ -160,11 +160,12 @@
           "url": "https://www.toutiao.com/trending/7595953759675485747/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 14时25分]"
         },
         {
           "title": "两年期美债收益率周五一度快速拉升，本周累涨超6.2个基点",
