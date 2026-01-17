@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T11:21:05.292091+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2026-01-17T12:31:34.472925+08:00",
+  "total_titles_processed": 924,
   "failed_sources": [],
   "trends": [
     {
@@ -18,22 +18,24 @@
             9,
             8,
             20,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 11时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 12时31分]"
         },
         {
           "title": "美联储主席人选生变，美国股债齐跌，美元走V收平，金银铜盘中跌",
           "url": "https://wallstreetcn.com/articles/3763450",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时17分 ~ 11时21分]"
+          "appearance_count": 6,
+          "time_info": "[09时17分 ~ 12时31分]"
         },
         {
           "title": "英伟达修改数据中心铜用量表述",
