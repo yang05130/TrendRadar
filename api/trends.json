@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T09:18:15.189745+08:00",
-  "total_titles_processed": 732,
+  "generated_at": "2026-01-17T11:21:05.292091+08:00",
+  "total_titles_processed": 858,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "湖北居民挖出疑似战国青铜剑，上交获 200 元奖励，怎样看待这一奖励？最终确认为文物能获得更多奖励吗？",
@@ -17,11 +17,12 @@
             6,
             9,
             8,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 09时18分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 11时21分]"
         },
         {
           "title": "美联储主席人选生变，美国股债齐跌，美元走V收平，金银铜盘中跌",
@@ -31,8 +32,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时17分 ~ 11时21分]"
+        },
+        {
+          "title": "英伟达修改数据中心铜用量表述",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BF%AE%E6%94%B9%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%93%9C%E7%94%A8%E9%87%8F%E8%A1%A8%E8%BF%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时17分 ~ 09时18分]"
+          "time_info": "[11时20分 ~ 11时21分]"
         },
         {
           "title": "LME期铜收跌303美元，报12803美元/吨。 LME期铝收跌34美元，报3134美元/吨。 LME期锌收跌106美元，报3209美元/吨。 LME期铅收跌56美元，报2044美元/吨。 LME期镍收跌991美元，报17578美元/吨。 LME期锡收跌4049美元，报47982美元/吨。 LME期钴收平，报56290美元/吨。",
