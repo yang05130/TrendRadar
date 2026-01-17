@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-01-17T07:19:45.856946+08:00",
-  "total_titles_processed": 614,
-  "failed_sources": [
-    "ifeng"
-  ],
+  "generated_at": "2026-01-17T09:18:15.189745+08:00",
+  "total_titles_processed": 732,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "湖北居民挖出疑似战国青铜剑，上交获 200 元奖励，怎样看待这一奖励？最终确认为文物能获得更多奖励吗？",
@@ -18,11 +16,23 @@
             3,
             6,
             9,
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 07时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 09时18分]"
+        },
+        {
+          "title": "美联储主席人选生变，美国股债齐跌，美元走V收平，金银铜盘中跌",
+          "url": "https://wallstreetcn.com/articles/3763450",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
         },
         {
           "title": "LME期铜收跌303美元，报12803美元/吨。 LME期铝收跌34美元，报3134美元/吨。 LME期锌收跌106美元，报3209美元/吨。 LME期铅收跌56美元，报2044美元/吨。 LME期镍收跌991美元，报17578美元/吨。 LME期锡收跌4049美元，报47982美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -42,11 +52,12 @@
           "url": "https://flash.jin10.com/detail/20260117043341189800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时18分 ~ 07时19分]"
+          "appearance_count": 4,
+          "time_info": "[05时18分 ~ 09时18分]"
         },
         {
           "title": "铜矿概念股普遍下跌，特朗普不愿意让白宫顾问哈塞特担任美联储主席。 泰克资源跌2.99%，美国铜指数基金跌2.77%，自由港跌2.33%，铜矿ETF跌1.9%，必和必拓ADR、力拓ADR、南方铜业、淡水河谷ADR至多跌1.9%，McEwen涨1.57%，Gold Com涨4.43%。",
