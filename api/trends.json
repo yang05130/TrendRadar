@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T16:21:58.849666+08:00",
-  "total_titles_processed": 1139,
+  "generated_at": "2026-01-17T17:17:46.637084+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美联储主席人选生变，美国股债齐跌，美元走V收平，金银铜盘中跌",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时17分 ~ 16时21分]"
+          "appearance_count": 12,
+          "time_info": "[09时17分 ~ 17时17分]"
         },
         {
           "title": "湖北居民挖出疑似战国青铜剑，上交获 200 元奖励，怎样看待这一奖励？最终确认为文物能获得更多奖励吗？",
@@ -48,6 +48,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时20分 ~ 11时21分]"
+        },
+        {
+          "title": "美光科技拟收购力积电铜锣园区P5厂区",
+          "url": "https://flash.jin10.com/detail/20260117170538174800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "LME期铜收跌303美元，报12803美元/吨。 LME期铝收跌34美元，报3134美元/吨。 LME期锌收跌106美元，报3209美元/吨。 LME期铅收跌56美元，报2044美元/吨。 LME期镍收跌991美元，报17578美元/吨。 LME期锡收跌4049美元，报47982美元/吨。 LME期钴收平，报56290美元/吨。",
