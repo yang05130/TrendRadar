@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T11:47:26.185047+08:00",
-  "total_titles_processed": 796,
+  "generated_at": "2026-01-19T12:49:20.177870+08:00",
+  "total_titles_processed": 891,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.baidu.com/s?wd=1%E5%85%AC%E6%96%A4200%E5%85%83+%E2%80%9C%E5%86%8D%E4%B9%9F%E4%B8%8D%E6%95%A2%E5%8F%AB%E7%A0%B4%E9%93%9C%E7%83%82%E9%93%81%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 11时47分]"
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 12时49分]"
         },
         {
           "title": "1公斤最高280元 金银之后铜条也火了",
           "url": "https://www.toutiao.com/trending/7596878697941143086/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 12时49分]"
         },
         {
           "title": "华泰证券：铜价或持续走强 看向15000美元/吨",
@@ -58,7 +60,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
         }
