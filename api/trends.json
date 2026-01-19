@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T12:49:20.177870+08:00",
-  "total_titles_processed": 891,
+  "generated_at": "2026-01-19T13:29:47.286392+08:00",
+  "total_titles_processed": 954,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时25分 ~ 12时49分]"
+          "appearance_count": 4,
+          "time_info": "[09时25分 ~ 13时29分]"
         },
         {
           "title": "1公斤最高280元 金银之后铜条也火了",
@@ -28,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 13时29分]"
         },
         {
           "title": "华泰证券：铜价或持续走强 看向15000美元/吨",
