@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T22:24:35.990113+08:00",
-  "total_titles_processed": 1777,
+  "generated_at": "2026-01-19T23:23:15.796223+08:00",
+  "total_titles_processed": 1871,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时47分 ~ 22时24分]"
+          "appearance_count": 16,
+          "time_info": "[11时47分 ~ 23时23分]"
         },
         {
           "title": "投资铜条火了， 1 公斤 180 元至 280 元不等，值得入手吗？这股热潮是怎么形成的？",
@@ -67,6 +67,33 @@
           "time_info": "[17时31分 ~ 20时41分]"
         },
         {
+          "title": "格陵兰引发关税战风险，美股指期货走低，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时43分 ~ 23时23分]"
+        },
+        {
+          "title": "投资铜条火了",
+          "url": "https://www.douyin.com/hot/2372733",
+          "source": "抖音",
+          "ranks": [
+            12,
+            20,
+            18,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时31分 ~ 23时23分]"
+        },
+        {
           "title": "1公斤200元 “再也不敢叫破铜烂铁”",
           "url": "https://www.baidu.com/s?wd=1%E5%85%AC%E6%96%A4200%E5%85%83+%E2%80%9C%E5%86%8D%E4%B9%9F%E4%B8%8D%E6%95%A2%E5%8F%AB%E7%A0%B4%E9%93%9C%E7%83%82%E9%93%81%E2%80%9D",
           "source": "百度热搜",
@@ -80,20 +107,6 @@
           "time_info": "[09时25分 ~ 13时29分]"
         },
         {
-          "title": "投资铜条火了",
-          "url": "https://www.douyin.com/hot/2372733",
-          "source": "抖音",
-          "ranks": [
-            12,
-            20,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时31分 ~ 22时24分]"
-        },
-        {
           "title": "格陵兰引发美欧关税战风险，纳指期货跌超1%，金银再创新高，铜价逼近13000",
           "url": "https://wallstreetcn.com/articles/3763546",
           "source": "华尔街见闻",
@@ -103,17 +116,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时26分 ~ 15时27分]"
-        },
-        {
-          "title": "格陵兰引发关税战风险，美股指期货走低，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时43分 ~ 22时24分]"
         },
         {
           "title": "格陵兰引发美欧关税战风险，欧美股指期货齐跌，金银再创新高，铜价逼近13000",
