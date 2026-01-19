@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T06:18:42.519709+08:00",
-  "total_titles_processed": 567,
+  "generated_at": "2026-01-20T07:18:07.434945+08:00",
+  "total_titles_processed": 616,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
@@ -27,8 +27,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时18分]"
         },
         {
           "title": "1公斤最高280元 金银之后铜条也火了",
@@ -36,11 +36,12 @@
           "source": "今日头条",
           "ranks": [
             22,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时18分]"
         },
         {
           "title": "LME期铜收涨162美元，报12966美元/吨。 LME期铝收涨24美元，报3158美元/吨。 LME期锌收涨12美元，报3222美元/吨。 LME期铅收涨16美元，报2060美元/吨。 LME期镍收涨555美元，报18133美元/吨。 LME期锡收涨1276美元，报49258美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -70,6 +71,17 @@
           "time_info": "[01时21分 ~ 03时18分]"
         },
         {
+          "title": "必和必拓(BHP.N)：南澳铜矿精炼黄金产量创历史新高。",
+          "url": "https://flash.jin10.com/detail/20260120062014191800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
           "title": "炒完金条银条 投资铜条火了",
           "url": "https://www.baidu.com/s?wd=%E7%82%92%E5%AE%8C%E9%87%91%E6%9D%A1%E9%93%B6%E6%9D%A1+%E6%8A%95%E8%B5%84%E9%93%9C%E6%9D%A1%E7%81%AB%E4%BA%86",
           "source": "百度热搜",
@@ -93,6 +105,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时18分]"
+        },
+        {
+          "title": "必和必拓(BHP.N)第二季度铜产量为49.05万吨，同比下降4%；铁矿石产量为6970万吨，同比增长5%；炼钢煤产量为430万吨，同比下降3%；动力煤产量为460万吨，同比增长25%。",
+          "url": "https://flash.jin10.com/detail/20260120060250646800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
+          "title": "必和必拓(BHP.N)上调了2026财年集团铜、埃斯孔迪达和安塔米纳矿的产量指引。",
+          "url": "https://flash.jin10.com/detail/20260120060121397800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
+          "title": "必和必拓(BHP.N)预计2026财年铜产量为190万至200万吨。",
+          "url": "https://flash.jin10.com/detail/20260120060116004800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         }
       ]
     },
@@ -113,6 +158,19 @@
           "time_info": "[05时17分 ~ 06时18分]"
         },
         {
+          "title": "美元指数跌约0.3%",
+          "url": "https://wallstreetcn.com/livenews/3039917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时17分 ~ 07时18分]"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌6.01%，暂报3824.50点，保持一段时间的微幅上涨状态之后，北京时间07:00从日高4106.50点跳水，迅速在08:08刷新日低至3714.89点。 MarketVectorTM数字资产100中盘指数跌5.90%，报3514.13点，06:54刷新日高至3765.08点，08:08刷新日低至3430.70点。 MarketVector数字资产100指数跌2.63%，报19159.74点， 07:00出现一波跳水行情，从日高19774.12点快速跌至18952.97点刷新日低。 目前，Solana跌5.73%，狗狗币跌6.17%，XRP跌1.61%。 比特币跌2.23%，暂报93184.25美元；以太坊跌3.75%，暂报3218.33美元。",
           "url": "https://wallstreetcn.com/livenews/3039869",
           "source": "华尔街见闻-快讯",
@@ -124,18 +182,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时21分 ~ 03时18分]"
-        },
-        {
-          "title": "美元指数跌约0.3%",
-          "url": "https://wallstreetcn.com/livenews/3039917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时18分]"
         }
       ]
     },
@@ -153,11 +199,12 @@
             4,
             19,
             29,
-            30
+            30,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时18分]"
         }
       ]
     }
