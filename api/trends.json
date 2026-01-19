@@ -1,7 +1,64 @@
 {
-  "generated_at": "2026-01-19T07:16:53.235115+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2026-01-19T09:25:27.489127+08:00",
+  "total_titles_processed": 639,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "铜",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "1公斤200元 “再也不敢叫破铜烂铁”",
+          "url": "https://www.baidu.com/s?wd=1%E5%85%AC%E6%96%A4200%E5%85%83+%E2%80%9C%E5%86%8D%E4%B9%9F%E4%B8%8D%E6%95%A2%E5%8F%AB%E7%A0%B4%E9%93%9C%E7%83%82%E9%93%81%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "华泰证券：铜价或持续走强 看向15000美元/吨",
+          "url": "https://flash.jin10.com/detail/20260119080845732800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "华泰证券：供给约束性强+需求步入景气周期铜价或持续走强",
+          "url": "https://wallstreetcn.com/livenews/3039363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国外汇交易中心（CFETS）：1月16日人民币汇率指数按周涨0.25至98.79。",
+          "url": "https://wallstreetcn.com/livenews/3039373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
