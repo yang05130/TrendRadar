@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-01-19T15:27:09.836478+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2026-01-19T16:28:47.604579+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "1公斤最高280元 金银之后铜条也火了",
+          "url": "https://www.toutiao.com/trending/7596878697941143086/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            4,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时47分 ~ 16时28分]"
+        },
         {
           "title": "1公斤200元 “再也不敢叫破铜烂铁”",
           "url": "https://www.baidu.com/s?wd=1%E5%85%AC%E6%96%A4200%E5%85%83+%E2%80%9C%E5%86%8D%E4%B9%9F%E4%B8%8D%E6%95%A2%E5%8F%AB%E7%A0%B4%E9%93%9C%E7%83%82%E9%93%81%E2%80%9D",
@@ -21,20 +35,6 @@
           "time_info": "[09时25分 ~ 13时29分]"
         },
         {
-          "title": "1公斤最高280元 金银之后铜条也火了",
-          "url": "https://www.toutiao.com/trending/7596878697941143086/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            4,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时47分 ~ 15时27分]"
-        },
-        {
           "title": "格陵兰引发美欧关税战风险，纳指期货跌超1%，金银再创新高，铜价逼近13000",
           "url": "https://wallstreetcn.com/articles/3763546",
           "source": "华尔街见闻",
@@ -44,6 +44,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时26分 ~ 15时27分]"
+        },
+        {
+          "title": "格陵兰引发美欧关税战风险，欧美股指期货齐跌，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "“中神铜”后是“锡狂”！揭秘2026年伊始金属市场“暴涨先锋”：锡",
+          "url": "https://www.cls.cn/detail/2261992",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "深圳水贝市场出现投资铜条",
@@ -62,11 +84,12 @@
           "url": "https://www.zhihu.com/question/1996522774148116880",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
+          "appearance_count": 3,
+          "time_info": "[15时26分 ~ 16时28分]"
         },
         {
           "title": "华泰证券：铜价或持续走强 看向15000美元/吨",
