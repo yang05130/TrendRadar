@@ -1,293 +1,61 @@
 {
-  "generated_at": "2026-01-19T23:23:15.796223+08:00",
-  "total_titles_processed": 1871,
+  "generated_at": "2026-01-20T00:24:48.363504+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 20,
+      "match_count": 3,
       "titles": [
         {
-          "title": "1公斤最高280元 金银之后铜条也火了",
-          "url": "https://www.toutiao.com/trending/7596878697941143086/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            4,
-            14,
-            16,
-            1,
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时47分 ~ 23时23分]"
-        },
-        {
-          "title": "投资铜条火了， 1 公斤 180 元至 280 元不等，值得入手吗？这股热潮是怎么形成的？",
-          "url": "https://www.zhihu.com/question/1996522774148116880",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11,
-            6,
-            5,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时26分 ~ 22时24分]"
-        },
-        {
-          "title": "“中神铜”后是“锡狂”！揭秘2026年伊始金属市场“暴涨先锋”：锡",
-          "url": "https://www.cls.cn/detail/2261992",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时28分 ~ 21时43分]"
-        },
-        {
-          "title": "格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000",
+          "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
           "url": "https://wallstreetcn.com/articles/3763546",
           "source": "华尔街见闻",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时31分 ~ 20时41分]"
-        },
-        {
-          "title": "格陵兰引发关税战风险，美股指期货走低，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时43分 ~ 23时23分]"
+          "appearance_count": 1,
+          "time_info": "00时24分"
         },
         {
           "title": "投资铜条火了",
           "url": "https://www.douyin.com/hot/2372733",
           "source": "抖音",
           "ranks": [
-            12,
-            20,
-            18,
-            16,
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时31分 ~ 23时23分]"
-        },
-        {
-          "title": "1公斤200元 “再也不敢叫破铜烂铁”",
-          "url": "https://www.baidu.com/s?wd=1%E5%85%AC%E6%96%A4200%E5%85%83+%E2%80%9C%E5%86%8D%E4%B9%9F%E4%B8%8D%E6%95%A2%E5%8F%AB%E7%A0%B4%E9%93%9C%E7%83%82%E9%93%81%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时25分 ~ 13时29分]"
-        },
-        {
-          "title": "格陵兰引发美欧关税战风险，纳指期货跌超1%，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
-        },
-        {
-          "title": "格陵兰引发美欧关税战风险，欧美股指期货齐跌，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时28分"
+          "time_info": "00时24分"
         },
         {
-          "title": "伦敦金属交易所(LME)：锡库存增加505吨，铝库存减少3000吨，镍库存减少24吨，铅库存减少2850吨，铜库存增加3850吨，锌库存减少1475吨。",
-          "url": "https://flash.jin10.com/detail/20260119170042245800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "秘鲁能源和矿业部：11月铜产量同比下降11.2%，至216,152吨。",
-          "url": "https://flash.jin10.com/detail/20260119202758431800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
-          "title": "炒完金条银条 投资铜条火了",
-          "url": "https://www.baidu.com/s?wd=%E7%82%92%E5%AE%8C%E9%87%91%E6%9D%A1%E9%93%B6%E6%9D%A1+%E6%8A%95%E8%B5%84%E9%93%9C%E6%9D%A1%E7%81%AB%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时24分 ~ 20时41分]"
-        },
-        {
-          "title": "深圳水贝市场出现投资铜条",
-          "url": "https://wallstreetcn.com/livenews/3039553",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 15时27分]"
-        },
-        {
-          "title": "伦敦金属交易所(LME)：锡库存增加505吨，铝库存减少3000吨，镍库存减少24吨，铅库存减少2850吨，铜库存增加3850吨，锌库存减少1475吨。",
-          "url": "https://wallstreetcn.com/livenews/3039655",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时24分]"
-        },
-        {
-          "title": "江西铜业：与中国兵工物资集团有限公司签订《合作框架协议》，协议主要涉及阴极铜、粗铜、电解镍等产品的购销。",
-          "url": "https://wallstreetcn.com/livenews/3039650",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时24分]"
-        },
-        {
-          "title": "“破铜烂铁”的铜悄悄出圈",
-          "url": "https://www.toutiao.com/trending/7596426473784983558/",
+          "title": "1公斤最高280元 金银之后铜条也火了",
+          "url": "https://www.toutiao.com/trending/7596878697941143086/",
           "source": "今日头条",
           "ranks": [
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时24分]"
-        },
-        {
-          "title": "华泰证券：铜价或持续走强 看向15000美元/吨",
-          "url": "https://flash.jin10.com/detail/20260119080845732800",
-          "source": "金十数据",
-          "ranks": [
-            21
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "智利铜业委员会：智利铜产量将在2033年达到606万公吨的峰值，随后在2034年降至586万公吨。",
-          "url": "https://flash.jin10.com/detail/20260119195758415800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
-          "title": "华泰证券：供给约束性强+需求步入景气周期铜价或持续走强",
-          "url": "https://wallstreetcn.com/livenews/3039363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "金银大涨后铜条悄悄火了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%93%B6%E5%A4%A7%E6%B6%A8%E5%90%8E%E9%93%9C%E6%9D%A1%E6%82%84%E6%82%84%E7%81%AB%E4%BA%86%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时47分"
+          "time_info": "00时24分"
         }
       ]
     },
     {
-      "keyword_group": "人民币",
+      "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
         {
-          "title": "中国外汇交易中心（CFETS）：1月16日人民币汇率指数按周涨0.25至98.79。",
-          "url": "https://wallstreetcn.com/livenews/3039373",
-          "source": "华尔街见闻-快讯",
+          "title": "决定黄金价格的三大属性",
+          "url": "https://www.toutiao.com/trending/7597064696004349450/",
+          "source": "今日头条",
           "ranks": [
-            19
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "泡泡玛特",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "泡泡玛特：斥资2.51亿港元回购140万股股份",
-          "url": "https://wallstreetcn.com/livenews/3039723",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时41分]"
+          "time_info": "00时24分"
         }
       ]
     }
