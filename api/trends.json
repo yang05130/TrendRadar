@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T20:41:30.282304+08:00",
-  "total_titles_processed": 1614,
+  "generated_at": "2026-01-19T21:43:32.654810+08:00",
+  "total_titles_processed": 1713,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "1公斤最高280元 金银之后铜条也火了",
@@ -20,8 +20,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时47分 ~ 20时41分]"
+          "appearance_count": 13,
+          "time_info": "[11时47分 ~ 21时43分]"
         },
         {
           "title": "投资铜条火了， 1 公斤 180 元至 280 元不等，值得入手吗？这股热潮是怎么形成的？",
@@ -32,11 +32,12 @@
             11,
             6,
             5,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时26分 ~ 20时41分]"
+          "appearance_count": 9,
+          "time_info": "[15时26分 ~ 21时43分]"
         },
         {
           "title": "“中神铜”后是“锡狂”！揭秘2026年伊始金属市场“暴涨先锋”：锡",
@@ -50,8 +51,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时28分 ~ 20时41分]"
+          "appearance_count": 7,
+          "time_info": "[16时28分 ~ 21时43分]"
         },
         {
           "title": "格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000",
@@ -89,6 +90,20 @@
           "time_info": "[15时26分 ~ 15时27分]"
         },
         {
+          "title": "投资铜条火了",
+          "url": "https://www.douyin.com/hot/2372733",
+          "source": "抖音",
+          "ranks": [
+            12,
+            20,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时31分 ~ 21时43分]"
+        },
+        {
           "title": "格陵兰引发美欧关税战风险，欧美股指期货齐跌，金银再创新高，铜价逼近13000",
           "url": "https://wallstreetcn.com/articles/3763546",
           "source": "华尔街见闻",
@@ -100,18 +115,15 @@
           "time_info": "16时28分"
         },
         {
-          "title": "投资铜条火了",
-          "url": "https://www.douyin.com/hot/2372733",
-          "source": "抖音",
+          "title": "格陵兰引发关税战风险，美股指期货走低，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            20,
-            18,
-            16
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时31分 ~ 20时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         },
         {
           "title": "伦敦金属交易所(LME)：锡库存增加505吨，铝库存减少3000吨，镍库存减少24吨，铅库存减少2850吨，铜库存增加3850吨，锌库存减少1475吨。",
@@ -131,7 +143,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -213,7 +225,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
