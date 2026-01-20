@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T19:21:29.859672+08:00",
-  "total_titles_processed": 1706,
+  "generated_at": "2026-01-20T20:41:37.214712+08:00",
+  "total_titles_processed": 1814,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
@@ -119,6 +119,17 @@
           "time_info": "[05时17分 ~ 06时18分]"
         },
         {
+          "title": "墨西哥统计局：墨西哥11月白银产量共计328,486公斤。墨西哥11月铜产量共计41,126吨。墨西哥11月铜产量共计41,126吨。",
+          "url": "https://flash.jin10.com/detail/20260120200054714800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "必和必拓(BHP.N)第二季度铜产量为49.05万吨，同比下降4%；铁矿石产量为6970万吨，同比增长5%；炼钢煤产量为430万吨，同比下降3%；动力煤产量为460万吨，同比增长25%。",
           "url": "https://flash.jin10.com/detail/20260120060250646800",
           "source": "金十数据",
@@ -180,7 +191,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         }
@@ -280,11 +291,12 @@
           "ranks": [
             12,
             15,
-            28
+            28,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时30分 ~ 19时21分]"
+          "appearance_count": 5,
+          "time_info": "[17时30分 ~ 20时41分]"
         }
       ]
     },
@@ -301,8 +313,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时30分 ~ 19时21分]"
+          "appearance_count": 5,
+          "time_info": "[17时30分 ~ 20时41分]"
         },
         {
           "title": "摩根士丹利：泡泡玛特2024年初来首次回购 料吸引等待催化剂的投资者",
@@ -314,6 +326,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美债日债领跌！格陵兰危机与财政压力引发全球债市抛售潮",
+          "url": "https://wallstreetcn.com/articles/3763671",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         }
       ]
     }
