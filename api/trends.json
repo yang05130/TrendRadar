@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T20:41:37.214712+08:00",
-  "total_titles_processed": 1814,
+  "generated_at": "2026-01-20T21:44:26.641995+08:00",
+  "total_titles_processed": 1913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
@@ -125,7 +125,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -183,6 +183,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
+        },
+        {
+          "title": "市场消息：两名高级官员表示，刚果民主共和国已向华盛顿提交一份国有采矿资产的候选名单，以推进矿产伙伴关系。官员表示，刚果入围美国投资者名单的项目包括基森格锰矿和金矿、穆托希铜钴矿、科米涅锂矿、索基莫金矿开采许可证以及萨基马钶钽矿。",
+          "url": "https://flash.jin10.com/detail/20260120211731323800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "上期所：调整铜、铝、黄金、白银等期货相关合约交易保证金比例和涨跌停板幅度",
@@ -313,8 +324,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时30分 ~ 20时41分]"
+          "appearance_count": 6,
+          "time_info": "[17时30分 ~ 21时44分]"
         },
         {
           "title": "摩根士丹利：泡泡玛特2024年初来首次回购 料吸引等待催化剂的投资者",
@@ -340,9 +351,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 21时44分]"
         }
       ]
     }
