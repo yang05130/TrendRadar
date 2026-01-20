@@ -1,239 +1,22 @@
 {
-  "generated_at": "2026-01-20T23:27:44.245636+08:00",
-  "total_titles_processed": 2112,
+  "generated_at": "2026-01-21T00:31:39.150084+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "铜",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 05时17分]"
-        },
-        {
-          "title": "投资铜条火了",
-          "url": "https://www.douyin.com/hot/2372733",
-          "source": "抖音",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时24分 ~ 12时42分]"
-        },
-        {
-          "title": "1公斤最高280元 金银之后铜条也火了",
-          "url": "https://www.toutiao.com/trending/7596878697941143086/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            23,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 09时20分]"
-        },
-        {
-          "title": "LME期铜收涨162美元，报12966美元/吨。 LME期铝收涨24美元，报3158美元/吨。 LME期锌收涨12美元，报3222美元/吨。 LME期铅收涨16美元，报2060美元/吨。 LME期镍收涨555美元，报18133美元/吨。 LME期锡收涨1276美元，报49258美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3039886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            9,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时27分 ~ 05时17分]"
-        },
-        {
-          "title": "【上海国际能源交易中心：调整国际铜期货相关合约交易保证金比例和涨跌停板幅度】上海国际能源交易中心发布通知，经研究决定，自2026年1月22日（星期四）收盘结算时起，交易保证金比例和涨跌停板幅度调整如下： 国际铜期货已上市合约的涨跌停板幅度调整为8%，套保持仓交易保证金比例调整为9%，一般持仓交易保证金比例调整为10%。 如遇《上海国际能源交易中心风险控制管理细则》第十六条规定情况，则在上述交易保证金比例、涨跌停板幅度基础上调整。",
-          "url": "https://wallstreetcn.com/livenews/3040385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "国际铜夜盘收涨0.91%，沪铜收涨1.02%，沪铝收涨1.06%，沪锌收跌0.04%，沪铅收跌0.06%，沪镍收涨1.98%，沪锡收涨2.58%。 氧化铝夜盘收跌2.18%，铝合金收涨0.77%。 不锈钢夜盘收涨1.44%。",
-          "url": "https://wallstreetcn.com/livenews/3039871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时18分]"
-        },
-        {
-          "title": "必和必拓(BHP.N)：南澳铜矿精炼黄金产量创历史新高。",
-          "url": "https://flash.jin10.com/detail/20260120062014191800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
-          "title": "炒完金条银条 投资铜条火了",
-          "url": "https://www.baidu.com/s?wd=%E7%82%92%E5%AE%8C%E9%87%91%E6%9D%A1%E9%93%B6%E6%9D%A1+%E6%8A%95%E8%B5%84%E9%93%9C%E6%9D%A1%E7%81%AB%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时21分 ~ 06时18分]"
-        },
-        {
-          "title": "智利国家铜业公司（Codelco）：年度养护工作造成Teniente冶炼规模受限。",
-          "url": "https://wallstreetcn.com/livenews/3039915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时18分]"
-        },
-        {
-          "title": "墨西哥统计局：墨西哥11月白银产量共计328,486公斤。墨西哥11月铜产量共计41,126吨。墨西哥11月铜产量共计41,126吨。",
-          "url": "https://flash.jin10.com/detail/20260120200054714800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
-          "title": "必和必拓(BHP.N)第二季度铜产量为49.05万吨，同比下降4%；铁矿石产量为6970万吨，同比增长5%；炼钢煤产量为430万吨，同比下降3%；动力煤产量为460万吨，同比增长25%。",
-          "url": "https://flash.jin10.com/detail/20260120060250646800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
-          "title": "必和必拓(BHP.N)上调了2026财年集团铜、埃斯孔迪达和安塔米纳矿的产量指引。",
-          "url": "https://flash.jin10.com/detail/20260120060121397800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
-          "title": "必和必拓(BHP.N)预计2026财年铜产量为190万至200万吨。",
-          "url": "https://flash.jin10.com/detail/20260120060116004800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
-          "title": "英伟达修改数据中心铜需求「笔误」，50 万吨下调至 200 吨，如何看待此事？是否动摇了铜的投资逻辑？",
-          "url": "https://www.zhihu.com/question/1995534550126833961",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时27分"
-        },
-        {
-          "title": "上期能源：调整国际铜期货相关合约交易保证金比例和涨跌停板幅度",
-          "url": "https://flash.jin10.com/detail/20260120180441997800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "伦敦金属交易所(LME)：铝库存减少2000吨，锡库存增加520吨，铅库存增加22075吨，铜库存增加8875吨，镍库存减少972吨，锌库存增加7250吨。",
-          "url": "https://flash.jin10.com/detail/20260120170054831800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "市场消息：两名高级官员表示，刚果民主共和国已向华盛顿提交一份国有采矿资产的候选名单，以推进矿产伙伴关系。官员表示，刚果入围美国投资者名单的项目包括基森格锰矿和金矿、穆托希铜钴矿、科米涅锂矿、索基莫金矿开采许可证以及萨基马钶钽矿。",
-          "url": "https://flash.jin10.com/detail/20260120211731323800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "上期所：调整铜、铝、黄金、白银等期货相关合约交易保证金比例和涨跌停板幅度",
-          "url": "https://wallstreetcn.com/livenews/3040405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 8,
+      "match_count": 3,
       "titles": [
         {
           "title": "美债日债领跌！格陵兰危机与财政压力引发全球债市抛售潮",
           "url": "https://wallstreetcn.com/articles/3763671",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时41分 ~ 23时27分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
           "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
@@ -243,228 +26,53 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时27分 ~ 23时27分]"
-        },
-        {
-          "title": "丹麦养老基金决定抛售美债 称美国不再是一个良好的信用对象",
-          "url": "https://flash.jin10.com/detail/20260120215845735800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时28分"
+          "time_info": "00时31分"
         },
         {
           "title": "贝森特称日本国债抛售潮外溢至美债市场，已与日方对口官员沟通",
           "url": "https://wallstreetcn.com/livenews/3040562",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时27分"
-        },
-        {
-          "title": "古根海姆首席投资官Anne Walsh：不认可丹麦基金抛售美债的做法。 市场笼罩着针对美国的情绪。 地缘政治逆风加剧紧张情绪。 美国信用的基本面“相当不错”。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3040527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
-          "title": "美财长：欧洲抛售美债是“虚假叙事”",
-          "url": "https://www.toutiao.com/trending/7597354792205159982/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时27分 ~ 22时28分]"
-        },
-        {
-          "title": "丹麦养老基金AkademikerPension拟卖美债 称特朗普政策引发信用风险",
-          "url": "https://wallstreetcn.com/livenews/3040510",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
-          "title": "受丹麦基金清仓美债影响，欧元兑美元EUR/USD升至盘中高点1.1768。",
-          "url": "https://flash.jin10.com/detail/20260120213905710800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美元指数DXY一度下跌0.6%至98.46的低点，势创12月10日以来的最大单日跌幅。",
-          "url": "https://flash.jin10.com/detail/20260120171113235800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "美元指数DXY跌破99，日内跌0.05%。",
-          "url": "https://flash.jin10.com/detail/20260120112111284800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "美元指数19日下跌",
-          "url": "https://flash.jin10.com/detail/20260120043735126800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时18分]"
-        },
-        {
-          "title": "美元指数跌约0.3%",
-          "url": "https://wallstreetcn.com/livenews/3039917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时17分 ~ 07时18分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌6.01%，暂报3824.50点，保持一段时间的微幅上涨状态之后，北京时间07:00从日高4106.50点跳水，迅速在08:08刷新日低至3714.89点。 MarketVectorTM数字资产100中盘指数跌5.90%，报3514.13点，06:54刷新日高至3765.08点，08:08刷新日低至3430.70点。 MarketVector数字资产100指数跌2.63%，报19159.74点， 07:00出现一波跳水行情，从日高19774.12点快速跌至18952.97点刷新日低。 目前，Solana跌5.73%，狗狗币跌6.17%，XRP跌1.61%。 比特币跌2.23%，暂报93184.25美元；以太坊跌3.75%，暂报3218.33美元。",
-          "url": "https://wallstreetcn.com/livenews/3039869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时18分]"
-        },
-        {
-          "title": "恒天然：1月20日全球乳品贸易（GDT）拍卖价格指数上涨1.5%，奶粉各合同期FAS拍卖均价3,615美元/吨。 批发奶粉价格指数上升1.0%，报3,449美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3040547",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时27分"
-        },
-        {
-          "title": "丹麦基金宣布抛售后，美国国债跌势延续。 欧元兑美元升至盘中高点1.1768。 美元指数短线走低约20点，现报98.37。 瑞典克朗和丹麦克朗兑美元上涨1%。",
-          "url": "https://wallstreetcn.com/livenews/3040513",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "决定黄金价格的三大属性",
-          "url": "https://www.toutiao.com/trending/7597064696004349450/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            9,
-            4,
-            19,
-            29,
-            30,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时18分]"
-        },
-        {
-          "title": "国际黄金价格突破每盎司4700美元",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E7%AA%81%E7%A0%B4%E6%AF%8F%E7%9B%8E%E5%8F%B84700%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            15,
-            28,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时30分 ~ 20时41分]"
+          "time_info": "00时31分"
         }
       ]
     },
     {
       "keyword_group": "泡泡玛特",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "创业板跌近2%，化工、黄金逆势大涨，商业航天、算力硬件集体调整，恒科指跌超1%，泡泡玛特涨9%，碳酸锂涨停",
           "url": "https://wallstreetcn.com/articles/3763658",
           "source": "华尔街见闻",
           "ranks": [
-            8,
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时30分 ~ 23时27分]"
-        },
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "铜",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "摩根士丹利：泡泡玛特2024年初来首次回购 料吸引等待催化剂的投资者",
-          "url": "https://wallstreetcn.com/livenews/3039985",
-          "source": "华尔街见闻-快讯",
+          "title": "英伟达修改数据中心铜需求「笔误」，50 万吨下调至 200 吨，如何看待此事？是否动摇了铜的投资逻辑？",
+          "url": "https://www.zhihu.com/question/1995534550126833961",
+          "source": "知乎",
           "ranks": [
-            20
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时20分"
+          "time_info": "00时31分"
         }
       ]
     }
