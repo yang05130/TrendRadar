@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T11:42:27.853568+08:00",
-  "total_titles_processed": 933,
+  "generated_at": "2026-01-20T12:42:10.868555+08:00",
+  "total_titles_processed": 1021,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 11时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 12时42分]"
         },
         {
           "title": "1公斤最高280元 金银之后铜条也火了",
@@ -153,7 +153,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
