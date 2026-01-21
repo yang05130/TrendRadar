@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T14:31:48.189675+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2026-01-21T15:25:30.060994+08:00",
+  "total_titles_processed": 1390,
   "failed_sources": [],
   "trends": [
     {
@@ -178,6 +178,21 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
+          "url": "https://wallstreetcn.com/articles/3763734",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时19分 ~ 15时25分]"
+        },
+        {
           "title": "美债日债领跌！格陵兰危机与财政压力引发全球债市抛售潮",
           "url": "https://wallstreetcn.com/articles/3763671",
           "source": "华尔街见闻",
@@ -203,23 +218,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 14时31分]"
-        },
-        {
-          "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
-          "url": "https://wallstreetcn.com/articles/3763734",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时19分 ~ 14时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 15时25分]"
         },
         {
           "title": "30年期美债收益率涨超7.9个基点",
@@ -310,7 +310,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金十图示：2026年01月21日（周三）今日黄金饰品价格对比",
@@ -323,6 +323,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时41分 ~ 13时26分]"
+        },
+        {
+          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
+          "url": "https://www.zhihu.com/question/1997239169450260384",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         }
       ]
     },
@@ -339,8 +350,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 14时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 15时25分]"
         }
       ]
     },
@@ -355,7 +366,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         }
