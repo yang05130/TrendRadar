@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T15:25:30.060994+08:00",
-  "total_titles_processed": 1390,
+  "generated_at": "2026-01-21T16:27:44.000392+08:00",
+  "total_titles_processed": 1501,
   "failed_sources": [],
   "trends": [
     {
@@ -178,6 +178,23 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
+          "url": "https://wallstreetcn.com/articles/3763688",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 16时27分]"
+        },
+        {
           "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
           "url": "https://wallstreetcn.com/articles/3763734",
           "source": "华尔街见闻",
@@ -189,8 +206,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时19分 ~ 15时25分]"
+          "appearance_count": 11,
+          "time_info": "[06时19分 ~ 16时27分]"
         },
         {
           "title": "美债日债领跌！格陵兰危机与财政压力引发全球债市抛售潮",
@@ -204,22 +221,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时31分 ~ 14时31分]"
-        },
-        {
-          "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
-          "url": "https://wallstreetcn.com/articles/3763688",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 15时25分]"
         },
         {
           "title": "30年期美债收益率涨超7.9个基点",
@@ -313,6 +314,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
+          "url": "https://www.zhihu.com/question/1997239169450260384",
+          "source": "知乎",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 16时27分]"
+        },
+        {
           "title": "金十图示：2026年01月21日（周三）今日黄金饰品价格对比",
           "url": "https://flash.jin10.com/detail/20260121115138760800",
           "source": "金十数据",
@@ -323,17 +336,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时41分 ~ 13时26分]"
-        },
-        {
-          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
-          "url": "https://www.zhihu.com/question/1997239169450260384",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
         }
       ]
     },
@@ -350,8 +352,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 15时25分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 16时27分]"
         }
       ]
     },
