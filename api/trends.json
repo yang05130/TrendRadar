@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T22:27:35.185756+08:00",
-  "total_titles_processed": 2075,
+  "generated_at": "2026-01-21T23:28:18.128970+08:00",
+  "total_titles_processed": 2176,
   "failed_sources": [],
   "trends": [
     {
@@ -211,11 +211,12 @@
             7,
             5,
             4,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时31分 ~ 22时27分]"
+          "appearance_count": 27,
+          "time_info": "[00时31分 ~ 23时28分]"
         },
         {
           "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
@@ -376,11 +377,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时42分 ~ 22时27分]"
+          "appearance_count": 4,
+          "time_info": "[21时42分 ~ 23时28分]"
         },
         {
           "title": "摩尔线程：预计2025年净利润亏损9.5亿元到10.6亿元",
@@ -412,8 +414,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时25分 ~ 22时27分]"
+          "appearance_count": 11,
+          "time_info": "[15时25分 ~ 23时28分]"
         },
         {
           "title": "金十图示：2026年01月21日（周三）今日黄金饰品价格对比",
