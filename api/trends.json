@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T12:41:29.736355+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2026-01-21T13:26:42.563172+08:00",
+  "total_titles_processed": 1170,
   "failed_sources": [],
   "trends": [
     {
@@ -41,17 +41,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
-        },
-        {
-          "title": "水贝市场禁售铜条？部分商场回应称暂无该通知",
-          "url": "https://wallstreetcn.com/livenews/3040949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
         },
         {
           "title": "力拓(RIO.N)：2025年铜平均实现价格为4.57美元/磅，铝平均实现价格为3318美元/吨。",
@@ -102,6 +91,18 @@
           "time_info": "[06时20分 ~ 07时19分]"
         },
         {
+          "title": "水贝市场禁售铜条？部分商场回应称暂无该通知",
+          "url": "https://wallstreetcn.com/livenews/3040949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 13时26分]"
+        },
+        {
           "title": "国际铜夜盘收跌1.39%，沪铜收跌1.29%，沪铝收跌1.02%，沪锌收跌0.96%，沪铅收跌1.02%，沪镍收跌1.68%，沪锡收跌0.41%。 氧化铝夜盘收跌0.85%，铝合金收跌0.64%。 不锈钢夜盘收跌0.70%。",
           "url": "https://wallstreetcn.com/livenews/3040612",
           "source": "华尔街见闻-快讯",
@@ -134,8 +135,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时41分]"
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 13时26分]"
         },
         {
           "title": "商品期货开盘，铂主力合约涨超6%，钯涨超4%，碳酸锂涨超3%，沪金涨超2%。焦煤跌超3%，沪镍、烧碱、焦炭、国际铜、沪铜跌超1%。",
@@ -155,7 +156,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
         },
@@ -186,8 +187,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 12时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 13时26分]"
         },
         {
           "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
@@ -201,8 +202,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 12时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 13时26分]"
         },
         {
           "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
@@ -215,8 +216,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时19分 ~ 12时41分]"
+          "appearance_count": 8,
+          "time_info": "[06时19分 ~ 13时26分]"
         },
         {
           "title": "30年期美债收益率涨超7.9个基点",
@@ -314,11 +315,12 @@
           "url": "https://flash.jin10.com/detail/20260121115138760800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 13时26分]"
         }
       ]
     },
@@ -335,8 +337,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 12时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 13时26分]"
         }
       ]
     }
