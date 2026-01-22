@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T03:22:50.518213+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-01-23T04:23:03.622355+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时23分]"
         },
         {
           "title": "特朗普TACO助推全球股市反弹，美股指集体高开，纳指涨0.9%，美债承压",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时23分]"
         },
         {
           "title": "美国PCE通胀数据发布后，标普500指数维持大约0.3%的涨幅，持稳于日低附近。 美国10年期国债收益率回落至接近4.26%的水平，涨幅收窄至不足2个基点，北京时间22:55（美联储青睐的PCE通胀指标发布前五分钟）还曾刷新日高至4.2747%。 两年期美债收益率维持超过2.3个基点的涨幅，持稳于日高3.6143%附近。 现货黄金维持0.1%的涨幅，持稳于4840美元下方。 美元指数维持0.2%的跌幅，持稳于日低98.528点附近，处于14:55以来持续下挫的“趋势”之中。",
@@ -65,11 +65,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 04时23分]"
         },
         {
           "title": "市场消息：受罢工影响，智利的凯普斯通（CAPSTONE）铜矿停产。",
@@ -124,11 +125,12 @@
             19,
             22,
             26,
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时23分]"
         }
       ]
     }
