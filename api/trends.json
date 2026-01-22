@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T05:20:07.040926+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2026-01-23T06:20:06.311031+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 05时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 06时20分]"
         },
         {
           "title": "特朗普TACO助推全球股市反弹，美股指集体高开，纳指涨0.9%，美债承压",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 05时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 06时20分]"
         },
         {
           "title": "两年期美债收益率涨超2个基点",
@@ -38,7 +38,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         },
@@ -66,7 +66,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         },
@@ -99,7 +99,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         }
@@ -151,6 +151,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "A股三大股指午后集体上涨，商业航天再掀涨停潮，港股震荡回升，泡泡玛特大涨6%，黄金、白银反弹",
+          "url": "https://wallstreetcn.com/articles/3763888",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时19分 ~ 06时20分]"
+        },
+        {
           "title": "泡泡玛特“电子木鱼”爆火",
           "url": "https://www.baidu.com/s?wd=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E2%80%9C%E7%94%B5%E5%AD%90%E6%9C%A8%E9%B1%BC%E2%80%9D%E7%88%86%E7%81%AB",
           "source": "百度热搜",
@@ -164,17 +175,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 04时23分]"
-        },
-        {
-          "title": "A股三大股指午后集体上涨，商业航天再掀涨停潮，港股震荡回升，泡泡玛特大涨6%，黄金、白银反弹",
-          "url": "https://wallstreetcn.com/articles/3763888",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 05时20分]"
         }
       ]
     }
