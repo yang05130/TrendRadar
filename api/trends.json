@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T12:44:44.970067+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2026-01-22T13:26:05.002965+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 12时44分]"
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 13时26分]"
         },
         {
           "title": "特朗普上演“TACO”式反转，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -243,8 +243,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 12时44分]"
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 13时26分]"
         },
         {
           "title": "高盛将2026年12月黄金价格预期上调500美元，至每盎司5400美元，原因是各国央行及交易所交易基金纷纷买入。",
@@ -283,8 +283,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 12时44分]"
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 13时26分]"
         }
       ]
     }
