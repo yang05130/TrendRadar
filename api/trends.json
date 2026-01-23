@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T09:21:27.804505+08:00",
-  "total_titles_processed": 907,
+  "generated_at": "2026-01-23T11:31:38.258524+08:00",
+  "total_titles_processed": 1058,
   "failed_sources": [],
   "trends": [
     {
@@ -151,7 +151,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         }
@@ -168,11 +168,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时19分 ~ 09时21分]"
+          "appearance_count": 7,
+          "time_info": "[05时19分 ~ 11时31分]"
         },
         {
           "title": "泡泡玛特“电子木鱼”爆火",
@@ -194,11 +195,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E7%94%B5%E5%AD%90%E6%9C%A8%E9%B1%BC%E7%88%86%E7%81%AB%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 11时31分]"
         }
       ]
     },
@@ -224,9 +226,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 11时31分]"
         }
       ]
     }
