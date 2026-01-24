@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T07:18:34.417823+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2026-01-24T09:19:14.935622+08:00",
+  "total_titles_processed": 712,
   "failed_sources": [],
   "trends": [
     {
@@ -90,11 +90,12 @@
           "url": "https://flash.jin10.com/detail/20260124035907741800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时22分 ~ 07时18分]"
+          "appearance_count": 5,
+          "time_info": "[04时22分 ~ 09时19分]"
         },
         {
           "title": "智利矿业协会警示：铜矿供应增长仍需数年方可显现",
@@ -145,7 +146,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         }
