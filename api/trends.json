@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T09:29:06.920108+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-01-25T11:51:30.463744+08:00",
+  "total_titles_processed": 694,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时17分 ~ 09时29分]"
+          "appearance_count": 3,
+          "time_info": "[07时17分 ~ 11时51分]"
         },
         {
           "title": "智利北部封锁进入第五天，铜矿商陷入困境",
