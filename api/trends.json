@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T05:16:40.889335+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2026-01-26T06:17:38.100319+08:00",
+  "total_titles_processed": 431,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 05时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "铜",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "智利国家铜业公司（Codelco）主席Maximo Pacheco：公司2025年全年EBITDA高于65亿美元（2024年为54.4亿美元）。 对智利政府（财政/税收）的总体贡献超过17亿美元。 我将在5月份任期届满时离职。（报纸La Tercera）",
+          "url": "https://wallstreetcn.com/livenews/3043406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         }
       ]
     }
