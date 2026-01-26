@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-01-26T07:18:01.363525+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-01-26T09:28:09.010204+08:00",
+  "total_titles_processed": 636,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "铜",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "智利国家铜业公司（Codelco）主席Maximo Pacheco：公司2025年全年EBITDA高于65亿美元（2024年为54.4亿美元）。 对智利政府（财政/税收）的总体贡献超过17亿美元。 我将在5月份任期届满时离职。（报纸La Tercera）",
+          "url": "https://wallstreetcn.com/livenews/3043406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时18分]"
+        },
+        {
+          "title": "商品期货开盘，沪银主力合约涨超11%，沪锡涨超9%，碳酸锂、铂涨超6%，钯涨超5%，燃料油涨超4%，BR橡胶、沪金、甲醇、液化气、沪铜、国际铜、沪镍、原油涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3043516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "早盘开盘，国内期货主力合约涨多跌少，沪银涨超11%，沪锡涨超9%，碳酸锂、铂涨超6%，钯涨超5%，燃油涨超4%，合成橡胶、液化石油气（LPG）、SC原油、沪铜涨超2%。跌幅方面，纸浆跌超1%，棉花、烧碱跌近1%。",
+          "url": "https://flash.jin10.com/detail/20260126090002328800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        }
+      ]
+    },
     {
       "keyword_group": "黄金",
       "match_count": 1,
@@ -32,27 +72,26 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         }
       ]
     },
     {
-      "keyword_group": "铜",
+      "keyword_group": "泡泡玛特",
       "match_count": 1,
       "titles": [
         {
-          "title": "智利国家铜业公司（Codelco）主席Maximo Pacheco：公司2025年全年EBITDA高于65亿美元（2024年为54.4亿美元）。 对智利政府（财政/税收）的总体贡献超过17亿美元。 我将在5月份任期届满时离职。（报纸La Tercera）",
-          "url": "https://wallstreetcn.com/livenews/3043406",
+          "title": "恒指高开0.35%，报26844.04点；恒生科技指数涨0.05%。泡泡玛特涨超4%，紫金矿业涨近3%，腾讯音乐涨近2%；百度跌近2%，小鹏汽车跌1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3043531",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            20
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         }
       ]
     }
