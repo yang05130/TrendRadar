@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T13:31:46.201214+08:00",
-  "total_titles_processed": 923,
+  "generated_at": "2026-01-26T14:32:25.000145+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1999025860699710314",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时54分 ~ 13时31分]"
+          "appearance_count": 4,
+          "time_info": "[11时54分 ~ 14时32分]"
         },
         {
           "title": "湖南黄金：预计2025年度净利润12.70亿元-16.08亿元，同比增长50%-90%。报告期内，业绩上涨主要是公司金、锑、钨产品销售价格同比上涨。",
@@ -36,11 +37,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时54分 ~ 13时31分]"
+          "appearance_count": 4,
+          "time_info": "[11时54分 ~ 14时32分]"
         }
       ]
     },
