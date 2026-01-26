@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T06:18:53.793799+08:00",
-  "total_titles_processed": 593,
+  "generated_at": "2026-01-27T07:19:38.927526+08:00",
+  "total_titles_processed": 638,
   "failed_sources": [],
   "trends": [
     {
@@ -61,7 +61,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -101,8 +101,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 07时19分]"
         },
         {
           "title": "丰业银行：与黄金价格脱节，黄金股存在“补涨”机会",
