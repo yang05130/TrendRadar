@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T19:20:59.464046+08:00",
-  "total_titles_processed": 1753,
+  "generated_at": "2026-01-27T20:40:21.844604+08:00",
+  "total_titles_processed": 1862,
   "failed_sources": [],
   "trends": [
     {
@@ -156,7 +156,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -188,8 +188,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时28分 ~ 19时20分]"
+          "appearance_count": 6,
+          "time_info": "[16时28分 ~ 20时40分]"
         },
         {
           "title": "伦敦金属交易所(LME)：铜库存增加1825吨，锡库存增加20吨，镍库存增加174吨，铅库存减少2425吨，铝库存减少3025吨，锌库存减少775吨。",
@@ -287,7 +287,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         }
