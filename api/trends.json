@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T03:24:34.020343+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-01-28T04:20:10.354329+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 04时20分]"
         },
         {
           "title": "一项新兴市场货币指数连续第四个交易日上涨，彭博追踪的22种发展中市场货币中，有16种兑美元走强。该指数纳入了利率回报因素，随着美元回落，该指数目前处于纪录高位。",
@@ -52,11 +52,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[02时33分 ~ 04时20分]"
         },
         {
           "title": "国际铜夜盘收跌1.30%，沪铜收跌1.18%，沪铝收涨0.43%，沪锌收涨0.10%，沪铅收跌0.21%，沪镍收跌1.96%，沪锡收涨0.41%。 氧化铝夜盘收涨1.62%，铝合金收涨0.20%。 不锈钢夜盘收跌2.08%。",
@@ -97,8 +98,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 04时20分]"
         }
       ]
     }
