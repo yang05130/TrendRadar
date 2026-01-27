@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T21:44:07.034720+08:00",
-  "total_titles_processed": 1962,
+  "generated_at": "2026-01-27T22:26:59.782119+08:00",
+  "total_titles_processed": 2030,
   "failed_sources": [],
   "trends": [
     {
@@ -66,6 +66,18 @@
           "time_info": "[05时20分 ~ 06时18分]"
         },
         {
+          "title": "彭博美元即期指数触及2022年3月以来最弱水平。",
+          "url": "https://wallstreetcn.com/livenews/3044792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 22时26分]"
+        },
+        {
           "title": "美元指数跌至4个月新低，现跌0.33%，报96.9。",
           "url": "https://flash.jin10.com/detail/20260126235706137800",
           "source": "金十数据",
@@ -75,17 +87,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
-        },
-        {
-          "title": "彭博美元即期指数触及2022年3月以来最弱水平。",
-          "url": "https://wallstreetcn.com/livenews/3044792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
         },
         {
           "title": "美元指数DXY失守97，日内跌幅0.48%。",
@@ -105,7 +106,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -138,7 +139,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         }
@@ -187,17 +188,6 @@
           "time_info": "[02时30分 ~ 04时23分]"
         },
         {
-          "title": "夜盘期货开盘，沪锡涨逾2%，棕榈油涨逾1%，沪银、氧化铝、沪镍等上涨；焦炭、焦煤、国际铜跌逾1%；沪铜、液化石油气、玻璃等下跌。",
-          "url": "https://wallstreetcn.com/livenews/3044798",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
           "title": "伦敦金属交易所（LME）：铜库存172350吨，增加1825吨。 铝库存502250吨，减少3025吨。 镍库存285726吨，增加174吨。",
           "url": "https://wallstreetcn.com/livenews/3044634",
           "source": "华尔街见闻-快讯",
@@ -208,6 +198,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时30分 ~ 18时24分]"
+        },
+        {
+          "title": "夜盘期货开盘，沪锡涨逾2%，棕榈油涨逾1%，沪银、氧化铝、沪镍等上涨；焦炭、焦煤、国际铜跌逾1%；沪铜、液化石油气、玻璃等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3044798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 22时26分]"
         },
         {
           "title": "欧洲STOXX 600指数初步收涨0.25%，报609.86点，成分股彪马涨17%，波兰铜业集团公司涨超8%表现第二。 欧元区STOXX 50指数初步收涨0.21%，报5960.91点。 富时泛欧绩优300指数初步收涨0.27%，报2429.88点。",
@@ -228,7 +230,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         }
