@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T15:25:26.958922+08:00",
-  "total_titles_processed": 1336,
+  "generated_at": "2026-01-27T16:28:54.868264+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
@@ -131,37 +131,8 @@
       ]
     },
     {
-      "keyword_group": "黄金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 09时26分]"
-        },
-        {
-          "title": "丰业银行：与黄金价格脱节，黄金股存在“补涨”机会",
-          "url": "https://flash.jin10.com/detail/20260127032144088800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 05时20分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "铜",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "LME期铜收涨84美元，报13199美元/吨。 LME期铝收涨20美元，报3188美元/吨。 LME期锌收涨82美元，报3342美元/吨。 LME期铅收涨12美元，报2038美元/吨。 LME期镍收涨234美元，报18522美元/吨。 LME期锡收跌2584美元，报54232美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -187,6 +158,46 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 02时30分]"
+        },
+        {
+          "title": "锂、铜、铝、DRAM全在涨！中国电动车行业利润率正被大口“吞噬”",
+          "url": "https://www.cls.cn/detail/2271008",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 09时26分]"
+        },
+        {
+          "title": "丰业银行：与黄金价格脱节，黄金股存在“补涨”机会",
+          "url": "https://flash.jin10.com/detail/20260127032144088800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时23分 ~ 05时20分]"
         }
       ]
     }
