@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T06:20:31.766174+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2026-01-28T07:18:48.777991+08:00",
+  "total_titles_processed": 705,
   "failed_sources": [],
   "trends": [
     {
@@ -119,33 +119,12 @@
           "ranks": [
             10,
             9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时33分 ~ 06时20分]"
-        },
-        {
-          "title": "淡水河谷(VALE.N)：第四季度铜销量10.69万吨。2025年铜销量为36.78万吨。",
-          "url": "https://flash.jin10.com/detail/20260128054817210800",
-          "source": "金十数据",
-          "ranks": [
+            8,
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "淡水河谷(VALE.N)：第四季度铜产量10.81万吨。2025年铜产量为38.24万吨。",
-          "url": "https://flash.jin10.com/detail/20260128054741791800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时33分 ~ 07时18分]"
         },
         {
           "title": "国际铜夜盘收跌1.30%，沪铜收跌1.18%，沪铝收涨0.43%，沪锌收涨0.10%，沪铅收跌0.21%，沪镍收跌1.96%，沪锡收涨0.41%。 氧化铝夜盘收涨1.62%，铝合金收涨0.20%。 不锈钢夜盘收跌2.08%。",
@@ -158,6 +137,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时25分 ~ 02时33分]"
+        },
+        {
+          "title": "淡水河谷(VALE.N)：第四季度铜销量10.69万吨。2025年铜销量为36.78万吨。",
+          "url": "https://flash.jin10.com/detail/20260128054817210800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时18分]"
+        },
+        {
+          "title": "淡水河谷(VALE.N)：第四季度铜产量10.81万吨。2025年铜产量为38.24万吨。",
+          "url": "https://flash.jin10.com/detail/20260128054741791800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时18分]"
         },
         {
           "title": "LME期铜收跌192美元，报13006美元/吨。 LME期铝收涨18美元，报3207美元/吨。 LME期锌收涨8美元，报3351美元/吨。 LME期铅收跌18美元，报2020美元/吨。 LME期镍收跌353美元，报18169美元/吨。 LME期锡收涨646美元，报54878美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -178,7 +181,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         }
