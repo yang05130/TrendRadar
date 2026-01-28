@@ -1,50 +1,12 @@
 {
-  "generated_at": "2026-01-28T23:31:16.105546+08:00",
-  "total_titles_processed": 2179,
+  "generated_at": "2026-01-29T00:32:36.581329+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 20,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
-          "url": "https://wallstreetcn.com/articles/3764255",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[02时33分 ~ 18时25分]"
-        },
-        {
-          "title": "特朗普乐见贬值，美元跌至四年低位，美股盘前芯片股集体上涨，现货黄金站上5300，银、铜、铝集体上涨",
-          "url": "https://wallstreetcn.com/articles/3764338",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 20时41分]"
-        },
-        {
-          "title": "美联储决议前，强劲财报提振科技股，纳指期货涨0.9%，美元止跌，黄金5300，银、铜、铝集体上涨",
-          "url": "https://wallstreetcn.com/articles/3764338",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时45分 ~ 22时27分]"
-        },
         {
           "title": "美联储决议前，强劲财报提振科技股，标普500突破7000点创新高，阿斯麦转跌，美元止跌，黄金5300，银、铜、铝集体上涨",
           "url": "https://wallstreetcn.com/articles/3764338",
@@ -53,439 +15,53 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时29分 ~ 23时31分]"
-        },
-        {
-          "title": "特朗普乐见贬值，美元跌至四年低位，亚洲货币走强，现货黄金站上5300，银、铜、铝集体上涨",
-          "url": "https://wallstreetcn.com/articles/3764338",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 18时25分]"
-        },
-        {
-          "title": "伦敦金属交易所(LME)：镍库存增加612吨，锌库存减少175吨，锡库存减少25吨，铜库存增加1575吨，铅库存减少2000吨，铝库存减少2275吨。",
-          "url": "https://flash.jin10.com/detail/20260128170045469800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时31分"
+          "time_info": "00时32分"
         },
         {
-          "title": "国际铜夜盘收跌1.30%，沪铜收跌1.18%，沪铝收涨0.43%，沪锌收涨0.10%，沪铅收跌0.21%，沪镍收跌1.96%，沪锡收涨0.41%。 氧化铝夜盘收涨1.62%，铝合金收涨0.20%。 不锈钢夜盘收跌2.08%。",
-          "url": "https://wallstreetcn.com/livenews/3044904",
+          "title": "行业咨询公司CRU Group预计，2026年全球铜实际均价将为5.12美元/磅。 关键驱动因素包括中国和全球对精炼铜的消费需求的增长。 预计全球2026年铜消费将增长3%左右。",
+          "url": "https://wallstreetcn.com/livenews/3045690",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 02时33分]"
-        },
-        {
-          "title": "淡水河谷(VALE.N)：第四季度铜销量10.69万吨。2025年铜销量为36.78万吨。",
-          "url": "https://flash.jin10.com/detail/20260128054817210800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 07时18分]"
-        },
-        {
-          "title": "淡水河谷(VALE.N)：第四季度铜产量10.81万吨。2025年铜产量为38.24万吨。",
-          "url": "https://flash.jin10.com/detail/20260128054741791800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 07时18分]"
-        },
-        {
-          "title": "LME期铜收跌192美元，报13006美元/吨。 LME期铝收涨18美元，报3207美元/吨。 LME期锌收涨8美元，报3351美元/吨。 LME期铅收跌18美元，报2020美元/吨。 LME期镍收跌353美元，报18169美元/吨。 LME期锡收涨646美元，报54878美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3044920",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 03时24分]"
-        },
-        {
-          "title": "银锡铜价格大涨 电子元器件掀涨价潮",
-          "url": "https://wallstreetcn.com/livenews/3045609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时45分 ~ 22时27分]"
-        },
-        {
-          "title": "伦敦金属交易所（LME）：铜库存173925吨，增加1575吨。 铝库存499975吨，减少2275吨。 镍库存286338吨，增加612吨。",
-          "url": "https://wallstreetcn.com/livenews/3045464",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时25分]"
-        },
-        {
-          "title": "中信证券：覆铜板有望持续涨价，看好后续毛利率及业绩弹性",
-          "url": "https://wallstreetcn.com/livenews/3045081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "花旗称，在锂、铜和电解液等成本上涨的背景下，市场担忧电池厂商利润率下行压力，将宁德时代、亿纬锂能、国轩高科和中创新航加入30天下行催化观察。",
-          "url": "https://wallstreetcn.com/livenews/3045080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "俄罗斯诺里尔斯克镍业：四季度铜产量为112,015吨，环比增长12%。",
-          "url": "https://flash.jin10.com/detail/20260128183438692800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "早盘开盘，国内期货主力合约涨跌不一，碳酸锂涨超5%，沪锡、沪银、沥青、铂、燃油涨超2%，SC原油涨2%。跌幅方面，合成橡胶、不锈钢（SS）跌近2%，焦煤、沪铜跌超1%。",
-          "url": "https://flash.jin10.com/detail/20260128090023349800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "智利化工矿业公司（SQM）：在天齐锂业上诉被驳回之后，与智利国家铜业公司（Codelco）的合资项目已经获得批准。",
-          "url": "https://wallstreetcn.com/livenews/3044998",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "渣打银行：美元走软及黄金和白银大幅上涨支撑铜价。",
-          "url": "https://flash.jin10.com/detail/20260128140612791800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "渣打银行：预测铜价上半年平均价格为12,950美元/吨，而下半年为11,475美元/吨",
-          "url": "https://flash.jin10.com/detail/20260128140555472800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "据港交所披露，江西铜博科技股份有限公司向港交所提交上市申请书，独家保荐人为国金证券香港。",
-          "url": "https://wallstreetcn.com/livenews/3045643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
-          "url": "https://wallstreetcn.com/articles/3764253",
-          "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 05时16分]"
-        },
-        {
-          "title": "美元指数日内跌幅达1.0%，报96.0082。",
-          "url": "https://wallstreetcn.com/livenews/3044978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "美元指数DXY短线拉升近40点，最高至96.58；美元兑日元USD/JPY短线上扬90点，报153.63。",
-          "url": "https://flash.jin10.com/detail/20260128231336447800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时31分"
-        },
-        {
-          "title": "美元指数跌至近四年新低 特朗普政策不确定性引爆市场焦虑",
-          "url": "https://www.cls.cn/detail/2271889",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 15时23分]"
-        },
-        {
-          "title": "美元指数DXY短线走低超50点，特朗普释放让美元走弱的信号。",
-          "url": "https://flash.jin10.com/detail/20260128045028664800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "美元指数跌超0.8%，创2022年年初以来新低",
-          "url": "https://wallstreetcn.com/livenews/3044966",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "美元指数跌至近4年来低点",
-          "url": "https://wallstreetcn.com/livenews/3045248",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 13时25分]"
-        },
-        {
-          "title": "一项新兴市场货币指数连续第四个交易日上涨，彭博追踪的22种发展中市场货币中，有16种兑美元走强。该指数纳入了利率回报因素，随着美元回落，该指数目前处于纪录高位。",
-          "url": "https://wallstreetcn.com/livenews/3044896",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "美元指数DXY日内跌幅达1%，跌破96关口，创2022年2月以来新低。",
-          "url": "https://flash.jin10.com/detail/20260128044641548800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "美国两年期国债收益率走低，最新数据显示，美国1月谘商会消费者信心指数降低至84.5，创2014年5月以来新低。 美元指数跌0.70%，报96.37点，为2025年9月以来最低。",
-          "url": "https://wallstreetcn.com/livenews/3044859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "在特朗普发表评论后，美元指数DXY拉升约10点。",
-          "url": "https://flash.jin10.com/detail/20260128044444108800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "美元指数27日下跌",
-          "url": "https://flash.jin10.com/detail/20260128042630091800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "美元指数DXY日内涨幅扩大至0.50%，现报96.24。美元兑瑞郎USD/CHF日内涨幅扩大至1.00%，现报0.7691。",
-          "url": "https://flash.jin10.com/detail/20260128165244937800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "美元指数跌至近4年新低",
-          "url": "https://www.toutiao.com/trending/7600191006633365035/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
+          "time_info": "00时32分"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
           "title": "黄金价格为何一路猛涨",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
           "source": "bilibili 热搜",
           "ranks": [
-            4,
-            1,
-            6,
-            29,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时31分 ~ 23时31分]"
-        },
-        {
-          "title": "黄金价格大涨又大跌，是走还是留？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32472438",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时25分 ~ 19时21分]"
-        },
-        {
-          "title": "黄金价格暴涨暴跌 是走还是留",
-          "url": "https://www.toutiao.com/trending/7600200790535310911/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时41分 ~ 17时31分]"
-        },
-        {
-          "title": "四川黄金：若未来黄金价格大幅波动，将给经营业绩带来较大影响",
-          "url": "https://wallstreetcn.com/livenews/3045543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "德意志银行表示，如果美元持续疲软，投资者将增加对非美元资产和实体资产的配置，那么2026年黄金价格可能会达到每盎司6000美元。",
-          "url": "https://wallstreetcn.com/livenews/3045069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
+          "time_info": "00时32分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "两年期美债收益率跌2个基点，长端美债收益率则涨超3.2个基点",
-          "url": "https://wallstreetcn.com/livenews/3044973",
+          "title": "彭博美元指数刷新日高，贝森特谈及外汇市场。 美元兑日元走高。 国际油价继续回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3045675",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时16分"
+          "time_info": "00时32分"
         }
       ]
     }
