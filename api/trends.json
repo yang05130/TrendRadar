@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T21:45:37.725997+08:00",
-  "total_titles_processed": 1994,
+  "generated_at": "2026-01-28T22:27:22.357904+08:00",
+  "total_titles_processed": 2066,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,18 @@
           "time_info": "[19时20分 ~ 20时41分]"
         },
         {
+          "title": "美联储决议前，强劲财报提振科技股，纳指期货涨0.9%，美元止跌，黄金5300，银、铜、铝集体上涨",
+          "url": "https://wallstreetcn.com/articles/3764338",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时45分 ~ 22时27分]"
+        },
+        {
           "title": "特朗普乐见贬值，美元跌至四年低位，亚洲货币走强，现货黄金站上5300，银、铜、铝集体上涨",
           "url": "https://wallstreetcn.com/articles/3764338",
           "source": "华尔街见闻",
@@ -44,17 +56,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时31分 ~ 18时25分]"
-        },
-        {
-          "title": "美联储决议前，强劲财报提振科技股，纳指期货涨0.9%，美元止跌，黄金5300，银、铜、铝集体上涨",
-          "url": "https://wallstreetcn.com/articles/3764338",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
         },
         {
           "title": "伦敦金属交易所(LME)：镍库存增加612吨，锌库存减少175吨，锡库存减少25吨，铜库存增加1575吨，铅库存减少2000吨，铝库存减少2275吨。",
@@ -116,6 +117,18 @@
           "time_info": "[02时33分 ~ 03时24分]"
         },
         {
+          "title": "银锡铜价格大涨 电子元器件掀涨价潮",
+          "url": "https://wallstreetcn.com/livenews/3045609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 22时27分]"
+        },
+        {
           "title": "伦敦金属交易所（LME）：铜库存173925吨，增加1575吨。 铝库存499975吨，减少2275吨。 镍库存286338吨，增加612吨。",
           "url": "https://wallstreetcn.com/livenews/3045464",
           "source": "华尔街见闻-快讯",
@@ -148,17 +161,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
-        },
-        {
-          "title": "银锡铜价格大涨 电子元器件掀涨价潮",
-          "url": "https://wallstreetcn.com/livenews/3045609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
         },
         {
           "title": "俄罗斯诺里尔斯克镍业：四季度铜产量为112,015吨，环比增长12%。",
@@ -393,11 +395,12 @@
             4,
             1,
             6,
-            29
+            29,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 21时45分]"
+          "appearance_count": 8,
+          "time_info": "[17时31分 ~ 22时27分]"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
