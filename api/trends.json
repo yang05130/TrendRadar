@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T09:22:49.221606+08:00",
-  "total_titles_processed": 850,
+  "generated_at": "2026-01-28T11:42:50.091445+08:00",
+  "total_titles_processed": 1016,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "美元指数跌至近四年新低 特朗普政策不确定性引爆市场焦虑",
+          "url": "https://www.cls.cn/detail/2271889",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         },
         {
           "title": "美元指数DXY短线走低超50点，特朗普释放让美元走弱的信号。",
@@ -113,7 +124,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         }
@@ -134,8 +145,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时33分 ~ 09时22分]"
+          "appearance_count": 10,
+          "time_info": "[02时33分 ~ 11时42分]"
         },
         {
           "title": "国际铜夜盘收跌1.30%，沪铜收跌1.18%，沪铝收涨0.43%，沪锌收涨0.10%，沪铅收跌0.21%，沪镍收跌1.96%，沪锡收涨0.41%。 氧化铝夜盘收涨1.62%，铝合金收涨0.20%。 不锈钢夜盘收跌2.08%。",
@@ -192,7 +203,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -203,7 +214,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -214,7 +225,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -241,11 +252,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            20
+            20,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 09时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 11时42分]"
         },
         {
           "title": "德意志银行表示，如果美元持续疲软，投资者将增加对非美元资产和实体资产的配置，那么2026年黄金价格可能会达到每盎司6000美元。",
@@ -254,7 +266,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         }
