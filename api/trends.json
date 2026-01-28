@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T14:31:42.808062+08:00",
-  "total_titles_processed": 1265,
+  "generated_at": "2026-01-28T15:23:54.843842+08:00",
+  "total_titles_processed": 1373,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 14时31分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 15时23分]"
         },
         {
           "title": "美元指数DXY短线走低超50点，特朗普释放让美元走弱的信号。",
@@ -158,8 +158,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时33分 ~ 14时31分]"
+          "appearance_count": 14,
+          "time_info": "[02时33分 ~ 15时23分]"
         },
         {
           "title": "国际铜夜盘收跌1.30%，沪铜收跌1.18%，沪铝收涨0.43%，沪锌收涨0.10%，沪铅收跌0.21%，沪镍收跌1.96%，沪锡收涨0.41%。 氧化铝夜盘收涨1.62%，铝合金收涨0.20%。 不锈钢夜盘收跌2.08%。",
@@ -260,7 +260,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -271,7 +271,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         }
@@ -291,8 +291,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 14时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 15时23分]"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
@@ -300,11 +300,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 14时31分]"
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 15时23分]"
         },
         {
           "title": "德意志银行表示，如果美元持续疲软，投资者将增加对非美元资产和实体资产的配置，那么2026年黄金价格可能会达到每盎司6000美元。",
