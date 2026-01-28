@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T02:33:18.981387+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2026-01-29T03:25:23.540863+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美联储决议前，强劲财报提振科技股，标普500突破7000点创新高，阿斯麦转跌，美元止跌，黄金5300，银、铜、铝集体上涨",
@@ -16,19 +16,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 03时25分]"
         },
         {
-          "title": "LME期铜收涨80美元，报13086美元/吨。 LME期铝收涨50美元，报3257美元/吨。 LME期锌收涨13美元，报3364美元/吨。 LME期铅收跌3美元，报2017美元/吨。 LME期镍收涨101美元，报18270美元/吨。 LME期锡收涨1075美元，报55953美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3045731",
+          "title": "现货黄金涨1.80%，暂报5274.50美元；COMEX黄金期货涨3.71%。 现货白银跌0.65%，纽约期银涨5.15%。 COMEX铜期货涨0.96%。 WTI原油期货涨1.17%，布油涨1.01%。",
+          "url": "https://wallstreetcn.com/livenews/3045756",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时33分"
+          "time_info": "03时25分"
         },
         {
           "title": "行业咨询公司CRU Group预计，2026年全球铜实际均价将为5.12美元/磅。 关键驱动因素包括中国和全球对精炼铜的消费需求的增长。 预计全球2026年铜消费将增长3%左右。",
@@ -43,11 +43,90 @@
           "time_info": "[00时32分 ~ 01时29分]"
         },
         {
+          "title": "LME期铜收涨80美元，报13086美元/吨。 LME期铝收涨50美元，报3257美元/吨。 LME期锌收涨13美元，报3364美元/吨。 LME期铅收跌3美元，报2017美元/吨。 LME期镍收涨101美元，报18270美元/吨。 LME期锡收涨1075美元，报55953美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3045731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时25分]"
+        },
+        {
           "title": "南方铜业公司：预计2026年铜产量将下滑至91.14万吨。",
           "url": "https://wallstreetcn.com/livenews/3045701",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数DXY日内大涨1.00%，现报96.72。",
+          "url": "https://flash.jin10.com/detail/20260129030154943800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
+          "title": "美元指数涨0.89%，报96.63点。 美元兑日元涨1.12%，美元兑瑞郎涨1.34%。 欧元兑美元跌0.99%，英镑兑美元跌0.55%；澳元跌0.36%，纽元跌0.38%，加元跌0.14%。",
+          "url": "https://wallstreetcn.com/livenews/3045755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
+          "title": "彭博美元指数刷新日高，贝森特谈及外汇市场。 美元兑日元走高。 国际油价继续回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3045675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国10年期国债收益率涨1.4个基点，报4.2571%；两年期美债收益率涨1.24个基点，持稳于日高3.5875%附近。 10年期TIPS收益率涨1.47个基点，持稳于日高1.9078%附近，两年期TIPS收益率跌1.50个基点，报0.8312%。 2/10年期美债收益率利差涨0.162个基点，报+66.968个基点。",
+          "url": "https://wallstreetcn.com/livenews/3045754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
+          "title": "通胀预期升温 美债收益率曲线连续第二日走陡",
+          "url": "https://flash.jin10.com/detail/20260129004130534800",
+          "source": "金十数据",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -69,42 +148,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "通胀预期升温 美债收益率曲线连续第二日走陡",
-          "url": "https://flash.jin10.com/detail/20260129004130534800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "彭博美元指数刷新日高，贝森特谈及外汇市场。 美元兑日元走高。 国际油价继续回吐涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3045675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 03时25分]"
         }
       ]
     }
