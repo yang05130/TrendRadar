@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T01:29:59.575555+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-01-29T02:33:18.981387+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美联储决议前，强劲财报提振科技股，标普500突破7000点创新高，阿斯麦转跌，美元止跌，黄金5300，银、铜、铝集体上涨",
@@ -16,8 +16,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时33分]"
+        },
+        {
+          "title": "LME期铜收涨80美元，报13086美元/吨。 LME期铝收涨50美元，报3257美元/吨。 LME期锌收涨13美元，报3364美元/吨。 LME期铅收跌3美元，报2017美元/吨。 LME期镍收涨101美元，报18270美元/吨。 LME期锡收涨1075美元，报55953美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3045731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时33分"
         },
         {
           "title": "行业咨询公司CRU Group预计，2026年全球铜实际均价将为5.12美元/磅。 关键驱动因素包括中国和全球对精炼铜的消费需求的增长。 预计全球2026年铜消费将增长3%左右。",
@@ -38,7 +49,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
         }
@@ -54,11 +65,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             26,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时33分]"
         }
       ]
     },
@@ -73,7 +85,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
         }
