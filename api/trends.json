@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T13:25:24.192780+08:00",
-  "total_titles_processed": 1179,
+  "generated_at": "2026-01-28T14:31:42.808062+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,18 @@
           "time_info": "05时16分"
         },
         {
+          "title": "美元指数跌至近四年新低 特朗普政策不确定性引爆市场焦虑",
+          "url": "https://www.cls.cn/detail/2271889",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 14时31分]"
+        },
+        {
           "title": "美元指数DXY短线走低超50点，特朗普释放让美元走弱的信号。",
           "url": "https://flash.jin10.com/detail/20260128045028664800",
           "source": "金十数据",
@@ -50,18 +62,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
-        },
-        {
-          "title": "美元指数跌至近四年新低 特朗普政策不确定性引爆市场焦虑",
-          "url": "https://www.cls.cn/detail/2271889",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时41分]"
         },
         {
           "title": "美元指数跌至近4年来低点",
@@ -145,7 +145,7 @@
     },
     {
       "keyword_group": "铜",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
@@ -158,8 +158,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时33分 ~ 13时25分]"
+          "appearance_count": 13,
+          "time_info": "[02时33分 ~ 14时31分]"
         },
         {
           "title": "国际铜夜盘收跌1.30%，沪铜收跌1.18%，沪铝收涨0.43%，沪锌收涨0.10%，沪铅收跌0.21%，沪镍收跌1.96%，沪锡收涨0.41%。 氧化铝夜盘收涨1.62%，铝合金收涨0.20%。 不锈钢夜盘收跌2.08%。",
@@ -252,6 +252,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "渣打银行：美元走软及黄金和白银大幅上涨支撑铜价。",
+          "url": "https://flash.jin10.com/detail/20260128140612791800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "渣打银行：预测铜价上半年平均价格为12,950美元/吨，而下半年为11,475美元/吨",
+          "url": "https://flash.jin10.com/detail/20260128140555472800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         }
       ]
     },
@@ -269,8 +291,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 13时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 14时31分]"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
@@ -281,8 +303,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 13时25分]"
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 14时31分]"
         },
         {
           "title": "德意志银行表示，如果美元持续疲软，投资者将增加对非美元资产和实体资产的配置，那么2026年黄金价格可能会达到每盎司6000美元。",
