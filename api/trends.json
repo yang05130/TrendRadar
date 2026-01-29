@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T22:39:36.090962+08:00",
-  "total_titles_processed": 2154,
+  "generated_at": "2026-01-29T23:32:42.562472+08:00",
+  "total_titles_processed": 2241,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时33分 ~ 22时39分]"
+          "appearance_count": 8,
+          "time_info": "[18时33分 ~ 23时32分]"
         },
         {
           "title": "沪指震荡收涨，白酒爆发、贵州茅台涨逾8%，地产大涨，恒科指跌1%，芯片调整，沪金银铜飙升",
@@ -42,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时47分 ~ 22时39分]"
+          "appearance_count": 6,
+          "time_info": "[20时47分 ~ 23时32分]"
         },
         {
           "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，伦铜涨幅扩大至10%创新高",
@@ -52,9 +52,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 23时32分]"
         },
         {
           "title": "有色板块再度走强，怡球资源、常铝股份2连板，鼎胜新材涨停，锌业股份、铜陵有色逼近涨停，株冶集团、鹏欣资源等涨幅居前。",
@@ -193,6 +193,19 @@
           "time_info": "[17时38分 ~ 18时33分]"
         },
         {
+          "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2274635",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时57分 ~ 23时32分]"
+        },
+        {
           "title": "LME期铜收涨80美元，报13086美元/吨。 LME期铝收涨50美元，报3257美元/吨。 LME期锌收涨13美元，报3364美元/吨。 LME期铅收跌3美元，报2017美元/吨。 LME期镍收涨101美元，报18270美元/吨。 LME期锡收涨1075美元，报55953美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3045731",
           "source": "华尔街见闻-快讯",
@@ -203,18 +216,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时33分 ~ 03时25分]"
-        },
-        {
-          "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2274635",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时57分 ~ 22时39分]"
         },
         {
           "title": "路透调查：LME现货铜均价预计2026年为11,975美元/吨，2027年为11,994美元/吨，而2025年为9,939美元/吨。",
@@ -245,7 +246,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -300,7 +301,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -333,7 +334,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -344,7 +345,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -388,7 +389,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -421,7 +422,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -454,7 +455,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -511,8 +512,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时32分 ~ 22时39分]"
+          "appearance_count": 24,
+          "time_info": "[00时32分 ~ 23时32分]"
         },
         {
           "title": "【四川黄金：预计2025年净利润同比增长69.23%-93.40%】四川黄金公告，预计2025年度净利润为4.2亿元—4.8亿元，同比增长69.23%—93.40%。预计归属于上市公司股东的净利润同比上升主要系金精矿销售量同比有所增加及黄金价格上涨所致。",
@@ -639,7 +640,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         }
