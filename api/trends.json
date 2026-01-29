@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T21:58:17.019307+08:00",
-  "total_titles_processed": 2081,
+  "generated_at": "2026-01-29T22:39:36.090962+08:00",
+  "total_titles_processed": 2154,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 35,
+      "match_count": 43,
       "titles": [
         {
           "title": "美联储决议前，强劲财报提振科技股，标普500突破7000点创新高，阿斯麦转跌，美元止跌，黄金5300，银、铜、铝集体上涨",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时33分 ~ 21时58分]"
+          "appearance_count": 7,
+          "time_info": "[18时33分 ~ 22时39分]"
         },
         {
           "title": "沪指震荡收涨，白酒爆发、贵州茅台涨逾8%，地产大涨，恒科指跌1%，芯片调整，沪金银铜飙升",
@@ -42,30 +42,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时47分 ~ 21时58分]"
+          "appearance_count": 5,
+          "time_info": "[20时47分 ~ 22时39分]"
         },
         {
-          "title": "伦铜涨幅扩大至10%，现报14410.5美元/吨，续创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3046524",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，伦铜涨幅扩大至10%创新高",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时58分"
-        },
-        {
-          "title": "国际铜主力合约一度突破100000元/吨，日内涨超5.7%。",
-          "url": "https://wallstreetcn.com/livenews/3046519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时58分"
+          "time_info": "22时39分"
         },
         {
           "title": "有色板块再度走强，怡球资源、常铝股份2连板，鼎胜新材涨停，锌业股份、铜陵有色逼近涨停，株冶集团、鹏欣资源等涨幅居前。",
@@ -96,7 +85,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -145,6 +134,18 @@
           "time_info": "12时05分"
         },
         {
+          "title": "伦铜涨幅扩大至10%，现报14410.5美元/吨，续创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3046524",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 22时39分]"
+        },
+        {
           "title": "特朗普升级对伊施压，白银冲上120后回落，金、铜、油全线狂飙，美元持续下挫",
           "url": "https://wallstreetcn.com/articles/3764423",
           "source": "华尔街见闻",
@@ -154,6 +155,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
+        },
+        {
+          "title": "国际铜主力合约一度突破100000元/吨，日内涨超5.7%。",
+          "url": "https://wallstreetcn.com/livenews/3046519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 22时39分]"
         },
         {
           "title": "行业咨询公司CRU Group预计，2026年全球铜实际均价将为5.12美元/磅。 关键驱动因素包括中国和全球对精炼铜的消费需求的增长。 预计全球2026年铜消费将增长3%左右。",
@@ -196,11 +209,12 @@
           "url": "https://www.cls.cn/detail/2274635",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 21时58分]"
+          "appearance_count": 3,
+          "time_info": "[21时57分 ~ 22时39分]"
         },
         {
           "title": "路透调查：LME现货铜均价预计2026年为11,975美元/吨，2027年为11,994美元/吨，而2025年为9,939美元/吨。",
@@ -225,6 +239,17 @@
           "time_info": "12时05分"
         },
         {
+          "title": "分析师：从黄金到铜，战略性囤积重要大宗商品的趋势显现",
+          "url": "https://flash.jin10.com/detail/20260129220511570800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "早盘收盘，国内期货主力合约大面积飘红，沪金涨超7%，沪铜、国际铜涨超6%，沪银涨近6%，燃油涨超4%，SC原油、低硫燃料油（LU）、沪铝涨超3%，沥青、沪锌涨近3%，钯、橡胶、20号胶、铂、焦炭涨超2%。跌幅方面，多晶硅跌近3%，碳酸锂跌超1%。",
           "url": "https://flash.jin10.com/detail/20260129113115255800",
           "source": "金十数据",
@@ -242,7 +267,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -269,6 +294,17 @@
           "time_info": "17时38分"
         },
         {
+          "title": "上期所沪银主力合约涨7%。 上期所沪铜主力合约大涨6%。",
+          "url": "https://wallstreetcn.com/livenews/3046529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "伦敦金属交易所（LME）三个月期铜基准合约大涨6.71%，创下每吨13965美元的纪录。",
           "url": "https://flash.jin10.com/detail/20260129113010661800",
           "source": "金十数据",
@@ -289,6 +325,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
+        },
+        {
+          "title": "盛宝银行：铜价暴涨凸显基本面与投机资金脱节",
+          "url": "https://flash.jin10.com/detail/20260129220012401800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
+          "title": "铜价创下历史新高后，美股上市铜矿商股价盘前上涨，必和必拓(BHP.N)涨4.1%，力拓(RIO.N)涨3.3%。",
+          "url": "https://flash.jin10.com/detail/20260129215941423800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "A股金属铜板块午后持续拉升，铜陵有色、云南铜业涨停，北方铜业此前封板，江西铜业、西部矿业跟涨。",
@@ -324,6 +382,17 @@
           "time_info": "01时29分"
         },
         {
+          "title": "加拿大蒙特利尔银行分析师Davis：铜价上涨对人工智能建设产生重大影响。",
+          "url": "https://flash.jin10.com/detail/20260129215348003800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "内盘期货多数收涨，沪银收涨逾8%，沪金涨近8%，国际铜涨7%，沪铜涨逾6%，燃油涨4%，焦煤、原油、沥青、焦炭、低硫燃油涨逾3%；多晶硅收跌逾4%，碳酸锂跌逾3%。",
           "url": "https://wallstreetcn.com/livenews/3046206",
           "source": "华尔街见闻-快讯",
@@ -344,6 +413,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
+        },
+        {
+          "title": "路透调查：铜价预期首破1.1万美元/吨 分析师警惕投机过热",
+          "url": "https://flash.jin10.com/detail/20260129215249148800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "沪铜主力合约日内大涨6.00%，现报108470.00元/吨。国际铜主力合约日内大涨6.00%，现报96460.00元/吨。",
@@ -368,13 +448,24 @@
           "time_info": "12时05分"
         },
         {
+          "title": "LME伦铜涨幅扩大至10.1%，现报14410.5美元/吨，续创历史新高。",
+          "url": "https://flash.jin10.com/detail/20260129214958630800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "伦铜大涨8％，现报14169.0美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3046493",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -385,7 +476,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -420,8 +511,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时32分 ~ 21时58分]"
+          "appearance_count": 23,
+          "time_info": "[00时32分 ~ 22时39分]"
         },
         {
           "title": "【四川黄金：预计2025年净利润同比增长69.23%-93.40%】四川黄金公告，预计2025年度净利润为4.2亿元—4.8亿元，同比增长69.23%—93.40%。预计归属于上市公司股东的净利润同比上升主要系金精矿销售量同比有所增加及黄金价格上涨所致。",
@@ -484,7 +575,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美元指数DXY日内大涨1.00%，现报96.72。",
@@ -537,9 +628,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
+        },
+        {
+          "title": "美元指数DXY短线走高十余点，现报96.36。",
+          "url": "https://flash.jin10.com/detail/20260129215004835800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         }
       ]
     },
