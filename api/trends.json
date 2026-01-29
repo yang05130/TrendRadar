@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T07:23:32.857511+08:00",
-  "total_titles_processed": 788,
+  "generated_at": "2026-01-29T09:43:51.289530+08:00",
+  "total_titles_processed": 959,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美联储决议前，强劲财报提振科技股，标普500突破7000点创新高，阿斯麦转跌，美元止跌，黄金5300，银、铜、铝集体上涨",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时32分 ~ 06时23分]"
+        },
+        {
+          "title": "有色板块再度走强，怡球资源、常铝股份2连板，鼎胜新材涨停，锌业股份、铜陵有色逼近涨停，株冶集团、鹏欣资源等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3045984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         },
         {
           "title": "现货黄金涨1.80%，暂报5274.50美元；COMEX黄金期货涨3.71%。 现货白银跌0.65%，纽约期银涨5.15%。 COMEX铜期货涨0.96%。 WTI原油期货涨1.17%，布油涨1.01%。",
@@ -148,8 +159,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 09时43分]"
         }
       ]
     }
