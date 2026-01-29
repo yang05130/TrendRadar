@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T16:34:32.520863+08:00",
-  "total_titles_processed": 1568,
+  "generated_at": "2026-01-29T17:38:58.072372+08:00",
+  "total_titles_processed": 1672,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "美联储决议前，强劲财报提振科技股，标普500突破7000点创新高，阿斯麦转跌，美元止跌，黄金5300，银、铜、铝集体上涨",
@@ -31,6 +31,17 @@
           "time_info": "09时43分"
         },
         {
+          "title": "金银暴涨之后“投资铜条”也卖爆了",
+          "url": "https://www.toutiao.com/trending/7600664772341665306/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "现货黄金涨1.80%，暂报5274.50美元；COMEX黄金期货涨3.71%。 现货白银跌0.65%，纽约期银涨5.15%。 COMEX铜期货涨0.96%。 WTI原油期货涨1.17%，布油涨1.01%。",
           "url": "https://wallstreetcn.com/livenews/3045756",
           "source": "华尔街见闻-快讯",
@@ -53,6 +64,17 @@
           "time_info": "13时41分"
         },
         {
+          "title": "生益科技：预计2025年净利润32.5亿元到34.5亿元，同比增加87%到98%；在报告期内，公司覆铜板销量同比上升，覆铜板产品营业收入增加。",
+          "url": "https://wallstreetcn.com/livenews/3046338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "LME期铜再创新高 逼近每吨1.4万美元关口",
           "url": "https://flash.jin10.com/detail/20260129113912602800",
           "source": "金十数据",
@@ -62,6 +84,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
+        },
+        {
+          "title": "特朗普升级对伊施压，白银冲上120后回落，金、铜、油全线狂飙，美元持续下挫",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "行业咨询公司CRU Group预计，2026年全球铜实际均价将为5.12美元/磅。 关键驱动因素包括中国和全球对精炼铜的消费需求的增长。 预计全球2026年铜消费将增长3%左右。",
@@ -119,6 +152,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
+        },
+        {
+          "title": "伦敦金属交易所（LME）有色金属库存及变化如下： 铜库存176075吨，增加2150吨。 铝库存497725吨，减少2250吨。 镍库存286470吨，增加132吨。",
+          "url": "https://wallstreetcn.com/livenews/3046325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "伦敦金属交易所（LME）三个月期铜基准合约大涨6.71%，创下每吨13965美元的纪录。",
@@ -222,6 +266,50 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            21,
+            23,
+            22,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 17时38分]"
+        },
+        {
+          "title": "北方铜业：公司近期经营情况及内外部经营环境未发生重大变化。公司的主要产品阴极铜、黄金、白银等产品的市场价格大幅上涨，系本次股价异动的主要原因。",
+          "url": "https://wallstreetcn.com/livenews/3046337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
+          "title": "黄金主题LOF：提示投资者关注二级市场交易价格溢价风险",
+          "url": "https://wallstreetcn.com/livenews/3046327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -285,28 +373,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            21,
-            23,
-            22,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 16时34分]"
         }
       ]
     }
