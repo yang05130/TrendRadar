@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T17:38:58.072372+08:00",
-  "total_titles_processed": 1672,
+  "generated_at": "2026-01-29T18:33:20.371915+08:00",
+  "total_titles_processed": 1773,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "美联储决议前，强劲财报提振科技股，标普500突破7000点创新高，阿斯麦转跌，美元止跌，黄金5300，银、铜、铝集体上涨",
@@ -37,7 +37,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
         },
@@ -64,15 +64,15 @@
           "time_info": "13时41分"
         },
         {
-          "title": "生益科技：预计2025年净利润32.5亿元到34.5亿元，同比增加87%到98%；在报告期内，公司覆铜板销量同比上升，覆铜板产品营业收入增加。",
-          "url": "https://wallstreetcn.com/livenews/3046338",
+          "title": "铜陵有色：若未来阴极铜价格出现大幅波动，将对公司经营业绩产生显著影响",
+          "url": "https://wallstreetcn.com/livenews/3046377",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时38分"
+          "time_info": "18时33分"
         },
         {
           "title": "LME期铜再创新高 逼近每吨1.4万美元关口",
@@ -92,7 +92,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
         },
@@ -107,6 +107,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时29分]"
+        },
+        {
+          "title": "生益科技：预计2025年净利润32.5亿元到34.5亿元，同比增加87%到98%；在报告期内，公司覆铜板销量同比上升，覆铜板产品营业收入增加。",
+          "url": "https://wallstreetcn.com/livenews/3046338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时38分 ~ 18时33分]"
         },
         {
           "title": "LME期铜收涨80美元，报13086美元/吨。 LME期铝收涨50美元，报3257美元/吨。 LME期锌收涨13美元，报3364美元/吨。 LME期铅收跌3美元，报2017美元/吨。 LME期镍收涨101美元，报18270美元/吨。 LME期锡收涨1075美元，报55953美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -130,6 +142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
+        },
+        {
+          "title": "【数据看盘】五家机构集体抢筹泸州老窖，铜陵有色龙虎榜现多空博弈",
+          "url": "https://www.cls.cn/detail/2274283",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
         },
         {
           "title": "早盘收盘，国内期货主力合约大面积飘红，沪金涨超7%，沪铜、国际铜涨超6%，沪银涨近6%，燃油涨超4%，SC原油、低硫燃料油（LU）、沪铝涨超3%，沥青、沪锌涨近3%，钯、橡胶、20号胶、铂、焦炭涨超2%。跌幅方面，多晶硅跌近3%，碳酸锂跌超1%。",
@@ -160,7 +183,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
         },
@@ -267,7 +290,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "黄金价格为何一路猛涨",
@@ -279,22 +302,24 @@
             23,
             22,
             24,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 17时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 18时33分]"
         },
         {
           "title": "北方铜业：公司近期经营情况及内外部经营环境未发生重大变化。公司的主要产品阴极铜、黄金、白银等产品的市场价格大幅上涨，系本次股价异动的主要原因。",
           "url": "https://wallstreetcn.com/livenews/3046337",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时38分 ~ 18时33分]"
         },
         {
           "title": "黄金主题LOF：提示投资者关注二级市场交易价格溢价风险",
@@ -303,9 +328,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
+        },
+        {
+          "title": "西部黄金：公司关注到目前黄金市场热度较高，黄金产品的市场价格累计涨幅较大，敬请广大投资者理性投资、审慎决策，注意投资风险。",
+          "url": "https://wallstreetcn.com/livenews/3046359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
         }
       ]
     },
