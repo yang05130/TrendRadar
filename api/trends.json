@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T19:25:34.175000+08:00",
-  "total_titles_processed": 1768,
+  "generated_at": "2026-01-30T20:44:20.274740+08:00",
+  "total_titles_processed": 1894,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时44分 ~ 19时25分]"
+          "appearance_count": 12,
+          "time_info": "[09时44分 ~ 20时44分]"
         },
         {
           "title": "【数据看盘】五家机构集体抢筹泸州老窖，铜陵有色龙虎榜现多空博弈",
@@ -82,8 +82,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时43分 ~ 19时25分]"
+          "appearance_count": 8,
+          "time_info": "[13时43分 ~ 20时44分]"
         },
         {
           "title": "铜价一年飙涨50% 催生中小型充电站“铝代铜”潮|传真",
@@ -93,11 +93,12 @@
             8,
             6,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时38分 ~ 19时25分]"
+          "appearance_count": 7,
+          "time_info": "[15时38分 ~ 20时44分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银跳水后反弹，铜油走强",
@@ -356,7 +357,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "市场聚焦新美联储主席，美元走强美债下跌，商品市场遭遇黑色星期五，银价跌9%、金价跌5%",
@@ -380,6 +381,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "美债维持跌势，10年期收益率上涨2个基点至4.25%。",
+          "url": "https://wallstreetcn.com/livenews/3047360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "分析师：美联储新任主席人选几近确认 长期美债价格承压",
