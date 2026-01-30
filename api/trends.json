@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T12:06:58.833838+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-01-30T13:43:59.143223+08:00",
+  "total_titles_processed": 1138,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "【数据看盘】五家机构集体抢筹泸州老窖，铜陵有色龙虎榜现多空博弈",
@@ -27,11 +27,12 @@
             8,
             7,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 12时06分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 13时43分]"
         },
         {
           "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
@@ -58,8 +59,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时23分 ~ 12时06分]"
+          "appearance_count": 7,
+          "time_info": "[05时23分 ~ 13时43分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -69,8 +70,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时44分 ~ 12时06分]"
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 13时43分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银跳水后反弹，铜油走强",
@@ -82,6 +83,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "“这行情你可能一辈子遇不到”！大宗商品轮番上涨，中国投资者把铜“买飞了”",
+          "url": "https://wallstreetcn.com/articles/3764529",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         },
         {
           "title": "LME期铜收涨532美元，报13618美元/吨。 LME期铝收跌38美元，报3218美元/吨。 LME期锌收涨48美元，报3412美元/吨。 LME期铅收跌3美元，报2014美元/吨。 LME期镍收涨99美元，报18369美元/吨。 LME期锡收跌869美元，报55084美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -114,7 +126,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -136,7 +148,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         }
@@ -154,8 +166,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 12时06分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 13时43分]"
         },
         {
           "title": "为什么 2026 年 1 月 29 日晚上的黄金价格出现大跳水？",
@@ -173,11 +185,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
-            7
+            7,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 13时43分]"
         },
         {
           "title": "黄金、白银、比特币、美股全线走低，美债价格反弹，美元回升",
@@ -233,7 +246,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "2/10年期美债收益率至多跌超1.8个基点",
@@ -245,6 +258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "分析师：美联储新任主席人选几近确认 长期美债价格承压",
+          "url": "https://flash.jin10.com/detail/20260130121631769800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         }
       ]
     }
