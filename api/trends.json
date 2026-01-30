@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T02:37:00.468595+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-01-31T03:30:58.092258+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时30分]"
         },
         {
           "title": "“这行情你可能一辈子遇不到”！大宗商品轮番上涨，中国投资者把铜“买飞了”",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时30分]"
         },
         {
           "title": "沪铜夜盘收跌超4.7%，沪镍跌超3.7%，沪锡跌超6.5%",
@@ -48,7 +48,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
         }
