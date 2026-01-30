@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T18:31:02.110701+08:00",
-  "total_titles_processed": 1668,
+  "generated_at": "2026-01-30T19:25:34.175000+08:00",
+  "total_titles_processed": 1768,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时44分 ~ 18时31分]"
+          "appearance_count": 11,
+          "time_info": "[09时44分 ~ 19时25分]"
         },
         {
           "title": "【数据看盘】五家机构集体抢筹泸州老窖，铜陵有色龙虎榜现多空博弈",
@@ -82,8 +82,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时43分 ~ 18时31分]"
+          "appearance_count": 7,
+          "time_info": "[13时43分 ~ 19时25分]"
         },
         {
           "title": "铜价一年飙涨50% 催生中小型充电站“铝代铜”潮|传真",
@@ -92,11 +92,12 @@
           "ranks": [
             8,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时38分 ~ 18时31分]"
+          "appearance_count": 6,
+          "time_info": "[15时38分 ~ 19时25分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银跳水后反弹，铜油走强",
@@ -303,7 +304,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -325,7 +326,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
