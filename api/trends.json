@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T14:43:38.166449+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2026-01-30T15:38:28.244839+08:00",
+  "total_titles_processed": 1337,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "【数据看盘】五家机构集体抢筹泸州老窖，铜陵有色龙虎榜现多空博弈",
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时38分 ~ 14时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时38分 ~ 15时38分]"
         },
         {
           "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
@@ -70,8 +70,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 14时43分]"
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 15时38分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银跳水后反弹，铜油走强",
@@ -92,8 +92,19 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 15时38分]"
+        },
+        {
+          "title": "铜价一年飙涨50% 催生中小型充电站“铝代铜”潮|传真",
+          "url": "https://www.cls.cn/detail/2275434",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时43分"
+          "time_info": "15时38分"
         },
         {
           "title": "LME期铜收涨532美元，报13618美元/吨。 LME期铝收跌38美元，报3218美元/吨。 LME期锌收涨48美元，报3412美元/吨。 LME期铅收跌3美元，报2014美元/吨。 LME期镍收涨99美元，报18369美元/吨。 LME期锡收跌869美元，报55084美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -163,11 +174,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
           "source": "bilibili 热搜",
           "ranks": [
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时38分 ~ 14时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时38分 ~ 15时38分]"
         },
         {
           "title": "为什么 2026 年 1 月 29 日晚上的黄金价格出现大跳水？",
@@ -181,28 +193,30 @@
           "time_info": "07时22分"
         },
         {
-          "title": "黄金价格回调开始了吗",
-          "url": "https://www.toutiao.com/trending/7600951694344405055/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
           "title": "黄金价格暴跌原因",
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
             7,
             22,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时06分 ~ 14时43分]"
+          "appearance_count": 4,
+          "time_info": "[12时06分 ~ 15时38分]"
+        },
+        {
+          "title": "黄金价格回调开始了吗",
+          "url": "https://www.toutiao.com/trending/7600951694344405055/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时43分 ~ 15时38分]"
         },
         {
           "title": "黄金、白银、比特币、美股全线走低，美债价格反弹，美元回升",
