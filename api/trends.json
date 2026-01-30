@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T09:45:05.075243+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2026-01-30T12:06:58.833838+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "【数据看盘】五家机构集体抢筹泸州老窖，铜陵有色龙虎榜现多空博弈",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 09时45分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 12时06分]"
         },
         {
           "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
@@ -54,11 +54,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时23分 ~ 09时45分]"
+          "appearance_count": 6,
+          "time_info": "[05时23分 ~ 12时06分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -68,8 +69,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 09时45分]"
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 12时06分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银跳水后反弹，铜油走强",
@@ -107,6 +108,17 @@
           "time_info": "06时24分"
         },
         {
+          "title": "早盘收盘，国内期货主力合约跌多涨少，铂、碳酸锂跌近10%，钯跌近9%，沪锡跌超6%，多晶硅跌近6%，沪金跌近4%，沪镍、铸造铝合金、沪铝、沪银跌近3%，国际铜、氧化铝、苯乙烯（EB）跌超2%。涨幅方面，SC原油、聚氯乙烯（PVC）、燃油、焦煤、焦炭涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260130113113526800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
           "title": "芝商所将COMEX铜期货保证金上调20%，至1.2万美元。",
           "url": "https://flash.jin10.com/detail/20260130052600832800",
           "source": "金十数据",
@@ -116,12 +128,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "铜价暴涨背后的三个时代信号",
+          "url": "https://www.toutiao.com/trending/7600936706837073458/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "黄金价格为何一路猛涨",
@@ -131,8 +154,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 09时45分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 12时06分]"
         },
         {
           "title": "为什么 2026 年 1 月 29 日晚上的黄金价格出现大跳水？",
@@ -144,6 +167,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "黄金价格暴跌原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         },
         {
           "title": "黄金、白银、比特币、美股全线走低，美债价格反弹，美元回升",
@@ -180,7 +214,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
