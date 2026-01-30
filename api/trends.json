@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T21:53:45.927558+08:00",
-  "total_titles_processed": 2012,
+  "generated_at": "2026-01-30T22:33:43.856037+08:00",
+  "total_titles_processed": 2088,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时44分 ~ 21时53分]"
+          "appearance_count": 14,
+          "time_info": "[09时44分 ~ 22时33分]"
         },
         {
           "title": "【数据看盘】五家机构集体抢筹泸州老窖，铜陵有色龙虎榜现多空博弈",
@@ -70,8 +70,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时43分 ~ 21时53分]"
+          "appearance_count": 10,
+          "time_info": "[13时43分 ~ 22时33分]"
         },
         {
           "title": "金铜暴涨，中国矿企赚麻了？",
@@ -301,17 +301,6 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "美国12月PP数据公布后，美元指数短线小幅拉升",
-          "url": "https://wallstreetcn.com/livenews/3047414",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
           "title": "美元指数走高 非美货币普遍下跌",
           "url": "https://flash.jin10.com/detail/20260130175538032800",
           "source": "金十数据",
@@ -321,6 +310,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
+        },
+        {
+          "title": "美国12月PP数据公布后，美元指数短线小幅拉升",
+          "url": "https://wallstreetcn.com/livenews/3047414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 22时33分]"
         },
         {
           "title": "周四（1月29日））纽约尾盘，ICE美元指数跌0.21%，报96.245点，日内交投区间为96.656-96.016点，大部分时间低位震荡，北京时间23:00曾开启一波短暂的冲高回落行情。 彭博美元指数跌0.12%，报1178.02点，日内交投区间为1182.97-1175.40点。",
@@ -413,7 +414,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
