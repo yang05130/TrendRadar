@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T06:21:29.038634+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-01-31T07:22:25.573746+08:00",
+  "total_titles_processed": 610,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 06时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 07时22分]"
         },
         {
           "title": "“这行情你可能一辈子遇不到”！大宗商品轮番上涨，中国投资者把铜“买飞了”",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 06时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 07时22分]"
         },
         {
           "title": "沪铜夜盘收跌超4.7%，沪镍跌超3.7%，沪锡跌超6.5%",
@@ -86,11 +86,12 @@
           "url": "https://wallstreetcn.com/livenews/3047589",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时22分]"
         },
         {
           "title": "美元指数创2025年5月份以来最大单日涨幅，1月份仍然累跌约1.3%",
@@ -99,7 +100,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         }
