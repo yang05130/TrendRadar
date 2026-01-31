@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T16:25:27.795534+08:00",
-  "total_titles_processed": 1106,
+  "generated_at": "2026-01-31T17:25:01.997530+08:00",
+  "total_titles_processed": 1160,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,17 @@
           "time_info": "[00时35分 ~ 07时22分]"
         },
         {
+          "title": "沃什冲击！金属遭遇“黑色星期五”，金铂钯大跳水超10%，白银一度暴跌37%，铜跌4%，美股指齐跌，原油逆市收涨",
+          "url": "https://wallstreetcn.com/articles/3764541",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时29分 ~ 17时25分]"
+        },
+        {
           "title": "“这行情你可能一辈子遇不到”！大宗商品轮番上涨，中国投资者把铜“买飞了”",
           "url": "https://wallstreetcn.com/articles/3764529",
           "source": "华尔街见闻",
@@ -31,17 +42,6 @@
           "time_info": "[00时35分 ~ 07时22分]"
         },
         {
-          "title": "沃什冲击！金属遭遇“黑色星期五”，金铂钯大跳水超10%，白银一度暴跌37%，铜跌4%，美股指齐跌，原油逆市收涨",
-          "url": "https://wallstreetcn.com/articles/3764541",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时29分 ~ 16时25分]"
-        },
-        {
           "title": "掌握全球铜命脉对赞比亚是福是祸",
           "url": "https://search.bilibili.com/all?keyword=%E6%8E%8C%E6%8F%A1%E5%85%A8%E7%90%83%E9%93%9C%E5%91%BD%E8%84%89%E5%AF%B9%E8%B5%9E%E6%AF%94%E4%BA%9A%E6%98%AF%E7%A6%8F%E6%98%AF%E7%A5%B8",
           "source": "bilibili 热搜",
@@ -50,11 +50,12 @@
             22,
             29,
             10,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时02分 ~ 16时25分]"
+          "appearance_count": 8,
+          "time_info": "[12时02分 ~ 17时25分]"
         },
         {
           "title": "沪铜夜盘收跌超4.7%，沪镍跌超3.7%，沪锡跌超6.5%",
@@ -202,11 +203,12 @@
           "ranks": [
             3,
             6,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时34分 ~ 16时25分]"
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 17时25分]"
         }
       ]
     }
