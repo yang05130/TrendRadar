@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T15:25:53.759024+08:00",
-  "total_titles_processed": 1044,
+  "generated_at": "2026-01-31T16:25:27.795534+08:00",
+  "total_titles_processed": 1106,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 15时25分]"
+          "appearance_count": 7,
+          "time_info": "[09时29分 ~ 16时25分]"
         },
         {
           "title": "掌握全球铜命脉对赞比亚是福是祸",
@@ -49,11 +49,12 @@
             2,
             22,
             29,
-            10
+            10,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 15时25分]"
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 16时25分]"
         },
         {
           "title": "沪铜夜盘收跌超4.7%，沪镍跌超3.7%，沪锡跌超6.5%",
@@ -200,11 +201,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 15时25分]"
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 16时25分]"
         }
       ]
     }
