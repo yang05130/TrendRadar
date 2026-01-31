@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T00:23:15.054223+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-02-01T01:20:54.976318+08:00",
+  "total_titles_processed": 334,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时20分]"
         },
         {
           "title": "掌握全球铜命脉对赞比亚是福是祸",
           "url": "https://search.bilibili.com/all?keyword=%E6%8E%8C%E6%8F%A1%E5%85%A8%E7%90%83%E9%93%9C%E5%91%BD%E8%84%89%E5%AF%B9%E8%B5%9E%E6%AF%94%E4%BA%9A%E6%98%AF%E7%A6%8F%E6%98%AF%E7%A5%B8",
           "source": "bilibili 热搜",
           "ranks": [
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时20分]"
         }
       ]
     }
