@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-31T17:25:01.997530+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2026-01-31T18:21:07.042631+08:00",
+  "total_titles_processed": 1208,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
       "match_count": 7,
       "titles": [
+        {
+          "title": "沃什冲击！金属遭遇“黑色星期五”，金铂钯大跳水超10%，白银一度暴跌37%，铜跌4%，美股指齐跌，原油逆市收涨",
+          "url": "https://wallstreetcn.com/articles/3764541",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时29分 ~ 18时21分]"
+        },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
           "url": "https://wallstreetcn.com/articles/3764423",
@@ -18,17 +29,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时35分 ~ 07时22分]"
-        },
-        {
-          "title": "沃什冲击！金属遭遇“黑色星期五”，金铂钯大跳水超10%，白银一度暴跌37%，铜跌4%，美股指齐跌，原油逆市收涨",
-          "url": "https://wallstreetcn.com/articles/3764541",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时29分 ~ 17时25分]"
         },
         {
           "title": "“这行情你可能一辈子遇不到”！大宗商品轮番上涨，中国投资者把铜“买飞了”",
@@ -204,11 +204,12 @@
             3,
             6,
             12,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时34分 ~ 17时25分]"
+          "appearance_count": 5,
+          "time_info": "[14时34分 ~ 18时21分]"
         }
       ]
     }
