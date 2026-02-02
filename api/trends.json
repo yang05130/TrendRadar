@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T15:15:14.301340+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2026-02-02T16:38:41.907328+08:00",
+  "total_titles_processed": 1169,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时14分 ~ 15时15分]"
+          "appearance_count": 3,
+          "time_info": "[15时14分 ~ 16时38分]"
         },
         {
           "title": "商品期货收盘多数下跌，沪银、钯、铂、碳酸锂、沪镍、沪锡、沪铜、沪铝、国际铜、不锈钢、原油、燃料油、铝合金主力合约跌停。沪金跌超15%。烧碱涨超2%。",
@@ -25,7 +25,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -91,7 +91,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -102,7 +102,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         }
@@ -170,7 +170,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         }
@@ -232,7 +232,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         }
