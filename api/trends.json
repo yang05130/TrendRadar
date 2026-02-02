@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-02T18:40:48.836146+08:00",
-  "total_titles_processed": 1380,
+  "generated_at": "2026-02-02T19:34:04.894212+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
+          "url": "https://wallstreetcn.com/articles/3764699",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时43分 ~ 19时34分]"
+        },
         {
           "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜、沪铝期货主力合约跌停",
           "url": "https://wallstreetcn.com/articles/3764699",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时14分 ~ 16时38分]"
-        },
-        {
-          "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
-          "url": "https://wallstreetcn.com/articles/3764699",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 18时40分]"
         },
         {
           "title": "商品期货收盘多数下跌，沪银、钯、铂、碳酸锂、沪镍、沪锡、沪铜、沪铝、国际铜、不锈钢、原油、燃料油、铝合金主力合约跌停。沪金跌超15%。烧碱涨超2%。",
@@ -116,6 +116,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
+        },
+        {
+          "title": "现代汽车印度高管：预计贵金属、铜、铝等大宗商品价格将飙升。",
+          "url": "https://flash.jin10.com/detail/20260202181943887800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
         }
       ]
     },
