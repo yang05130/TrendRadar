@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T06:27:37.184728+08:00",
-  "total_titles_processed": 650,
+  "generated_at": "2026-02-04T07:25:35.840267+08:00",
+  "total_titles_processed": 718,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "中国有色金属工业协会：研究将“铜精矿”纳入国家储备",
@@ -13,22 +13,35 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时25分]"
+        },
+        {
+          "title": "铜价波动藏风险 家电企业下好套保先手棋",
+          "url": "https://wallstreetcn.com/livenews/3049373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "周二（2月3日）纽约尾盘，现货白银涨7.36%，报85.0929美元/盎司，北京时间21:46刷新日高至89.1655美元。 COMEX白银期货涨11.05%，报85.505美元/盎司，21:46刷新日高至89.100美元。 COMEX铜期货涨4.47%，报6.0960美元/磅，14:00出现一波显著的拉升行情——之前持续低位震荡、之后持续高位震荡。 现货铂金涨4.08%，现货钯金涨1.82%。",
           "url": "https://wallstreetcn.com/livenews/3049349",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时27分 ~ 07时25分]"
         },
         {
           "title": "内盘国际铜收涨3.7%，沪锡涨超6.6%",
@@ -68,6 +81,35 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "彭博美元指数跌约0.3%",
+          "url": "https://wallstreetcn.com/livenews/3049308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时32分 ~ 05时31分]"
+        },
+        {
+          "title": "美元指数3日下跌",
+          "url": "https://flash.jin10.com/detail/20260204060820348800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -78,24 +120,6 @@
           "ranks": [
             2,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时32分 ~ 05时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "彭博美元指数跌约0.3%",
-          "url": "https://wallstreetcn.com/livenews/3049308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            25
           ],
           "is_new": false,
           "appearance_count": 2,
