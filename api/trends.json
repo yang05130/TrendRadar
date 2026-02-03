@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T22:02:50.628456+08:00",
-  "total_titles_processed": 1872,
+  "generated_at": "2026-02-03T23:45:35.887981+08:00",
+  "total_titles_processed": 1989,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时51分 ~ 22时02分]"
+          "appearance_count": 4,
+          "time_info": "[20时51分 ~ 23时45分]"
         },
         {
           "title": "LME期铜收跌266美元，报12892美元/吨。 LME期铝收跌88元，报3056美元/吨。 LME期锌收跌78美元，报3324美元/吨。 LME期铅收跌46美元，报1963美元/吨。 LME期镍收跌1127美元，报16827美元/吨。 LME期锡收跌5364美元，报46591美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -82,7 +83,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -115,7 +116,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -126,7 +127,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -170,7 +171,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -210,7 +211,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -221,7 +222,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         }
