@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T12:09:20.849417+08:00",
-  "total_titles_processed": 1051,
+  "generated_at": "2026-02-04T13:45:29.892893+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时47分 ~ 12时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时47分 ~ 13时45分]"
         },
         {
           "title": "商品期货开盘，沪银主力合约涨超7%，沪锡涨超6%，沪金涨近6%，燃料油涨超4%，沪铜、国际铜、LU燃油、苯乙烯涨超3%。烧碱跌超2%，集运欧线跌超1%。",
@@ -86,7 +86,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -97,7 +97,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -148,7 +148,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         }
