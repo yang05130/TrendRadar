@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T13:45:29.892893+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2026-02-04T14:45:08.753097+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             8,
             7,
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时47分 ~ 13时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 14时45分]"
         },
         {
           "title": "商品期货开盘，沪银主力合约涨超7%，沪锡涨超6%，沪金涨近6%，燃料油涨超4%，沪铜、国际铜、LU燃油、苯乙烯涨超3%。烧碱跌超2%，集运欧线跌超1%。",
@@ -180,6 +181,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "5090 nvidia",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "现货黄金向上触及5090美元/盎司，日内涨2.90%。",
+          "url": "https://flash.jin10.com/detail/20260204135150921800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         }
       ]
     }
