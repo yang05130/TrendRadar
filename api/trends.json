@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T17:40:29.951821+08:00",
-  "total_titles_processed": 1553,
+  "generated_at": "2026-02-05T18:37:11.404524+08:00",
+  "total_titles_processed": 1650,
   "failed_sources": [],
   "trends": [
     {
@@ -211,6 +211,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "赛力斯 问界",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "鸿蒙智行：全新问界M7累计交付量突破10万台。",
+          "url": "https://wallstreetcn.com/livenews/3050563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         }
       ]
     }
