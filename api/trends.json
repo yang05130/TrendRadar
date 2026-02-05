@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T09:45:48.543841+08:00",
-  "total_titles_processed": 856,
+  "generated_at": "2026-02-05T12:11:56.875770+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "商品期货开盘，沪银主力合约涨超3%，燃料油、原油涨超2%，LU燃油、苯乙烯、纯苯涨超1%。BR橡胶跌超3%，沪锡跌超2%，国际铜、沪铜、铁矿石跌超1%。",
@@ -14,7 +14,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
@@ -73,9 +73,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        },
+        {
+          "title": "关税阴云叠加库存积压 铜市场重回观望",
+          "url": "https://flash.jin10.com/detail/20260205113120947800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约跌多涨少，沪银跌近12%，碳酸锂跌近11%，铂跌超9%，沪锡跌超7%，钯跌超5%，BR橡胶、菜籽跌超4%，国际铜、沪铜跌超3%，焦煤、沪金、铁矿石跌超2%。涨幅方面，集运欧线涨超4%，燃料油、低硫燃料油、SC原油涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260205113057642800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         },
         {
           "title": "国际铜主力合约日内跌幅达2.00%，现报91140.00元/吨。伦铜日内跌超2.00%，现报13123.50美元/吨。沪铜主力合约日内跌幅达2.00%，现报102780.00元/吨。",
@@ -87,6 +109,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "供应预期显著升温 全球铜市高位修正",
+          "url": "https://flash.jin10.com/detail/20260205110733357800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         }
       ]
     },
