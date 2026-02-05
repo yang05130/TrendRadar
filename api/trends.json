@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T19:33:31.272126+08:00",
-  "total_titles_processed": 1748,
+  "generated_at": "2026-02-05T20:53:49.583998+08:00",
+  "total_titles_processed": 1871,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "商品期货开盘，沪银主力合约涨超3%，燃料油、原油涨超2%，LU燃油、苯乙烯、纯苯涨超1%。BR橡胶跌超3%，沪锡跌超2%，国际铜、沪铜、铁矿石跌超1%。",
@@ -95,7 +95,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         },
@@ -128,7 +128,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         },
@@ -150,7 +150,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         },
@@ -161,9 +161,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
+        },
+        {
+          "title": "摩根大通仍认为，美国总统特朗普政府最有可能推行分阶段实施的精炼铜进口关税。",
+          "url": "https://flash.jin10.com/detail/20260205202422263800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "国际铜主力合约日内跌幅达2.00%，现报91140.00元/吨。伦铜日内跌超2.00%，现报13123.50美元/吨。沪铜主力合约日内跌幅达2.00%，现报102780.00元/吨。",
@@ -186,6 +197,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
+        },
+        {
+          "title": "摩根大通表示，未来几个月，铜市场仍存在显著的加剧分化趋势，且市场将出现更多看涨的信号。",
+          "url": "https://flash.jin10.com/detail/20260205202412331800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         }
       ]
     },
@@ -200,7 +222,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         },
