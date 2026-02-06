@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T16:37:27.082259+08:00",
-  "total_titles_processed": 1440,
+  "generated_at": "2026-02-06T17:39:33.807674+08:00",
+  "total_titles_processed": 1553,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时44分 ~ 14时48分]"
+        },
+        {
+          "title": "分析师更新对基本金属预期：铜锡铝将继续上涨 切勿盲目乐观",
+          "url": "https://www.cls.cn/detail/2282547",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时44分 ~ 17时39分]"
         },
         {
           "title": "铜价脱离基本面后加速回撤 存创多年新高显现需求疲态",
@@ -40,18 +53,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
-        },
-        {
-          "title": "分析师更新对基本金属预期：铜锡铝将继续上涨 切勿盲目乐观",
-          "url": "https://www.cls.cn/detail/2282547",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 16时37分]"
         },
         {
           "title": "LME期铜收跌142美元，报12903美元/吨。 LME期铝收跌42美元，报3027美元/吨。 LME期锌收跌7美元，报3302美元/吨。 LME期铅收跌11美元，报1956美元/吨。 LME期镍收跌308美元，报17071美元/吨。 LME期锡收跌2068美元，报46458美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -124,7 +125,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
@@ -134,8 +135,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时44分 ~ 16时37分]"
+          "appearance_count": 10,
+          "time_info": "[09时44分 ~ 17时39分]"
         },
         {
           "title": "两年期美债收益率跌超8个基点",
@@ -159,6 +160,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "印度央行否认减持美债 称持仓变动属正常波动",
+          "url": "https://flash.jin10.com/detail/20260206163550587800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "美就业数据超预期转弱引发债市反弹 十年期美债收益率触及三周低点",
