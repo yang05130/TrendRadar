@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-02-07T01:39:37.672878+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2026-02-07T02:43:24.987331+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "原来少林寺“十八铜人”是真的",
           "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E5%B0%91%E6%9E%97%E5%AF%BA%E2%80%9C%E5%8D%81%E5%85%AB%E9%93%9C%E4%BA%BA%E2%80%9D%E6%98%AF%E7%9C%9F%E7%9A%84",
           "source": "百度热搜",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 02时43分]"
         },
         {
           "title": "玩转“金银铜”，“北京大空头”横空出世",
@@ -26,19 +27,60 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 02时43分]"
         },
         {
           "title": "国际铜夜盘收涨1.48%，沪铜收涨1.49%，沪铝收涨0.98%，沪锌收涨0.43%，沪铅收跌0.12%，沪镍收涨0.87%，沪锡收涨1.69%。 氧化铝夜盘收跌1.84%，铝合金收涨0.70%。 不锈钢夜盘收跌0.36%。",
           "url": "https://wallstreetcn.com/livenews/3051563",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 02时43分]"
+        },
+        {
+          "title": "LME期铜收涨91美元，报12994美元/吨。 LME期铝收涨58美元，报3085美元/吨。 LME期锌收涨44美元，报3346美元/吨。 LME期铅收涨4美元，报1960美元/吨。 LME期镍收涨19美元，报17090美元/吨。 LME期锡收涨260美元，报46718美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3051577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时39分"
+          "time_info": "02时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "道指日内上涨892点，涨幅达2.0%，报49888.77点。标普500指数涨1.5%，纳指涨405点、涨幅1.65%，半导体指数涨超5%。 比特币重返7万美元上方。",
+          "url": "https://wallstreetcn.com/livenews/3051564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 02时43分]"
+        },
+        {
+          "title": "道指飙涨超1000点，半导体指数目前涨5.4%。 Strategy涨24.6%，诺和诺德ADR涨8.3%，英伟达涨7.5%，蔚来涨7.1%，西部数据涨6.8%，英特尔涨5.7%，台积电涨5.4%，特斯拉涨4.2%，Sandisk涨3.5%，阿里巴巴涨2.5%。 现货白银日内涨幅达9.0%，报77.07美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3051576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
         }
       ]
     },
@@ -54,25 +96,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时39分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "道指日内上涨892点，涨幅达2.0%，报49888.77点。标普500指数涨1.5%，纳指涨405点、涨幅1.65%，半导体指数涨超5%。 比特币重返7万美元上方。",
-          "url": "https://wallstreetcn.com/livenews/3051564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时39分"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 02时43分]"
         }
       ]
     }
