@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-02-06T09:45:15.762342+08:00",
-  "total_titles_processed": 845,
+  "generated_at": "2026-02-06T12:12:08.438344+08:00",
+  "total_titles_processed": 1000,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "全球最大矿业合并案告吹：铜资产估值成分歧焦点",
           "url": "https://www.cls.cn/detail/2282203",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 09时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 12时12分]"
+        },
+        {
+          "title": "铜价脱离基本面后加速回撤 存创多年新高显现需求疲态",
+          "url": "https://flash.jin10.com/detail/20260206114205790800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "LME期铜收跌142美元，报12903美元/吨。 LME期铝收跌42美元，报3027美元/吨。 LME期锌收跌7美元，报3302美元/吨。 LME期铅收跌11美元，报1956美元/吨。 LME期镍收跌308美元，报17071美元/吨。 LME期锡收跌2068美元，报46458美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -29,6 +41,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时43分 ~ 03时36分]"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约跌多涨少，沪银跌超15%，铂跌超8%，钯跌超6%，沪锡跌超5%，菜籽跌超4%，烧碱跌超3%，集运欧线、沪金、原木、沪镍、沪铜、国际铜跌超2%。涨幅方面，氧化铝涨超2%，液化气涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260206113041937800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "国际铜夜盘收跌1.42%，沪铜收跌1.34%，沪铝收跌0.23%，沪锌收跌0.40%，沪铅收跌0.03%，沪镍收跌0.83%，沪锡收跌3.36%。 氧化铝夜盘收涨1.15%，铝合金收跌0.18%。 不锈钢夜盘收跌0.07%。",
@@ -48,7 +71,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
@@ -59,7 +82,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         }
@@ -77,8 +100,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 09时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 12时12分]"
         },
         {
           "title": "两年期美债收益率跌超8个基点",
@@ -145,7 +168,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         }
