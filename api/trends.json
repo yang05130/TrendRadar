@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T17:39:33.807674+08:00",
-  "total_titles_processed": 1553,
+  "generated_at": "2026-02-06T18:35:50.258439+08:00",
+  "total_titles_processed": 1644,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             12,
             7,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时44分 ~ 17时39分]"
+          "appearance_count": 4,
+          "time_info": "[15时44分 ~ 18时35分]"
         },
         {
           "title": "铜价脱离基本面后加速回撤 存创多年新高显现需求疲态",
@@ -135,8 +136,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时44分 ~ 17时39分]"
+          "appearance_count": 11,
+          "time_info": "[09时44分 ~ 18时35分]"
         },
         {
           "title": "两年期美债收益率跌超8个基点",
@@ -168,7 +169,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         },
