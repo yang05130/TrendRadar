@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T03:36:30.965771+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2026-02-07T04:29:36.558490+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时29分]"
         },
         {
           "title": "玩转“金银铜”，“北京大空头”横空出世",
@@ -28,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时29分]"
         },
         {
           "title": "国际铜夜盘收涨1.48%，沪铜收涨1.49%，沪铝收涨0.98%，沪锌收涨0.43%，沪铅收跌0.12%，沪镍收涨0.87%，沪锡收涨1.69%。 氧化铝夜盘收跌1.84%，铝合金收涨0.70%。 不锈钢夜盘收跌0.36%。",
@@ -49,11 +49,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             16,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 03时36分]"
+          "appearance_count": 3,
+          "time_info": "[02时43分 ~ 04时29分]"
         }
       ]
     },
@@ -79,11 +80,29 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 03时36分]"
+          "appearance_count": 3,
+          "time_info": "[02时43分 ~ 04时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国黄金期货价格在数据发布延迟后收于4979.8美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260207032258342800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         }
       ]
     },
@@ -99,8 +118,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时29分]"
         }
       ]
     }
