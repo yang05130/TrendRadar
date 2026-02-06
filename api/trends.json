@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T22:45:56.236945+08:00",
-  "total_titles_processed": 2075,
+  "generated_at": "2026-02-06T23:37:04.788428+08:00",
+  "total_titles_processed": 2169,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时31分 ~ 22时45分]"
+          "appearance_count": 7,
+          "time_info": "[19时31分 ~ 23时37分]"
         },
         {
           "title": "全球最大矿业合并案告吹：铜资产估值成分歧焦点",
@@ -31,6 +32,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时44分 ~ 14时48分]"
+        },
+        {
+          "title": "玩转“金银铜”，“北京大空头”横空出世",
+          "url": "https://wallstreetcn.com/articles/3765129",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[22时00分 ~ 23时37分]"
         },
         {
           "title": "分析师更新对基本金属预期：铜锡铝将继续上涨 切勿盲目乐观",
@@ -46,18 +59,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时44分 ~ 19时31分]"
-        },
-        {
-          "title": "玩转“金银铜”，“北京大空头”横空出世",
-          "url": "https://wallstreetcn.com/articles/3765129",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时00分 ~ 22时45分]"
         },
         {
           "title": "铜价脱离基本面后加速回撤 存创多年新高显现需求疲态",
@@ -162,8 +163,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时44分 ~ 22时45分]"
+          "appearance_count": 18,
+          "time_info": "[09时44分 ~ 23时37分]"
         },
         {
           "title": "两年期美债收益率跌超8个基点",
