@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T16:26:55.593417+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2026-02-07T17:28:13.872470+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
@@ -131,11 +131,12 @@
             1,
             3,
             5,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时39分 ~ 16时26分]"
+          "appearance_count": 5,
+          "time_info": "[13时39分 ~ 17时28分]"
         },
         {
           "title": "泡泡玛特年会出圈",
