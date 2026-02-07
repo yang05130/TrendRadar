@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T09:42:22.378594+08:00",
-  "total_titles_processed": 793,
+  "generated_at": "2026-02-07T12:05:34.436604+08:00",
+  "total_titles_processed": 915,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             9,
             10,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 09时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 12时05分]"
         },
         {
           "title": "原来少林寺“十八铜人”是真的",
@@ -139,11 +140,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 09时42分]"
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 12时05分]"
         }
       ]
     },
