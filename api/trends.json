@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T05:22:37.739600+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-02-08T06:22:11.364001+08:00",
+  "total_titles_processed": 437,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "苏翊鸣大跳台铜牌",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 05时22分]"
+          "appearance_count": 4,
+          "time_info": "[04时22分 ~ 06时22分]"
         },
         {
           "title": "苏翊鸣大跳台铜牌",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 05时22分]"
+          "appearance_count": 4,
+          "time_info": "[04时22分 ~ 06时22分]"
         },
         {
           "title": "苏翊鸣大跳台铜牌",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 05时22分]"
+          "appearance_count": 4,
+          "time_info": "[04时22分 ~ 06时22分]"
         },
         {
           "title": "苏翊鸣单板大跳台摘铜",
@@ -48,31 +48,44 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时22分 ~ 06时22分]"
         },
         {
           "title": "苏翊鸣摘铜",
           "url": "https://www.baidu.com/s?wd=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E6%91%98%E9%93%9C",
           "source": "百度热搜",
           "ranks": [
-            7
+            7,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时22分 ~ 06时22分]"
         },
         {
           "title": "苏翊鸣集齐冬奥会金银铜牌",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E9%9B%86%E9%BD%90%E5%86%AC%E5%A5%A5%E4%BC%9A%E9%87%91%E9%93%B6%E9%93%9C%E7%89%8C%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
-            14
+            14,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时22分 ~ 06时22分]"
+        },
+        {
+          "title": "苏翊鸣集齐冬奥会金银铜牌",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E9%9B%86%E9%BD%90%E5%86%AC%E5%A5%A5%E4%BC%9A%E9%87%91%E9%93%B6%E9%93%9C%E7%89%8C",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 06时22分]"
         }
       ]
     },
