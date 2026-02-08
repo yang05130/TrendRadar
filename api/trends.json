@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T06:22:57.039685+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-02-09T07:28:02.557372+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时22分]"
-        },
-        {
-          "title": "国乒包揽亚洲杯女单金银铜牌",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E5%8C%85%E6%8F%BD%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%A5%B3%E5%8D%95%E9%87%91%E9%93%B6%E9%93%9C%E7%89%8C",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时28分]"
         },
         {
           "title": "苏翊鸣顶压摘铜,冬奥首牌入账",
@@ -35,6 +24,17 @@
           "source": "贴吧",
           "ranks": [
             22
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时28分]"
+        },
+        {
+          "title": "国乒包揽亚洲杯女单金银铜牌",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E5%8C%85%E6%8F%BD%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%A5%B3%E5%8D%95%E9%87%91%E9%93%B6%E9%93%9C%E7%89%8C",
+          "source": "百度热搜",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 8,
