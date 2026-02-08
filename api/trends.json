@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T14:02:13.807892+08:00",
-  "total_titles_processed": 768,
+  "generated_at": "2026-02-08T15:36:50.821722+08:00",
+  "total_titles_processed": 843,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时22分 ~ 14时02分]"
+          "appearance_count": 12,
+          "time_info": "[04时22分 ~ 15时36分]"
         },
         {
           "title": "苏翊鸣大跳台铜牌",
@@ -56,6 +56,19 @@
           "time_info": "[05时22分 ~ 10时08分]"
         },
         {
+          "title": "苏翊鸣顶压摘铜,冬奥首牌入账",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350371&amp;topic_name=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E9%A1%B6%E5%8E%8B%E6%91%98%E9%93%9C%2C%E5%86%AC%E5%A5%A5%E9%A6%96%E7%89%8C%E5%85%A5%E8%B4%A6",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时08分 ~ 15时36分]"
+        },
+        {
           "title": "苏翊鸣单板大跳台摘铜",
           "url": "https://www.toutiao.com/trending/7604192413434793523/",
           "source": "今日头条",
@@ -66,18 +79,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时22分 ~ 07时26分]"
-        },
-        {
-          "title": "苏翊鸣顶压摘铜,冬奥首牌入账",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350371&amp;topic_name=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E9%A1%B6%E5%8E%8B%E6%91%98%E9%93%9C%2C%E5%86%AC%E5%A5%A5%E9%A6%96%E7%89%8C%E5%85%A5%E8%B4%A6",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时08分 ~ 14时02分]"
         },
         {
           "title": "苏翊鸣获得单板滑雪男子大跳台铜牌，也是中国代表团米兰冬奥首枚奖牌，怎样评价本场比赛？",
