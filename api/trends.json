@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T22:24:45.725094+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2026-02-08T23:22:39.066921+08:00",
+  "total_titles_processed": 1355,
   "failed_sources": [],
   "trends": [
     {
@@ -44,11 +44,12 @@
             14,
             15,
             19,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时08分 ~ 22时24分]"
+          "appearance_count": 15,
+          "time_info": "[10时08分 ~ 23时22分]"
         },
         {
           "title": "苏翊鸣大跳台铜牌",
@@ -75,6 +76,21 @@
           "time_info": "[05时22分 ~ 10时08分]"
         },
         {
+          "title": "金银铜未来几周都将“盘整”！摩根大通：这只是牛市休整，铜或在二季度率先反弹",
+          "url": "https://wallstreetcn.com/articles/3765251",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时22分 ~ 23时22分]"
+        },
+        {
           "title": "苏翊鸣单板大跳台摘铜",
           "url": "https://www.toutiao.com/trending/7604192413434793523/",
           "source": "今日头条",
@@ -98,20 +114,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时08分 ~ 14时02分]"
-        },
-        {
-          "title": "金银铜未来几周都将“盘整”！摩根大通：这只是牛市休整，铜或在二季度率先反弹",
-          "url": "https://wallstreetcn.com/articles/3765251",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时22分 ~ 22时24分]"
         },
         {
           "title": "苏翊鸣：铜牌也挺好",
@@ -156,11 +158,12 @@
           "ranks": [
             9,
             13,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时21分 ~ 22时24分]"
+          "appearance_count": 5,
+          "time_info": "[19时21分 ~ 23时22分]"
         },
         {
           "title": "苏翊鸣集齐冬奥会金银铜牌",
@@ -279,11 +282,12 @@
             7,
             10,
             13,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时22分 ~ 22时24分]"
+          "appearance_count": 6,
+          "time_info": "[18时22分 ~ 23时22分]"
         }
       ]
     }
