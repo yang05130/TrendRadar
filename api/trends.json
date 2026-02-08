@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T04:22:43.636242+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-02-09T05:23:05.533950+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 05时23分]"
         },
         {
           "title": "国乒包揽亚洲杯女单金银铜牌",
@@ -26,8 +26,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 05时23分]"
         },
         {
           "title": "苏翊鸣顶压摘铜,冬奥首牌入账",
@@ -37,8 +37,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 05时23分]"
         }
       ]
     },
@@ -51,11 +51,12 @@
           "url": "https://wallstreetcn.com/livenews/3051817",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时23分]"
         }
       ]
     }
