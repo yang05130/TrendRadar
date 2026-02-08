@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T21:42:39.661122+08:00",
-  "total_titles_processed": 1233,
+  "generated_at": "2026-02-08T22:24:45.725094+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
@@ -47,8 +47,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时08分 ~ 21时42分]"
+          "appearance_count": 14,
+          "time_info": "[10时08分 ~ 22时24分]"
         },
         {
           "title": "苏翊鸣大跳台铜牌",
@@ -110,8 +110,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时22分 ~ 21时42分]"
+          "appearance_count": 5,
+          "time_info": "[18时22分 ~ 22时24分]"
         },
         {
           "title": "苏翊鸣：铜牌也挺好",
@@ -150,6 +150,19 @@
           "time_info": "20时40分"
         },
         {
+          "title": "国乒包揽亚洲杯女单金银铜牌",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E5%8C%85%E6%8F%BD%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%A5%B3%E5%8D%95%E9%87%91%E9%93%B6%E9%93%9C%E7%89%8C",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时21分 ~ 22时24分]"
+        },
+        {
           "title": "苏翊鸣集齐冬奥会金银铜牌",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E9%9B%86%E9%BD%90%E5%86%AC%E5%A5%A5%E4%BC%9A%E9%87%91%E9%93%B6%E9%93%9C%E7%89%8C%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -160,18 +173,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时22分 ~ 06时22分]"
-        },
-        {
-          "title": "国乒包揽亚洲杯女单金银铜牌",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E5%8C%85%E6%8F%BD%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%A5%B3%E5%8D%95%E9%87%91%E9%93%B6%E9%93%9C%E7%89%8C",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时21分 ~ 21时42分]"
         },
         {
           "title": "苏翊鸣集齐冬奥会金银铜牌",
@@ -277,11 +278,12 @@
             2,
             7,
             10,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时22分 ~ 21时42分]"
+          "appearance_count": 5,
+          "time_info": "[18时22分 ~ 22时24分]"
         }
       ]
     }
