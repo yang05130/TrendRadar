@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T12:25:17.244180+08:00",
-  "total_titles_processed": 812,
+  "generated_at": "2026-02-09T14:05:34.723798+08:00",
+  "total_titles_processed": 932,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 12时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 14时05分]"
         },
         {
           "title": "苏翊鸣顶压摘铜,冬奥首牌入账",
@@ -65,7 +65,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
         },
