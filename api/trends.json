@@ -1,282 +1,39 @@
 {
-  "generated_at": "2026-02-09T23:53:20.281344+08:00",
-  "total_titles_processed": 1824,
+  "generated_at": "2026-02-10T01:48:52.585752+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "铜",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "金银铜未来几周都将“盘整”！摩根大通：这只是牛市休整，铜或在二季度率先反弹",
-          "url": "https://wallstreetcn.com/articles/3765251",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 16时46分]"
-        },
-        {
-          "title": "苏翊鸣顶压摘铜,冬奥首牌入账",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350371&amp;topic_name=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E9%A1%B6%E5%8E%8B%E6%91%98%E9%93%9C%2C%E5%86%AC%E5%A5%A5%E9%A6%96%E7%89%8C%E5%85%A5%E8%B4%A6",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 09时52分]"
-        },
-        {
-          "title": "国乒包揽亚洲杯女单金银铜牌",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E5%8C%85%E6%8F%BD%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%A5%B3%E5%8D%95%E9%87%91%E9%93%B6%E9%93%9C%E7%89%8C",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时22分]"
-        },
-        {
-          "title": "上期所：调整铜等期货新上市合约交易保证金比例和涨跌停板幅度",
-          "url": "https://flash.jin10.com/detail/20260209203259181800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时01分"
-        },
-        {
-          "title": "上期所：调整铜等期货新上市合约交易保证金比例和涨跌停板幅度",
-          "url": "https://wallstreetcn.com/livenews/3052341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 22时17分]"
-        },
-        {
-          "title": "大宗商品贸易商摩科瑞：首次从刚果钴业总公司（EGC）采购铜和钴，这些阴极铜拟运往美国、阿联酋或沙特。",
-          "url": "https://flash.jin10.com/detail/20260209161202236800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时46分"
-        },
-        {
-          "title": "上期能源：调整国际铜期货、原油、低硫燃料油、20号胶期货、集运指数（欧线）期货交易保证金比例和涨跌停板幅度",
-          "url": "https://wallstreetcn.com/livenews/3052332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时01分"
-        },
-        {
-          "title": "商品期货开盘，铂主力合约涨超9%，钯涨超7%，沪银涨超6%，碳酸锂涨超5%，沪金涨超4%，沪锡、国际铜、沪铜涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3051952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "伊拉克将3月份发往亚洲的巴士拉中质原油官方销售价设定为较阿曼/迪拜均价贴水1.70美元/桶。 伊拉克将3月份发往欧洲的巴士拉中质原油官方销售价设定为较即期布伦特价格贴水3.55美元/桶。 伊拉克将3月份发往北美及南美的巴士拉中质原油官方销售价设定为较阿格斯含硫原油指数（ASCI）贴水1.30美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3051817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 05时23分]"
-        },
-        {
-          "title": "美元指数DXY持续走低，日内跌幅扩大至0.7%。欧元兑美元EUR/USD突破1.19，创1月30日以来新高，日内涨0.74%。美元兑日元USD/JPY失守156，日内跌幅0.78%。",
-          "url": "https://flash.jin10.com/detail/20260209212804665800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
-          "title": "现货黄金短线走低13美元，报5012美元/盎司。美元指数DXY回落至97下方，日内跌0.59%。",
-          "url": "https://flash.jin10.com/detail/20260209212450505800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
-          "title": "美元指数持续走低，日内跌幅扩大至0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3052358",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
-          "title": "美元指数日内跌幅达0.5%，报97.18。",
-          "url": "https://wallstreetcn.com/livenews/3052351",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
-          "title": "美元指数DXY持续走低，日内跌幅扩大至0.6%。澳元兑美元AUD/USD日内涨幅扩大至0.50%，欧元兑美元EUR/USD涨0.6%，英镑兑美元GBP/USD涨0.4%，美元兑日元USD/JPY跌0.6%。",
-          "url": "https://flash.jin10.com/detail/20260209210644389800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "美股期货震荡回落，美债走跌，英镑延续涨势，黄金涨至5040美元",
-          "url": "https://wallstreetcn.com/articles/3765262",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时59分 ~ 22时17分]"
-        },
-        {
-          "title": "美股期货震荡回落，美债走跌，“高市交易”助推日股大涨6%，黄金涨至5040美元",
-          "url": "https://wallstreetcn.com/articles/3765262",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时59分 ~ 19时49分]"
-        },
         {
           "title": "美股三大指数开盘小幅下跌，美债走跌，英镑延续涨势，黄金涨至5040美元",
           "url": "https://wallstreetcn.com/articles/3765262",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时53分"
-        },
+          "time_info": "01时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "2年期美债收益率下跌，此前哈塞特发表关于非农就业数据的评论。",
-          "url": "https://flash.jin10.com/detail/20260209213202379800",
-          "source": "金十数据",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数大致持平，暂报2700点。 MarketVectorTM数字资产100中盘指数跌0.84%，报2758.06点。 MarketVector数字资产100指数跌0.32%，报2693.81点，北京时间14:00-19:00持续下挫。 Solana跌1.15%，狗狗币跌1.43%，XRP涨0.92%。 比特币跌1.23%，暂报70069美元；以太坊跌0.80%，暂报2093.44美元。",
+          "url": "https://wallstreetcn.com/livenews/3052456",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
-          "title": "马斯克警告「没有 AI 和机器人，国债危机下美国 1000% 会破产」，AI 和机器人能解美债问题吗？",
-          "url": "https://www.zhihu.com/question/2004143319609993151",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时59分 ~ 22时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "LGT Private Banking：预计未来三个月里人民币兑美元汇率将升至6.80，美元走软和“不对称的升值政策偏好”在短期内利好人民币。",
-          "url": "https://wallstreetcn.com/livenews/3052014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "中国外汇交易中心（CFETS）：2月6日人民币汇率指数按周涨1.35至98.34。",
-          "url": "https://wallstreetcn.com/livenews/3051942",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "赛力斯 问界",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "问界M9车主聚会堪比春晚",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8CM9%E8%BD%A6%E4%B8%BB%E8%81%9A%E4%BC%9A%E5%A0%AA%E6%AF%94%E6%98%A5%E6%99%9A%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
+          "time_info": "01时48分"
         }
       ]
     },
@@ -289,16 +46,11 @@
           "url": "https://search.bilibili.com/all?keyword=AIGC%E6%95%B4%E6%B4%BB%E6%96%B0%E6%98%A5%E8%81%94%E6%AC%A2%E4%BC%9A",
           "source": "bilibili 热搜",
           "ranks": [
-            5,
-            1,
-            2,
-            4,
-            13,
-            17
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时59分 ~ 23时53分]"
+          "appearance_count": 1,
+          "time_info": "01时48分"
         }
       ]
     }
