@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T10:02:59.975444+08:00",
-  "total_titles_processed": 744,
+  "generated_at": "2026-02-10T13:01:41.480306+08:00",
+  "total_titles_processed": 922,
   "failed_sources": [],
   "trends": [
     {
@@ -26,7 +26,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -37,7 +37,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -151,8 +151,19 @@
     },
     {
       "keyword_group": "泡泡玛特 labubu",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "泡泡玛特早盘收涨4.35%，有望连续第七个交易日走高，创2024年以来最长连涨纪录。",
+          "url": "https://wallstreetcn.com/livenews/3052714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
         {
           "title": "恒指高开0.65%，报27202.96点；恒生科技指数涨0.82%。紫金矿业涨2.9%，泡泡玛特、网易涨超2%，中芯国际、京东、阿里巴巴等涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3052614",
@@ -160,7 +171,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         }
@@ -175,11 +186,12 @@
           "url": "https://www.zhihu.com/question/2004134720611510191",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 13时01分]"
         }
       ]
     },
@@ -198,11 +210,12 @@
             23,
             13,
             26,
-            18
+            18,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时48分 ~ 10时02分]"
+          "appearance_count": 9,
+          "time_info": "[01时48分 ~ 13时01分]"
         }
       ]
     }
