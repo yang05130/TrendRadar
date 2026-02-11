@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T22:18:39.849416+08:00",
-  "total_titles_processed": 1847,
+  "generated_at": "2026-02-11T23:58:17.744370+08:00",
+  "total_titles_processed": 1967,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时45分 ~ 22时18分]"
+          "appearance_count": 6,
+          "time_info": "[18时45分 ~ 23时58分]"
         },
         {
           "title": "伦铜日内涨幅达2.00%，现报13349.70美元/吨。",
@@ -175,7 +175,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         }
@@ -183,8 +183,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "非农就业意外强劲，美股指集体高开，标普500创新高，美元指数短线走高，美债承压，黄金涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
         {
           "title": "非农就业意外强劲，美股指期货短线拉升，美元指数走高，美债承压，黄金一度突破5100美元大关",
           "url": "https://wallstreetcn.com/articles/3765486",
@@ -192,7 +203,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -249,7 +260,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         }
@@ -300,7 +311,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -352,7 +363,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         }
