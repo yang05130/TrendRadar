@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T19:42:18.361444+08:00",
-  "total_titles_processed": 1613,
+  "generated_at": "2026-02-11T21:01:24.760749+08:00",
+  "total_titles_processed": 1734,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时42分]"
+          "appearance_count": 4,
+          "time_info": "[18时45分 ~ 21时01分]"
         },
         {
           "title": "伦铜日内涨幅达2.00%，现报13349.70美元/吨。",
@@ -142,7 +142,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -333,7 +333,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         }
