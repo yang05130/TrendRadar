@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-02-12T14:03:14.428746+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2026-02-12T15:49:35.703168+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "宁忠岩速滑男子1000米夺铜",
+          "url": "https://www.douyin.com/hot/2397674",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2,
+            11,
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[03时55分 ~ 15时49分]"
+        },
         {
           "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
           "url": "https://www.zhihu.com/question/2004662806780338439",
@@ -18,20 +33,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时05分 ~ 07时28分]"
-        },
-        {
-          "title": "宁忠岩速滑男子1000米夺铜",
-          "url": "https://www.douyin.com/hot/2397674",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时55分 ~ 14时03分]"
         },
         {
           "title": "宁忠岩速滑男子1000米夺铜",
@@ -74,11 +75,12 @@
           "url": "https://www.zhihu.com/question/2005092208278201357",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 14时03分]"
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 15时49分]"
         },
         {
           "title": "需求前景和美元走软仍在支撑铜价上涨",
@@ -137,6 +139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "谁能拒绝可爱的“铜奔马”",
+          "url": "https://www.toutiao.com/trending/7605540939222679606/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         }
       ]
     },
@@ -153,8 +166,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时28分 ~ 14时03分]"
+          "appearance_count": 6,
+          "time_info": "[07时28分 ~ 15时49分]"
         },
         {
           "title": "强劲非农打击降息预期，软件股抛售潮拖累美股指，美债承压，黄金涨幅收窄",
@@ -284,6 +297,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "泡泡玛特 labubu",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "泡泡玛特新品这么火 为啥股价还是跌",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E6%96%B0%E5%93%81%E8%BF%99%E4%B9%88%E7%81%AB+%E4%B8%BA%E5%95%A5%E8%82%A1%E4%BB%B7%E8%BF%98%E6%98%AF%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         }
       ]
     }
