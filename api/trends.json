@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T12:22:38.082534+08:00",
-  "total_titles_processed": 984,
+  "generated_at": "2026-02-12T14:03:14.428746+08:00",
+  "total_titles_processed": 1086,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
@@ -26,11 +26,12 @@
           "ranks": [
             1,
             2,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时55分 ~ 12时22分]"
+          "appearance_count": 9,
+          "time_info": "[03时55分 ~ 14时03分]"
         },
         {
           "title": "宁忠岩速滑男子1000米夺铜",
@@ -45,6 +46,18 @@
           "time_info": "[03时55分 ~ 09时51分]"
         },
         {
+          "title": "宁忠岩速滑1000米摘铜",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%81%E5%BF%A0%E5%B2%A9%E9%80%9F%E6%BB%911000%E7%B1%B3%E6%91%98%E9%93%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 14时03分]"
+        },
+        {
           "title": "宁忠岩1000米速滑铜牌",
           "url": "https://s.weibo.com/weibo?q=%E5%AE%81%E5%BF%A0%E5%B2%A91000%E7%B1%B3%E9%80%9F%E6%BB%91%E9%93%9C%E7%89%8C&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -57,16 +70,15 @@
           "time_info": "[05时47分 ~ 07时28分]"
         },
         {
-          "title": "宁忠岩速滑1000米摘铜",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%81%E5%BF%A0%E5%B2%A9%E9%80%9F%E6%BB%911000%E7%B1%B3%E6%91%98%E9%93%9C",
-          "source": "bilibili 热搜",
+          "title": "速度滑冰男子 1000 米，宁忠岩 1 分 07 秒 34 夺铜，美国斯托尔兹夺冠，廉子文被取消成绩，如何看待？",
+          "url": "https://www.zhihu.com/question/2005092208278201357",
+          "source": "知乎",
           "ranks": [
-            4,
-            5
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时51分 ~ 12时22分]"
+          "time_info": "[14时02分 ~ 14时03分]"
         },
         {
           "title": "需求前景和美元走软仍在支撑铜价上涨",
@@ -75,7 +87,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -133,6 +145,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时28分 ~ 14时03分]"
+        },
+        {
           "title": "强劲非农打击降息预期，软件股抛售潮拖累美股指，美债承压，黄金涨幅收窄",
           "url": "https://wallstreetcn.com/articles/3765486",
           "source": "华尔街见闻",
@@ -142,18 +166,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时57分 ~ 06时26分]"
-        },
-        {
-          "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
-          "url": "https://wallstreetcn.com/articles/3765486",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时28分 ~ 12时22分]"
         },
         {
           "title": "非农就业意外强劲，美股指集体高开，标普500创新高，美元指数短线走高，美债承压，黄金涨幅收窄",
