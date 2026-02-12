@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T16:41:37.966927+08:00",
-  "total_titles_processed": 1308,
+  "generated_at": "2026-02-12T17:44:40.795086+08:00",
+  "total_titles_processed": 1406,
   "failed_sources": [],
   "trends": [
     {
@@ -80,8 +80,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时02分 ~ 16时41分]"
+          "appearance_count": 5,
+          "time_info": "[14时02分 ~ 17时44分]"
         },
         {
           "title": "需求前景和美元走软仍在支撑铜价上涨",
@@ -167,8 +167,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时28分 ~ 16时41分]"
+          "appearance_count": 8,
+          "time_info": "[07时28分 ~ 17时44分]"
         },
         {
           "title": "强劲非农打击降息预期，软件股抛售潮拖累美股指，美债承压，黄金涨幅收窄",
@@ -311,11 +311,12 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时49分 ~ 16时41分]"
+          "appearance_count": 3,
+          "time_info": "[15时49分 ~ 17时44分]"
         }
       ]
     }
