@@ -1,28 +1,11 @@
 {
-  "generated_at": "2026-02-14T01:38:35.678904+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2026-02-14T02:41:56.323504+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
-          "url": "https://wallstreetcn.com/articles/3765553",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时38分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "铜",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "淡水河谷(VALE.N)首席执行官：淡水河谷无需通过并购就能实现铜业务的增长。",
@@ -35,6 +18,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时47分 ~ 01时38分]"
+        },
+        {
+          "title": "LME期铜收涨6美元，报12881美元/吨。 LME期铝收跌22美元，报3078美元/吨。 LME期锌收跌36美元，报3338美元/吨。 LME期铅收跌18美元，报1960美元/吨。 LME期镍收跌444美元，报16984美元/吨。 LME期锡收跌2961美元，报46702美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3055324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 02时41分]"
         }
       ]
     }
