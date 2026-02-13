@@ -1,8 +1,92 @@
 {
-  "generated_at": "2026-02-13T14:57:47.123152+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2026-02-13T15:50:16.925449+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "铜",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "上期所：本周铜库存增加23564吨，铝库存增加52200吨，锌库存增加16336吨，铅库存增加8715吨，镍库存增加1318吨，锡库存增加2264吨，天然橡胶库存不变。",
+          "url": "https://flash.jin10.com/detail/20260213152137961800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
+          "title": "上期所：本周铜库存增加23564吨，铝库存增加52200吨，锌库存增加16336吨，铅库存增加8715吨，镍库存增加1318吨，锡库存增加2264吨，天然橡胶库存不变。",
+          "url": "https://wallstreetcn.com/livenews/3054979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
+          "title": "白银跌约11%，铂族贵金属和纽约铜也在00:00前后跳水",
+          "url": "https://wallstreetcn.com/livenews/3054751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时25分]"
+        },
+        {
+          "title": "LME期铜收跌291美元，报12876美元/吨。 LME期铝收跌3美元，报3100美元/吨。 LME期锌收跌32美元，报3374美元/吨。 LME期铅收跌16美元，报1978美元/吨。 LME期镍收跌452美元，报17428美元/吨。 LME期锡收涨28美元，报49663美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3054664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "内盘期货多数收跌，沪锡跌7%，沪银跌逾5%，原油跌逾4%，铂、沪镍、低硫燃油、钯跌逾3%，国际铜、燃油、甲醇、玻璃、铁矿石、沪铜、沥青、塑料跌逾2%；集运欧线涨逾3%，烧碱、碳酸锂、鸡蛋涨逾2%。",
+          "url": "https://wallstreetcn.com/livenews/3054968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约跌多涨少。集运欧线涨超3%，碳酸锂、烧碱、豆一、鸡蛋涨超2%，苹果涨超1%；跌幅方面，沪锡跌超7%，沪银跌超5%，SC原油跌超4%，铂、沪镍、低硫燃料油（LU）、钯跌超3%，丙烯、燃料油、国际铜、沥青、铁矿石、甲醇跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260213150112333800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
+          "title": "商品期货开盘，沪银跌超8%，原油跌超4%，沪锡跌超4%，沪镍跌超3%，碳酸锂跌超3%，沪铜跌超2%，沪金跌超2%；烧碱涨超2%，豆一涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3054817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        }
+      ]
+    },
     {
       "keyword_group": "美债",
       "match_count": 5,
@@ -26,8 +110,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时53分 ~ 14时57分]"
+          "appearance_count": 7,
+          "time_info": "[09时53分 ~ 15时50分]"
         },
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，贵金属遭流动性挤压，黄金失守5000美元，白银跳水11%",
@@ -87,7 +171,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
         },
@@ -101,46 +185,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "铜",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "白银跌约11%，铂族贵金属和纽约铜也在00:00前后跳水",
-          "url": "https://wallstreetcn.com/livenews/3054751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 07时25分]"
-        },
-        {
-          "title": "LME期铜收跌291美元，报12876美元/吨。 LME期铝收跌3美元，报3100美元/吨。 LME期锌收跌32美元，报3374美元/吨。 LME期铅收跌16美元，报1978美元/吨。 LME期镍收跌452美元，报17428美元/吨。 LME期锡收涨28美元，报49663美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3054664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "商品期货开盘，沪银跌超8%，原油跌超4%，沪锡跌超4%，沪镍跌超3%，碳酸锂跌超3%，沪铜跌超2%，沪金跌超2%；烧碱涨超2%，豆一涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3054817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
         }
       ]
     },
