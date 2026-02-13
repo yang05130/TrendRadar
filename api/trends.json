@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T22:01:23.775753+08:00",
-  "total_titles_processed": 1949,
+  "generated_at": "2026-02-13T22:50:39.822342+08:00",
+  "total_titles_processed": 2040,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时53分 ~ 22时01分]"
+          "appearance_count": 17,
+          "time_info": "[09时53分 ~ 22时50分]"
         },
         {
           "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
@@ -47,7 +47,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时01分"
         },
@@ -69,7 +69,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时01分"
         },
@@ -80,7 +80,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时01分"
         },
@@ -91,7 +91,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时01分"
         },
@@ -244,7 +244,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时01分"
         },
