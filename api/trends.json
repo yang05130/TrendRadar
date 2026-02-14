@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T07:27:45.801019+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-02-14T09:44:46.174551+08:00",
+  "total_titles_processed": 755,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -19,13 +19,24 @@
           "time_info": "[00时46分 ~ 07时27分]"
         },
         {
+          "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
+          "url": "https://wallstreetcn.com/articles/3765664",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
           "title": "美国通胀温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债走强，黄金重回5000关口",
           "url": "https://wallstreetcn.com/articles/3765664",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
