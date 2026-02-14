@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T00:24:15.462780+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-02-15T01:23:44.472105+08:00",
+  "total_titles_processed": 338,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时23分]"
         },
         {
           "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时23分]"
         }
       ]
     },
@@ -42,9 +42,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时23分]"
         }
       ]
     }
