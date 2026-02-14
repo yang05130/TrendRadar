@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T19:20:33.263353+08:00",
-  "total_titles_processed": 1364,
+  "generated_at": "2026-02-14T20:39:03.285752+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,25 @@
           "url": "https://wallstreetcn.com/articles/3765664",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时44分 ~ 19时20分]"
+          "appearance_count": 12,
+          "time_info": "[09时44分 ~ 20时39分]"
+        },
+        {
+          "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
+          "url": "https://wallstreetcn.com/articles/3765719",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 20时39分]"
         },
         {
           "title": "中国持续减持美债意味着什么",
@@ -41,18 +55,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时07分 ~ 15时32分]"
-        },
-        {
-          "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
-          "url": "https://wallstreetcn.com/articles/3765719",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 19时20分]"
         },
         {
           "title": "美国通胀温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债走强，黄金重回5000关口",
