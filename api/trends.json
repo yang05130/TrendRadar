@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T16:29:12.638814+08:00",
-  "total_titles_processed": 942,
+  "generated_at": "2026-02-15T17:28:02.477749+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
@@ -50,6 +50,34 @@
       ]
     },
     {
+      "keyword_group": "铜",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "冬奥奖牌榜：中国0金2银2铜第19",
+          "url": "https://www.toutiao.com/trending/7606329011249152042/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 17时28分]"
+        },
+        {
+          "title": "中国2银2铜暂列冬奥奖牌榜第18",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD2%E9%93%B62%E9%93%9C%E6%9A%82%E5%88%97%E5%86%AC%E5%A5%A5%E5%A5%96%E7%89%8C%E6%A6%9C%E7%AC%AC18&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 03时21分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "摩尔线程",
       "match_count": 1,
       "titles": [
@@ -67,23 +95,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时24分 ~ 14时46分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "铜",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国2银2铜暂列冬奥奖牌榜第18",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD2%E9%93%B62%E9%93%9C%E6%9A%82%E5%88%97%E5%86%AC%E5%A5%A5%E5%A5%96%E7%89%8C%E6%A6%9C%E7%AC%AC18&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 03时21分]"
         }
       ]
     }
