@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T17:28:02.477749+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2026-02-15T18:22:55.166284+08:00",
+  "total_titles_processed": 1044,
   "failed_sources": [],
   "trends": [
     {
@@ -58,11 +58,12 @@
           "url": "https://www.toutiao.com/trending/7606329011249152042/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 17时28分]"
+          "appearance_count": 3,
+          "time_info": "[17时27分 ~ 18时22分]"
         },
         {
           "title": "中国2银2铜暂列冬奥奖牌榜第18",
