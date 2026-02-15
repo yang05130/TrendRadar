@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T19:20:16.832199+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2026-02-15T20:40:58.571510+08:00",
+  "total_titles_processed": 1181,
   "failed_sources": [],
   "trends": [
     {
@@ -60,11 +60,12 @@
           "ranks": [
             9,
             1,
-            7
+            7,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 19时20分]"
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 20时40分]"
         },
         {
           "title": "中国2银2铜暂列冬奥奖牌榜第18",
