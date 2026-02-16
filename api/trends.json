@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T19:38:26.339435+08:00",
-  "total_titles_processed": 1238,
+  "generated_at": "2026-02-16T20:55:12.674015+08:00",
+  "total_titles_processed": 1342,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时51分 ~ 19时38分]"
+          "appearance_count": 6,
+          "time_info": "[15时51分 ~ 20时55分]"
         },
         {
           "title": "大摩：市场开始买美债了",
@@ -77,6 +77,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY突破97，日内涨0.13%。",
+          "url": "https://flash.jin10.com/detail/20260216202327950800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         }
       ]
     }
