@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T18:44:45.799169+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-02-16T19:38:26.339435+08:00",
+  "total_titles_processed": 1238,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时51分 ~ 18时44分]"
+          "appearance_count": 4,
+          "time_info": "[15时51分 ~ 19时38分]"
         },
         {
           "title": "大摩：市场开始买美债了",
@@ -42,11 +42,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时49分 ~ 18时44分]"
+          "appearance_count": 3,
+          "time_info": "[17时49分 ~ 19时38分]"
         },
         {
           "title": "伦敦金属交易所(LME)：镍库存减少168吨，铝库存减少2000吨，锡库存增加240吨，铜库存增加7975吨，铅库存持平，锌库存减少50吨。",
