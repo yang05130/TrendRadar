@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-02-17T23:54:33.858910+08:00",
-  "total_titles_processed": 1773,
+  "generated_at": "2026-02-18T01:12:50.831298+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 8,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "LME期铜收跌30美元，报12850美元/吨。 LME期铝收跌25美元，报3052美元/吨。 LME期锌收跌48美元，报3290美元/吨。 LME期铅收跌2美元，报1958美元/吨。 LME期镍收涨131美元，报17155美元/吨。 LME期锡收跌1021美元，报45681美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3055817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            9,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时37分 ~ 06时23分]"
-        },
         {
           "title": "创历史！中国队速滑男团追逐夺铜牌",
           "url": "https://www.toutiao.com/trending/7607471807259492388/",
@@ -28,123 +14,42 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时54分"
+          "time_info": "01时12分"
+        },
+        {
+          "title": "中国速滑男团铜牌",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%80%9F%E6%BB%91%E7%94%B7%E5%9B%A2%E9%93%9C%E7%89%8C%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "创历史！中国队速滑男团追逐夺铜牌",
+          "url": "https://www.baidu.com/s?wd=%E5%88%9B%E5%8E%86%E5%8F%B2%EF%BC%81%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%80%9F%E6%BB%91%E7%94%B7%E5%9B%A2%E8%BF%BD%E9%80%90%E5%A4%BA%E9%93%9C%E7%89%8C",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
         },
         {
           "title": "中国速滑男团历史性夺铜",
           "url": "https://www.douyin.com/hot/2404189",
           "source": "抖音",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "必和必拓(BHP.N)：预计2027财年埃斯孔迪达铜矿产量将在100万至110万吨之间。",
-          "url": "https://flash.jin10.com/detail/20260217054331309800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时26分]"
-        },
-        {
-          "title": "声明显示，必和必拓(BHP.N)和伦丁旗下的维库纳公司（Vicuna Corp）预计将在未来数年对阿根廷铜矿项目投资180亿美元。",
-          "url": "https://flash.jin10.com/detail/20260217043631932800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 06时23分]"
-        },
-        {
-          "title": "市场消息：赞比亚取消莫帕尼铜矿穆富利拉矿区的停产令。",
-          "url": "https://flash.jin10.com/detail/20260216233416841800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时35分]"
-        },
-        {
-          "title": "中国速滑男团铜牌",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%80%9F%E6%BB%91%E7%94%B7%E5%9B%A2%E9%93%9C%E7%89%8C%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "伦敦金属交易所（LME）：铜库存221625吨，增加9775吨。 铝库存477550吨，减少2000吨。 镍库存287730吨，增加810吨。",
-          "url": "https://wallstreetcn.com/livenews/3055932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "避险模式！大摩：市场开始买美债了",
-          "url": "https://wallstreetcn.com/articles/3765775",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "全球央行疯抛美债购黄金背后",
-          "url": "https://www.toutiao.com/trending/7607623524303244843/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 12时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "摩尔线程",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "摩尔线程快速完成对Qwen3.5模型全面适配",
-          "url": "https://wallstreetcn.com/livenews/3056023",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
+          "time_info": "01时12分"
         }
       ]
     },
@@ -153,17 +58,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "周一（2月16日）纽约尾盘，ICE美元指数涨0.16%，报97.066点，日内交投区间为96.907-97.120点。 彭博美元指数涨0.13%，报1182.94点，日内交投区间为1181.33-1183.44点。",
-          "url": "https://wallstreetcn.com/livenews/3055833",
+          "title": "非洲股市收盘播报｜周二（2月17日），南非富时/JSE非洲领先40可交易指数收跌1.40%，至11.14万点下方。 现货黄金跌超2.5%，持稳于北京时间22:01刷新的日低4843.51美元附近。",
+          "url": "https://wallstreetcn.com/livenews/3056044",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            13,
-            22
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时26分 ~ 07时26分]"
+          "appearance_count": 1,
+          "time_info": "01时12分"
         }
       ]
     }
