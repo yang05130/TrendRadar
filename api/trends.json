@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T09:48:33.163548+08:00",
-  "total_titles_processed": 716,
+  "generated_at": "2026-02-17T12:17:02.694323+08:00",
+  "total_titles_processed": 851,
   "failed_sources": [],
   "trends": [
     {
@@ -61,7 +61,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "避险模式！大摩：市场开始买美债了",
@@ -70,9 +70,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "全球央行疯抛美债购黄金背后",
+          "url": "https://www.toutiao.com/trending/7607623524303244843/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 12时17分]"
         }
       ]
     },
