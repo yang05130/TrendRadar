@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T17:43:28.431586+08:00",
-  "total_titles_processed": 1270,
+  "generated_at": "2026-02-17T18:41:46.070947+08:00",
+  "total_titles_processed": 1345,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "LME期铜收跌30美元，报12850美元/吨。 LME期铝收跌25美元，报3052美元/吨。 LME期锌收跌48美元，报3290美元/吨。 LME期铅收跌2美元，报1958美元/吨。 LME期镍收涨131美元，报17155美元/吨。 LME期锡收跌1021美元，报45681美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -56,6 +56,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 01时35分]"
+        },
+        {
+          "title": "伦敦金属交易所（LME）：铜库存221625吨，增加9775吨。 铝库存477550吨，减少2000吨。 镍库存287730吨，增加810吨。",
+          "url": "https://wallstreetcn.com/livenews/3055932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         }
       ]
     },
