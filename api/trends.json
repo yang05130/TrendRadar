@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T15:05:53.757508+08:00",
-  "total_titles_processed": 1104,
+  "generated_at": "2026-02-18T16:40:36.212136+08:00",
+  "total_titles_processed": 1232,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "创历史！中国队速滑男团追逐夺铜牌",
@@ -43,11 +43,12 @@
             1,
             2,
             16,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时12分 ~ 15时05分]"
+          "appearance_count": 15,
+          "time_info": "[01时12分 ~ 16时40分]"
         },
         {
           "title": "创历史！中国队速滑男团追逐夺铜牌",
@@ -67,11 +68,23 @@
           "source": "贴吧",
           "ranks": [
             4,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 15时05分]"
+          "appearance_count": 4,
+          "time_info": "[12时19分 ~ 16时40分]"
+        },
+        {
+          "title": "中国队 0.09 秒优势击败荷兰，爆冷获速度滑冰男子团体追逐铜牌，如何评价他们的表现？",
+          "url": "https://www.zhihu.com/question/2007246492147148417",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "李琰教练庆祝中国队铜牌",
@@ -83,6 +96,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "铜价上涨被煤炭价格下跌抵消 嘉能可利润下滑",
+          "url": "https://flash.jin10.com/detail/20260218160528297800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "刘瀚彬夺铜瞬间绷不住哭了",
@@ -127,11 +151,12 @@
           "ranks": [
             14,
             19,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 15时05分]"
+          "appearance_count": 4,
+          "time_info": "[12时19分 ~ 16时40分]"
         },
         {
           "title": "刘瀚彬铜牌",
