@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T12:19:19.043823+08:00",
-  "total_titles_processed": 928,
+  "generated_at": "2026-02-18T13:59:18.164930+08:00",
+  "total_titles_processed": 1025,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
             8,
             4,
             1,
-            2
+            2,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时12分 ~ 12时19分]"
+          "appearance_count": 13,
+          "time_info": "[01时12分 ~ 13时59分]"
         },
         {
           "title": "创历史！中国队速滑男团追逐夺铜牌",
@@ -64,11 +65,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350761&amp;topic_name=%E9%80%9F%E6%BB%91%E7%94%B7%E5%9B%A2%E5%81%B7%E5%AE%B6%E8%8D%B7%E5%85%B0%2C%E5%88%9B%E5%8E%86%E5%8F%B2%E6%91%98%E9%93%9C",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 13时59分]"
         },
         {
           "title": "李琰教练庆祝中国队铜牌",
@@ -122,11 +124,12 @@
           "url": "https://www.douyin.com/hot/2404590",
           "source": "抖音",
           "ranks": [
-            14
+            14,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 13时59分]"
         },
         {
           "title": "刘瀚彬铜牌",
