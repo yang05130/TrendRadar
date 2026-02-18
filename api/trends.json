@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T22:06:57.808225+08:00",
-  "total_titles_processed": 1743,
+  "generated_at": "2026-02-18T23:47:45.958306+08:00",
+  "total_titles_processed": 1871,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "创历史！中国队速滑男团追逐夺铜牌",
@@ -32,21 +32,6 @@
           "time_info": "[01时12分 ~ 07时25分]"
         },
         {
-          "title": "速滑男团偷家荷兰,创历史摘铜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350761&amp;topic_name=%E9%80%9F%E6%BB%91%E7%94%B7%E5%9B%A2%E5%81%B7%E5%AE%B6%E8%8D%B7%E5%85%B0%2C%E5%88%9B%E5%8E%86%E5%8F%B2%E6%91%98%E9%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            9,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时19分 ~ 22时06分]"
-        },
-        {
           "title": "中国速滑男团历史性夺铜",
           "url": "https://www.douyin.com/hot/2404189",
           "source": "抖音",
@@ -66,6 +51,22 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[01时12分 ~ 18时42分]"
+        },
+        {
+          "title": "速滑男团偷家荷兰,创历史摘铜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350761&amp;topic_name=%E9%80%9F%E6%BB%91%E7%94%B7%E5%9B%A2%E5%81%B7%E5%AE%B6%E8%8D%B7%E5%85%B0%2C%E5%88%9B%E5%8E%86%E5%8F%B2%E6%91%98%E9%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            9,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[12时19分 ~ 23时47分]"
         },
         {
           "title": "创历史！中国队速滑男团追逐夺铜牌",
@@ -97,6 +98,18 @@
           "time_info": "[12时19分 ~ 19时36分]"
         },
         {
+          "title": "徐梦桃卫冕摘金，邵琪铜牌，自由式滑雪女子空中技巧，中国队一战两枚奖牌，如何评价她们的表现？",
+          "url": "https://www.zhihu.com/question/2007551573270684444",
+          "source": "知乎",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 23时47分]"
+        },
+        {
           "title": "中国队 0.09 秒优势击败荷兰，爆冷获速度滑冰男子团体追逐铜牌，如何评价他们的表现？",
           "url": "https://www.zhihu.com/question/2007246492147148417",
           "source": "知乎",
@@ -108,6 +121,31 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时40分 ~ 18时42分]"
+        },
+        {
+          "title": "中国速度滑冰再创历史，这枚男子团体追逐铜牌有多难？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32628673",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时36分 ~ 23时47分]"
+        },
+        {
+          "title": "第二金！徐梦桃斩获自由式滑雪女子空中技巧金牌，邵琪摘铜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32630009",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "李琰教练庆祝中国队铜牌",
@@ -130,17 +168,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
-        },
-        {
-          "title": "徐梦桃卫冕摘金，邵琪铜牌，自由式滑雪女子空中技巧，中国队一战两枚奖牌，如何评价她们的表现？",
-          "url": "https://www.zhihu.com/question/2007551573270684444",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
         },
         {
           "title": "刘瀚彬夺铜瞬间绷不住哭了",
@@ -191,26 +218,13 @@
           "time_info": "[02时53分 ~ 04时34分]"
         },
         {
-          "title": "中国速度滑冰再创历史，这枚男子团体追逐铜牌有多难？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32628673",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时36分 ~ 22时06分]"
-        },
-        {
           "title": "邵琪铜牌",
           "url": "https://s.weibo.com/weibo?q=%23%E9%82%B5%E7%90%AA%E9%93%9C%E7%89%8C%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -316,7 +330,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         }
