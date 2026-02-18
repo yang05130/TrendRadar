@@ -1,140 +1,22 @@
 {
-  "generated_at": "2026-02-18T23:47:45.958306+08:00",
-  "total_titles_processed": 1871,
+  "generated_at": "2026-02-19T01:00:17.439103+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 19,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "创历史！中国队速滑男团追逐夺铜牌",
-          "url": "https://www.toutiao.com/trending/7607471807259492388/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时12分 ~ 07时25分]"
-        },
-        {
-          "title": "中国速滑男团铜牌",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%80%9F%E6%BB%91%E7%94%B7%E5%9B%A2%E9%93%9C%E7%89%8C%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时12分 ~ 07时25分]"
-        },
-        {
-          "title": "中国速滑男团历史性夺铜",
-          "url": "https://www.douyin.com/hot/2404189",
-          "source": "抖音",
-          "ranks": [
-            9,
-            7,
-            8,
-            4,
-            1,
-            2,
-            16,
-            17,
-            19,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时12分 ~ 18时42分]"
-        },
-        {
-          "title": "速滑男团偷家荷兰,创历史摘铜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350761&amp;topic_name=%E9%80%9F%E6%BB%91%E7%94%B7%E5%9B%A2%E5%81%B7%E5%AE%B6%E8%8D%B7%E5%85%B0%2C%E5%88%9B%E5%8E%86%E5%8F%B2%E6%91%98%E9%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            9,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时19分 ~ 23时47分]"
-        },
-        {
-          "title": "创历史！中国队速滑男团追逐夺铜牌",
-          "url": "https://www.baidu.com/s?wd=%E5%88%9B%E5%8E%86%E5%8F%B2%EF%BC%81%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%80%9F%E6%BB%91%E7%94%B7%E5%9B%A2%E8%BF%BD%E9%80%90%E5%A4%BA%E9%93%9C%E7%89%8C",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时12分 ~ 07时25分]"
-        },
-        {
-          "title": "中国速滑男团主教练回应夺铜",
-          "url": "https://www.douyin.com/hot/2404590",
-          "source": "抖音",
-          "ranks": [
-            14,
-            19,
-            20,
-            24,
-            22,
-            28,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时19分 ~ 19时36分]"
-        },
         {
           "title": "徐梦桃卫冕摘金，邵琪铜牌，自由式滑雪女子空中技巧，中国队一战两枚奖牌，如何评价她们的表现？",
           "url": "https://www.zhihu.com/question/2007551573270684444",
           "source": "知乎",
           "ranks": [
-            9,
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时06分 ~ 23时47分]"
-        },
-        {
-          "title": "中国队 0.09 秒优势击败荷兰，爆冷获速度滑冰男子团体追逐铜牌，如何评价他们的表现？",
-          "url": "https://www.zhihu.com/question/2007246492147148417",
-          "source": "知乎",
-          "ranks": [
-            5,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 18时42分]"
-        },
-        {
-          "title": "中国速度滑冰再创历史，这枚男子团体追逐铜牌有多难？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32628673",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时36分 ~ 23时47分]"
+          "time_info": "[00时59分 ~ 01时00分]"
         },
         {
           "title": "第二金！徐梦桃斩获自由式滑雪女子空中技巧金牌，邵琪摘铜",
@@ -143,196 +25,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "李琰教练庆祝中国队铜牌",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%90%B0%E6%95%99%E7%BB%83%E5%BA%86%E7%A5%9D%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%93%9C%E7%89%8C%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 01时00分]"
         },
         {
-          "title": "铜价上涨被煤炭价格下跌抵消 嘉能可利润下滑",
-          "url": "https://flash.jin10.com/detail/20260218160528297800",
-          "source": "金十数据",
+          "title": "速滑男团偷家荷兰,创历史摘铜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350761&amp;topic_name=%E9%80%9F%E6%BB%91%E7%94%B7%E5%9B%A2%E5%81%B7%E5%AE%B6%E8%8D%B7%E5%85%B0%2C%E5%88%9B%E5%8E%86%E5%8F%B2%E6%91%98%E9%93%9C",
+          "source": "贴吧",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
-          "title": "刘瀚彬夺铜瞬间绷不住哭了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E7%80%9A%E5%BD%AC%E5%A4%BA%E9%93%9C%E7%9E%AC%E9%97%B4%E7%BB%B7%E4%B8%8D%E4%BD%8F%E5%93%AD%E4%BA%86%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "周二（2月17日）纽约尾盘，现货白银跌4.08%，报73.4851美元/盎司，北京时间23:00刷新日低至72.0204美元。 COMEX白银期货跌5.74%，报73.525美元/盎司。 COMEX铜期货跌2.14%，报5.7370美元/磅。 现货铂金跌1.72%，现货钯金跌2.14%。",
-          "url": "https://wallstreetcn.com/livenews/3056153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时25分]"
+          "time_info": "[00时59分 ~ 01时00分]"
         },
         {
-          "title": "伦敦金属交易所（LME）：铜库存224650吨，增加3025吨。 铝库存475550吨，减少2000吨。 镍库存287706吨，减少24吨。",
-          "url": "https://wallstreetcn.com/livenews/3056267",
-          "source": "华尔街见闻-快讯",
+          "title": "中国速度滑冰再创历史，这枚男子团体追逐铜牌有多难？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32628673",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
-            25
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时42分 ~ 18时42分]"
-        },
-        {
-          "title": "LME期铜收跌231美元，报12620美元/吨。 LME期铝收跌18美元，报3035美元/吨。 LME期锌收跌4美元，报3286美元/吨。 LME期铅收跌12美元，报1946美元/吨。 LME期镍收跌254美元，报16861美元/吨。 LME期锡收涨250美元，报45931美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3056081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时53分 ~ 04时34分]"
-        },
-        {
-          "title": "邵琪铜牌",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%82%B5%E7%90%AA%E9%93%9C%E7%89%8C%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "嘉能可与刚果（金）方面达成土地交易协议，以提高铜矿产量",
-          "url": "https://flash.jin10.com/detail/20260218174118057800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "刘瀚彬铜牌",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E7%80%9A%E5%BD%AC%E9%93%9C%E7%89%8C%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "新兴市场ETFs连续第17周获得资金流入。 2月13日当周，在美上市新兴市场ETFs流入40亿美元，较之前一周11亿美元的规模显著增长。 2026年迄今，明晟公司MSCI新兴市场股票指数已经累计上涨超过10%。",
-          "url": "https://wallstreetcn.com/livenews/3056104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时45分 ~ 05时32分]"
-        },
-        {
-          "title": "周二（2月17日）纽约尾盘，ICE美元指数涨0.25%，报97.161点，整体处于上涨状态，北京时间20:00-02:00出现——波冲高回落行情23:42达到97.546点。 彭博美元指数涨0.05%，报1183.53点，日内交投区间为1182.91-1187.83点。",
-          "url": "https://wallstreetcn.com/livenews/3056112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 05时32分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.08%，暂报2843.67点。 MarketVectorTM数字资产100中盘指数涨1.59%，报2818.30点。 MarketVector数字资产100指数涨0.03%，报13671.22点。 目前，Solana跌0.55%，狗狗币涨1.70%，XRP涨0.41%。 比特币跌0.68%，暂报67741美元；以太坊涨0.25%，暂报1988.09美元。",
-          "url": "https://wallstreetcn.com/livenews/3056066",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 02时53分]"
-        },
-        {
-          "title": "非洲股市收盘播报｜周二（2月17日），南非富时/JSE非洲领先40可交易指数收跌1.40%，至11.14万点下方。 现货黄金跌超2.5%，持稳于北京时间22:01刷新的日低4843.51美元附近。",
-          "url": "https://wallstreetcn.com/livenews/3056044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "两年期美债收益率涨约2.5个基点",
-          "url": "https://wallstreetcn.com/livenews/3056163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时25分 ~ 09时51分]"
-        },
-        {
-          "title": "摩根大通美债客户调查显示多头占比有所回落",
-          "url": "https://wallstreetcn.com/livenews/3056330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时06分"
+          "time_info": "[00时59分 ~ 01时00分]"
         }
       ]
     }
