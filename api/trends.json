@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T13:59:18.164930+08:00",
-  "total_titles_processed": 1025,
+  "generated_at": "2026-02-18T15:05:53.757508+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
             4,
             1,
             2,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时12分 ~ 13时59分]"
+          "appearance_count": 14,
+          "time_info": "[01时12分 ~ 15时05分]"
         },
         {
           "title": "创历史！中国队速滑男团追逐夺铜牌",
@@ -69,8 +70,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 13时59分]"
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 15时05分]"
         },
         {
           "title": "李琰教练庆祝中国队铜牌",
@@ -125,11 +126,12 @@
           "source": "抖音",
           "ranks": [
             14,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 13时59分]"
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 15时05分]"
         },
         {
           "title": "刘瀚彬铜牌",
