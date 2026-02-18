@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T18:42:03.145801+08:00",
-  "total_titles_processed": 1417,
+  "generated_at": "2026-02-18T19:36:23.006023+08:00",
+  "total_titles_processed": 1503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "创历史！中国队速滑男团追逐夺铜牌",
@@ -75,8 +75,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时19分 ~ 18时42分]"
+          "appearance_count": 8,
+          "time_info": "[12时19分 ~ 19时36分]"
         },
         {
           "title": "中国速滑男团主教练回应夺铜",
@@ -88,11 +88,12 @@
             20,
             24,
             22,
-            28
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时19分 ~ 18时42分]"
+          "appearance_count": 8,
+          "time_info": "[12时19分 ~ 19时36分]"
         },
         {
           "title": "中国队 0.09 秒优势击败荷兰，爆冷获速度滑冰男子团体追逐铜牌，如何评价他们的表现？",
@@ -178,13 +179,24 @@
           "time_info": "[02时53分 ~ 04时34分]"
         },
         {
+          "title": "中国速度滑冰再创历史，这枚男子团体追逐铜牌有多难？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32628673",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "嘉能可与刚果（金）方面达成土地交易协议，以提高铜矿产量",
           "url": "https://flash.jin10.com/detail/20260218174118057800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
