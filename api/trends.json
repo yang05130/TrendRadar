@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T07:26:45.930578+08:00",
-  "total_titles_processed": 687,
+  "generated_at": "2026-02-19T09:50:46.605200+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时59分 ~ 07时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时59分 ~ 09时50分]"
         },
         {
           "title": "徐梦桃卫冕摘金，邵琪铜牌，自由式滑雪女子空中技巧，中国队一战两枚奖牌，如何评价她们的表现？",
@@ -35,29 +35,31 @@
           "time_info": "[00时59分 ~ 06时29分]"
         },
         {
-          "title": "速滑男团偷家荷兰,创历史摘铜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350761&amp;topic_name=%E9%80%9F%E6%BB%91%E7%94%B7%E5%9B%A2%E5%81%B7%E5%AE%B6%E8%8D%B7%E5%85%B0%2C%E5%88%9B%E5%8E%86%E5%8F%B2%E6%91%98%E9%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时59分 ~ 07时26分]"
-        },
-        {
           "title": "中国速度滑冰再创历史，这枚男子团体追逐铜牌有多难？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32628673",
           "source": "澎湃新闻",
           "ranks": [
             15,
             16,
-            17
+            17,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时59分 ~ 07时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时59分 ~ 09时50分]"
+        },
+        {
+          "title": "速滑男团偷家荷兰,创历史摘铜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350761&amp;topic_name=%E9%80%9F%E6%BB%91%E7%94%B7%E5%9B%A2%E5%81%B7%E5%AE%B6%E8%8D%B7%E5%85%B0%2C%E5%88%9B%E5%8E%86%E5%8F%B2%E6%91%98%E9%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时59分 ~ 09时50分]"
         },
         {
           "title": "LME期铜收涨292美元，报12912美元/吨。 LME期铝收涨54美元，报3089美元/吨。 LME期锌收涨67美元，报3354美元/吨。 LME期铅收涨18美元，报1964美元/吨。 LME期镍收涨414美元，报17275美元/吨。 LME期锡收跌13美元，报45918美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -125,7 +127,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
