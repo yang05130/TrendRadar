@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T12:17:36.317359+08:00",
-  "total_titles_processed": 967,
+  "generated_at": "2026-02-19T13:57:11.128311+08:00",
+  "total_titles_processed": 1070,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "第二金！徐梦桃斩获自由式滑雪女子空中技巧金牌，邵琪摘铜",
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时59分 ~ 12时17分]"
+          "appearance_count": 16,
+          "time_info": "[00时59分 ~ 13时57分]"
         },
         {
           "title": "徐梦桃卫冕摘金，邵琪铜牌，自由式滑雪女子空中技巧，中国队一战两枚奖牌，如何评价她们的表现？",
@@ -57,11 +57,23 @@
             13,
             14,
             19,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时59分 ~ 12时17分]"
+          "appearance_count": 16,
+          "time_info": "[00时59分 ~ 13时57分]"
+        },
+        {
+          "title": "力拓：仍预计2026年铜产量为80万至87万吨。",
+          "url": "https://flash.jin10.com/detail/20260219133039802800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         },
         {
           "title": "LME期铜收涨292美元，报12912美元/吨。 LME期铝收涨54美元，报3089美元/吨。 LME期锌收涨67美元，报3354美元/吨。 LME期铅收涨18美元，报1964美元/吨。 LME期镍收涨414美元，报17275美元/吨。 LME期锡收跌13美元，报45918美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -158,7 +170,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         }
