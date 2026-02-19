@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T14:58:15.744216+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2026-02-19T15:50:41.844648+08:00",
+  "total_titles_processed": 1233,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时59分 ~ 14时58分]"
+          "appearance_count": 19,
+          "time_info": "[00时59分 ~ 15时50分]"
         },
         {
           "title": "徐梦桃卫冕摘金，邵琪铜牌，自由式滑雪女子空中技巧，中国队一战两枚奖牌，如何评价她们的表现？",
@@ -59,22 +59,24 @@
             14,
             19,
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时59分 ~ 14时58分]"
+          "appearance_count": 19,
+          "time_info": "[00时59分 ~ 15时50分]"
         },
         {
           "title": "难忘今宵！一夜摘双金！外加一铜！如何评价中国冬奥健儿在大年初二的表现？",
           "url": "https://www.zhihu.com/question/2007565094163275899",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 14时58分]"
+          "appearance_count": 3,
+          "time_info": "[14时57分 ~ 15时50分]"
         },
         {
           "title": "力拓：仍预计2026年铜产量为80万至87万吨。",
