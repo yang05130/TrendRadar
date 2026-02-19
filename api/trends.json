@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T13:57:11.128311+08:00",
-  "total_titles_processed": 1070,
+  "generated_at": "2026-02-19T14:58:15.744216+08:00",
+  "total_titles_processed": 1155,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "第二金！徐梦桃斩获自由式滑雪女子空中技巧金牌，邵琪摘铜",
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时59分 ~ 13时57分]"
+          "appearance_count": 18,
+          "time_info": "[00时59分 ~ 14时58分]"
         },
         {
           "title": "徐梦桃卫冕摘金，邵琪铜牌，自由式滑雪女子空中技巧，中国队一战两枚奖牌，如何评价她们的表现？",
@@ -61,8 +62,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时59分 ~ 13时57分]"
+          "appearance_count": 18,
+          "time_info": "[00时59分 ~ 14时58分]"
+        },
+        {
+          "title": "难忘今宵！一夜摘双金！外加一铜！如何评价中国冬奥健儿在大年初二的表现？",
+          "url": "https://www.zhihu.com/question/2007565094163275899",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 14时58分]"
         },
         {
           "title": "力拓：仍预计2026年铜产量为80万至87万吨。",
@@ -71,7 +83,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
