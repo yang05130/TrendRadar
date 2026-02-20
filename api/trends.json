@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T21:59:32.803839+08:00",
-  "total_titles_processed": 1727,
+  "generated_at": "2026-02-20T22:42:12.026145+08:00",
+  "total_titles_processed": 1781,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "速滑男团偷家荷兰,创历史摘铜",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时46分 ~ 07时27分]"
+        },
+        {
+          "title": "李天马获自由式滑雪空中技巧铜牌",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%A4%A9%E9%A9%AC%E8%8E%B7%E8%87%AA%E7%94%B1%E5%BC%8F%E6%BB%91%E9%9B%AA%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E9%93%9C%E7%89%8C",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 22时42分]"
         },
         {
           "title": "伦敦金属交易所（LME）：铜库存235150吨，增加9575吨。 铝库存475550吨，持平。 镍库存287706吨，持平。 锌库存101575吨，减少425吨。 铅库存287125吨，持平。 锡库存7660吨，增加15吨。",
@@ -105,6 +116,17 @@
           "time_info": "[09时46分 ~ 14时51分]"
         },
         {
+          "title": "李天马铜牌",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%A4%A9%E9%A9%AC%E9%93%9C%E7%89%8C%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 22时42分]"
+        },
+        {
           "title": "苏翊鸣1金1铜完美收官",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%8F%E7%BF%8A%E9%B8%A31%E9%87%911%E9%93%9C%E5%AE%8C%E7%BE%8E%E6%94%B6%E5%AE%98",
           "source": "bilibili 热搜",
@@ -137,11 +159,12 @@
           "url": "https://wallstreetcn.com/livenews/3056963",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 22时42分]"
         },
         {
           "title": "周四（2月19日）纽约尾盘，ICE美元指数涨0.20%，报97.894点，北京时间17:08跌至97.572点刷新日低，随后逐步上扬，22:25刷新日高至98.074点。 彭博美元指数涨0.16%，报1191.07点，日内交投区间为1188.01-1192.71点。",
