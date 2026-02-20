@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T12:12:17.553595+08:00",
-  "total_titles_processed": 953,
+  "generated_at": "2026-02-20T13:51:32.437604+08:00",
+  "total_titles_processed": 1065,
   "failed_sources": [],
   "trends": [
     {
@@ -49,7 +49,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         }
@@ -57,7 +57,7 @@
     },
     {
       "keyword_group": "铜",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "速滑男团偷家荷兰,创历史摘铜",
@@ -94,6 +94,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时46分 ~ 12时12分]"
+        },
+        {
+          "title": "苏翊鸣1金1铜完美收官",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%8F%E7%BF%8A%E9%B8%A31%E9%87%911%E9%93%9C%E5%AE%8C%E7%BE%8E%E6%94%B6%E5%AE%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         }
       ]
     },
@@ -119,7 +130,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         }
