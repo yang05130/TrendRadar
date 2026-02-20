@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T13:51:32.437604+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2026-02-20T14:51:40.316677+08:00",
+  "total_titles_processed": 1114,
   "failed_sources": [],
   "trends": [
     {
@@ -89,11 +89,12 @@
           "source": "微博",
           "ranks": [
             27,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 12时12分]"
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 14时51分]"
         },
         {
           "title": "苏翊鸣1金1铜完美收官",
@@ -102,7 +103,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         }
