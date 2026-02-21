@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T06:20:04.784079+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-02-22T07:21:29.771662+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时21分]"
         },
         {
           "title": "空中技巧混团摘铜,瑞士人躺赢",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时21分]"
         },
         {
           "title": "中国队空中技巧混合团体摘铜",
@@ -43,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时21分]"
         },
         {
           "title": "中国空中技巧队2金3铜",
@@ -54,22 +54,24 @@
             9,
             7,
             2,
-            6
+            6,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时21分]"
         },
         {
           "title": "空中技巧混合团体决赛，徐梦桃、王心迪、李天马获得铜牌，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2008600440900642109",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时21分]"
         },
         {
           "title": "短道离了她一蹶不振，大道加了她摘金夺铜，如何评价中国速滑队李琰教练的执教能力？",
@@ -147,8 +149,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时21分]"
         }
       ]
     },
@@ -165,8 +167,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 07时21分]"
         }
       ]
     }
