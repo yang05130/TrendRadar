@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-22T04:20:59.405103+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-02-22T05:20:13.216806+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "中国队空中技巧混合团体摘铜",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 05时20分]"
         },
         {
           "title": "空中技巧混团摘铜,瑞士人躺赢",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 05时20分]"
         },
         {
           "title": "中国队空中技巧混合团体摘铜",
@@ -43,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 05时20分]"
         },
         {
           "title": "中国空中技巧队2金3铜",
@@ -57,8 +57,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 05时20分]"
+        },
+        {
+          "title": "空中技巧混合团体决赛，徐梦桃、王心迪、李天马获得铜牌，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2008600440900642109",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 05时20分]"
         },
         {
           "title": "短道离了她一蹶不振，大道加了她摘金夺铜，如何评价中国速滑队李琰教练的执教能力？",
@@ -70,17 +81,6 @@
             17,
             19,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时20分]"
-        },
-        {
-          "title": "空中技巧混合团体决赛，徐梦桃、王心迪、李天马获得铜牌，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2008600440900642109",
-          "source": "知乎",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -99,6 +99,17 @@
           "time_info": "[00时23分 ~ 01时22分]"
         },
         {
+          "title": "徐梦桃笑称这是第一枚奥运铜牌",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%90%E6%A2%A6%E6%A1%83%E7%AC%91%E7%A7%B0%E8%BF%99%E6%98%AF%E7%AC%AC%E4%B8%80%E6%9E%9A%E5%A5%A5%E8%BF%90%E9%93%9C%E7%89%8C",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 05时20分]"
+        },
+        {
           "title": "中国速滑米兰冬奥1金2铜收官",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%80%9F%E6%BB%91%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A51%E9%87%912%E9%93%9C%E6%94%B6%E5%AE%98%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -108,6 +119,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 03时22分]"
+        },
+        {
+          "title": "中国队空中技巧混团铜牌",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E6%B7%B7%E5%9B%A2%E9%93%9C%E7%89%8C%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 05时20分]"
         }
       ]
     },
@@ -124,8 +146,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 05时20分]"
         }
       ]
     },
@@ -142,8 +164,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 05时20分]"
         }
       ]
     }
