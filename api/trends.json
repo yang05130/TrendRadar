@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T00:24:05.235398+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-22T01:22:55.644066+08:00",
+  "total_titles_processed": 339,
   "failed_sources": [],
   "trends": [
     {
@@ -15,52 +15,56 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时22分]"
         },
         {
           "title": "空中技巧混团摘铜,瑞士人躺赢",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350834&amp;topic_name=%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E6%B7%B7%E5%9B%A2%E6%91%98%E9%93%9C%2C%E7%91%9E%E5%A3%AB%E4%BA%BA%E8%BA%BA%E8%B5%A2",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时22分]"
         },
         {
           "title": "中国队空中技巧混合团体摘铜",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E6%B7%B7%E5%90%88%E5%9B%A2%E4%BD%93%E6%91%98%E9%93%9C",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时22分]"
         },
         {
           "title": "中国空中技巧队2金3铜",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E9%98%9F2%E9%87%913%E9%93%9C",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时22分]"
         },
         {
           "title": "短道离了她一蹶不振，大道加了她摘金夺铜，如何评价中国速滑队李琰教练的执教能力？",
           "url": "https://www.zhihu.com/question/2007983025095407406",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时22分]"
         },
         {
           "title": "空中技巧混合团体决赛，徐梦桃、王心迪、李天马获得铜牌，如何评价本场比赛？",
@@ -70,19 +74,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时22分]"
         },
         {
           "title": "徐梦桃王心迪李天马摘铜",
           "url": "https://www.baidu.com/s?wd=%E5%BE%90%E6%A2%A6%E6%A1%83%E7%8E%8B%E5%BF%83%E8%BF%AA%E6%9D%8E%E5%A4%A9%E9%A9%AC%E6%91%98%E9%93%9C",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时22分]"
         }
       ]
     },
@@ -95,11 +100,12 @@
           "url": "https://wallstreetcn.com/articles/3765925",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时22分]"
         }
       ]
     },
@@ -112,11 +118,12 @@
           "url": "https://flash.jin10.com/detail/20260221210347201800",
           "source": "金十数据",
           "ranks": [
-            25
+            25,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时22分]"
         }
       ]
     }
