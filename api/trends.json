@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T21:39:51.205738+08:00",
-  "total_titles_processed": 1361,
+  "generated_at": "2026-02-21T23:22:06.269250+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
@@ -26,20 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 21时39分]"
-        },
-        {
-          "title": "徐梦桃王心迪李天马摘铜",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%90%E6%A2%A6%E6%A1%83%E7%8E%8B%E5%BF%83%E8%BF%AA%E6%9D%8E%E5%A4%A9%E9%A9%AC%E6%91%98%E9%93%9C",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 21时39分]"
+          "appearance_count": 4,
+          "time_info": "[20时38分 ~ 23时22分]"
         },
         {
           "title": "空中技巧混团摘铜,瑞士人躺赢",
@@ -49,30 +37,70 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 21时39分]"
+          "appearance_count": 4,
+          "time_info": "[20时38分 ~ 23时22分]"
+        },
+        {
+          "title": "徐梦桃王心迪李天马摘铜",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%90%E6%A2%A6%E6%A1%83%E7%8E%8B%E5%BF%83%E8%BF%AA%E6%9D%8E%E5%A4%A9%E9%A9%AC%E6%91%98%E9%93%9C",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时38分 ~ 23时22分]"
+        },
+        {
+          "title": "中国空中技巧队2金3铜",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E9%98%9F2%E9%87%913%E9%93%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时38分 ~ 23时22分]"
         },
         {
           "title": "空中技巧混合团体决赛，徐梦桃、王心迪、李天马获得铜牌，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2008600440900642109",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 21时39分]"
+          "appearance_count": 4,
+          "time_info": "[20时38分 ~ 23时22分]"
+        },
+        {
+          "title": "中国队空中技巧混合团体摘铜",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E6%B7%B7%E5%90%88%E5%9B%A2%E4%BD%93%E6%91%98%E9%93%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时38分 ~ 23时22分]"
         },
         {
           "title": "短道离了她一蹶不振，大道加了她摘金夺铜，如何评价中国速滑队李琰教练的执教能力？",
           "url": "https://www.zhihu.com/question/2007983025095407406",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 21时39分]"
+          "appearance_count": 4,
+          "time_info": "[20时38分 ~ 23时22分]"
         },
         {
           "title": "中国队空中技巧混合团体摘铜",
@@ -87,39 +115,15 @@
           "time_info": "[20时38分 ~ 21时39分]"
         },
         {
-          "title": "中国空中技巧队2金3铜",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E9%98%9F2%E9%87%913%E9%93%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 21时39分]"
-        },
-        {
           "title": "徐梦桃笑称这是第一枚奥运铜牌",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%A2%A6%E6%A1%83%E7%AC%91%E7%A7%B0%E8%BF%99%E6%98%AF%E7%AC%AC%E4%B8%80%E6%9E%9A%E5%A5%A5%E8%BF%90%E9%93%9C%E7%89%8C%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时39分"
-        },
-        {
-          "title": "中国队空中技巧混合团体摘铜",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E6%B7%B7%E5%90%88%E5%9B%A2%E4%BD%93%E6%91%98%E9%93%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 21时39分]"
         },
         {
           "title": "中国队空中技巧混团铜牌",
@@ -218,11 +222,12 @@
           "url": "https://flash.jin10.com/detail/20260221210347201800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 23时22分]"
         },
         {
           "title": "泡泡玛特创始人送小酒窝盲盒",
@@ -267,11 +272,12 @@
             6,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时37分 ~ 21时39分]"
+          "appearance_count": 10,
+          "time_info": "[14时37分 ~ 23时22分]"
         },
         {
           "title": "美国GDP、PCE数据叠加最高法宣判特朗普关税，美债收益率周五“触底反弹”",
