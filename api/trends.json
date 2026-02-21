@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T01:22:55.644066+08:00",
-  "total_titles_processed": 339,
+  "generated_at": "2026-02-22T02:29:17.328263+08:00",
+  "total_titles_processed": 363,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.douyin.com/hot/2407411",
           "source": "抖音",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时29分]"
         },
         {
           "title": "空中技巧混团摘铜,瑞士人躺赢",
@@ -27,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时29分]"
         },
         {
           "title": "中国队空中技巧混合团体摘铜",
@@ -36,11 +37,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时29分]"
         },
         {
           "title": "中国空中技巧队2金3铜",
@@ -48,11 +50,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            7
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时29分]"
         },
         {
           "title": "短道离了她一蹶不振，大道加了她摘金夺铜，如何评价中国速滑队李琰教练的执教能力？",
@@ -60,11 +63,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时29分]"
         },
         {
           "title": "空中技巧混合团体决赛，徐梦桃、王心迪、李天马获得铜牌，如何评价本场比赛？",
@@ -74,8 +78,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时29分]"
         },
         {
           "title": "徐梦桃王心迪李天马摘铜",
@@ -104,8 +108,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时29分]"
         }
       ]
     },
@@ -122,8 +126,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时29分]"
         }
       ]
     }
