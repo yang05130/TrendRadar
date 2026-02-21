@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T17:26:21.381161+08:00",
-  "total_titles_processed": 1127,
+  "generated_at": "2026-02-21T18:22:27.125955+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
@@ -106,11 +106,12 @@
             10,
             8,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时37分 ~ 17时26分]"
+          "appearance_count": 5,
+          "time_info": "[14时37分 ~ 18时22分]"
         },
         {
           "title": "美国GDP、PCE数据叠加最高法宣判特朗普关税，美债收益率周五“触底反弹”",
