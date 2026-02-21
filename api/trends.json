@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T03:22:05.681356+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-02-22T04:20:59.405103+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 04时20分]"
         },
         {
           "title": "空中技巧混团摘铜,瑞士人躺赢",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 04时20分]"
         },
         {
           "title": "中国队空中技巧混合团体摘铜",
@@ -39,11 +39,12 @@
           "ranks": [
             7,
             6,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 04时20分]"
         },
         {
           "title": "中国空中技巧队2金3铜",
@@ -56,8 +57,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 04时20分]"
         },
         {
           "title": "短道离了她一蹶不振，大道加了她摘金夺铜，如何评价中国速滑队李琰教练的执教能力？",
@@ -67,11 +68,12 @@
             11,
             6,
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 04时20分]"
         },
         {
           "title": "空中技巧混合团体决赛，徐梦桃、王心迪、李天马获得铜牌，如何评价本场比赛？",
@@ -81,8 +83,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 04时20分]"
         },
         {
           "title": "徐梦桃王心迪李天马摘铜",
@@ -122,8 +124,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 04时20分]"
         }
       ]
     },
@@ -140,8 +142,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时20分]"
         }
       ]
     }
