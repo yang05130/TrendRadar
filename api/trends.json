@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T15:30:57.324470+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2026-02-21T16:25:49.046695+08:00",
+  "total_titles_processed": 1064,
   "failed_sources": [],
   "trends": [
     {
@@ -99,6 +99,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
+          "url": "https://wallstreetcn.com/articles/3765925",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时37分 ~ 16时25分]"
+        },
+        {
           "title": "美国GDP、PCE数据叠加最高法宣判特朗普关税，美债收益率周五“触底反弹”",
           "url": "https://wallstreetcn.com/livenews/3057133",
           "source": "华尔街见闻-快讯",
@@ -112,18 +125,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时25分 ~ 14时37分]"
-        },
-        {
-          "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
-          "url": "https://wallstreetcn.com/articles/3765925",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 15时30分]"
         }
       ]
     },
