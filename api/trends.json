@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T01:22:57.070398+08:00",
-  "total_titles_processed": 345,
+  "generated_at": "2026-02-23T02:30:11.415891+08:00",
+  "total_titles_processed": 364,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 02时30分]"
         },
         {
           "title": "中国队5金4银6铜收官",
@@ -24,23 +24,12 @@
           "source": "微博",
           "ranks": [
             10,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时22分]"
-        },
-        {
-          "title": "5金4银6铜！中国冬奥军团刷新境外参赛历史最好成绩",
-          "url": "https://wallstreetcn.com/livenews/3057267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 02时30分]"
         },
         {
           "title": "空中技巧混团摘铜,瑞士人躺赢",
@@ -51,8 +40,21 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 02时30分]"
+        },
+        {
+          "title": "5金4银6铜！中国冬奥军团刷新境外参赛历史最好成绩",
+          "url": "https://wallstreetcn.com/livenews/3057267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时30分]"
         },
         {
           "title": "中国空中技巧队2金3铜",
@@ -61,7 +63,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
         }
