@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T13:49:33.070446+08:00",
-  "total_titles_processed": 757,
+  "generated_at": "2026-02-22T14:42:29.167021+08:00",
+  "total_titles_processed": 801,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 13时49分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 14时42分]"
         },
         {
           "title": "空中技巧混团摘铜,瑞士人躺赢",
@@ -47,8 +47,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 13时49分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 14时42分]"
         },
         {
           "title": "中国队空中技巧混合团体摘铜",
@@ -63,8 +63,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 13时49分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 14时42分]"
         },
         {
           "title": "空中技巧混合团体决赛，徐梦桃、王心迪、李天马获得铜牌，如何评价本场比赛？",
@@ -130,6 +130,18 @@
           "time_info": "[00时23分 ~ 01时22分]"
         },
         {
+          "title": "冬奥会自由式滑雪空中技巧混合团体决赛，中国队收获铜牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32639460",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 14时42分]"
+        },
+        {
           "title": "中国速滑米兰冬奥1金2铜收官",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%80%9F%E6%BB%91%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A51%E9%87%912%E9%93%9C%E6%94%B6%E5%AE%98%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -150,17 +162,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 05时20分]"
-        },
-        {
-          "title": "冬奥会自由式滑雪空中技巧混合团体决赛，中国队收获铜牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32639460",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时49分"
         }
       ]
     },
