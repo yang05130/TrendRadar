@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T16:27:42.729778+08:00",
-  "total_titles_processed": 899,
+  "generated_at": "2026-02-22T17:27:32.799693+08:00",
+  "total_titles_processed": 963,
   "failed_sources": [],
   "trends": [
     {
@@ -29,27 +29,12 @@
             4,
             3,
             9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时23分 ~ 16时27分]"
-        },
-        {
-          "title": "中国空中技巧队2金3铜",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E9%98%9F2%E9%87%913%E9%93%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            7,
-            2,
-            6,
-            1,
+            10,
             12
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时23分 ~ 16时27分]"
+          "appearance_count": 21,
+          "time_info": "[00时23分 ~ 17时27分]"
         },
         {
           "title": "中国队空中技巧混合团体摘铜",
@@ -63,11 +48,29 @@
             9,
             8,
             10,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时23分 ~ 16时27分]"
+          "appearance_count": 21,
+          "time_info": "[00时23分 ~ 17时27分]"
+        },
+        {
+          "title": "中国空中技巧队2金3铜",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E9%98%9F2%E9%87%913%E9%93%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            7,
+            2,
+            6,
+            1,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时23分 ~ 17时27分]"
         },
         {
           "title": "空中技巧混合团体决赛，徐梦桃、王心迪、李天马获得铜牌，如何评价本场比赛？",
@@ -118,8 +121,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时49分 ~ 16时27分]"
+          "appearance_count": 5,
+          "time_info": "[13时49分 ~ 17时27分]"
         },
         {
           "title": "徐梦桃笑称这是第一枚奥运铜牌",
