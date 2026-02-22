@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T07:21:29.771662+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2026-02-22T09:49:15.125304+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
@@ -26,25 +26,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 07时21分]"
-        },
-        {
-          "title": "中国队空中技巧混合团体摘铜",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E6%B7%B7%E5%90%88%E5%9B%A2%E4%BD%93%E6%91%98%E9%93%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            6,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 07时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 09时49分]"
         },
         {
           "title": "中国空中技巧队2金3铜",
@@ -58,8 +45,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 07时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 09时49分]"
+        },
+        {
+          "title": "中国队空中技巧混合团体摘铜",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E6%B7%B7%E5%90%88%E5%9B%A2%E4%BD%93%E6%91%98%E9%93%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            6,
+            3,
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 09时49分]"
         },
         {
           "title": "空中技巧混合团体决赛，徐梦桃、王心迪、李天马获得铜牌，如何评价本场比赛？",
@@ -67,11 +69,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 07时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 09时49分]"
         },
         {
           "title": "短道离了她一蹶不振，大道加了她摘金夺铜，如何评价中国速滑队李琰教练的执教能力？",
@@ -149,8 +152,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 07时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 09时49分]"
         }
       ]
     },
