@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T06:20:47.490843+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-02-23T07:22:33.207938+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 07时22分]"
         },
         {
           "title": "中国队5金4银6铜收官",
@@ -30,11 +30,12 @@
             28,
             24,
             17,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 07时22分]"
         },
         {
           "title": "空中技巧混团摘铜,瑞士人躺赢",
@@ -45,8 +46,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 07时22分]"
         },
         {
           "title": "5金4银6铜！中国冬奥军团刷新境外参赛历史最好成绩",
@@ -57,11 +58,12 @@
             15,
             21,
             23,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时22分]"
         },
         {
           "title": "中国空中技巧队2金3铜",
@@ -69,11 +71,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             30,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时22分 ~ 06时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时22分 ~ 07时22分]"
         },
         {
           "title": "中国队空中技巧混合团体摘铜",
@@ -81,11 +84,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             30,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时21分 ~ 06时20分]"
+          "appearance_count": 4,
+          "time_info": "[04时21分 ~ 07时22分]"
         }
       ]
     }
