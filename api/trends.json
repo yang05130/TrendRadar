@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T14:42:29.167021+08:00",
-  "total_titles_processed": 801,
+  "generated_at": "2026-02-22T15:33:51.629934+08:00",
+  "total_titles_processed": 838,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 14时42分]"
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 15时33分]"
         },
         {
           "title": "空中技巧混团摘铜,瑞士人躺赢",
@@ -47,8 +47,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 14时42分]"
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 15时33分]"
         },
         {
           "title": "中国队空中技巧混合团体摘铜",
@@ -60,11 +60,12 @@
             3,
             1,
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 14时42分]"
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 15时33分]"
         },
         {
           "title": "空中技巧混合团体决赛，徐梦桃、王心迪、李天马获得铜牌，如何评价本场比赛？",
@@ -118,6 +119,19 @@
           "time_info": "[05时19分 ~ 06时20分]"
         },
         {
+          "title": "冬奥会自由式滑雪空中技巧混合团体决赛，中国队收获铜牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32639460",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时49分 ~ 15时33分]"
+        },
+        {
           "title": "徐梦桃王心迪李天马摘铜",
           "url": "https://www.baidu.com/s?wd=%E5%BE%90%E6%A2%A6%E6%A1%83%E7%8E%8B%E5%BF%83%E8%BF%AA%E6%9D%8E%E5%A4%A9%E9%A9%AC%E6%91%98%E9%93%9C",
           "source": "百度热搜",
@@ -128,18 +142,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时23分 ~ 01时22分]"
-        },
-        {
-          "title": "冬奥会自由式滑雪空中技巧混合团体决赛，中国队收获铜牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32639460",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时49分 ~ 14时42分]"
         },
         {
           "title": "中国速滑米兰冬奥1金2铜收官",
