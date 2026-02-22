@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T02:30:11.415891+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-02-23T03:22:05.111001+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时22分]"
         },
         {
           "title": "中国队5金4银6铜收官",
@@ -25,11 +25,12 @@
           "ranks": [
             10,
             29,
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时22分]"
         },
         {
           "title": "空中技巧混团摘铜,瑞士人躺赢",
@@ -40,8 +41,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时22分]"
         },
         {
           "title": "5金4银6铜！中国冬奥军团刷新境外参赛历史最好成绩",
@@ -50,11 +51,12 @@
           "ranks": [
             12,
             15,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时22分]"
         },
         {
           "title": "中国空中技巧队2金3铜",
