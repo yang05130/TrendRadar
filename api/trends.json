@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T15:33:51.629934+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2026-02-22T16:27:42.729778+08:00",
+  "total_titles_processed": 899,
   "failed_sources": [],
   "trends": [
     {
@@ -21,21 +21,6 @@
           "time_info": "[00时23分 ~ 07时21分]"
         },
         {
-          "title": "中国空中技巧队2金3铜",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E9%98%9F2%E9%87%913%E9%93%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            7,
-            2,
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 15时33分]"
-        },
-        {
           "title": "空中技巧混团摘铜,瑞士人躺赢",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350834&amp;topic_name=%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E6%B7%B7%E5%9B%A2%E6%91%98%E9%93%9C%2C%E7%91%9E%E5%A3%AB%E4%BA%BA%E8%BA%BA%E8%B5%A2",
           "source": "贴吧",
@@ -47,8 +32,24 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 15时33分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 16时27分]"
+        },
+        {
+          "title": "中国空中技巧队2金3铜",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E9%98%9F2%E9%87%913%E9%93%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            7,
+            2,
+            6,
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 16时27分]"
         },
         {
           "title": "中国队空中技巧混合团体摘铜",
@@ -61,11 +62,12 @@
             1,
             9,
             8,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 15时33分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 16时27分]"
         },
         {
           "title": "空中技巧混合团体决赛，徐梦桃、王心迪、李天马获得铜牌，如何评价本场比赛？",
@@ -107,6 +109,19 @@
           "time_info": "[12时13分 ~ 12时14分]"
         },
         {
+          "title": "冬奥会自由式滑雪空中技巧混合团体决赛，中国队收获铜牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32639460",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时49分 ~ 16时27分]"
+        },
+        {
           "title": "徐梦桃笑称这是第一枚奥运铜牌",
           "url": "https://www.baidu.com/s?wd=%E5%BE%90%E6%A2%A6%E6%A1%83%E7%AC%91%E7%A7%B0%E8%BF%99%E6%98%AF%E7%AC%AC%E4%B8%80%E6%9E%9A%E5%A5%A5%E8%BF%90%E9%93%9C%E7%89%8C",
           "source": "百度热搜",
@@ -117,19 +132,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时19分 ~ 06时20分]"
-        },
-        {
-          "title": "冬奥会自由式滑雪空中技巧混合团体决赛，中国队收获铜牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32639460",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时49分 ~ 15时33分]"
         },
         {
           "title": "徐梦桃王心迪李天马摘铜",
