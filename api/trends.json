@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T18:46:18.368465+08:00",
-  "total_titles_processed": 1263,
+  "generated_at": "2026-02-23T19:39:02.516537+08:00",
+  "total_titles_processed": 1338,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 18时46分]"
+          "appearance_count": 22,
+          "time_info": "[00时25分 ~ 19时39分]"
         },
         {
           "title": "中国空中技巧队2金3铜",
@@ -160,7 +160,7 @@
     },
     {
       "keyword_group": "赛力斯 问界",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "鸿蒙智行问界M6银色实车现身",
@@ -173,6 +173,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时51分 ~ 18时46分]"
+        },
+        {
+          "title": "问界汽车回应惠州车辆起火",
+          "url": "https://www.baidu.com/s?wd=%E9%97%AE%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E6%83%A0%E5%B7%9E%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 19时39分]"
         },
         {
           "title": "问界汽车回应惠州车辆起火",
