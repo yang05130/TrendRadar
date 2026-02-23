@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T05:50:24.983617+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2026-02-24T06:37:57.811483+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             7,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 05时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 06时37分]"
         },
         {
           "title": "全球矿业巨头的“一致战略选择”：铜！",
@@ -28,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 05时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 06时37分]"
         },
         {
           "title": "空中技巧混团摘铜,瑞士人躺赢",
@@ -39,8 +40,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 05时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 06时37分]"
         },
         {
           "title": "LME期铜收跌96美元，报12868美元/吨。 LME期铝收跌13美元，报3090美元/吨。 LME期锌收跌28美元，报3354美元/吨。 LME期铅收跌14美元，报1951美元/吨。 LME期镍收跌67美元，报17283美元/吨。 LME期锡收涨1159美元，报47718美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -82,19 +83,20 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时50分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时37分]"
         },
         {
           "title": "疑似新款问界M9谍照曝光",
           "url": "https://www.toutiao.com/trending/7610039636349455923/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 06时37分]"
         }
       ]
     },
@@ -127,7 +129,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
         }
