@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T19:39:02.516537+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2026-02-23T20:56:52.309040+08:00",
+  "total_titles_processed": 1428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "中国队5金4银6铜收官",
@@ -52,8 +52,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时25分 ~ 19时39分]"
+          "appearance_count": 23,
+          "time_info": "[00时25分 ~ 20时56分]"
         },
         {
           "title": "中国空中技巧队2金3铜",
@@ -112,6 +112,17 @@
           "time_info": "[04时21分 ~ 12时22分]"
         },
         {
+          "title": "全球矿业巨头的“一致战略选择”：铜！",
+          "url": "https://wallstreetcn.com/articles/3765983",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "伦敦金属交易所（LME）：铜库存241825吨，增加6675吨。 铝库存473550吨，减少2000吨。 镍库存287706吨，持平。",
           "url": "https://wallstreetcn.com/livenews/3057422",
           "source": "华尔街见闻-快讯",
@@ -163,6 +174,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "问界汽车回应惠州车辆起火",
+          "url": "https://www.baidu.com/s?wd=%E9%97%AE%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E6%83%A0%E5%B7%9E%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时38分 ~ 20时56分]"
+        },
+        {
           "title": "鸿蒙智行问界M6银色实车现身",
           "url": "https://www.toutiao.com/trending/7609630522524925958/",
           "source": "今日头条",
@@ -173,17 +196,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时51分 ~ 18时46分]"
-        },
-        {
-          "title": "问界汽车回应惠州车辆起火",
-          "url": "https://www.baidu.com/s?wd=%E9%97%AE%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E6%83%A0%E5%B7%9E%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时38分 ~ 19时39分]"
         },
         {
           "title": "问界汽车回应惠州车辆起火",
