@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T07:22:33.207938+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-02-23T09:50:25.043608+08:00",
+  "total_titles_processed": 633,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             1,
-            2
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 07时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 09时50分]"
         },
         {
           "title": "中国队5金4银6铜收官",
@@ -43,11 +44,12 @@
           "source": "贴吧",
           "ranks": [
             13,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 07时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 09时50分]"
         },
         {
           "title": "5金4银6铜！中国冬奥军团刷新境外参赛历史最好成绩",
@@ -72,11 +74,12 @@
           "ranks": [
             30,
             22,
-            27
+            27,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时22分 ~ 07时22分]"
+          "appearance_count": 8,
+          "time_info": "[01时22分 ~ 09时50分]"
         },
         {
           "title": "中国队空中技巧混合团体摘铜",
@@ -85,11 +88,12 @@
           "ranks": [
             30,
             28,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时21分 ~ 07时22分]"
+          "appearance_count": 5,
+          "time_info": "[04时21分 ~ 09时50分]"
         }
       ]
     }
