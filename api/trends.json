@@ -1,129 +1,12 @@
 {
-  "generated_at": "2026-02-23T23:43:08.189488+08:00",
-  "total_titles_processed": 1636,
+  "generated_at": "2026-02-24T01:07:52.941235+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 13,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "中国队5金4银6铜收官",
-          "url": "https://www.toutiao.com/trending/7609123113803989035/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 09时50分]"
-        },
-        {
-          "title": "中国队5金4银6铜收官",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F5%E9%87%914%E9%93%B66%E9%93%9C%E6%94%B6%E5%AE%98%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            29,
-            30,
-            28,
-            24,
-            17,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 07时22分]"
-        },
-        {
-          "title": "空中技巧混团摘铜,瑞士人躺赢",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350834&amp;topic_name=%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E6%B7%B7%E5%9B%A2%E6%91%98%E9%93%9C%2C%E7%91%9E%E5%A3%AB%E4%BA%BA%E8%BA%BA%E8%B5%A2",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            14,
-            19,
-            23,
-            21,
-            22,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时25分 ~ 23时43分]"
-        },
-        {
-          "title": "中国空中技巧队2金3铜",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E9%98%9F2%E9%87%913%E9%93%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            22,
-            27,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时22分 ~ 12时22分]"
-        },
-        {
-          "title": "5金4银6铜！中国队创最佳战绩",
-          "url": "https://www.toutiao.com/trending/7609891405607259699/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时22分 ~ 15时52分]"
-        },
-        {
-          "title": "全球矿业巨头的“一致战略选择”：铜！",
-          "url": "https://wallstreetcn.com/articles/3765983",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时56分 ~ 23时43分]"
-        },
-        {
-          "title": "5金4银6铜！中国冬奥军团刷新境外参赛历史最好成绩",
-          "url": "https://wallstreetcn.com/livenews/3057267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            15,
-            21,
-            23,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时22分]"
-        },
-        {
-          "title": "中国队空中技巧混合团体摘铜",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E6%B7%B7%E5%90%88%E5%9B%A2%E4%BD%93%E6%91%98%E9%93%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            28,
-            29,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时21分 ~ 12时22分]"
-        },
         {
           "title": "米兰冬奥会中国 5 金 4 银 6 铜，这个成绩你猜到了吗，是不是远超原本预期？",
           "url": "https://www.zhihu.com/question/2008983599232279931",
@@ -132,156 +15,75 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时42分 ~ 23时43分]"
+          "appearance_count": 1,
+          "time_info": "01时07分"
         },
         {
-          "title": "伦敦金属交易所（LME）：铜库存241825吨，增加6675吨。 铝库存473550吨，减少2000吨。 镍库存287706吨，持平。",
-          "url": "https://wallstreetcn.com/livenews/3057422",
-          "source": "华尔街见闻-快讯",
+          "title": "全球矿业巨头的“一致战略选择”：铜！",
+          "url": "https://wallstreetcn.com/articles/3765983",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 18时46分]"
-        },
-        {
-          "title": "摩根大通：预计2026年第二季度铜价为每吨13,500美元，2026年第三季度为每吨13,000美元。",
-          "url": "https://flash.jin10.com/detail/20260223170038741800",
-          "source": "金十数据",
-          "ranks": [
-            23
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时51分"
+          "time_info": "01时07分"
         },
         {
-          "title": "摩根大通：预计废铜供应增加，以及来自2025年几起重大干扰事件中断供应后的回归，将使铜市场在2027年重新回到适度过剩的状态。",
-          "url": "https://flash.jin10.com/detail/20260223165934146800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
-          "title": "摩根大通：预测2026年铜供应将出现13万吨的短缺。",
-          "url": "https://flash.jin10.com/detail/20260223165816093800",
-          "source": "金十数据",
+          "title": "空中技巧混团摘铜,瑞士人躺赢",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350834&amp;topic_name=%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E6%B7%B7%E5%9B%A2%E6%91%98%E9%93%9C%2C%E7%91%9E%E5%A3%AB%E4%BA%BA%E8%BA%BA%E8%B5%A2",
+          "source": "贴吧",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时51分"
+          "time_info": "01时07分"
         }
       ]
     },
     {
       "keyword_group": "赛力斯 问界",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "问界汽车回应惠州车辆起火",
-          "url": "https://www.baidu.com/s?wd=%E9%97%AE%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E6%83%A0%E5%B7%9E%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            26,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时38分 ~ 23时43分]"
-        },
-        {
-          "title": "鸿蒙智行问界M6银色实车现身",
-          "url": "https://www.toutiao.com/trending/7609630522524925958/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 18时46分]"
-        },
         {
           "title": "疑似新款问界M9谍照曝光",
           "url": "https://www.toutiao.com/trending/7610039636349455923/",
           "source": "今日头条",
           "ranks": [
-            17
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时42分 ~ 23时43分]"
+          "appearance_count": 1,
+          "time_info": "01时07分"
         },
         {
           "title": "问界汽车回应惠州车辆起火",
-          "url": "https://www.toutiao.com/trending/7608861809327947795/",
-          "source": "今日头条",
+          "url": "https://www.baidu.com/s?wd=%E9%97%AE%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E6%83%A0%E5%B7%9E%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB",
+          "source": "百度热搜",
           "ranks": [
-            14
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时44分"
-        },
-        {
-          "title": "问界通报广东惠州车辆起火事件：非车辆自身原因导致",
-          "url": "https://wallstreetcn.com/livenews/3057369",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
-          "title": "问界M9起火声明",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8CM9%E8%B5%B7%E7%81%AB%E5%A3%B0%E6%98%8E%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时44分"
+          "time_info": "01时07分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
+      "keyword_group": "黄金",
+      "match_count": 1,
       "titles": [
         {
-          "title": "美国国债收益率在美国工厂订单数据公布后小幅延续跌势；10年期美债收益率最新下跌2.9个基点，报4.056%；美国两年期国债收益率下跌0.6个基点，报3.474%。",
-          "url": "https://flash.jin10.com/detail/20260223230403433800",
-          "source": "金十数据",
+          "title": "COMEX黄金期货涨3%，欧美主权债价格涨幅扩大，特朗普重燃贸易不确定性，投资者寻求避险",
+          "url": "https://wallstreetcn.com/livenews/3057571",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "美国国债上涨；10年期美债收益率跌至日内低点4.05%。",
-          "url": "https://flash.jin10.com/detail/20260223214241517800",
-          "source": "金十数据",
-          "ranks": [
-            15
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时07分"
+          "time_info": "01时07分"
         }
       ]
     }
