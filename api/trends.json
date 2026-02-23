@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T20:56:52.309040+08:00",
-  "total_titles_processed": 1428,
+  "generated_at": "2026-02-23T22:07:10.983878+08:00",
+  "total_titles_processed": 1527,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时25分 ~ 20时56分]"
+          "appearance_count": 25,
+          "time_info": "[00时25分 ~ 22时07分]"
         },
         {
           "title": "中国空中技巧队2金3铜",
@@ -98,6 +98,17 @@
           "time_info": "[00时25分 ~ 07时22分]"
         },
         {
+          "title": "全球矿业巨头的“一致战略选择”：铜！",
+          "url": "https://wallstreetcn.com/articles/3765983",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时56分 ~ 22时07分]"
+        },
+        {
           "title": "中国队空中技巧混合团体摘铜",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E6%B7%B7%E5%90%88%E5%9B%A2%E4%BD%93%E6%91%98%E9%93%9C",
           "source": "bilibili 热搜",
@@ -110,17 +121,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时21分 ~ 12时22分]"
-        },
-        {
-          "title": "全球矿业巨头的“一致战略选择”：铜！",
-          "url": "https://wallstreetcn.com/articles/3765983",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
         },
         {
           "title": "伦敦金属交易所（LME）：铜库存241825吨，增加6675吨。 铝库存473550吨，减少2000吨。 镍库存287706吨，持平。",
@@ -179,11 +179,12 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            26
+            26,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时38分 ~ 20时56分]"
+          "appearance_count": 5,
+          "time_info": "[19时38分 ~ 22时07分]"
         },
         {
           "title": "鸿蒙智行问界M6银色实车现身",
@@ -229,6 +230,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国国债上涨；10年期美债收益率跌至日内低点4.05%。",
+          "url": "https://flash.jin10.com/detail/20260223214241517800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         }
       ]
     }
