@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T14:04:09.400065+08:00",
-  "total_titles_processed": 898,
+  "generated_at": "2026-02-23T15:52:34.576528+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
@@ -46,11 +46,12 @@
             13,
             14,
             19,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 14时04分]"
+          "appearance_count": 17,
+          "time_info": "[00时25分 ~ 15时52分]"
         },
         {
           "title": "中国空中技巧队2金3铜",
@@ -66,6 +67,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时22分 ~ 12时22分]"
+        },
+        {
+          "title": "5金4银6铜！中国队创最佳战绩",
+          "url": "https://www.toutiao.com/trending/7609891405607259699/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 15时52分]"
         },
         {
           "title": "5金4银6铜！中国冬奥军团刷新境外参赛历史最好成绩",
@@ -84,17 +96,6 @@
           "time_info": "[00时25分 ~ 07时22分]"
         },
         {
-          "title": "5金4银6铜！中国队创最佳战绩",
-          "url": "https://www.toutiao.com/trending/7609891405607259699/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 14时04分]"
-        },
-        {
           "title": "中国队空中技巧混合团体摘铜",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E6%B7%B7%E5%90%88%E5%9B%A2%E4%BD%93%E6%91%98%E9%93%9C",
           "source": "bilibili 热搜",
@@ -107,6 +108,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时21分 ~ 12时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "赛力斯 问界",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "问界通报广东惠州车辆起火事件：非车辆自身原因导致",
+          "url": "https://wallstreetcn.com/livenews/3057369",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         }
       ]
     }
