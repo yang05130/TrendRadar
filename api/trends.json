@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-02-25T06:38:32.614760+08:00",
-  "total_titles_processed": 573,
+  "generated_at": "2026-02-25T07:29:09.392691+08:00",
+  "total_titles_processed": 634,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "资源大时代2.0：当铜金屡创新高，谁是下一个战略级品种？",
+          "url": "https://wallstreetcn.com/articles/3766028",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 07时29分]"
+        },
         {
           "title": "现货黄金跌约1.5%，白银跌1.1%，纽约铜期货涨2%",
           "url": "https://wallstreetcn.com/livenews/3058361",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 07时29分]"
         },
         {
           "title": "花旗：短期看涨铜价，预计未来三个月将升至1.4万美元",
@@ -65,11 +77,12 @@
           "url": "https://wallstreetcn.com/livenews/3058362",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 07时29分]"
         },
         {
           "title": "周二（2月24日）纽约尾盘，美国10年期国债收益率涨1.76个基点，报4.0385%。 两年期美债收益率涨2.09个基点，报3.4590%；30年期美债收益率跌0.58个基点，报4.6962%。 2/10年期美债收益率利差跌1.124个基点，报+57.552个基点。 10年期通胀保值国债（TIPS）收益率持平，报1.7694%；两年期TIPS收益率涨2.23个基点，至0.7337%；30年期TIPS收益率跌1.06个基点，至2.4819%。",
@@ -81,6 +94,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "人民币汇率开年走强，专家提醒切勿盲目“赌”方向",
+          "url": "https://wallstreetcn.com/livenews/3058372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         }
       ]
     },
