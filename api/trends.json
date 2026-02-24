@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T22:11:25.161214+08:00",
-  "total_titles_processed": 1847,
+  "generated_at": "2026-02-24T23:54:48.402291+08:00",
+  "total_titles_processed": 1963,
   "failed_sources": [],
   "trends": [
     {
@@ -39,11 +39,12 @@
           "url": "https://wallstreetcn.com/articles/3766028",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时47分 ~ 22时11分]"
+          "appearance_count": 7,
+          "time_info": "[17时47分 ~ 23时54分]"
         },
         {
           "title": "空中技巧混团摘铜,瑞士人躺赢",
@@ -121,7 +122,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时11分"
         }
