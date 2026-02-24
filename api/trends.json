@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T20:57:37.687658+08:00",
-  "total_titles_processed": 1734,
+  "generated_at": "2026-02-24T22:11:25.161214+08:00",
+  "total_titles_processed": 1847,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "全球矿业巨头的“一致战略选择”：铜！",
@@ -35,6 +35,17 @@
           "time_info": "[01时07分 ~ 07时33分]"
         },
         {
+          "title": "资源大时代2.0：当铜金屡创新高，谁是下一个战略级品种？",
+          "url": "https://wallstreetcn.com/articles/3766028",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时47分 ~ 22时11分]"
+        },
+        {
           "title": "空中技巧混团摘铜,瑞士人躺赢",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350834&amp;topic_name=%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E6%B7%B7%E5%9B%A2%E6%91%98%E9%93%9C%2C%E7%91%9E%E5%A3%AB%E4%BA%BA%E8%BA%BA%E8%B5%A2",
           "source": "贴吧",
@@ -45,17 +56,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时07分 ~ 09时47分]"
-        },
-        {
-          "title": "资源大时代2.0：当铜金屡创新高，谁是下一个战略级品种？",
-          "url": "https://wallstreetcn.com/articles/3766028",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时47分 ~ 20时57分]"
         },
         {
           "title": "LME期铜收跌96美元，报12868美元/吨。 LME期铝收跌13美元，报3090美元/吨。 LME期锌收跌28美元，报3354美元/吨。 LME期铅收跌14美元，报1951美元/吨。 LME期镍收跌67美元，报17283美元/吨。 LME期锡收涨1159美元，报47718美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -113,6 +113,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
+        },
+        {
+          "title": "基本金属价格拉升，伦锡涨超4%，伦镍涨近4%，伦铜涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3058154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         }
       ]
     },
