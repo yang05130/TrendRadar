@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-25T05:31:11.941545+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2026-02-25T06:38:32.614760+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "现货黄金跌约1.5%，白银跌1.1%，纽约铜期货涨2%",
+          "url": "https://wallstreetcn.com/livenews/3058361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
         {
           "title": "花旗：短期看涨铜价，预计未来三个月将升至1.4万美元",
           "url": "https://flash.jin10.com/detail/20260225025348041800",
@@ -39,7 +50,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         }
@@ -47,8 +58,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美债市场持仓更新：债券交易员押注美联储降息将持续至2027年",
+          "url": "https://wallstreetcn.com/livenews/3058362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
         {
           "title": "周二（2月24日）纽约尾盘，美国10年期国债收益率涨1.76个基点，报4.0385%。 两年期美债收益率涨2.09个基点，报3.4590%；30年期美债收益率跌0.58个基点，报4.6962%。 2/10年期美债收益率利差跌1.124个基点，报+57.552个基点。 10年期通胀保值国债（TIPS）收益率持平，报1.7694%；两年期TIPS收益率涨2.23个基点，至0.7337%；30年期TIPS收益率跌1.06个基点，至2.4819%。",
           "url": "https://wallstreetcn.com/livenews/3058330",
@@ -56,7 +78,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         }
@@ -73,7 +95,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         }
