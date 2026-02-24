@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-24T09:47:38.816989+08:00",
-  "total_titles_processed": 792,
+  "generated_at": "2026-02-24T12:15:40.066768+08:00",
+  "total_titles_processed": 964,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
       "match_count": 5,
       "titles": [
+        {
+          "title": "全球矿业巨头的“一致战略选择”：铜！",
+          "url": "https://wallstreetcn.com/articles/3765983",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 12时15分]"
+        },
         {
           "title": "米兰冬奥会中国 5 金 4 银 6 铜，这个成绩你猜到了吗，是不是远超原本预期？",
           "url": "https://www.zhihu.com/question/2008983599232279931",
@@ -16,18 +29,6 @@
             7,
             3,
             4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 07时33分]"
-        },
-        {
-          "title": "全球矿业巨头的“一致战略选择”：铜！",
-          "url": "https://wallstreetcn.com/articles/3765983",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -124,7 +125,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         }
