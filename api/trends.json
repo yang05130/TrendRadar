@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T18:44:46.215910+08:00",
-  "total_titles_processed": 1550,
+  "generated_at": "2026-02-24T19:38:23.989721+08:00",
+  "total_titles_processed": 1637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "全球矿业巨头的“一致战略选择”：铜！",
@@ -54,8 +54,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时47分 ~ 18时44分]"
+          "appearance_count": 4,
+          "time_info": "[17时47分 ~ 19时38分]"
         },
         {
           "title": "LME期铜收跌96美元，报12868美元/吨。 LME期铝收跌13美元，报3090美元/吨。 LME期锌收跌28美元，报3354美元/吨。 LME期铅收跌14美元，报1951美元/吨。 LME期镍收跌67美元，报17283美元/吨。 LME期锡收涨1159美元，报47718美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -91,6 +91,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
+        },
+        {
+          "title": "波兰铜业：1月铜销量为50,700吨，同比下降2.5%。",
+          "url": "https://flash.jin10.com/detail/20260224191916582800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
+          "title": "波兰铜业：1月铜产量为60,500吨，同比增长2.7%。",
+          "url": "https://flash.jin10.com/detail/20260224191818626800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
         }
       ]
     },
