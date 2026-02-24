@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T04:31:46.832010+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-02-25T05:31:11.941545+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "花旗：短期看涨铜价，预计未来三个月将升至1.4万美元",
@@ -31,6 +31,51 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时08分 ~ 04时31分]"
+        },
+        {
+          "title": "国际铜业研究小组：2025年12月全球精炼铜市场供应过剩17.3万吨。",
+          "url": "https://flash.jin10.com/detail/20260225044431803800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周二（2月24日）纽约尾盘，美国10年期国债收益率涨1.76个基点，报4.0385%。 两年期美债收益率涨2.09个基点，报3.4590%；30年期美债收益率跌0.58个基点，报4.6962%。 2/10年期美债收益率利差跌1.124个基点，报+57.552个基点。 10年期通胀保值国债（TIPS）收益率持平，报1.7694%；两年期TIPS收益率涨2.23个基点，至0.7337%；30年期TIPS收益率跌1.06个基点，至2.4819%。",
+          "url": "https://wallstreetcn.com/livenews/3058330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周二（2月24日）纽约尾盘，ICE美元指数涨0.14%，报97,843点，日内交投区间为97.695-97.986点。 彭博美元指数涨0.03%，报1189.77点，日内交投区间为1188.71-1192.00点。",
+          "url": "https://wallstreetcn.com/livenews/3058322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         }
       ]
     }
