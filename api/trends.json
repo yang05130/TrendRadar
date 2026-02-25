@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T15:04:23.453720+08:00",
-  "total_titles_processed": 1187,
+  "generated_at": "2026-02-25T16:43:20.043582+08:00",
+  "total_titles_processed": 1296,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
         },
@@ -150,6 +150,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "文生图 文生视频 AIGC",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "AIGC动画电影团圆令定档预告",
+          "url": "https://search.bilibili.com/all?keyword=AIGC%E5%8A%A8%E7%94%BB%E7%94%B5%E5%BD%B1%E5%9B%A2%E5%9C%86%E4%BB%A4%E5%AE%9A%E6%A1%A3%E9%A2%84%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         }
       ]
     }
