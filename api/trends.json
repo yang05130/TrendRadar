@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T15:50:33.773906+08:00",
-  "total_titles_processed": 1246,
+  "generated_at": "2026-02-26T16:42:16.236244+08:00",
+  "total_titles_processed": 1358,
   "failed_sources": [],
   "trends": [
     {
@@ -45,6 +45,35 @@
       ]
     },
     {
+      "keyword_group": "摩尔线程",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "A股算力芯片概念午后拉升，寒武纪涨近10%，云天励飞、海光信息、东芯股份、芯原股份、摩尔线程等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3059303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 14时55分]"
+        },
+        {
+          "title": "摩尔线程MTT S5000全面适配阿里Qwen3.5三款新模型",
+          "url": "https://wallstreetcn.com/livenews/3059430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "铜",
       "match_count": 2,
       "titles": [
@@ -71,24 +100,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "摩尔线程",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股算力芯片概念午后拉升，寒武纪涨近10%，云天励飞、海光信息、东芯股份、芯原股份、摩尔线程等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3059303",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 14时55分]"
         }
       ]
     },
