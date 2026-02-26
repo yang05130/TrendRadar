@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-02-26T18:41:53.941862+08:00",
-  "total_titles_processed": 1564,
+  "generated_at": "2026-02-26T19:37:52.737096+08:00",
+  "total_titles_processed": 1640,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "黄金",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "摩根大通上调黄金长期价格预期至4500美元，维持2026年底目标价6300美元不变",
+          "url": "https://www.cls.cn/detail/2295242",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时46分 ~ 15时50分]"
+        },
+        {
+          "title": "印度证券交易委员会：经认可的证券交易所公布的即期价格可用于对共同基金计划持有的黄金和白银进行估值。",
+          "url": "https://flash.jin10.com/detail/20260226184611823800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
+          "title": "印度证券交易委员会：自4月1日起，共同基金将采用经认可证券交易所公布的即期现货价格对实物黄金和白银进行估值。",
+          "url": "https://flash.jin10.com/detail/20260226184527380800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        }
+      ]
+    },
     {
       "keyword_group": "美元",
       "match_count": 3,
@@ -111,26 +153,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "摩根大通上调黄金长期价格预期至4500美元，维持2026年底目标价6300美元不变",
-          "url": "https://www.cls.cn/detail/2295242",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时46分 ~ 15时50分]"
         }
       ]
     },
