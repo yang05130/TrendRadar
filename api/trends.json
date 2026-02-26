@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T05:29:43.227374+08:00",
-  "total_titles_processed": 605,
+  "generated_at": "2026-02-27T06:30:27.195342+08:00",
+  "total_titles_processed": 650,
   "failed_sources": [],
   "trends": [
     {
@@ -55,8 +55,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时30分]"
         },
         {
           "title": "人民币对美元即期汇率升破6.85，马年已累计升值近1%",
@@ -67,8 +67,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时30分]"
         }
       ]
     },
