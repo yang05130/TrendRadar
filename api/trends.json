@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T19:37:52.737096+08:00",
-  "total_titles_processed": 1640,
+  "generated_at": "2026-02-26T20:57:05.136271+08:00",
+  "total_titles_processed": 1757,
   "failed_sources": [],
   "trends": [
     {
@@ -28,7 +28,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -39,7 +39,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         }
@@ -153,6 +153,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "节后三天人民币兑美元汇率大涨600基点，部分企业结汇意愿有所强化，集中结汇并未出现",
+          "url": "https://www.cls.cn/detail/2296218",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
         }
       ]
     },
