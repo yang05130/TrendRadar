@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T06:30:27.195342+08:00",
-  "total_titles_processed": 650,
+  "generated_at": "2026-02-27T07:26:10.311926+08:00",
+  "total_titles_processed": 704,
   "failed_sources": [],
   "trends": [
     {
@@ -44,38 +44,20 @@
       ]
     },
     {
-      "keyword_group": "人民币",
-      "match_count": 2,
+      "keyword_group": "铜",
+      "match_count": 3,
       "titles": [
         {
-          "title": "节后三天人民币兑美元汇率大涨600基点，部分企业结汇意愿有所强化，集中结汇并未出现",
-          "url": "https://www.cls.cn/detail/2296218",
-          "source": "财联社热门",
+          "title": "英伟达重挫引发板块轮动，软件股上演逼空，避险情绪撑债汇齐涨，金涨银跌，纽铜三连涨",
+          "url": "https://wallstreetcn.com/articles/3766225",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时30分]"
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 07时26分]"
         },
-        {
-          "title": "人民币对美元即期汇率升破6.85，马年已累计升值近1%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32658379",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时30分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "铜",
-      "match_count": 2,
-      "titles": [
         {
           "title": "LME期铜收跌18美元，报13304美元/吨。 LME期铝收跌13美元，报3158美元/吨。 LME期锌收跌10美元，报3378美元/吨。 LME期铅收跌6美元，报1984美元/吨。 LME期镍收跌391美元，报17694美元/吨。 LME期锡收涨736美元，报54434美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3059714",
@@ -100,6 +82,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时55分 ~ 02时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "节后三天人民币兑美元汇率大涨600基点，部分企业结汇意愿有所强化，集中结汇并未出现",
+          "url": "https://www.cls.cn/detail/2296218",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 07时26分]"
+        },
+        {
+          "title": "人民币对美元即期汇率升破6.85，马年已累计升值近1%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658379",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 07时26分]"
         }
       ]
     },
