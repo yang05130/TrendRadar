@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T22:39:43.321266+08:00",
-  "total_titles_processed": 2003,
+  "generated_at": "2026-02-27T23:35:34.996011+08:00",
+  "total_titles_processed": 2105,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时25分 ~ 22时39分]"
+          "appearance_count": 16,
+          "time_info": "[07时25分 ~ 23时35分]"
         },
         {
           "title": "上期所：本周铜库存增加119054吨，铝库存增加58646吨，锌库存增加39027吨，铅库存增加8128吨，镍库存增加2016吨，锡库存增加1239吨，天然橡胶库存增加400吨。",
@@ -218,8 +218,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
+          "url": "https://wallstreetcn.com/articles/3766324",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
         {
           "title": "地缘风险升温，美股2月迈向下跌，道指期货跌超1%，金银油携手大涨，美债上扬，人民币贬近150点",
           "url": "https://wallstreetcn.com/articles/3766324",
@@ -227,7 +238,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
