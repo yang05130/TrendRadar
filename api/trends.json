@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T19:29:33.434404+08:00",
-  "total_titles_processed": 1694,
+  "generated_at": "2026-02-27T20:50:24.552060+08:00",
+  "total_titles_processed": 1803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "英伟达重挫引发板块轮动，软件股上演逼空，避险情绪撑债汇齐涨，金涨银跌，纽铜三连涨",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时25分 ~ 19时29分]"
+          "appearance_count": 13,
+          "time_info": "[07时25分 ~ 20时50分]"
         },
         {
           "title": "上期所：本周铜库存增加119054吨，铝库存增加58646吨，锌库存增加39027吨，铅库存增加8128吨，镍库存增加2016吨，锡库存增加1239吨，天然橡胶库存增加400吨。",
@@ -88,6 +88,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时55分 ~ 02时46分]"
+        },
+        {
+          "title": "智利统计局：智利铜产量1月同比下降3.0%。",
+          "url": "https://flash.jin10.com/detail/20260227200109794800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         }
       ]
     },
@@ -193,7 +204,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         }
@@ -228,7 +239,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         }
