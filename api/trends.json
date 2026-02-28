@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T21:35:00.562061+08:00",
-  "total_titles_processed": 1984,
+  "generated_at": "2026-02-28T22:19:09.015200+08:00",
+  "total_titles_processed": 2067,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时26分 ~ 21时35分]"
+          "appearance_count": 18,
+          "time_info": "[09时26分 ~ 22时19分]"
         },
         {
           "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
@@ -75,7 +75,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         }
