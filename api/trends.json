@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T14:53:09.236557+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-03-02T15:47:05.470830+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美元指数站上98.00关口，日内涨超0.3%。",
@@ -36,7 +36,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -47,9 +47,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
+        },
+        {
+          "title": "美元指数升至5周高点98.339，日内涨近0.7%。",
+          "url": "https://flash.jin10.com/detail/20260302151537578800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
         }
       ]
     },
@@ -87,6 +98,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "铜",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "由于赞比亚边境以南一座桥梁坍塌，洪水切断了刚果（金）的主要铜出口通道，扰乱了这一全球第二大铜生产国的运输。",
+          "url": "https://flash.jin10.com/detail/20260302153746158800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
         }
       ]
     }
