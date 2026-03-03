@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T22:43:21.752498+08:00",
-  "total_titles_processed": 2108,
+  "generated_at": "2026-03-03T23:44:05.430806+08:00",
+  "total_titles_processed": 2187,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时49分 ~ 22时43分]"
+          "appearance_count": 18,
+          "time_info": "[09时49分 ~ 23时44分]"
         },
         {
           "title": "伊朗危机点燃通胀担忧，美股指惊险走V，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -92,8 +92,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "特朗普放话“不惜一切” ，美三大股指均跌超2%，黄金跌超5%，白银暴跌11%，布油涨近8%，美元指数涨1%",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时43分 ~ 23时44分]"
+        },
         {
           "title": "美元指数涨0.8%",
           "url": "https://wallstreetcn.com/livenews/3062129",
