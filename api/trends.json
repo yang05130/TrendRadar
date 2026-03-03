@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T12:12:03.442943+08:00",
-  "total_titles_processed": 1003,
+  "generated_at": "2026-03-03T13:46:09.307965+08:00",
+  "total_titles_processed": 1133,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 12时12分]"
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 13时46分]"
         },
         {
           "title": "伊朗危机点燃通胀担忧，美股指惊险走V，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -119,11 +119,12 @@
             15,
             13,
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 12时12分]"
+          "appearance_count": 16,
+          "time_info": "[00时39分 ~ 13时46分]"
         },
         {
           "title": "纽约期金涨1.8%，现货白银跌超4.7%，纽约铜跌1.6%",
