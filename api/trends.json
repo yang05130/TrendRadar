@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T15:40:07.824062+08:00",
-  "total_titles_processed": 1351,
+  "generated_at": "2026-03-03T16:36:22.336196+08:00",
+  "total_titles_processed": 1460,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3766477",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时49分 ~ 15时40分]"
+          "appearance_count": 9,
+          "time_info": "[09时49分 ~ 16时36分]"
         },
         {
           "title": "伊朗危机点燃通胀担忧，美股指惊险走V，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -61,7 +62,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -72,7 +73,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
