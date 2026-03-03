@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T07:22:22.645581+08:00",
-  "total_titles_processed": 691,
+  "generated_at": "2026-03-03T09:49:49.511631+08:00",
+  "total_titles_processed": 859,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "伊朗危机点燃通胀担忧，美股指惊险走V，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -14,9 +14,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "短中期美债收益率涨超10个基点，投资者担忧中东局势给美国带来通胀风险",
@@ -79,7 +90,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -110,8 +121,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 09时49分]"
         },
         {
           "title": "纽约期金涨1.8%，现货白银跌超4.7%，纽约铜跌1.6%",
