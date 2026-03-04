@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T19:27:48.492856+08:00",
-  "total_titles_processed": 1834,
+  "generated_at": "2026-03-04T20:45:40.215865+08:00",
+  "total_titles_processed": 1937,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时43分 ~ 19时27分]"
+          "appearance_count": 14,
+          "time_info": "[09时43分 ~ 20时45分]"
         },
         {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -48,7 +48,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
