@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T15:36:32.534674+08:00",
-  "total_titles_processed": 1426,
+  "generated_at": "2026-03-04T16:34:54.686095+08:00",
+  "total_titles_processed": 1520,
   "failed_sources": [],
   "trends": [
     {
@@ -37,7 +37,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -88,8 +88,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时43分 ~ 15时36分]"
+          "appearance_count": 9,
+          "time_info": "[09时43分 ~ 16时34分]"
         },
         {
           "title": "荷兰国际：通胀预期或推升二季度美债收益率至4.3%附近",
@@ -98,7 +98,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -117,7 +117,7 @@
     },
     {
       "keyword_group": "赛力斯 问界",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "问界M6全系售价曝光",
@@ -133,13 +133,24 @@
           "time_info": "[04时28分 ~ 09时44分]"
         },
         {
+          "title": "问界M9",
+          "url": "https://s.weibo.com/weibo?q=%E9%97%AE%E7%95%8CM9&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "问界M9累计交付量超28万台",
           "url": "https://wallstreetcn.com/livenews/3063417",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         }
@@ -147,8 +158,19 @@
     },
     {
       "keyword_group": "铜",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "消息人士称，日本与美国正推动将核电项目纳入日本5500亿美元投资计划的第二轮协议中。铜冶炼与精炼设施项目也纳入了拟议的第二批合作协议。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3063490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
         {
           "title": "国际铜夜盘收跌1.02%，沪铜收跌1.05%，沪铝收涨0.72%，沪锌收跌0.67%，沪铅收跌0.68%，沪镍收跌0.76%，沪锡收跌0.31%。 氧化铝夜盘收涨0.07%，铝合金收涨0.35%。 不锈钢夜盘收跌0.46%。",
           "url": "https://wallstreetcn.com/livenews/3062917",
