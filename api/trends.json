@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T16:34:54.686095+08:00",
-  "total_titles_processed": 1520,
+  "generated_at": "2026-03-04T17:37:36.507934+08:00",
+  "total_titles_processed": 1636,
   "failed_sources": [],
   "trends": [
     {
@@ -70,6 +70,17 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时43分 ~ 17时37分]"
+        },
+        {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
           "url": "https://wallstreetcn.com/articles/3766477",
           "source": "华尔街见闻",
@@ -79,17 +90,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时43分 ~ 06时25分]"
-        },
-        {
-          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
-          "url": "https://wallstreetcn.com/articles/3766590",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时43分 ~ 16时34分]"
         },
         {
           "title": "荷兰国际：通胀预期或推升二季度美债收益率至4.3%附近",
@@ -108,6 +108,56 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "铜",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "消息人士称，日本与美国正推动将核电项目纳入日本5500亿美元投资计划的第二轮协议中。铜冶炼与精炼设施项目也纳入了拟议的第二批合作协议。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3063490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "国际铜夜盘收跌1.02%，沪铜收跌1.05%，沪铝收涨0.72%，沪锌收跌0.67%，沪铅收跌0.68%，沪镍收跌0.76%，沪锡收跌0.31%。 氧化铝夜盘收涨0.07%，铝合金收涨0.35%。 不锈钢夜盘收跌0.46%。",
+          "url": "https://wallstreetcn.com/livenews/3062917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "伦敦金属交易所(LME)：铜库存增加3850吨，铝库存减少425吨，锌库存减少125吨，镍库存减少426吨，铅库存持平，锡库存增加50吨。",
+          "url": "https://wallstreetcn.com/livenews/3063522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "花旗：若冲突持续 短期铜价或跌至1.2万美元下方",
+          "url": "https://flash.jin10.com/detail/20260304044612332800",
+          "source": "金十数据",
+          "ranks": [
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -137,11 +187,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%97%AE%E7%95%8CM9&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时37分]"
         },
         {
           "title": "问界M9累计交付量超28万台",
@@ -153,45 +204,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "铜",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "消息人士称，日本与美国正推动将核电项目纳入日本5500亿美元投资计划的第二轮协议中。铜冶炼与精炼设施项目也纳入了拟议的第二批合作协议。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3063490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "国际铜夜盘收跌1.02%，沪铜收跌1.05%，沪铝收涨0.72%，沪锌收跌0.67%，沪铅收跌0.68%，沪镍收跌0.76%，沪锡收跌0.31%。 氧化铝夜盘收涨0.07%，铝合金收涨0.35%。 不锈钢夜盘收跌0.46%。",
-          "url": "https://wallstreetcn.com/livenews/3062917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "花旗：若冲突持续 短期铜价或跌至1.2万美元下方",
-          "url": "https://flash.jin10.com/detail/20260304044612332800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
         }
       ]
     },
