@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T15:40:03.504324+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2026-03-05T16:36:44.016571+08:00",
+  "total_titles_processed": 1469,
   "failed_sources": [],
   "trends": [
     {
@@ -101,11 +101,12 @@
           "url": "https://wallstreetcn.com/articles/3766668",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时26分 ~ 15时40分]"
+          "appearance_count": 8,
+          "time_info": "[07时26分 ~ 16时36分]"
         },
         {
           "title": "10年期美债收益率涨约2.7个基点，本周已涨约15个基点",
@@ -154,7 +155,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         }
