@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T06:28:37.868814+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-03-06T07:49:10.749843+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时00分 ~ 06时28分]"
+        },
+        {
+          "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
+          "url": "https://wallstreetcn.com/articles/3766762",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时48分 ~ 07时49分]"
         },
         {
           "title": "10年期美债收益率涨约3个基点，本周已涨近18个基点",
