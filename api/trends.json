@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T09:46:55.010810+08:00",
-  "total_titles_processed": 840,
+  "generated_at": "2026-03-05T12:09:40.462691+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
@@ -64,7 +64,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         }
@@ -93,8 +93,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时26分 ~ 09时46分]"
+          "appearance_count": 3,
+          "time_info": "[07时26分 ~ 12时09分]"
         },
         {
           "title": "10年期美债收益率涨约2.7个基点，本周已涨约15个基点",
@@ -135,6 +135,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "文生图 文生视频 AIGC",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "百度AIGC舌尖遇顺德",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6AIGC%E8%88%8C%E5%B0%96%E9%81%87%E9%A1%BA%E5%BE%B7",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
         }
       ]
     }
