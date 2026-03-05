@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T05:31:22.029794+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-03-06T06:28:37.868814+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时00分 ~ 05时31分]"
+          "appearance_count": 7,
+          "time_info": "[02时00分 ~ 06时28分]"
         },
         {
           "title": "10年期美债收益率涨约3个基点，本周已涨近18个基点",
@@ -25,7 +25,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         }
@@ -42,7 +42,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -52,11 +52,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 05时31分]"
+          "appearance_count": 3,
+          "time_info": "[04时34分 ~ 06时28分]"
         }
       ]
     },
