@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T18:35:47.507462+08:00",
-  "total_titles_processed": 1652,
+  "generated_at": "2026-03-05T19:31:52.714412+08:00",
+  "total_titles_processed": 1748,
   "failed_sources": [],
   "trends": [
     {
@@ -109,7 +109,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         }
@@ -176,11 +176,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时26分 ~ 18时35分]"
+          "appearance_count": 11,
+          "time_info": "[07时26分 ~ 19时31分]"
         },
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
