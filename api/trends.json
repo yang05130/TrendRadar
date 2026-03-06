@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T13:42:30.542463+08:00",
-  "total_titles_processed": 1039,
+  "generated_at": "2026-03-06T14:41:50.962752+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时48分 ~ 13时42分]"
+          "appearance_count": 6,
+          "time_info": "[07时48分 ~ 14时41分]"
         },
         {
           "title": "10年期美债收益率涨约3个基点，本周已涨近18个基点",
@@ -47,6 +47,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "功耗狂降95%、打破光铜取舍困境......Micro LED CPO会是终局解决方案吗？",
+          "url": "https://wallstreetcn.com/articles/3766825",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 14时41分]"
+        },
+        {
           "title": "算力租赁概念震荡走强，美利云2连板，城地香江涨停，中贝通信、海天瑞声、云赛智联、铜牛信息跟涨。",
           "url": "https://wallstreetcn.com/livenews/3064779",
           "source": "华尔街见闻-快讯",
@@ -56,17 +68,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
-        },
-        {
-          "title": "功耗狂降95%、打破光铜取舍困境......Micro LED CPO会是终局解决方案吗？",
-          "url": "https://wallstreetcn.com/articles/3766825",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 13时42分]"
         },
         {
           "title": "LME期铜收跌156美元，报12902美元/吨。 LME期铝收跌46美元，报3296美元/吨。 LME期锌收跌98美元，报3227美元/吨。 LME期铅收跌21美元，报1942美元/吨。 LME期镍收跌273美元，报17218美元/吨。 LME期锡收跌1118美元，报49901美元/吨。 LME期钴收平，报56290美元/吨。",
