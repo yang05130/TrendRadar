@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-03-08T23:20:27.052143+08:00",
-  "total_titles_processed": 1522,
+  "generated_at": "2026-03-09T00:23:57.421502+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "铜",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "铜如何从金属变身新战略资源",
-          "url": "https://search.bilibili.com/all?keyword=%E9%93%9C%E5%A6%82%E4%BD%95%E4%BB%8E%E9%87%91%E5%B1%9E%E5%8F%98%E8%BA%AB%E6%96%B0%E6%88%98%E7%95%A5%E8%B5%84%E6%BA%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时17分 ~ 22时22分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
