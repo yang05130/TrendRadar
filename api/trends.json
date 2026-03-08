@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-09T05:20:09.336558+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-03-09T06:19:54.356053+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY突破99，日内涨0.45%。",
+          "url": "https://flash.jin10.com/detail/20260309051918705800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
