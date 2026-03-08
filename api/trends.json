@@ -1,12 +1,7 @@
 {
-  "generated_at": "2026-03-09T04:22:37.213968+08:00",
-  "total_titles_processed": 450,
-  "failed_sources": [
-    "baidu",
-    "wallstreetcn-hot",
-    "thepaper",
-    "bilibili-hot-search"
-  ],
+  "generated_at": "2026-03-09T05:20:09.336558+08:00",
+  "total_titles_processed": 479,
+  "failed_sources": [],
   "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
