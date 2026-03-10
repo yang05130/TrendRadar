@@ -1,154 +1,22 @@
 {
-  "generated_at": "2026-03-10T23:58:34.344266+08:00",
-  "total_titles_processed": 2187,
+  "generated_at": "2026-03-11T00:57:20.780903+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "中国2月铁矿砂及其精矿进口9763.8万吨；1-2月累计铁矿砂及其精矿进口21002.3万吨，同比增10.0%。 中国2月未锻轧铜及铜材进口31.6万吨；1-2月累计未锻轧铜及铜材进口69.96万吨，同比下降16.1%。 中国2月铜矿砂及其精矿进口231.03万吨；1-2月累计铜矿砂及其精矿进口493.3万吨，同比增4.9%。 中国2月未锻轧铝及铝材出口42.96万吨；1-2月累计未锻轧铝及铝材出口97.06万吨，同比增12.8%。 中国2月钢材出口783.7万吨；1-2月累计钢材出口1559.1万吨，同比下降8.1%。 中国2月稀土出口4407.1吨；1-2月累计稀土出口10468.3吨，同比增23.0%。",
-          "url": "https://wallstreetcn.com/livenews/3066999",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
         {
           "title": "智利国家铜业公司（Codelco）：发生抗议活动期间，公司所有部门维持运营状态。",
           "url": "https://wallstreetcn.com/livenews/3067429",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时58分"
-        },
-        {
-          "title": "LME期铜收涨92美元，报12954美元/吨。 LME期铝收跌60美元，报3386美元/吨。 LME期锌收涨30美元，报3328美元/吨。 LME期铅收跌16美元，报1936美元/吨。 LME期镍收平，报17469美元/吨。 LME期锡收涨620美元，报50685美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3066670",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 03时38分]"
-        },
-        {
-          "title": "伦敦金属交易所(LME)：锡库存减少10吨，锌库存增加4150吨，铜库存增加7700吨，铅库存持平，镍库存减少330吨，铝库存减少2250吨。",
-          "url": "https://wallstreetcn.com/livenews/3067187",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "铜如何从金属变身新战略资源",
-          "url": "https://search.bilibili.com/all?keyword=%E9%93%9C%E5%A6%82%E4%BD%95%E4%BB%8E%E9%87%91%E5%B1%9E%E5%8F%98%E8%BA%AB%E6%96%B0%E6%88%98%E7%95%A5%E8%B5%84%E6%BA%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "伦敦金属交易所(LME)：锡库存减少10吨，锌库存增加4150吨，铜库存增加7700吨，铅库存持平，镍库存减少330吨，铝库存减少2250吨。",
-          "url": "https://flash.jin10.com/detail/20260310170107761800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "周一（3月9日）纽约尾盘，ICE美元指数涨0.19%，报99.173点，日内交投区间为98.978–99.695点，亚太早盘刷新日高，随后逐步回落。 彭博美元指数涨0.10%，报1204.63点，日内交投区间为1202.96-1211.49点。",
-          "url": "https://wallstreetcn.com/livenews/3066702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 04时29分]"
-        },
-        {
-          "title": "纳指实现V形反转，此前一度跌1.4%。半导体指数涨超1.2%，生物科技指数涨超0.6%。 标普500指数仍然跌超0.4%，道指维持400点、0.8%的跌幅，银行指数目前跌2.5%。 彭博美元指数回吐涨幅，油价涨势减退。",
-          "url": "https://wallstreetcn.com/livenews/3066629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "美元指数跌0.63%。 澳元兑美元上涨0.50%，至0.7104。 英镑兑美元上涨0.31%，至1.3470。 欧元兑美元上涨0.12%，至1.1652。",
-          "url": "https://wallstreetcn.com/livenews/3067147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "10年期美债收益率跌超3.8个基点，两年期实际收益率一度跌穿0.34%",
-          "url": "https://wallstreetcn.com/livenews/3066740",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            20,
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时29分 ~ 07时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "文生图 文生视频 AIGC",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "恒生指数收盘涨2.17%，AIGC概念领涨，腾讯控股涨超7%",
-          "url": "https://wallstreetcn.com/livenews/3067156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时36分"
+          "time_info": "00时57分"
         }
       ]
     }
