@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T09:42:41.500155+08:00",
-  "total_titles_processed": 887,
+  "generated_at": "2026-03-11T12:07:07.397956+08:00",
+  "total_titles_processed": 1046,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "LME期铜收涨186美元，报13140美元/吨。 LME期铝收涨20美元，报3406美元/吨。 LME期锌收涨17美元，报3346美元/吨。 LME期铅收涨7美元，报1944美元/吨。 LME期镍收涨19美元，报17488美元/吨。 LME期锡收跌246美元，报50439美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -29,6 +29,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "嘉能可澳大利亚铜冶炼厂工人拟从周五起罢工",
+          "url": "https://flash.jin10.com/detail/20260311111223090800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "市场消息：工人拟在嘉能可澳大利亚铜冶炼厂举行罢工。",
+          "url": "https://flash.jin10.com/detail/20260311110746189800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         },
         {
           "title": "智利国家铜业公司（Codelco）：发生抗议活动期间，公司所有部门维持运营状态。",
