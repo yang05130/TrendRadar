@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T07:22:00.891790+08:00",
-  "total_titles_processed": 708,
+  "generated_at": "2026-03-12T09:31:36.550175+08:00",
+  "total_titles_processed": 866,
   "failed_sources": [],
   "trends": [
     {
@@ -94,11 +94,12 @@
           "url": "https://wallstreetcn.com/articles/3767236",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时21分 ~ 07时22分]"
+          "appearance_count": 3,
+          "time_info": "[07时21分 ~ 09时31分]"
         },
         {
           "title": "30年期美债收益率涨7个基点，美国CPI数据带来瞬间的干扰",
