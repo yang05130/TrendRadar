@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T06:21:48.702199+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2026-03-13T07:24:35.639720+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3069183",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "力拓集团：犹他州宾厄姆峡谷矿发生事故，承包公司一名员工死亡，已暂停旗下肯尼科特犹他铜业的所有采矿作业。",
-          "url": "https://flash.jin10.com/detail/20260313054005567800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时24分]"
         },
         {
           "title": "国际铜夜盘收平，沪铜收平，沪铝收涨0.04%，沪锌收跌0.19%，沪铅收跌0.21%，沪镍收涨0.64%，沪锡收跌0.65%。 氧化铝夜盘收涨0.17%，铝合金收跌0.25%。 不锈钢夜盘收涨0.21%。",
@@ -42,6 +32,18 @@
           "time_info": "[01时46分 ~ 02时47分]"
         },
         {
+          "title": "力拓集团：犹他州宾厄姆峡谷矿发生事故，承包公司一名员工死亡，已暂停旗下肯尼科特犹他铜业的所有采矿作业。",
+          "url": "https://flash.jin10.com/detail/20260313054005567800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时24分]"
+        },
+        {
           "title": "LME期铜收跌42美元，报13000美元/吨。 LME期铝收涨60美元，报3516美元/吨。 LME期锌收跌8美元，报3302美元/吨。 LME期铅收涨4美元，报1940美元/吨。 LME期镍收涨49美元，报17742美元/吨。 LME期锡收跌259美元，报49388美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3069095",
           "source": "华尔街见闻-快讯",
@@ -52,6 +54,47 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时47分 ~ 03时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
+          "url": "https://wallstreetcn.com/articles/3767236",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 07时24分]"
+        },
+        {
+          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌300点，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3767295",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "两年期美债收益率涨10个基点，突破3.76%",
+          "url": "https://wallstreetcn.com/livenews/3069119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 04时31分]"
         }
       ]
     },
@@ -94,36 +137,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时46分 ~ 02时47分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
-          "url": "https://wallstreetcn.com/articles/3767236",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 06时21分]"
-        },
-        {
-          "title": "两年期美债收益率涨10个基点，突破3.76%",
-          "url": "https://wallstreetcn.com/livenews/3069119",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 04时31分]"
         }
       ]
     },
