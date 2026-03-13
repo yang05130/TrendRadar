@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T18:32:41.947752+08:00",
-  "total_titles_processed": 1619,
+  "generated_at": "2026-03-13T19:28:23.712742+08:00",
+  "total_titles_processed": 1708,
   "failed_sources": [],
   "trends": [
     {
@@ -123,11 +123,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时09分 ~ 18时32分]"
+          "appearance_count": 9,
+          "time_info": "[12时09分 ~ 19时28分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌300点，金银下挫",
