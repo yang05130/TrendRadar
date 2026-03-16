@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T06:29:14.765819+08:00",
-  "total_titles_processed": 656,
+  "generated_at": "2026-03-17T07:28:16.075910+08:00",
+  "total_titles_processed": 738,
   "failed_sources": [],
   "trends": [
     {
@@ -49,7 +49,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -74,6 +74,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "霍尔木兹海峡现通航迹象，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时28分]"
+        },
+        {
+          "title": "10年期美债收益率跌约5.7个基点",
+          "url": "https://wallstreetcn.com/livenews/3071128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 04时35分]"
         }
       ]
     },
@@ -103,24 +132,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "10年期美债收益率跌约5.7个基点",
-          "url": "https://wallstreetcn.com/livenews/3071128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 04时35分]"
         }
       ]
     },
