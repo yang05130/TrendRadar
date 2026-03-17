@@ -1,264 +1,39 @@
 {
-  "generated_at": "2026-03-17T23:06:20.889680+08:00",
-  "total_titles_processed": 2005,
+  "generated_at": "2026-03-18T00:02:45.088624+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "5090 nvidia",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "英伟达发布NVIDIA DLSS 5，图形学迎来“GPT时刻”",
-          "url": "https://flash.jin10.com/detail/20260317023518834800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "联想集团董事长兼CEO杨元庆：联想与英伟达拥有独特的定位，能够共同帮助机构实现 AI 运营化——从实验阶段走向企业生产，再到AI云超级工厂。 随着智能体AI（Agentic AI）驱动推理工作负载呈指数级增长，成本控制和单位代币性能（Performance per token）变得至关重要。 通过将英伟达NVIDIA AI Enterprise软件与联想的全栈混合AI平台及服务相结合，我们助力客户以更高的效率、更低的单位代币成本和更快的投产速度实现AI规模化。",
-          "url": "https://wallstreetcn.com/livenews/3071179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时29分]"
-        },
-        {
-          "title": "英伟达发布NVIDIA DLSS 5，黄仁勋将其比作图形学领域的GPT时刻",
-          "url": "https://wallstreetcn.com/livenews/3071104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时55分]"
-        },
-        {
-          "title": "铠侠（Kioxia）在单台服务器上实现48亿规模高维向量搜索数据库，利用GPU实现7.8倍索引构建加速。 结合英伟达NVIDIA cuVS库与铠侠开源的AiSAQ技术，在极低DRAM占用下完成1024维向量索引。",
-          "url": "https://wallstreetcn.com/livenews/3071190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "戴尔(DELL.N)推出搭载英伟达GB300的桌面系统，用于运行自主式AI代理，并集成NVIDIA NeMoCLAW和NVIDIA OpenShell。",
-          "url": "https://flash.jin10.com/detail/20260317043630290800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "比亚迪、吉利汽车、铃木、日产为L4级自动驾驶汽车采用英伟达NVIDIA DRIVE Hyperion。",
-          "url": "https://wallstreetcn.com/livenews/3071155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美元指数向上触及100，日内涨0.19%。",
-          "url": "https://wallstreetcn.com/livenews/3071415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 15时03分]"
-        },
-        {
-          "title": "美元指数跌0.7%",
-          "url": "https://wallstreetcn.com/livenews/3071122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 04时35分]"
-        },
-        {
-          "title": "美元指数16日下跌",
-          "url": "https://flash.jin10.com/detail/20260317044815242800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "国际原油快速拉升，WTI原油期货涨幅扩大至5%，突破97美元/桶关口，报97.113美元/桶。 美股股指期货短线跳水，纳指期货日内跌0.59%，标普500指数期货跌0.57%。 现货黄金持续下挫，日内涨幅收窄至0.1%，报5012美元/盎司；现货白银日内一度转跌，现涨0.09%。",
-          "url": "https://wallstreetcn.com/livenews/3071417",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "布油期货涨幅扩大至2.6%，报每桶102.85美元。 美股期货小幅走低，标普500指数期货跌0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3071267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "铜",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "“光进铜退”步子太大！英伟达新机架或“光铜并举” 这两个板块上演“冰火两重天”",
-          "url": "https://www.cls.cn/detail/2315123",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时57分 ~ 21时02分]"
-        },
-        {
-          "title": "夜盘期货开盘，氧化铝、低硫燃油、菜粕涨逾1%，豆粕、苯乙烯、沪铅等收涨；沪锡、纸浆跌逾1%，沪铜、沪锌、塑料等下跌。",
-          "url": "https://wallstreetcn.com/livenews/3071696",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "LME期铜收涨75美元，报12856美元/吨。 LME期铝收跌44美元，报3396美元/吨。 LME期锌收跌26美元，报3270美元/吨。 LME期铅收跌2美元，报1905美元/吨。 LME期镍收涨199美元，报17465美元/吨。 LME期锡收涨1206美元，报48265美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3071094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "LME铜库存增加18775吨，达到2019年以来的最高水平。",
-          "url": "https://wallstreetcn.com/livenews/3071545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
-          "title": "伦敦金属交易所(LME)：铅库存减少200吨，锡库存增加30吨，锌库存增加20875吨，镍库存减少174吨，铜库存增加18775吨，铝库存减少2500吨。",
-          "url": "https://wallstreetcn.com/livenews/3071544",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
           "url": "https://wallstreetcn.com/articles/3767567",
           "source": "华尔街见闻",
           "ranks": [
-            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时50分 ~ 23时06分]"
-        },
-        {
-          "title": "霍尔木兹海峡现通航迹象，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
-          "url": "https://wallstreetcn.com/articles/3767567",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 07时28分]"
-        },
-        {
-          "title": "10年期美债收益率跌约5.7个基点",
-          "url": "https://wallstreetcn.com/livenews/3071128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 04时35分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         }
       ]
     },
     {
-      "keyword_group": "黄金",
+      "keyword_group": "美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "黄金小幅走高 能源价格上升仍抑制金价",
-          "url": "https://flash.jin10.com/detail/20260317161959462800",
-          "source": "金十数据",
+          "title": "恒天然：3月17日全球乳品贸易（GDT）拍卖价格指数上升0.1%，奶粉各合同期FAS拍卖均价4,330美元/吨。 批发奶粉价格指数下降4.0%，报3,709美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3071779",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时46分"
+          "time_info": "00时02分"
         }
       ]
     }
