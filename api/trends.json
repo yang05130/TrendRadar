@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T03:06:38.500554+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-03-19T04:31:47.546347+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "静待美联储决议，股油同涨，美债走强，美元两连跌，黄金连续两日持稳于5000关口",
@@ -15,8 +15,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 03时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 04时31分]"
+        },
+        {
+          "title": "中国、日本和英国在1月份增持美债",
+          "url": "https://flash.jin10.com/detail/20260319041245843800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "美债价格跌幅扩大，鲍威尔称降息取决于通胀进展",
@@ -25,7 +36,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -48,7 +59,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         }
@@ -96,8 +107,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 04时31分]"
         }
       ]
     },
@@ -112,7 +123,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         }
