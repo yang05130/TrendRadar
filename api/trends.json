@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T05:31:37.274959+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2026-03-19T06:56:20.957268+08:00",
+  "total_titles_processed": 661,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "静待美联储决议，股油同涨，美债走强，美元两连跌，黄金连续两日持稳于5000关口",
@@ -15,8 +15,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 05时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 06时56分]"
+        },
+        {
+          "title": "冲突升级叠加美联储鹰派，美股、美债、黄金“三杀”！美元涨回100关口，加密货币跳水",
+          "url": "https://wallstreetcn.com/articles/3767807",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "中国、日本和英国在1月份增持美债",
@@ -62,6 +73,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "两年期美债收益率涨约10个基点，投资者关注美联储政策利率的前景和国际油价",
+          "url": "https://wallstreetcn.com/livenews/3072705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         }
       ]
     },
@@ -108,8 +130,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 05时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 06时56分]"
         }
       ]
     },
