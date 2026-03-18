@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T21:02:33.041559+08:00",
-  "total_titles_processed": 1804,
+  "generated_at": "2026-03-18T22:58:48.554776+08:00",
+  "total_titles_processed": 1944,
   "failed_sources": [],
   "trends": [
     {
@@ -61,7 +61,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         }
@@ -125,18 +125,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "静待美联储决议，股油同涨，美债走强，美元两连跌，黄金连续两日持稳于5000关口",
-          "url": "https://wallstreetcn.com/articles/3767701",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时29分 ~ 21时02分]"
-        },
-        {
           "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
           "url": "https://wallstreetcn.com/articles/3767567",
           "source": "华尔街见闻",
@@ -146,6 +134,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时02分 ~ 06时29分]"
+        },
+        {
+          "title": "静待美联储决议，股油同涨，美债走强，美元两连跌，黄金连续两日持稳于5000关口",
+          "url": "https://wallstreetcn.com/articles/3767701",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[07时29分 ~ 22时58分]"
         },
         {
           "title": "周二（3月17日）纽约尾盘，美国10年期基准国债收益率跌1.75个基点，报4.2004%，北京时间14:01涨至4.2473%刷新日高，随后逐步走低，00:29刷新日低至4.1868%。 两年期美债收益率持平，报3.6715%，日内交投于3.6925%-3.6526%区间。",
