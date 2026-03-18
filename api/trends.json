@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T18:48:10.712249+08:00",
-  "total_titles_processed": 1592,
+  "generated_at": "2026-03-18T19:43:16.680869+08:00",
+  "total_titles_processed": 1689,
   "failed_sources": [],
   "trends": [
     {
@@ -122,8 +122,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时29分 ~ 18时48分]"
+          "appearance_count": 11,
+          "time_info": "[07时29分 ~ 19时43分]"
         },
         {
           "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -180,8 +180,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时43分 ~ 18时48分]"
+          "appearance_count": 5,
+          "time_info": "[16时43分 ~ 19时43分]"
         }
       ]
     }
