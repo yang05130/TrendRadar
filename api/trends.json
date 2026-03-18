@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T15:25:56.350800+08:00",
-  "total_titles_processed": 1261,
+  "generated_at": "2026-03-18T16:43:20.209373+08:00",
+  "total_titles_processed": 1380,
   "failed_sources": [],
   "trends": [
     {
@@ -133,8 +133,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时29分 ~ 15时25分]"
+          "appearance_count": 7,
+          "time_info": "[07时29分 ~ 16时43分]"
         },
         {
           "title": "周二（3月17日）纽约尾盘，美国10年期基准国债收益率跌1.75个基点，报4.2004%，北京时间14:01涨至4.2473%刷新日高，随后逐步走低，00:29刷新日低至4.1868%。 两年期美债收益率持平，报3.6715%，日内交投于3.6925%-3.6526%区间。",
@@ -147,6 +147,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "赛力斯 问界",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "工信部发布《减免车辆购置税的新能源汽车车型目录》（第二十八批），小米YU7、小鹏GX、问界M6EV等多款车型在列。",
+          "url": "https://flash.jin10.com/detail/20260318160834281800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金价格下跌 普通人能入手吗",
+          "url": "https://www.toutiao.com/trending/7618482201037901355/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         }
       ]
     }
