@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T04:31:47.546347+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2026-03-19T05:31:37.274959+08:00",
+  "total_titles_processed": 590,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时09分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 05时31分]"
         },
         {
           "title": "中国、日本和英国在1月份增持美债",
@@ -25,7 +25,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -104,11 +104,12 @@
           "source": "今日头条",
           "ranks": [
             29,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 04时31分]"
+          "appearance_count": 5,
+          "time_info": "[01时58分 ~ 05时31分]"
         }
       ]
     },
