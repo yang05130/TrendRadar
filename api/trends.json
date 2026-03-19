@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T22:07:05.586976+08:00",
-  "total_titles_processed": 2030,
+  "generated_at": "2026-03-19T23:51:34.085712+08:00",
+  "total_titles_processed": 2136,
   "failed_sources": [],
   "trends": [
     {
@@ -182,11 +182,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时55分 ~ 22时07分]"
+          "appearance_count": 4,
+          "time_info": "[20时55分 ~ 23时51分]"
         }
       ]
     },
@@ -201,7 +202,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时07分"
         },
@@ -262,6 +263,23 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时58分 ~ 07时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "泡泡玛特 labubu",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "7年前买的泡泡玛特盲盒才发货",
+          "url": "https://s.weibo.com/weibo?q=%237%E5%B9%B4%E5%89%8D%E4%B9%B0%E7%9A%84%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E7%9B%B2%E7%9B%92%E6%89%8D%E5%8F%91%E8%B4%A7%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         }
       ]
     }
