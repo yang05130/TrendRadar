@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T15:43:44.801610+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2026-03-20T16:36:31.696760+08:00",
+  "total_titles_processed": 1412,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 15时43分]"
+          "appearance_count": 7,
+          "time_info": "[09时47分 ~ 16时36分]"
         },
         {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -101,18 +101,6 @@
           "time_info": "[00时54分 ~ 09时48分]"
         },
         {
-          "title": "女子买泡泡玛特盲盒7年才收到货",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E7%9B%B2%E7%9B%927%E5%B9%B4%E6%89%8D%E6%94%B6%E5%88%B0%E8%B4%A7",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 12时11分]"
-        },
-        {
           "title": "泡泡玛特回应7年前买的盲盒才发货",
           "url": "https://www.baidu.com/s?wd=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%9B%9E%E5%BA%947%E5%B9%B4%E5%89%8D%E4%B9%B0%E7%9A%84%E7%9B%B2%E7%9B%92%E6%89%8D%E5%8F%91%E8%B4%A7",
           "source": "百度热搜",
@@ -123,8 +111,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 15时43分]"
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 16时36分]"
+        },
+        {
+          "title": "女子买泡泡玛特盲盒7年才收到货",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E7%9B%B2%E7%9B%927%E5%B9%B4%E6%89%8D%E6%94%B6%E5%88%B0%E8%B4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 12时11分]"
         }
       ]
     },
@@ -185,8 +185,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时54分 ~ 14时50分]"
+          "appearance_count": 17,
+          "time_info": "[00时54分 ~ 16时36分]"
         },
         {
           "title": "2026年3月20日银行间外汇市场人民币汇率中间价",
