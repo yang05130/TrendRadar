@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T13:49:58.451451+08:00",
-  "total_titles_processed": 1114,
+  "generated_at": "2026-03-20T14:50:21.111536+08:00",
+  "total_titles_processed": 1220,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 13时49分]"
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 14时50分]"
         },
         {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -118,11 +118,12 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            27
+            27,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 13时49分]"
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 14时50分]"
         }
       ]
     },
@@ -161,7 +162,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         }
@@ -179,11 +180,12 @@
             13,
             14,
             12,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时54分 ~ 12时11分]"
+          "appearance_count": 16,
+          "time_info": "[00时54分 ~ 14时50分]"
         },
         {
           "title": "2026年3月20日银行间外汇市场人民币汇率中间价",
@@ -209,7 +211,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
