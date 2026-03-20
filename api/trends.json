@@ -1,346 +1,50 @@
 {
-  "generated_at": "2026-03-20T23:39:49.201673+08:00",
-  "total_titles_processed": 2112,
+  "generated_at": "2026-03-21T00:38:51.453194+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美元",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美股股指期货跌幅扩大，纳指期货跌超1%，标普500指数期货跌0.75%，道指期货跌0.62%。 美国国债快速走低，美国2年期国债收益率跳升10个基点，至3.89%。 现货黄金日内转跌，现跌0.04%，报4655美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3074048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时34分"
-        },
-        {
-          "title": "美元指数短线拉升，日内涨超0.4%，报99.605。",
-          "url": "https://wallstreetcn.com/livenews/3074039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时34分"
-        },
-        {
-          "title": "彭博美元指数跌0.7%，创1月27日以来最大跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3073555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时32分 ~ 05时32分]"
-        },
-        {
-          "title": "中东股市收盘播报｜周四（3月19日），土耳其伊斯坦布尔证交所全国100指数收跌0.51%，报13047.72点，交易提前至北京时间17:35结束（通常在23:00过后结束交易），将于3月23日恢复交易。 伊斯坦布尔证交所银行指数收跌1.84%，报16693.00点。 土耳其里拉兑美元维持0.23%的跌幅，暂报44.3286里拉，持稳于07:55所创历史最低位44.3314里拉附近。",
-          "url": "https://wallstreetcn.com/livenews/3073480",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时52分]"
-        },
-        {
-          "title": "周四（3月19日）纽约尾盘，ICE美元指数跌1%，刷新日低至98.975点，北京时间16:42微幅上扬至100.306点刷新日高，最后逐步走低，02:52以来加速下跌。 彭博美元指数跌0.71%，报1205.14点，日内交投区间为1215.10-1202.54点。 美元兑日元跌1.37%，报157.68日元，日内交投区间为159.87-157.51日元，14:50以来持续走低。 欧元兑日元跌0.29%，英镑兑日元跌0.09%。",
-          "url": "https://wallstreetcn.com/livenews/3073546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时32分 ~ 05时32分]"
-        },
-        {
-          "title": "报道称美国将向中东增派兵力后，现货黄金日内跌2.00%，现报4557.35美元/盎司。现货白银日内重挫6.00%，现报68.45美元/盎司。美元指数DXY日内涨超0.5%，报99.76。",
-          "url": "https://flash.jin10.com/detail/20260320222618679800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
           "url": "https://wallstreetcn.com/articles/3767876",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时47分 ~ 23时39分]"
-        },
-        {
-          "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
-          "url": "https://wallstreetcn.com/articles/3767876",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时26分 ~ 07时27分]"
+          "appearance_count": 1,
+          "time_info": "00时38分"
         },
         {
           "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
           "url": "https://wallstreetcn.com/articles/3767994",
           "source": "华尔街见闻",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时48分 ~ 23时39分]"
-        },
-        {
-          "title": "周四（3月19日，美联储宣布按兵不动的次日）纽约尾盘，美国10年期基准国债收益率跌1.57个基点，报4.2493%，日内交投于4.3221%-4.2356%区间，在英国央行宣布按兵不动之后刷新日高，北京时间03:00出现一波显著的跳水行情。 两年期美债收益率涨1.74个基点，报3.7924%，日内交投于3.7565%-3.9532%区间，英国央行宣布政策利率决定之后迅速扩大涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3073583",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "美国两年期国债收益率最新上涨9.5个基点，报3.928%；十年期美债收益率上涨8.3个基点，报4.366%。",
-          "url": "https://flash.jin10.com/detail/20260320221647647800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "铜",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "LME铜向下跌破12000美元/吨，最新报11998.0美元/吨，日内跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3074190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "国际铜夜盘收跌1.06%，沪铜收跌0.91%，沪铝收跌2.53%，沪锌收跌0.28%，沪铅收跌0.72%，沪镍收涨0.95%，沪锡收跌2.31%。 氧化铝夜盘收跌2.21%，铝合金收跌2.34%。 不锈钢夜盘收涨0.79%。",
-          "url": "https://wallstreetcn.com/livenews/3073500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 02时53分]"
-        },
-        {
-          "title": "LME期铜收跌249美元，报12146美元/吨。 LME期铝收跌148美元，报3252美元/吨。 LME期锌收跌62美元，报3072美元/吨。 LME期铅收跌26美元，报1888美元/吨。 LME期镍收跌167美元，报16984美元/吨。 LME期锡收跌1523美元，报43540美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3073516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时53分 ~ 03时43分]"
-        },
-        {
-          "title": "“铜博士”和黄金一起跌了，这才是最可怕的信号",
-          "url": "https://flash.jin10.com/detail/20260320130800027800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时49分"
-        },
-        {
-          "title": "伦敦金属交易所(LME)：镍库存减少258吨，铅库存减少150吨，铝库存减少3050吨，铜库存增加6925吨，锡库存减少35吨，锌库存减少175吨。",
-          "url": "https://flash.jin10.com/detail/20260320170057446800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时37分"
+          "time_info": "00时38分"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "国内金饰价格继续下探 老庙黄金领跌",
-          "url": "https://flash.jin10.com/detail/20260320132124842800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时49分"
-        },
-        {
-          "title": "贵金属价格狂泄！现货黄金逼近4500美元，白银大跌超13%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32796580",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时26分 ~ 07时27分]"
-        },
         {
           "title": "黄金白银价格为何双双暴跌",
           "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E5%8F%8C%E5%8F%8C%E6%9A%B4%E8%B7%8C",
           "source": "百度热搜",
           "ranks": [
-            29,
-            25,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时29分 ~ 23时39分]"
-        },
-        {
-          "title": "投机性回调继续，黄金价格下跌",
-          "url": "https://flash.jin10.com/detail/20260320230120400800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "泡泡玛特 labubu",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "7年前买的泡泡玛特盲盒才发货",
-          "url": "https://s.weibo.com/weibo?q=%237%E5%B9%B4%E5%89%8D%E4%B9%B0%E7%9A%84%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E7%9B%B2%E7%9B%92%E6%89%8D%E5%8F%91%E8%B4%A7%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时54分 ~ 09时48分]"
-        },
-        {
-          "title": "泡泡玛特回应7年前买的盲盒才发货",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%9B%9E%E5%BA%947%E5%B9%B4%E5%89%8D%E4%B9%B0%E7%9A%84%E7%9B%B2%E7%9B%92%E6%89%8D%E5%8F%91%E8%B4%A7",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            27,
-            23,
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时11分 ~ 17时37分]"
-        },
-        {
-          "title": "女子买泡泡玛特盲盒7年才收到货",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E7%9B%B2%E7%9B%927%E5%B9%B4%E6%89%8D%E6%94%B6%E5%88%B0%E8%B4%A7",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 12时11分]"
-        },
-        {
-          "title": "LABUBU要拍电影了",
-          "url": "https://www.baidu.com/s?wd=LABUBU%E8%A6%81%E6%8B%8D%E7%94%B5%E5%BD%B1%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时34分 ~ 19时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美联储按兵不动美元大涨，人民币对美元汇率跌破6.9",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32795341",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            12,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时54分 ~ 16时36分]"
-        },
-        {
-          "title": "2026年3月20日银行间外汇市场人民币汇率中间价",
-          "url": "https://flash.jin10.com/detail/20260320091539588800",
-          "source": "金十数据",
-          "ranks": [
-            30
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "00时38分"
         }
       ]
     }
