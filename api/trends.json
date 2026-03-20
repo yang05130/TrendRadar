@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T14:50:21.111536+08:00",
-  "total_titles_processed": 1220,
+  "generated_at": "2026-03-20T15:43:44.801610+08:00",
+  "total_titles_processed": 1315,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时47分 ~ 14时50分]"
+          "appearance_count": 6,
+          "time_info": "[09时47分 ~ 15时43分]"
         },
         {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -119,11 +119,12 @@
           "ranks": [
             17,
             27,
-            23
+            23,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 14时50分]"
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 15时43分]"
         }
       ]
     },
