@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T22:48:34.177273+08:00",
-  "total_titles_processed": 2043,
+  "generated_at": "2026-03-20T23:39:49.201673+08:00",
+  "total_titles_processed": 2112,
   "failed_sources": [],
   "trends": [
     {
@@ -72,7 +72,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         }
@@ -92,8 +92,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时47分 ~ 22时48分]"
+          "appearance_count": 15,
+          "time_info": "[09时47分 ~ 23时39分]"
         },
         {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -113,9 +113,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时39分]"
         },
         {
           "title": "周四（3月19日，美联储宣布按兵不动的次日）纽约尾盘，美国10年期基准国债收益率跌1.57个基点，报4.2493%，日内交投于4.3221%-4.2356%区间，在英国央行宣布按兵不动之后刷新日高，北京时间03:00出现一波显著的跳水行情。 两年期美债收益率涨1.74个基点，报3.7924%，日内交投于3.7565%-3.9532%区间，英国央行宣布政策利率决定之后迅速扩大涨幅。",
@@ -135,7 +135,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         }
@@ -205,6 +205,58 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "国内金饰价格继续下探 老庙黄金领跌",
+          "url": "https://flash.jin10.com/detail/20260320132124842800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        },
+        {
+          "title": "贵金属价格狂泄！现货黄金逼近4500美元，白银大跌超13%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32796580",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时26分 ~ 07时27分]"
+        },
+        {
+          "title": "黄金白银价格为何双双暴跌",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E5%8F%8C%E5%8F%8C%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时29分 ~ 23时39分]"
+        },
+        {
+          "title": "投机性回调继续，黄金价格下跌",
+          "url": "https://flash.jin10.com/detail/20260320230120400800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "泡泡玛特 labubu",
       "match_count": 4,
       "titles": [
@@ -257,47 +309,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时34分 ~ 19时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "国内金饰价格继续下探 老庙黄金领跌",
-          "url": "https://flash.jin10.com/detail/20260320132124842800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时49分"
-        },
-        {
-          "title": "贵金属价格狂泄！现货黄金逼近4500美元，白银大跌超13%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32796580",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时26分 ~ 07时27分]"
-        },
-        {
-          "title": "黄金白银价格为何双双暴跌",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E5%8F%8C%E5%8F%8C%E6%9A%B4%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            25,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时29分 ~ 22时48分]"
         }
       ]
     },
