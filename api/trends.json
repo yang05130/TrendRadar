@@ -1,8 +1,128 @@
 {
-  "generated_at": "2026-03-20T17:37:15.789500+08:00",
-  "total_titles_processed": 1523,
+  "generated_at": "2026-03-20T18:34:29.421716+08:00",
+  "total_titles_processed": 1627,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美元",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美股股指期货跌幅扩大，纳指期货跌超1%，标普500指数期货跌0.75%，道指期货跌0.62%。 美国国债快速走低，美国2年期国债收益率跳升10个基点，至3.89%。 现货黄金日内转跌，现跌0.04%，报4655美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3074048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
+          "title": "美元指数短线拉升，日内涨超0.4%，报99.605。",
+          "url": "https://wallstreetcn.com/livenews/3074039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
+          "title": "彭博美元指数跌0.7%，创1月27日以来最大跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3073555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时32分 ~ 05时32分]"
+        },
+        {
+          "title": "中东股市收盘播报｜周四（3月19日），土耳其伊斯坦布尔证交所全国100指数收跌0.51%，报13047.72点，交易提前至北京时间17:35结束（通常在23:00过后结束交易），将于3月23日恢复交易。 伊斯坦布尔证交所银行指数收跌1.84%，报16693.00点。 土耳其里拉兑美元维持0.23%的跌幅，暂报44.3286里拉，持稳于07:55所创历史最低位44.3314里拉附近。",
+          "url": "https://wallstreetcn.com/livenews/3073480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时52分]"
+        },
+        {
+          "title": "周四（3月19日）纽约尾盘，ICE美元指数跌1%，刷新日低至98.975点，北京时间16:42微幅上扬至100.306点刷新日高，最后逐步走低，02:52以来加速下跌。 彭博美元指数跌0.71%，报1205.14点，日内交投区间为1215.10-1202.54点。 美元兑日元跌1.37%，报157.68日元，日内交投区间为159.87-157.51日元，14:50以来持续走低。 欧元兑日元跌0.29%，英镑兑日元跌0.09%。",
+          "url": "https://wallstreetcn.com/livenews/3073546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时32分 ~ 05时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "泡泡玛特 labubu",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "7年前买的泡泡玛特盲盒才发货",
+          "url": "https://s.weibo.com/weibo?q=%237%E5%B9%B4%E5%89%8D%E4%B9%B0%E7%9A%84%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E7%9B%B2%E7%9B%92%E6%89%8D%E5%8F%91%E8%B4%A7%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时54分 ~ 09时48分]"
+        },
+        {
+          "title": "泡泡玛特回应7年前买的盲盒才发货",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%9B%9E%E5%BA%947%E5%B9%B4%E5%89%8D%E4%B9%B0%E7%9A%84%E7%9B%B2%E7%9B%92%E6%89%8D%E5%8F%91%E8%B4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            27,
+            23,
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时11分 ~ 17时37分]"
+        },
+        {
+          "title": "女子买泡泡玛特盲盒7年才收到货",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E7%9B%B2%E7%9B%927%E5%B9%B4%E6%89%8D%E6%94%B6%E5%88%B0%E8%B4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 12时11分]"
+        },
+        {
+          "title": "LABUBU要拍电影了",
+          "url": "https://www.baidu.com/s?wd=LABUBU%E8%A6%81%E6%8B%8D%E7%94%B5%E5%BD%B1%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        }
+      ]
+    },
     {
       "keyword_group": "铜",
       "match_count": 4,
@@ -49,7 +169,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         }
@@ -68,8 +188,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时47分 ~ 17时37分]"
+          "appearance_count": 10,
+          "time_info": "[09时47分 ~ 18时34分]"
         },
         {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -92,93 +212,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "彭博美元指数跌0.7%，创1月27日以来最大跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3073555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时32分 ~ 05时32分]"
-        },
-        {
-          "title": "中东股市收盘播报｜周四（3月19日），土耳其伊斯坦布尔证交所全国100指数收跌0.51%，报13047.72点，交易提前至北京时间17:35结束（通常在23:00过后结束交易），将于3月23日恢复交易。 伊斯坦布尔证交所银行指数收跌1.84%，报16693.00点。 土耳其里拉兑美元维持0.23%的跌幅，暂报44.3286里拉，持稳于07:55所创历史最低位44.3314里拉附近。",
-          "url": "https://wallstreetcn.com/livenews/3073480",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时52分]"
-        },
-        {
-          "title": "周四（3月19日）纽约尾盘，ICE美元指数跌1%，刷新日低至98.975点，北京时间16:42微幅上扬至100.306点刷新日高，最后逐步走低，02:52以来加速下跌。 彭博美元指数跌0.71%，报1205.14点，日内交投区间为1215.10-1202.54点。 美元兑日元跌1.37%，报157.68日元，日内交投区间为159.87-157.51日元，14:50以来持续走低。 欧元兑日元跌0.29%，英镑兑日元跌0.09%。",
-          "url": "https://wallstreetcn.com/livenews/3073546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时32分 ~ 05时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "泡泡玛特 labubu",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "7年前买的泡泡玛特盲盒才发货",
-          "url": "https://s.weibo.com/weibo?q=%237%E5%B9%B4%E5%89%8D%E4%B9%B0%E7%9A%84%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E7%9B%B2%E7%9B%92%E6%89%8D%E5%8F%91%E8%B4%A7%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时54分 ~ 09时48分]"
-        },
-        {
-          "title": "泡泡玛特回应7年前买的盲盒才发货",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%9B%9E%E5%BA%947%E5%B9%B4%E5%89%8D%E4%B9%B0%E7%9A%84%E7%9B%B2%E7%9B%92%E6%89%8D%E5%8F%91%E8%B4%A7",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            27,
-            23,
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时11分 ~ 17时37分]"
-        },
-        {
-          "title": "女子买泡泡玛特盲盒7年才收到货",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E7%9B%B2%E7%9B%927%E5%B9%B4%E6%89%8D%E6%94%B6%E5%88%B0%E8%B4%A7",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 12时11分]"
         }
       ]
     },
