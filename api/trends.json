@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T19:20:32.249366+08:00",
-  "total_titles_processed": 1341,
+  "generated_at": "2026-03-21T20:39:16.413864+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
@@ -88,6 +88,20 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "全球债市大跌！美联储10月加息概率升至50%，美债重挫、英债08年来首破5%",
+          "url": "https://wallstreetcn.com/articles/3768031",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时38分 ~ 20时39分]"
+        },
+        {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
           "url": "https://wallstreetcn.com/articles/3767876",
           "source": "华尔街见闻",
@@ -115,20 +129,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时38分 ~ 06时24分]"
-        },
-        {
-          "title": "全球债市大跌！美联储10月加息概率升至50%，美债重挫、英债08年来首破5%",
-          "url": "https://wallstreetcn.com/articles/3768031",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时38分 ~ 19时20分]"
         },
         {
           "title": "两年期美债收益率本周涨超18个基点",
