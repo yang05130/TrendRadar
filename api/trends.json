@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T22:23:49.991306+08:00",
-  "total_titles_processed": 1524,
+  "generated_at": "2026-03-21T23:22:30.104385+08:00",
+  "total_titles_processed": 1572,
   "failed_sources": [],
   "trends": [
     {
@@ -98,8 +98,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时38分 ~ 22时23分]"
+          "appearance_count": 11,
+          "time_info": "[13时38分 ~ 23时22分]"
         },
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -149,17 +149,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "中超重庆铜梁龙3:3成都蓉城",
-          "url": "https://www.douyin.com/hot/2438992",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
           "title": "现货白银周五跌约6.5%，纽约期银本周跌约16.3%，纽约铜期货累跌约7.9%",
           "url": "https://wallstreetcn.com/livenews/3074344",
           "source": "华尔街见闻-快讯",
@@ -196,6 +185,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时42分 ~ 03时35分]"
+        },
+        {
+          "title": "中超重庆铜梁龙3:3成都蓉城",
+          "url": "https://www.douyin.com/hot/2438992",
+          "source": "抖音",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时22分]"
         }
       ]
     },
