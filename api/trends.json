@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T07:25:59.623248+08:00",
-  "total_titles_processed": 623,
+  "generated_at": "2026-03-21T09:42:06.209108+08:00",
+  "total_titles_processed": 753,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            8
+            8,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时28分 ~ 07时25分]"
+          "appearance_count": 5,
+          "time_info": "[04时28分 ~ 09时42分]"
         },
         {
           "title": "布伦特原油期货涨幅迅速扩大至超过2.7%，至106.60美元上方。 WTI原油期货短线上扬，涨幅重新扩大至2.7%，重返98.10美元上方。 新兴市场外汇指数刷新日低，南非兰特、墨西哥比索、巴西雷亚尔走低。",
