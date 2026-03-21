@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-03-22T06:20:36.892913+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-03-22T07:21:12.916706+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "现货黄金价格跌破4500美元，创43年最大单周跌幅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32805437",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时21分]"
+        }
+      ]
+    },
     {
       "keyword_group": "美债",
       "match_count": 1,
@@ -15,8 +32,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 07时21分]"
         }
       ]
     },
@@ -31,11 +48,12 @@
           "ranks": [
             16,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 07时21分]"
         }
       ]
     }
