@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T21:41:31.077777+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2026-03-22T22:24:40.701744+08:00",
+  "total_titles_processed": 1407,
   "failed_sources": [],
   "trends": [
     {
@@ -67,11 +67,12 @@
           "url": "https://www.zhihu.com/question/1979047803796878267",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 22时24分]"
         },
         {
           "title": "潘展乐回应48秒05摘铜",
@@ -107,11 +108,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 21时41分]"
+          "appearance_count": 5,
+          "time_info": "[19时20分 ~ 22时24分]"
         }
       ]
     },
