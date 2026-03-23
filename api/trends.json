@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T14:09:07.561073+08:00",
-  "total_titles_processed": 987,
+  "generated_at": "2026-03-23T16:02:37.065625+08:00",
+  "total_titles_processed": 1133,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 14时09分]"
+          "appearance_count": 5,
+          "time_info": "[12时26分 ~ 16时02分]"
         },
         {
           "title": "美债在定价“加息”？准确的说，市场在定价“QE”！",
@@ -54,7 +55,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
