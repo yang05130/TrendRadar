@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-03-23T09:54:00.666789+08:00",
-  "total_titles_processed": 677,
+  "generated_at": "2026-03-23T12:26:53.435896+08:00",
+  "total_titles_processed": 852,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美债在定价“加息”？准确的说，市场在定价“QE”！",
+          "url": "https://wallstreetcn.com/articles/3768079",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 01时22分]"
+        },
+        {
+          "title": "加息真要来了？三年未见之变局：美债“宣战”美联储利率天花板",
+          "url": "https://www.cls.cn/detail/2320841",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "美债规模正一路狂飙",
+          "url": "https://www.toutiao.com/trending/7620270937715248694/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        }
+      ]
+    },
     {
       "keyword_group": "铜",
       "match_count": 2,
@@ -25,26 +64,9 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美债在定价“加息”？准确的说，市场在定价“QE”！",
-          "url": "https://wallstreetcn.com/articles/3768079",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时22分]"
         }
       ]
     }
