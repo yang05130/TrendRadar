@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T05:32:57.629090+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-03-24T06:28:43.321676+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
           "url": "https://flash.jin10.com/detail/20260324051252587800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 06时28分]"
         },
         {
           "title": "美元指数跌超0.6%，日元一度涨向158",
@@ -70,11 +71,12 @@
           "url": "https://wallstreetcn.com/livenews/3075421",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 06时28分]"
         },
         {
           "title": "LME期铜收涨238美元，报12167美元/吨。 LME期铝收跌16美元，报3199美元/吨。 LME期锌收涨10美元，报3078美元/吨。 LME期铅收涨2美元，报1899美元/吨。 LME期镍收涨63美元，报17082美元/吨。 LME期锡收涨665美元，报43944美元/吨。 LME期钴收平，报56290美元/吨。",
