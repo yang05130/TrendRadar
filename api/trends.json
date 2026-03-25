@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T06:32:13.942994+08:00",
-  "total_titles_processed": 628,
+  "generated_at": "2026-03-26T07:31:26.415018+08:00",
+  "total_titles_processed": 687,
   "failed_sources": [],
   "trends": [
     {
@@ -55,11 +55,12 @@
           "ranks": [
             9,
             10,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 06时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 07时31分]"
         },
         {
           "title": "LABUBU家族首破百亿营收，泡泡玛特2026年目标增速不低于20%|直击业绩会",
