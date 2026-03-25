@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-26T02:52:17.455046+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-03-26T03:44:52.950021+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "泡泡玛特 labubu",
       "match_count": 2,
       "titles": [
+        {
+          "title": "泡泡玛特今日盘中跌超 20%，为何其在公布 2025 年业绩大增的同时，股价却重挫？",
+          "url": "https://www.zhihu.com/question/2020159067440560062",
+          "source": "知乎",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 03时44分]"
+        },
         {
           "title": "LABUBU家族首破百亿营收，泡泡玛特2026年目标增速不低于20%|直击业绩会",
           "url": "https://www.cls.cn/detail/2324402",
@@ -15,18 +27,6 @@
             3,
             5,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 02时52分]"
-        },
-        {
-          "title": "泡泡玛特今日盘中跌超 20%，为何其在公布 2025 年业绩大增的同时，股价却重挫？",
-          "url": "https://www.zhihu.com/question/2020159067440560062",
-          "source": "知乎",
-          "ranks": [
-            9,
-            10
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -44,11 +44,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时56分 ~ 02时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 03时44分]"
         },
         {
           "title": "国际铜夜盘收涨0.94%，沪铜收涨1.11%，沪铝收跌0.13%，沪锌收涨0.35%，沪铅收跌0.09%，沪镍收涨1.33%，沪锡收涨0.69%。 氧化铝夜盘收跌0.98%，铝合金收跌0.04%。 不锈钢夜盘收涨1.22%。",
