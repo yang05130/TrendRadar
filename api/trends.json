@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T09:58:12.669650+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2026-03-26T12:33:42.715236+08:00",
+  "total_titles_processed": 1030,
   "failed_sources": [],
   "trends": [
     {
@@ -41,7 +41,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         },
@@ -74,7 +74,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         }
@@ -126,7 +126,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         }
@@ -160,6 +160,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时56分 ~ 02时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "赛力斯 问界",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "问界 M6 会对智界 R7 构成严重冲击吗？",
+          "url": "https://www.zhihu.com/question/1999877795145343169",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         }
       ]
     },
