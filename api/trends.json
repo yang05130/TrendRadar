@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T05:31:29.829887+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-03-28T06:28:02.504199+08:00",
+  "total_titles_processed": 619,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,18 @@
           "time_info": "[03时39分 ~ 04时34分]"
         },
         {
+          "title": "周五（3月27日）纽约尾盘，现货黄金涨2.91%，报4502.93美元/盎司，本周累涨0.10%。 COMEX黄金期货涨2.88%，报4535.80美元/盎司，本周累跌1.50%，整体呈现出W形走势。 本周，现货白银累涨2.64%，报69.7470美元/盎司。 COMEX白银期货累涨0.60%，报70.080美元/盎司。 COMEX铜期货累涨3.08%，报5.4710美元/磅。 现货铂金累跌3.27%，报1865.44美元/盎司；现货钯金累跌2.17%，报1383.94美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3078485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时28分]"
+        },
+        {
           "title": "LME期铜收涨48美元，报12195美元/吨。 LME期铝收涨26美元，报3296美元/吨。 LME期锌收涨34美元，报3115美元/吨。 LME期铅收涨5美元，报1896美元/吨。 LME期镍收跌67美元，报17186美元/吨。 LME期锡收涨1663美元，报45788美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3078429",
           "source": "华尔街见闻-快讯",
@@ -30,17 +42,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时51分 ~ 03时39分]"
-        },
-        {
-          "title": "周五（3月27日）纽约尾盘，现货黄金涨2.91%，报4502.93美元/盎司，本周累涨0.10%。 COMEX黄金期货涨2.88%，报4535.80美元/盎司，本周累跌1.50%，整体呈现出W形走势。 本周，现货白银累涨2.64%，报69.7470美元/盎司。 COMEX白银期货累涨0.60%，报70.080美元/盎司。 COMEX铜期货累涨3.08%，报5.4710美元/磅。 现货铂金累跌3.27%，报1865.44美元/盎司；现货钯金累跌2.17%，报1383.94美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3078485",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时31分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至3月24日当周，COMEX铜期货投机者将净多头持仓减少10,860手至35,802手。",
@@ -97,8 +98,25 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时49分 ~ 05时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 06时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "两年期美债收益率创逾一年新高，随后转而跌约7.4个基点",
+          "url": "https://wallstreetcn.com/livenews/3078500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
         }
       ]
     },
@@ -115,8 +133,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时49分 ~ 05时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 06时28分]"
         }
       ]
     }
