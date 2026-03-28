@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T04:25:36.067041+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-03-29T05:26:46.875917+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 05时26分]"
         },
         {
           "title": "新债王：进入“保全资本”模式，风险仓位已砍到“历史最低”，“美联储加息、美国衰退、美债软违约”都有可能",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时27分 ~ 04时25分]"
+          "appearance_count": 3,
+          "time_info": "[03时27分 ~ 05时26分]"
         }
       ]
     }
