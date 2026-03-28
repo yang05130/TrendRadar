@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T19:25:46.877936+08:00",
-  "total_titles_processed": 1397,
+  "generated_at": "2026-03-28T20:45:08.115338+08:00",
+  "total_titles_processed": 1464,
   "failed_sources": [],
   "trends": [
     {
@@ -70,11 +70,12 @@
             5,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时16分 ~ 19时25分]"
+          "appearance_count": 11,
+          "time_info": "[12时16分 ~ 20时45分]"
         },
         {
           "title": "两年期美债收益率创逾一年新高，随后转而跌约7.4个基点",
