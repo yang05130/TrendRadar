@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T03:31:08.324698+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2026-03-30T04:27:47.640596+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2021504836005295499",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "日本拟动用外储做空国际原油，以挽救日元汇率，对此你怎么看，其会重演96年「住友铜事件」么？",
