@@ -1,39 +1,8 @@
 {
-  "generated_at": "2026-03-29T23:28:06.114231+08:00",
-  "total_titles_processed": 1427,
+  "generated_at": "2026-03-30T00:31:53.359879+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
-          "url": "https://wallstreetcn.com/articles/3768635",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 10时01分]"
-        },
-        {
-          "title": "新债王：进入“保全资本”模式，风险仓位已砍到“历史最低”，“美联储加息、美国衰退、美债软违约”都有可能",
-          "url": "https://wallstreetcn.com/articles/3768639",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时27分 ~ 12时43分]"
-        }
-      ]
-    },
     {
       "keyword_group": "铜",
       "match_count": 1,
@@ -43,15 +12,11 @@
           "url": "https://www.zhihu.com/question/2021504836005295499",
           "source": "知乎",
           "ranks": [
-            13,
-            9,
-            7,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[17时33分 ~ 23时28分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         }
       ]
     }
