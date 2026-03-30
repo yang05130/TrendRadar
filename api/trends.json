@@ -1,192 +1,39 @@
 {
-  "generated_at": "2026-03-30T23:02:05.462104+08:00",
-  "total_titles_processed": 1689,
+  "generated_at": "2026-03-31T00:10:16.733024+08:00",
+  "total_titles_processed": 304,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "赛力斯 问界",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "赛力斯(09927.HK)：2025年营业收入1648.88亿元，同比增长13.63%。",
-          "url": "https://flash.jin10.com/detail/20260330164808226800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时07分"
-        },
-        {
-          "title": "赛力斯(09927.HK)：2025年年度归属于本公司所有者的年内利润为59.56亿元人民币，同比增长0.18%。",
-          "url": "https://flash.jin10.com/detail/20260330164715604800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时07分"
-        },
         {
           "title": "赛力斯2025年营业收入1648.88亿元",
           "url": "https://www.toutiao.com/trending/7622594721889734150/",
           "source": "今日头条",
           "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时00分 ~ 23时02分]"
-        },
-        {
-          "title": "赛力斯：2025年营业收入1648.88亿元，同比增长13.63%",
-          "url": "https://wallstreetcn.com/livenews/3079145",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "摩尔线程",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "摩尔线程：与某客户签订了产品销售协议，合同总金额为人民币6.6亿元",
-          "url": "https://wallstreetcn.com/livenews/3079255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
-          "title": "摩尔线程：签订6.6亿元日常经营重大合同",
-          "url": "https://flash.jin10.com/detail/20260330184753817800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
-          "title": "摩尔线程：公司于近日与某客户签订了产品销售协议，合同标的为摩尔线程夸娥（KUAE）智算集群，合同总金额为人民币6.6亿元。",
-          "url": "https://flash.jin10.com/detail/20260330184548398800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "铜",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "日本拟动用外储做空国际原油，以挽救日元汇率，对此你怎么看，其会重演 96 年「住友铜事件」么？",
-          "url": "https://www.zhihu.com/question/2021504836005295499",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时27分]"
-        },
-        {
-          "title": "日本拟动用外储做空国际原油，以挽救日元汇率，如何看待？会重演 96 年「住友铜事件」吗？",
-          "url": "https://www.zhihu.com/question/2021504836005295499",
-          "source": "知乎",
-          "ranks": [
-            3,
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时28分 ~ 07时28分]"
-        },
-        {
-          "title": "日本拟动用外储做空国际原油，以挽救日元汇率，对此你怎么看，其会重演96年「住友铜事件」么？",
-          "url": "https://www.zhihu.com/question/2021504836005295499",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "time_info": "00时10分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "美国五年期国债收益率跌10个基点，至3.97%。 2-7年期美债收益率跌幅均达到或超过10个基点。",
           "url": "https://wallstreetcn.com/livenews/3079474",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时02分"
-        },
-        {
-          "title": "美债扩大涨幅，10年期收益率下跌5个基点至4.37%。",
-          "url": "https://wallstreetcn.com/livenews/3079290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "泡泡玛特 labubu",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "招商证券国际：大幅下调泡泡玛特目标价至127港元 评级降至“减持”",
-          "url": "https://flash.jin10.com/detail/20260330125235453800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时21分"
-        },
-        {
-          "title": "泡泡玛特乐园4月将涨价，二期扩建预计于2027年启动",
-          "url": "https://wallstreetcn.com/livenews/3079032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
+          "time_info": "00时10分"
         }
       ]
     },
@@ -195,32 +42,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美元指数一度触及100.56，创去年5月以来新高，现报100.51。",
-          "url": "https://flash.jin10.com/detail/20260330223506084800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "5090 nvidia",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "隔夜SHIBOR报1.3180%，上涨0.10个基点。 7天SHIBOR报1.4180%，下降1.00个基点。 3个月SHIBOR报1.5090%，上涨0.00个基点。",
-          "url": "https://wallstreetcn.com/livenews/3078935",
+          "title": "彭博美元指数涨幅扩大，创11月26日以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3079484",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时21分"
+          "time_info": "00时10分"
         }
       ]
     }
