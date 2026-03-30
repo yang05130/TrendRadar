@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T10:03:39.169597+08:00",
-  "total_titles_processed": 726,
+  "generated_at": "2026-03-30T13:21:13.876618+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
@@ -42,6 +42,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "泡泡玛特 labubu",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "招商证券国际：大幅下调泡泡玛特目标价至127港元 评级降至“减持”",
+          "url": "https://flash.jin10.com/detail/20260330125235453800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "5090 nvidia",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "隔夜SHIBOR报1.3180%，上涨0.10个基点。 7天SHIBOR报1.4180%，下降1.00个基点。 3个月SHIBOR报1.5090%，上涨0.00个基点。",
+          "url": "https://wallstreetcn.com/livenews/3078935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         }
       ]
     }
