@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T13:21:13.876618+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-03-30T15:22:28.450500+08:00",
+  "total_titles_processed": 1054,
   "failed_sources": [],
   "trends": [
     {
@@ -47,7 +47,7 @@
     },
     {
       "keyword_group": "泡泡玛特 labubu",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "招商证券国际：大幅下调泡泡玛特目标价至127港元 评级降至“减持”",
@@ -56,9 +56,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        },
+        {
+          "title": "泡泡玛特乐园4月将涨价，二期扩建预计于2027年启动",
+          "url": "https://wallstreetcn.com/livenews/3079032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         }
       ]
     },
@@ -73,7 +84,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         }
