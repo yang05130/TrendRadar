@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T14:10:54.538463+08:00",
-  "total_titles_processed": 1162,
+  "generated_at": "2026-04-02T16:04:30.969529+08:00",
+  "total_titles_processed": 1309,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -152,11 +152,12 @@
           "source": "抖音",
           "ranks": [
             8,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 14时10分]"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 16时04分]"
         },
         {
           "title": "周三（4月1日）纽约尾盘，美国10年期基准国债收益率涨0.20个基点，报4.3186%，日内交投于4.2574%-4.3324%区间，整体呈现出V形反转。 两年期美债收益率涨0.80个基点，报3.8010%，日内交投于3.7334%-3.8133%区间，北京时间20:00过后出现一波显著的拉升行情。",
@@ -198,7 +199,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         }
