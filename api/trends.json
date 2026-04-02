@@ -1,156 +1,22 @@
 {
-  "generated_at": "2026-04-02T23:57:44.026591+08:00",
-  "total_titles_processed": 1945,
+  "generated_at": "2026-04-03T00:56:26.959351+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美元",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "美元指数日内涨超0.50%，现报100.07。",
-          "url": "https://wallstreetcn.com/livenews/3081355",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时10分"
-        },
-        {
-          "title": "美元指数重返100.00关口上方，日内涨超0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3081300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "中东股市收盘播报｜周三（4月1日），沙特证交所全股指数收涨0.23%，沙特阿美（ARAMCO.AB）收涨0.58%，在沙特上市的Albilad南方东英MSCI香港中国股票ETF收涨0.09%。 卡塔尔证交所指数收涨0.81%，科威特证交所超级市场价格回报指数收涨0.84%。 埃及证交所EGX 30指数收涨3.11%，埃及镑兑美元收涨1.71%，报53.6272埃及镑，3月31日曾跌至54.8317埃及镑创历史新低。 迪拜金融市场综合指数收涨2.03%，阿布扎比证券市场综合指数收涨1.35%。",
-          "url": "https://wallstreetcn.com/livenews/3081078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时56分 ~ 03时56分]"
-        },
-        {
-          "title": "标普500指数涨幅收窄至不足0.9%，WTI原油5分钟内下跌0.49美元/桶，报99.21美元/桶。 美国驻北约特使Witkoff宣称，美国显然正与伊朗内部正确的人对话。 美方认为，伊朗能够针对（美国和以色列发动的伊朗战争）选择一个“退出渠道”（off-ramp）。",
-          "url": "https://wallstreetcn.com/livenews/3081072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时56分 ~ 03时56分]"
-        },
-        {
-          "title": "美元指数1日下跌",
-          "url": "https://flash.jin10.com/detail/20260402052148679800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时34分]"
-        },
-        {
-          "title": "周三（4月1日）纽约尾盘，ICE美元指数跌0.33%，报99.634点，日内交投区间为99.883-99.298点。 彭博美元指数跌0.27%，报1212.17点，日内交投区间为1215.61-1209.41点。 美元兑日元涨0.11%，报158.89日元，日内交投区间为158.28-159.01日元。 欧元兑日元涨0.38%，英镑兑日元涨0.65%。",
-          "url": "https://wallstreetcn.com/livenews/3081097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 05时38分]"
-        },
-        {
-          "title": "美元指数DXY站上100，日内涨0.43%。",
-          "url": "https://flash.jin10.com/detail/20260402115639411800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "布伦特原油价格突破每桶104美元，标普500指数期货跌幅扩大至0.5%。",
-          "url": "https://wallstreetcn.com/livenews/3081208",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "铜",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
         {
           "title": "「铜师傅」香港上市大跌，是什么导致了「中年人的潮玩顶流」在资本市场遭遇重挫，散户能从中学到什么？",
           "url": "https://www.zhihu.com/question/2022781237685757874",
           "source": "知乎",
           "ranks": [
-            12,
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时03分 ~ 23时57分]"
-        },
-        {
-          "title": "印度斯坦铜业公司2025/26财年铜精矿产量为27,421吨，同比增长9%，矿石产量达367万吨，同比增长6%。",
-          "url": "https://flash.jin10.com/detail/20260402192443208800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "周三（4月1日）纽约尾盘，现货黄金涨1.91%，报4757.17美元/盎司，整体持续走高，交投于4662.36-4793.11美元。 COMEX黄金期货涨2.27%，报4784.90美元/盎司，从4690美元持续走高至4821美元。 现货白银跌0.09%，报75.0995美元/盎司。 COMEX白银期货涨0.54%，报75.320美元/盎司。 COMEX铜期货跌0.49%，报5.6230美元/磅。 现货铂金涨0.58%，现货钯金持平。",
-          "url": "https://wallstreetcn.com/livenews/3081113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时34分]"
-        },
-        {
-          "title": "国际铜夜盘收涨0.43%，沪铜收涨0.45%，沪铝收涨0.24%，沪锌收涨1.27%，沪铅收涨1.02%，沪镍收跌0.40%，沪锡收涨0.31%。 氧化铝夜盘收跌1.36%，铝合金收涨0.36%。 不锈钢夜盘收跌0.77%。",
-          "url": "https://wallstreetcn.com/livenews/3081050",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 02时56分]"
+          "time_info": "00时56分"
         },
         {
           "title": "雅迪全品类涨价 300 元以上，称原料大幅上涨，铝铜铁涨超 40% 、塑料涨 80%，其他品牌会跟涨吗？",
@@ -159,109 +25,26 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时57分"
-        },
-        {
-          "title": "LME期铜收涨99美元，报12434美元/吨。 LME期铝收涨64美元，报3532美元/吨。 LME期锌收涨63美元，报3290美元/吨。 LME期铅收涨38美元，报1942美元/吨。 LME期镍收涨99美元，报17209美元/吨。 LME期锡收涨615美元，报47362美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3081046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "00时56分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 3,
+      "keyword_group": "5090 nvidia",
+      "match_count": 1,
       "titles": [
         {
-          "title": "多国央行大幅减持美债",
-          "url": "https://www.douyin.com/hot/2452076",
-          "source": "抖音",
+          "title": "英伟达(NVDA.O)和谷歌(GOOG.O)合作对Gemma 4进行优化，使其适用于NVIDIA GPU。",
+          "url": "https://flash.jin10.com/detail/20260403000818112800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            10,
-            18,
-            17,
-            20,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时28分 ~ 23时57分]"
-        },
-        {
-          "title": "周三（4月1日）纽约尾盘，美国10年期基准国债收益率涨0.20个基点，报4.3186%，日内交投于4.2574%-4.3324%区间，整体呈现出V形反转。 两年期美债收益率涨0.80个基点，报3.8010%，日内交投于3.7334%-3.8133%区间，北京时间20:00过后出现一波显著的拉升行情。",
-          "url": "https://wallstreetcn.com/livenews/3081131",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时34分 ~ 07时33分]"
-        },
-        {
-          "title": "摩根资产管理买入美债和英债 认为通胀担忧令部分债券处于超卖",
-          "url": "https://wallstreetcn.com/livenews/3081515",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "泡泡玛特 labubu",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "雷军投的“中年人泡泡玛特”上市了",
-          "url": "https://www.toutiao.com/trending/7623658574400458267/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            30,
-            5,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时47分 ~ 07时33分]"
-        },
-        {
-          "title": "泡泡玛特 4 月将上线 IP 衍生小家电，怎样看待潮玩品牌跨界做家电？你会为了 IP 买它吗？",
-          "url": "https://www.zhihu.com/question/2020137918107264436",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时10分"
-        },
-        {
-          "title": "泡泡玛特4月2日回购价值9900万港元的股份。",
-          "url": "https://wallstreetcn.com/livenews/3081464",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时58分"
+          "time_info": "00时56分"
         }
       ]
     }
