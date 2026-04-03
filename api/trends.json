@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T07:32:24.863941+08:00",
-  "total_titles_processed": 660,
+  "generated_at": "2026-04-03T09:57:25.198559+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             12,
             19,
             11,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 07时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时56分 ~ 09时57分]"
         },
         {
           "title": "美国对钢、铝、铜衍生品征收25%的关税。标普目前跌0.07%，道指跌0.18%，纳指跌0.09%。",
@@ -151,11 +152,12 @@
             23,
             21,
             14,
-            18
+            18,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时51分 ~ 07时32分]"
+          "appearance_count": 10,
+          "time_info": "[02时51分 ~ 09时57分]"
         },
         {
           "title": "10年期美债收益率周四冲高回落，本周仍累跌超12个基点",
