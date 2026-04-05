@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-05T19:27:00.366465+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2026-04-05T20:48:03.689467+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
       "match_count": 3,
       "titles": [
+        {
+          "title": "中超浙江队0:1重庆铜梁龙",
+          "url": "https://www.douyin.com/hot/2456260",
+          "source": "抖音",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 20时48分]"
+        },
         {
           "title": "游客手捧母亲照片向毛主席铜像鞠躬",
           "url": "https://www.toutiao.com/trending/7625092866695626798/",
@@ -20,17 +32,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时59分 ~ 18时30分]"
-        },
-        {
-          "title": "中超浙江队0:1重庆铜梁龙",
-          "url": "https://www.douyin.com/hot/2456260",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
         },
         {
           "title": "毛新宇绕毛主席铜像一周",
