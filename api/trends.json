@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T15:01:55.513363+08:00",
-  "total_titles_processed": 924,
+  "generated_at": "2026-04-05T15:59:27.117591+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,25 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时08分 ~ 15时01分]"
+          "appearance_count": 4,
+          "time_info": "[13时08分 ~ 15时59分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "铜",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "游客手捧母亲照片向毛主席铜像鞠躬",
+          "url": "https://www.toutiao.com/trending/7625092866695626798/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
         }
       ]
     }
