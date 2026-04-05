@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-04-05T18:30:14.925505+08:00",
-  "total_titles_processed": 1183,
+  "generated_at": "2026-04-05T19:27:00.366465+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "铜",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "游客手捧母亲照片向毛主席铜像鞠躬",
+          "url": "https://www.toutiao.com/trending/7625092866695626798/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            25,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时59分 ~ 18时30分]"
+        },
+        {
+          "title": "中超浙江队0:1重庆铜梁龙",
+          "url": "https://www.douyin.com/hot/2456260",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 19时27分]"
+        },
+        {
+          "title": "毛新宇绕毛主席铜像一周",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%9B%E6%96%B0%E5%AE%87%E7%BB%95%E6%AF%9B%E4%B8%BB%E5%B8%AD%E9%93%9C%E5%83%8F%E4%B8%80%E5%91%A8%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 19时27分]"
+        }
+      ]
+    },
     {
       "keyword_group": "泡泡玛特 labubu",
       "match_count": 1,
@@ -19,26 +61,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时08分 ~ 16时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "铜",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "游客手捧母亲照片向毛主席铜像鞠躬",
-          "url": "https://www.toutiao.com/trending/7625092866695626798/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            25,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时59分 ~ 18时30分]"
         }
       ]
     }
