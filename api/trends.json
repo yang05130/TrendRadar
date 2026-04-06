@@ -1,47 +1,7 @@
 {
-  "generated_at": "2026-04-06T23:42:45.677726+08:00",
-  "total_titles_processed": 1548,
+  "generated_at": "2026-04-07T00:42:06.678278+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "北美科技软件股指数ETF涨约0.6%，报80.88美元，随后转而下跌0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3082846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "美元指数DXY短线上盘初走高近10点，报100.26。",
-          "url": "https://flash.jin10.com/detail/20260406060610445800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "美元指数DXY回落至100下方，日内跌0.19%。",
-          "url": "https://flash.jin10.com/detail/20260406153716422800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时04分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
