@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T05:34:58.179787+08:00",
-  "total_titles_processed": 582,
+  "generated_at": "2026-04-07T06:32:34.657330+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "url": "https://flash.jin10.com/detail/20260407045506023800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时32分]"
         },
         {
           "title": "标普500指数目前涨0.32%，布伦特原油跌破109美元/桶关口，报108.94美元/桶。 伊朗最高领袖穆杰塔巴称，（美国和以色列的）“暗杀和犯罪行为”不会扰乱伊朗武装部队。",
@@ -41,6 +42,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "铜",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "高盛：对于2026/2027年之后，仍然坚持认为铜价将在2035年上涨至15000美元。",
+          "url": "https://flash.jin10.com/detail/20260407053740657800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
+          "title": "高盛：短期内预计铜价将继续保持波动，市场仍在评估中东局势对全球经济增长的影响。",
+          "url": "https://flash.jin10.com/detail/20260407053632131800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
+          "title": "高盛预计2026年铜价平均为12,650美元，此前预期为12,850美元。高盛预计2026年全球铜市场将出现49万吨的供应过剩，此前预期为38万吨。",
+          "url": "https://flash.jin10.com/detail/20260407053630952800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
         }
       ]
     },
