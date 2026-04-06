@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T15:24:25.965359+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2026-04-06T17:04:52.210220+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美元指数DXY短线上盘初走高近10点，报100.26。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "美元指数DXY回落至100下方，日内跌0.19%。",
+          "url": "https://flash.jin10.com/detail/20260406153716422800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         }
       ]
     }
