@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T14:25:56.502173+08:00",
-  "total_titles_processed": 1172,
+  "generated_at": "2026-04-07T16:10:55.385497+08:00",
+  "total_titles_processed": 1309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "创业板指涨超1%，沪指涨0.5%，深成指涨0.92%，有机硅、铜箔、电池、化工等方向领涨，沪深京三市上涨个股超4200只。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "伦敦金属交易所(LME)：铅库存减少225吨，锌库存减少25吨，铜库存增加14325吨，镍库存持平，锡库存增加165吨，铝库存减少2050吨。",
+          "url": "https://flash.jin10.com/detail/20260407160102878800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
         },
         {
           "title": "伊朗冲突威胁全球经济增长 高盛警告称铜价面临进一步下跌风险",
@@ -69,7 +80,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -80,7 +91,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         }
@@ -139,7 +150,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         }
@@ -159,6 +170,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "瑞银：将6月底黄金价格预期下调至5,200美元/盎司，原因是市场波动加剧之际，投资者需求降温。",
+          "url": "https://flash.jin10.com/detail/20260407155438385800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
         }
       ]
     },
