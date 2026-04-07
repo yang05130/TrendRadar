@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T03:35:35.172955+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-04-08T03:58:44.874490+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时35分 ~ 03时58分]"
         },
         {
           "title": "LME期铜跌0.20%，报12324美元/吨。 LME期铝跌0.06%，报3463.50美元/吨。 LME期锌涨1.50%，报3305.50美元/吨。 LME期铅涨0.13%，报1937美元/吨。 LME期镍跌0.76%，报16970美元/吨。 LME期锡跌0.67%，报46140美元/吨。",
@@ -53,9 +53,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时35分 ~ 03时58分]"
         }
       ]
     },
