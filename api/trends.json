@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T10:01:29.600321+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2026-04-07T12:38:14.796212+08:00",
+  "total_titles_processed": 1045,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "创业板指涨超1%，沪指涨0.5%，深成指涨0.92%，有机硅、铜箔、电池、化工等方向领涨，沪深京三市上涨个股超4200只。",
@@ -14,9 +14,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "伊朗冲突威胁全球经济增长 高盛警告称铜价面临进一步下跌风险",
+          "url": "https://flash.jin10.com/detail/20260407115507902800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "高盛：对于2026/2027年之后，仍然坚持认为铜价将在2035年上涨至15000美元。",
@@ -106,7 +117,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         }
@@ -128,6 +139,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时50分 ~ 05时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "5090 nvidia",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待业内人士谈 PS6 主机「别指望有 RTX 5090 级别的性能」？",
+          "url": "https://www.zhihu.com/question/1955268439397598059",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 12时38分]"
         }
       ]
     }
