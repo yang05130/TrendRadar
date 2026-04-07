@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T21:10:39.543932+08:00",
-  "total_titles_processed": 1703,
+  "generated_at": "2026-04-07T23:05:13.108597+08:00",
+  "total_titles_processed": 1845,
   "failed_sources": [],
   "trends": [
     {
@@ -130,7 +130,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -149,7 +149,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "周一（4月6日）纽约尾盘，ICE美元指数跌0.03%，报99.997点，日内交投区间为100.273-99.757点，北京时间15:28-15:56出现一波显著的下挫行情，22:35刷新日低之后曾迅速反弹。 彭博美元指数跌0.11%，报1214.54点，日内交投区间为1217.98-1212.37点。 美元兑日元涨0.03%，报159.72日元，日内交投区间为159.31-159.83日元。 欧元兑日元涨0.25%，英镑兑日元涨0.25%。",
@@ -163,6 +163,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时50分 ~ 05时34分]"
+        },
+        {
+          "title": "恒天然：4月7日全球乳品贸易（GDT）拍卖价格指数下降3.4%，奶粉各合同期FAS拍卖均价4,228美元/吨。 批发奶粉价格指数跌0.7%，报3,687美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3083572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "美元指数6日下跌",
