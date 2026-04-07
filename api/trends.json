@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T12:38:14.796212+08:00",
-  "total_titles_processed": 1045,
+  "generated_at": "2026-04-07T14:25:56.502173+08:00",
+  "total_titles_processed": 1172,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "创业板指涨超1%，沪指涨0.5%，深成指涨0.92%，有机硅、铜箔、电池、化工等方向领涨，沪深京三市上涨个股超4200只。",
@@ -25,7 +25,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
         },
@@ -61,6 +61,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
+        },
+        {
+          "title": "电影青铜葵花定档",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E9%9D%92%E9%93%9C%E8%91%B5%E8%8A%B1%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "高盛警告：铜价暴跌风险加剧，海峡封锁或成“最后一根稻草”！",
+          "url": "https://flash.jin10.com/detail/20260407134136540800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         }
       ]
     },
@@ -103,6 +125,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "赛力斯 问界",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "赛力斯公布防撞控制专利",
+          "url": "https://wallstreetcn.com/livenews/3083189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         }
       ]
     },
