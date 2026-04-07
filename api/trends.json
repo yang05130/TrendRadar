@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-08T01:56:13.070834+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-04-08T03:35:35.172955+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "巴拿马批准第一量子公司移除已关闭铜矿的库存矿石",
+          "url": "https://wallstreetcn.com/livenews/3083688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
+        },
         {
           "title": "LME期铜跌0.20%，报12324美元/吨。 LME期铝跌0.06%，报3463.50美元/吨。 LME期锌涨1.50%，报3305.50美元/吨。 LME期铅涨0.13%，报1937美元/吨。 LME期镍跌0.76%，报16970美元/吨。 LME期锡跌0.67%，报46140美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3083650",
@@ -14,7 +25,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -25,9 +36,26 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "标普500指数目前跌0.4%，道指跌0.5%，纳指跌0.6%。 WTI原油跌破113美元/桶关口，报112.81美元/桶；布伦特原油跌破108美元/桶关口，报107.68美元/桶。 现货黄金5分钟内上涨22.53美元/盎司，报4692.84美元/盎司；纽约金5分钟内上涨10.1美元/盎司，报4715.9美元/盎司。 美国国债价格走高。 巴基斯坦总理称，请求美国总统特朗普将对伊朗的最后期限延长两周，请求伊朗将霍尔木兹海峡开放两周。",
+          "url": "https://wallstreetcn.com/livenews/3083685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
         }
       ]
     },
