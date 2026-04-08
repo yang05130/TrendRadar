@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T14:20:31.800428+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2026-04-08T16:11:53.052099+08:00",
+  "total_titles_processed": 1348,
   "failed_sources": [],
   "trends": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "keyword_group": "铜",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "巴拿马批准第一量子公司移除已关闭铜矿的库存矿石",
@@ -82,6 +82,17 @@
           "time_info": "01时56分"
         },
         {
+          "title": "伦敦金属交易所(LME)：镍库存减少138吨，铜库存增加6500吨，锌库存减少1600吨，铅库存减少2400吨，锡库存减少210吨，铝库存减少6025吨。",
+          "url": "https://flash.jin10.com/detail/20260408160052453800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        },
+        {
           "title": "国际铜夜盘收跌0.88%，沪铜收跌0.86%，沪铝收跌0.43%，沪锌收涨0.78%，沪铅收涨0.21%，沪镍收跌1.41%，沪锡收跌0.08%。 氧化铝夜盘收跌0.96%，铝合金收跌0.13%。 不锈钢夜盘收跌0.46%。",
           "url": "https://wallstreetcn.com/livenews/3083645",
           "source": "华尔街见闻-快讯",
@@ -91,6 +102,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "人民币汇率也大涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E4%B9%9F%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
         }
       ]
     },
