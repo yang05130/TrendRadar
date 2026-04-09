@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T21:17:22.168230+08:00",
-  "total_titles_processed": 1713,
+  "generated_at": "2026-04-09T23:53:54.894677+08:00",
+  "total_titles_processed": 1865,
   "failed_sources": [],
   "trends": [
     {
@@ -106,7 +106,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美元指数跌超0.7%",
@@ -120,6 +120,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时57分 ~ 05时38分]"
+        },
+        {
+          "title": "WTI原油5分钟内下跌0.49美元/桶，报101.81美元/桶。 纳斯达克综合指数与纳斯达克100指数转涨，标普转涨。 据NBC新闻，美国官员表示，特朗普要求内塔尼亚胡减轻对黎巴嫩的轰炸行动，以助力与伊朗的谈判取得成功。",
+          "url": "https://wallstreetcn.com/livenews/3085200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "美元指数8日大幅下跌",
