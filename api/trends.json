@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T09:52:58.467986+08:00",
-  "total_titles_processed": 866,
+  "generated_at": "2026-04-09T12:31:52.859792+08:00",
+  "total_titles_processed": 1037,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -109,6 +109,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "大涨超300点，人民币对美元即期汇率升至3年多新高",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32925603",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     }
