@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T12:31:52.859792+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-04-09T14:19:51.399263+08:00",
+  "total_titles_processed": 1159,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "国际金融公司（IFC）与第一量子矿业签署协议，推进阿根廷铜矿项目的可持续发展。 该合作伙伴关系将帮助第一量子矿业为这一耗资52.5亿美元的项目确保债务融资。",
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "澳新银行：能源转型和数据中心增长带动需求韧性，将使市场保持4%至5%的供应缺口，从而支撑铜价。",
+          "url": "https://flash.jin10.com/detail/20260409130433054800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         }
       ]
     },
@@ -121,11 +132,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32925603",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 14时19分]"
         }
       ]
     }
