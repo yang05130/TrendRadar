@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T04:31:38.928679+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-04-11T05:33:49.403480+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "智利国家铜委员会：智利科利亚瓦西铜矿2月份铜产量同比增长56.5%，达到2.66万吨。",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
+        },
+        {
+          "title": "纽约铜期货涨1.8%，现货铂金涨2.5%，本周纽约铜涨约5.1%",
+          "url": "https://wallstreetcn.com/livenews/3086100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
         },
         {
           "title": "智利国家铜委员会：智利国家铜业公司2月份铜产量同比下降9.8%，至8.85万吨。",
@@ -72,7 +83,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         }
@@ -89,7 +100,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         }
