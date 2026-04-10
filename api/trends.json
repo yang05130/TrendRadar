@@ -1,23 +1,57 @@
 {
-  "generated_at": "2026-04-11T02:45:29.351449+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-04-11T03:41:16.680405+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "智利国家铜委员会：智利科利亚瓦西铜矿2月份铜产量同比增长56.5%，达到2.66万吨。",
+          "url": "https://flash.jin10.com/detail/20260411031007226800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "智利国家铜委员会：智利埃斯孔迪达铜矿2月份铜产量同比下降7.4%，至10.5万吨。",
+          "url": "https://flash.jin10.com/detail/20260411030820355800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "智利国家铜委员会：智利国家铜业公司2月份铜产量同比下降9.8%，至8.85万吨。",
+          "url": "https://flash.jin10.com/detail/20260411030758061800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
         {
           "title": "国际铜夜盘收涨1.20%，沪铜收涨1.04%，沪铝收涨0.32%，沪锌收跌0.59%，沪铅收跌0.54%，沪镍收涨0.04%，沪锡收跌0.09%。 氧化铝夜盘收涨0.15%，铝合金收涨0.59%。 不锈钢夜盘收涨2.01%。",
           "url": "https://wallstreetcn.com/livenews/3086037",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 02时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 03时41分]"
         },
         {
           "title": "LME期铜收涨164美元，报12846美元/吨。 LME期铝收涨54美元，报3498美元/吨。 LME期锌收涨6美元，报3333美元/吨。 LME期铅收跌5美元，报1922美元/吨。 LME期镍收涨153美元，报17241美元/吨。 LME期锡收涨301美元，报47987美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -30,6 +64,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 02时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周五（4月10日）纽约尾盘，ICE美元指数跌0.15%，报98.672点，本周累计下跌1.36%，整体持续下挫，交投区间为100.273-98.525点。 彭博美元指数跌0.10%，报1198.47点，本周累跌1.43%，交投区间为1217.98-1196.85点。 美元兑日元涨0.20%，报159.28日元，本周累跌0.24%，交投区间为160.03-157.89日元。 本周，欧元兑日元累涨1.65%，英镑兑日元累涨1.89%。",
+          "url": "https://wallstreetcn.com/livenews/3086063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
         }
       ]
     }
