@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-04-11T17:36:51.537865+08:00",
-  "total_titles_processed": 1184,
+  "generated_at": "2026-04-11T18:30:42.078730+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
       "match_count": 8,
       "titles": [
+        {
+          "title": "女游客被功夫茶铜壶砸伤头缝7针，成都鹤鸣茶社：已暂停功夫茶表演，协商赔偿中",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32941349",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时19分 ~ 18时30分]"
+        },
         {
           "title": "智利国家铜委员会：智利科利亚瓦西铜矿2月份铜产量同比增长56.5%，达到2.66万吨。",
           "url": "https://flash.jin10.com/detail/20260411031007226800",
@@ -39,20 +53,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
-        },
-        {
-          "title": "女游客被功夫茶铜壶砸伤头缝7针，成都鹤鸣茶社：已暂停功夫茶表演，协商赔偿中",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32941349",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时19分 ~ 17时36分]"
         },
         {
           "title": "纽约铜期货涨1.8%，现货铂金涨2.5%，本周纽约铜涨约5.1%",
