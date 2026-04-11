@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T12:19:35.312256+08:00",
-  "total_titles_processed": 872,
+  "generated_at": "2026-04-11T13:58:40.712215+08:00",
+  "total_titles_processed": 970,
   "failed_sources": [],
   "trends": [
     {
@@ -82,11 +82,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32941349",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 13时58分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至4月7日当周，COMEX铜期货投机性净多头头寸减少489手至38,804手。",
