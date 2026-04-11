@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T18:30:42.078730+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2026-04-11T19:27:51.357853+08:00",
+  "total_titles_processed": 1309,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             20,
             17,
             15,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时19分 ~ 18时30分]"
+          "appearance_count": 8,
+          "time_info": "[12时19分 ~ 19时27分]"
         },
         {
           "title": "智利国家铜委员会：智利科利亚瓦西铜矿2月份铜产量同比增长56.5%，达到2.66万吨。",
