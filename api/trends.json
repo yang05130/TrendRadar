@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T17:52:12.456965+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2026-04-13T19:15:30.031042+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "需求攀升叠加成本上涨 PCB上游覆铜板再现涨价潮 产业链抢滩高端CCL",
@@ -21,15 +21,37 @@
           "time_info": "[07时31分 ~ 13时37分]"
         },
         {
+          "title": "国晟科技：终止收购铜陵市孚悦科技有限公司100%股权。",
+          "url": "https://wallstreetcn.com/livenews/3086904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "海亮股份：拟与Rawas在沙特阿拉伯投资5.66亿美元建设铜产品高端智造加工厂项目",
           "url": "https://flash.jin10.com/detail/20260413173709298800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
+        },
+        {
+          "title": "上期能源：20号胶、国际铜期权自4月22日起上市交易",
+          "url": "https://wallstreetcn.com/livenews/3086880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         }
       ]
     },
