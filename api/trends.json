@@ -1,68 +1,33 @@
 {
-  "generated_at": "2026-04-13T23:32:13.018163+08:00",
-  "total_titles_processed": 1646,
+  "generated_at": "2026-04-14T01:21:21.768686+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
-          "title": "需求攀升叠加成本上涨 PCB上游覆铜板再现涨价潮 产业链抢滩高端CCL",
-          "url": "https://www.cls.cn/detail/2341583",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 13时37分]"
-        },
-        {
-          "title": "国晟科技：终止收购铜陵市孚悦科技有限公司100%股权。",
-          "url": "https://wallstreetcn.com/livenews/3086904",
+          "title": "国际铜夜盘收涨1.69%，沪铜收涨1.67%，沪铝收涨1.36%，沪锌收涨0.62%，沪铅收涨0.24%，沪镍收涨2.50%，沪锡收涨1.49%。 氧化铝夜盘收涨0.27%，铝合金收涨1.19%。 不锈钢夜盘收跌0.34%。",
+          "url": "https://wallstreetcn.com/livenews/3087100",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时15分"
+          "time_info": "01时21分"
         },
         {
-          "title": "海亮股份：拟与Rawas在沙特阿拉伯投资5.66亿美元建设铜产品高端智造加工厂项目",
-          "url": "https://flash.jin10.com/detail/20260413173709298800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "上期能源：20号胶、国际铜期权自4月22日起上市交易",
-          "url": "https://wallstreetcn.com/livenews/3086880",
+          "title": "LME期铜收涨208美元，报13054美元/吨。 LME期铝收涨109美元，报3608美元/吨。 LME期锌收跌16美元，报3317美元/吨。 LME期铅收平，报1922美元/吨。 LME期镍收涨457美元，报17698美元/吨。 LME期锡收涨273美元，报48260美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3087097",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "媒体：别让“铜墙铁壁”成为剧组标配",
-          "url": "https://www.toutiao.com/trending/7628152689502715930/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时17分"
+          "time_info": "01时21分"
         }
       ]
     },
@@ -75,45 +40,11 @@
           "url": "https://www.zhihu.com/question/2026687939418048004",
           "source": "知乎",
           "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时31分 ~ 23时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "摩尔线程",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "摩尔线程率先完成MiniMax M2.7大模型适配",
-          "url": "https://flash.jin10.com/detail/20260412224618363800",
-          "source": "金十数据",
-          "ranks": [
-            23
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄金、美债双双大跌！中东局势恐慌下市场再现“避险资产不避险”",
-          "url": "https://www.cls.cn/detail/2341771",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时56分"
+          "time_info": "01时21分"
         }
       ]
     },
@@ -122,15 +53,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美元指数走高之际，非美货币普跌，欧元兑美元下跌0.49%，报1.1666；英镑兑美元下跌0.47%，报1.3396；澳元兑美元下跌0.76%，报0.7016；纽元兑美元下跌0.7%，报0.5799。",
-          "url": "https://wallstreetcn.com/livenews/3086520",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.31%，暂报2504.25点，北京时间22:59涨至2524.74点。 MarketVectorTM数字资产100中盘指数涨0.46%，报2746.06点，23:01也曾涨至2773.61点。 MarketVector数字资产100指数涨1.85%，报14415.93点，逼近22:59达到达的14439.05点。 目前，Solana涨1.62%，狗狗币涨1.04%，XRP涨0.65%。 比特币涨1.66%，暂报72334美元；以太坊涨1.14%，暂报2227.30美元。",
+          "url": "https://wallstreetcn.com/livenews/3087096",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "01时21分"
         }
       ]
     },
@@ -140,14 +71,14 @@
       "titles": [
         {
           "title": "段永平确认买入泡泡玛特，“很久没有这种兴奋感了”",
-          "url": "https://wallstreetcn.com/livenews/3087033",
-          "source": "华尔街见闻-快讯",
+          "url": "https://wallstreetcn.com/articles/3769853",
+          "source": "华尔街见闻",
           "ranks": [
-            22
+            9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时32分"
+          "time_info": "01时21分"
         }
       ]
     }
