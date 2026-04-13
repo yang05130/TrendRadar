@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-04-13T15:56:47.684178+08:00",
-  "total_titles_processed": 1079,
+  "generated_at": "2026-04-13T17:52:12.456965+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "铜",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "需求攀升叠加成本上涨 PCB上游覆铜板再现涨价潮 产业链抢滩高端CCL",
+          "url": "https://www.cls.cn/detail/2341583",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 13时37分]"
+        },
+        {
+          "title": "海亮股份：拟与Rawas在沙特阿拉伯投资5.66亿美元建设铜产品高端智造加工厂项目",
+          "url": "https://flash.jin10.com/detail/20260413173709298800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        }
+      ]
+    },
     {
       "keyword_group": "摩尔线程",
       "match_count": 1,
@@ -31,7 +61,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
         }
@@ -51,25 +81,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "铜",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "需求攀升叠加成本上涨 PCB上游覆铜板再现涨价潮 产业链抢滩高端CCL",
-          "url": "https://www.cls.cn/detail/2341583",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 13时37分]"
         }
       ]
     }
