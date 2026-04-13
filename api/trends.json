@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T02:08:13.916558+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2026-04-14T04:03:48.831309+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "智利国家铜业公司董事长：受中东战争带来的价格影响，公司直接成本每磅上升0.10美元。",
@@ -14,18 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时08分"
-        },
-        {
-          "title": "智利寻求在供应紧张之际加速铜矿扩张",
-          "url": "https://wallstreetcn.com/livenews/3087110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
         },
@@ -36,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
         },
@@ -47,9 +36,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "智利寻求在供应紧张之际加速铜矿扩张",
+          "url": "https://wallstreetcn.com/livenews/3087110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 04时03分]"
         },
         {
           "title": "国际铜夜盘收涨1.69%，沪铜收涨1.67%，沪铝收涨1.36%，沪锌收涨0.62%，沪铅收涨0.24%，沪镍收涨2.50%，沪锡收涨1.49%。 氧化铝夜盘收涨0.27%，铝合金收涨1.19%。 不锈钢夜盘收跌0.34%。",
@@ -74,6 +75,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 02时08分]"
+        },
+        {
+          "title": "智利国家铜业公司（Codelco）：由于中东战争的缘故，公司直接成本上涨0.1美元/磅。 一季度自营矿产总量27.13万吨，同比下滑8.3%。",
+          "url": "https://wallstreetcn.com/livenews/3087119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
         }
       ]
     },
@@ -81,6 +93,18 @@
       "keyword_group": "赛力斯 问界",
       "match_count": 2,
       "titles": [
+        {
+          "title": "如何看待问界 M6 预订量突破 100000 台？",
+          "url": "https://www.zhihu.com/question/2026687939418048004",
+          "source": "知乎",
+          "ranks": [
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 04时03分]"
+        },
         {
           "title": "全新问界M9外观亮点曝光",
           "url": "https://www.toutiao.com/trending/7628173579451944454/",
@@ -91,24 +115,24 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时07分 ~ 02时08分]"
-        },
-        {
-          "title": "如何看待问界 M6 预订量突破 100000 台？",
-          "url": "https://www.zhihu.com/question/2026687939418048004",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 02时08分]"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "周一（4月13日）纽约尾盘，ICE美元指数跌0.24%，刷新日低至98.364点，上周末美国与伊朗磋商结束后，周一亚太盘初跳空高开至99.183点附近，随后持续回落，北京时间20:00以来加速走低。 彭博美元指数跌0.19%，报1196.24点。 美元兑日元涨0.06%，报159.36日元，日内交投区间为159.86-159.29日元，整体呈现出宽顶n形走势。 欧元兑日元涨0.36%，英镑兑日元涨0.34%，双双低开高走。",
+          "url": "https://wallstreetcn.com/livenews/3087131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.31%，暂报2504.25点，北京时间22:59涨至2524.74点。 MarketVectorTM数字资产100中盘指数涨0.46%，报2746.06点，23:01也曾涨至2773.61点。 MarketVector数字资产100指数涨1.85%，报14415.93点，逼近22:59达到达的14439.05点。 目前，Solana涨1.62%，狗狗币涨1.04%，XRP涨0.65%。 比特币涨1.66%，暂报72334美元；以太坊涨1.14%，暂报2227.30美元。",
           "url": "https://wallstreetcn.com/livenews/3087096",
@@ -135,8 +159,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 02时08分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 04时03分]"
         }
       ]
     }
