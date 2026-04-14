@@ -1,274 +1,50 @@
 {
-  "generated_at": "2026-04-14T23:13:31.069220+08:00",
-  "total_titles_processed": 1728,
+  "generated_at": "2026-04-15T01:52:54.785535+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 11,
+      "match_count": 2,
       "titles": [
         {
-          "title": "智利国家铜业公司董事长：受中东战争带来的价格影响，公司直接成本每磅上升0.10美元。",
-          "url": "https://flash.jin10.com/detail/20260414020147073800",
-          "source": "金十数据",
+          "title": "国际铜夜盘收涨1.66%，沪铜收涨1.44%，沪铝收跌0.46%，沪锌收涨0.04%，沪铅收涨0.21%，沪镍收涨2.45%，沪锡收涨4.42%。 氧化铝夜盘收跌0.61%，铝合金收跌0.17%。 不锈钢夜盘收涨1.82%。",
+          "url": "https://wallstreetcn.com/livenews/3087894",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时08分"
+          "time_info": "01时52分"
         },
         {
-          "title": "智利国家铜业公司董事长：公司一季度自产铜为271,300吨，同比下降8.3%。",
-          "url": "https://flash.jin10.com/detail/20260414020136862800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时08分"
-        },
-        {
-          "title": "智利国家铜业公司董事长：公司在价格上涨前已为2026年运营锁定硫酸采购。",
-          "url": "https://flash.jin10.com/detail/20260414020119309800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时08分"
-        },
-        {
-          "title": "智利寻求在供应紧张之际加速铜矿扩张",
-          "url": "https://wallstreetcn.com/livenews/3087110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 04时03分]"
-        },
-        {
-          "title": "夜盘期货开盘，沪银、沪锡涨逾2%，国际铜、沪镍、对二甲苯涨逾1%；低硫燃油、液化石油气、燃油、乙二醇等跌逾1%。",
-          "url": "https://wallstreetcn.com/livenews/3087745",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时58分"
-        },
-        {
-          "title": "国际铜夜盘收涨1.69%，沪铜收涨1.67%，沪铝收涨1.36%，沪锌收涨0.62%，沪铅收涨0.24%，沪镍收涨2.50%，沪锡收涨1.49%。 氧化铝夜盘收涨0.27%，铝合金收涨1.19%。 不锈钢夜盘收跌0.34%。",
-          "url": "https://wallstreetcn.com/livenews/3087100",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时08分]"
-        },
-        {
-          "title": "LME期铜收涨208美元，报13054美元/吨。 LME期铝收涨109美元，报3608美元/吨。 LME期锌收跌16美元，报3317美元/吨。 LME期铅收平，报1922美元/吨。 LME期镍收涨457美元，报17698美元/吨。 LME期锡收涨273美元，报48260美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3087097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时08分]"
-        },
-        {
-          "title": "周一（4月13日）纽约尾盘，现货白银跌0.34%，报75.62美元/盎司，亚太盘初地雷低走，北京时间06:23跌至72.6369美元，00:00过后曾跌幅迅速收窄。 COMEX白银期货跌1.06%，报75.670美元/盎司，06:23刷新日低至72.545美元。 COMEX铜期货涨1.91%，报6.0570美元/磅。 现货铂金涨1.27%，现货钯金涨3.38%。",
-          "url": "https://wallstreetcn.com/livenews/3087161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 06时39分]"
-        },
-        {
-          "title": "智利国家铜业公司（Codelco）：由于中东战争的缘故，公司直接成本上涨0.1美元/磅。 一季度自营矿产总量27.13万吨，同比下滑8.3%。",
-          "url": "https://wallstreetcn.com/livenews/3087119",
+          "title": "LME期铜收涨231美元，报13284美元/吨。 LME期铝收跌44美元，报3563美元/吨。 LME期锌收涨26美元，报3342美元/吨。 LME期铅收涨13美元，报1935美元/吨。 LME期镍收涨508美元，报18206美元/吨。 LME期锡收涨2071美元，报50331美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3087888",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时03分"
-        },
-        {
-          "title": "商品期货收盘，对二甲苯主力合约涨超4%，沪镍、碳酸锂涨超3%，沪银、沪锡、铂、PTA、国际铜、沪铜涨超2%。集运欧线、LU燃油跌超2%，沥青、棕榈油、塑料、液化气跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3087494",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
-          "title": "商品期货开盘，LU燃油主力合约跌超5%，沥青、燃料油跌超3%，液化气、乙二醇、苯乙烯跌超2%。沪镍涨超2%，沪铜、沪锡、国际铜、沪铝、对二甲苯、铝合金、20号胶涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3087267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "周一（4月13日）纽约尾盘，ICE美元指数跌0.24%，刷新日低至98.364点，上周末美国与伊朗磋商结束后，周一亚太盘初跳空高开至99.183点附近，随后持续回落，北京时间20:00以来加速走低。 彭博美元指数跌0.19%，报1196.24点。 美元兑日元涨0.06%，报159.36日元，日内交投区间为159.86-159.29日元，整体呈现出宽顶n形走势。 欧元兑日元涨0.36%，英镑兑日元涨0.34%，双双低开高走。",
-          "url": "https://wallstreetcn.com/livenews/3087131",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时03分"
-        },
-        {
-          "title": "美股股指期货集体拉升，纳指期货涨约0.3%，现货黄金突破4790美元/盎司，现货白银日内涨3%，现报77.84美元/盎司。美元指数短线走低，日内跌0.25%。据消息人士称，美伊代表团本周晚些时候将在巴基斯坦谈判。",
-          "url": "https://wallstreetcn.com/livenews/3087503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.31%，暂报2504.25点，北京时间22:59涨至2524.74点。 MarketVectorTM数字资产100中盘指数涨0.46%，报2746.06点，23:01也曾涨至2773.61点。 MarketVector数字资产100指数涨1.85%，报14415.93点，逼近22:59达到达的14439.05点。 目前，Solana涨1.62%，狗狗币涨1.04%，XRP涨0.65%。 比特币涨1.66%，暂报72334美元；以太坊涨1.14%，暂报2227.30美元。",
-          "url": "https://wallstreetcn.com/livenews/3087096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时08分]"
-        },
-        {
-          "title": "美元指数13日下跌",
-          "url": "https://flash.jin10.com/detail/20260414054917692800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "纳斯达克网络安全ETF收涨4.03%，报63.19美元。 ETFMG网络安全ETF收涨4.37%，报74.28美元。 北美科技软件股指数ETF涨5.40%，报78.70美元。",
-          "url": "https://wallstreetcn.com/livenews/3087155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时44分"
+          "time_info": "01时52分"
         }
       ]
     },
     {
       "keyword_group": "赛力斯 问界",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "如何看待问界 M6 预订量突破 100000 台？",
-          "url": "https://www.zhihu.com/question/2026687939418048004",
-          "source": "知乎",
-          "ranks": [
-            14,
-            7,
-            6,
-            8,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时21分 ~ 10时07分]"
-        },
-        {
-          "title": "全新问界M9外观亮点曝光",
-          "url": "https://www.toutiao.com/trending/7628173579451944454/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时07分 ~ 02时08分]"
-        },
         {
           "title": "赛力斯回应「华为税」质疑，其深度绑定模式对车企盈利意味着什么？",
           "url": "https://www.zhihu.com/question/2027069403661972230",
           "source": "知乎",
           "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时57分 ~ 23时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "泡泡玛特 labubu",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "段永平确认买入泡泡玛特，“很久没有这种兴奋感了”",
-          "url": "https://wallstreetcn.com/articles/3769853",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时21分 ~ 20时00分]"
-        },
-        {
-          "title": "泡泡玛特股价大涨，高盛认为市场对其新IP需求强劲",
-          "url": "https://wallstreetcn.com/livenews/3087431",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "01时52分"
         }
       ]
     }
