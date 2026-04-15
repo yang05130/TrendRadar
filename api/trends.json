@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T19:54:51.337132+08:00",
-  "total_titles_processed": 1532,
+  "generated_at": "2026-04-15T21:16:14.790726+08:00",
+  "total_titles_processed": 1649,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "官方辟谣“重庆铜梁地震引发灾情”",
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时03分 ~ 19时54分]"
+          "appearance_count": 8,
+          "time_info": "[10时03分 ~ 21时16分]"
         },
         {
           "title": "LME铜价涨0.5%，抹去伊朗战争爆发以来的所有跌幅。",
@@ -74,6 +74,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时46分 ~ 06时41分]"
+        },
+        {
+          "title": "“重庆铜梁地震引发灾情”不实",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%87%8D%E5%BA%86%E9%93%9C%E6%A2%81%E5%9C%B0%E9%9C%87%E5%BC%95%E5%8F%91%E7%81%BE%E6%83%85%E2%80%9D%E4%B8%8D%E5%AE%9E",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时15分 ~ 21时16分]"
+        },
+        {
+          "title": "“重庆铜梁地震引发灾情”不实",
+          "url": "https://www.douyin.com/hot/2467496",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时15分 ~ 21时16分]"
         },
         {
           "title": "LME期铜收涨231美元，报13284美元/吨。 LME期铝收跌44美元，报3563美元/吨。 LME期锌收涨26美元，报3342美元/吨。 LME期铅收涨13美元，报1935美元/吨。 LME期镍收涨508美元，报18206美元/吨。 LME期锡收涨2071美元，报50331美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -189,11 +211,12 @@
           "ranks": [
             1,
             2,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时25分 ~ 19时54分]"
+          "appearance_count": 6,
+          "time_info": "[15时25分 ~ 21时16分]"
         }
       ]
     },
