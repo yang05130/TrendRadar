@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T06:38:30.061036+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2026-04-16T07:38:58.909182+08:00",
+  "total_titles_processed": 641,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             20,
             14,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 06时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 07时38分]"
         },
         {
           "title": "日本、英国2月增持美债",
@@ -67,8 +68,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 06时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 07时38分]"
         },
         {
           "title": "“重庆铜梁地震引发灾情”不实",
@@ -78,8 +79,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 06时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 07时38分]"
         },
         {
           "title": "“重庆铜梁地震引发灾情”不实",
@@ -90,8 +91,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 06时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 07时38分]"
         },
         {
           "title": "LME期铜收跌37美元，报13248美元/吨。 LME期铝收涨58美元，报3622美元/吨。 LME期锌收涨54美元，报3397美元/吨。 LME期铅收涨30美元，报1966美元/吨。 LME期镍收跌73美元，报18133美元/吨。 LME期锡收跌725美元，报49606美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -161,8 +162,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 06时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 07时38分]"
         }
       ]
     },
