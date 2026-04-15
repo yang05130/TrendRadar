@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T18:55:55.592345+08:00",
-  "total_titles_processed": 1426,
+  "generated_at": "2026-04-15T19:54:51.337132+08:00",
+  "total_titles_processed": 1532,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时03分 ~ 18时55分]"
+          "appearance_count": 6,
+          "time_info": "[10时03分 ~ 19时54分]"
         },
         {
           "title": "LME铜价涨0.5%，抹去伊朗战争爆发以来的所有跌幅。",
@@ -93,7 +93,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -104,7 +104,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -188,11 +188,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            2
+            2,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时25分 ~ 18时55分]"
+          "appearance_count": 4,
+          "time_info": "[15时25分 ~ 19时54分]"
         }
       ]
     },
