@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T07:38:58.909182+08:00",
-  "total_titles_processed": 641,
+  "generated_at": "2026-04-16T10:11:32.233461+08:00",
+  "total_titles_processed": 812,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             20,
             14,
             8,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 07时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 10时11分]"
         },
         {
           "title": "日本、英国2月增持美债",
@@ -61,20 +62,20 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "官方辟谣“重庆铜梁地震引发灾情”",
-          "url": "https://www.toutiao.com/trending/7628527862878421019/",
-          "source": "今日头条",
+          "title": "“重庆铜梁地震引发灾情”不实",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%87%8D%E5%BA%86%E9%93%9C%E6%A2%81%E5%9C%B0%E9%9C%87%E5%BC%95%E5%8F%91%E7%81%BE%E6%83%85%E2%80%9D%E4%B8%8D%E5%AE%9E",
+          "source": "百度热搜",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 07时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 10时11分]"
         },
         {
-          "title": "“重庆铜梁地震引发灾情”不实",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%87%8D%E5%BA%86%E9%93%9C%E6%A2%81%E5%9C%B0%E9%9C%87%E5%BC%95%E5%8F%91%E7%81%BE%E6%83%85%E2%80%9D%E4%B8%8D%E5%AE%9E",
-          "source": "百度热搜",
+          "title": "官方辟谣“重庆铜梁地震引发灾情”",
+          "url": "https://www.toutiao.com/trending/7628527862878421019/",
+          "source": "今日头条",
           "ranks": [
             11
           ],
@@ -159,11 +160,12 @@
           "ranks": [
             23,
             22,
-            30
+            30,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 07时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 10时11分]"
         }
       ]
     },
