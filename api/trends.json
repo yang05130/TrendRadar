@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T06:36:16.245798+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2026-04-17T07:37:15.997294+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://wallstreetcn.com/livenews/3089594",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时37分]"
         },
         {
           "title": "淡水河谷第一季度铜产量为102,300吨，第一季度镍产量为49,300吨；第一季度铜销售量为91,200吨，第一季度镍销售量为44,800吨。",
           "url": "https://flash.jin10.com/detail/20260417055537478800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时37分]"
         },
         {
           "title": "周四（4月16日）纽约尾盘，现货白银跌0.69%，报78.4150美元/盎司，北京时间13:30刷新日高至80.8585美元，22:00之前短线显著跳水。 COMEX白银期货跌1.49%，报78.455美元/盎司。 COMEX铜期货跌0.73%，报6.100美元/磅。 现货铂金跌1.07%，现货钯金跌0.88%。",
@@ -77,19 +79,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时35分 ~ 06时36分]"
+          "appearance_count": 3,
+          "time_info": "[06时35分 ~ 07时37分]"
         },
         {
           "title": "前财长保尔森：建议美国制定美债“打破玻璃”紧急预案",
           "url": "https://wallstreetcn.com/livenews/3089599",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时37分]"
         },
         {
           "title": "30年期美债收益率涨约3.1个基点",
