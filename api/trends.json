@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T07:36:21.314590+08:00",
-  "total_titles_processed": 657,
+  "generated_at": "2026-04-18T09:58:23.053057+08:00",
+  "total_titles_processed": 804,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             27,
             22,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 07时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 09时58分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至4月14日当周，COMEX黄金投机者将净多头头寸增加6,739手，至98,850手。COMEX白银投机者将净多头头寸增加1,007手，至11,046手。COMEX铜投机者将净多头头寸增加13,333手，至52,137手。",
