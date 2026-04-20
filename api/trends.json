@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-04-20T16:01:38.677707+08:00",
-  "total_titles_processed": 1089,
+  "generated_at": "2026-04-20T18:04:30.996658+08:00",
+  "total_titles_processed": 1260,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "铜",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "不光化肥！“硫磺荒”正引发连锁危机 铜和镍供应将成重灾区？",
+          "url": "https://www.cls.cn/detail/2349155",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
+          "title": "亨通股份：因铜箔产品销量上升 一季度营收同比增长82.21%",
+          "url": "https://flash.jin10.com/detail/20260420175326678800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
+          "title": "美伊紧张局势反复下 铜价正从两个月高位回落",
+          "url": "https://flash.jin10.com/detail/20260420100144867800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "究竟｜格力海信“真铜实料”之争背后：空调“铝代铜”影响有多大，为何厂家不肯认？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33006276",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        }
+      ]
+    },
     {
       "keyword_group": "人民币",
       "match_count": 1,
@@ -34,23 +84,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "铜",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美伊紧张局势反复下 铜价正从两个月高位回落",
-          "url": "https://flash.jin10.com/detail/20260420100144867800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
         }
       ]
     },
