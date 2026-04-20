@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T06:40:05.442643+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-04-21T07:39:35.931641+08:00",
+  "total_titles_processed": 698,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "究竟｜格力海信“真铜实料”之争背后：空调“铝代铜”影响有多大，为何厂家不肯认？",
@@ -16,19 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 06时40分]"
-        },
-        {
-          "title": "秘鲁能源与矿业部：秘鲁二月份铜产量同比增长2.9%，达到223,263吨。",
-          "url": "https://flash.jin10.com/detail/20260421060212901800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时40分"
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 07时39分]"
         },
         {
           "title": "智利国家铜业公司（Codelco）主席Maximo Pacheco在股东会以上表示：公司债务增长系公司的国有性质所致。 如果公司是私营性质，债务规模就会只有现阶段的五分之一。",
@@ -42,6 +31,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时58分 ~ 06时40分]"
+        },
+        {
+          "title": "秘鲁能源与矿业部：秘鲁二月份铜产量同比增长2.9%，达到223,263吨。",
+          "url": "https://flash.jin10.com/detail/20260421060212901800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 07时39分]"
         },
         {
           "title": "国际铜夜盘收跌0.28%，沪铜收跌0.19%，沪铝收跌0.32%，沪锌收跌0.41%，沪铅收涨0.27%，沪镍收跌0.03%，沪锡收涨0.79%。 氧化铝夜盘收涨2.56%，铝合金收跌0.71%。 不锈钢夜盘收涨0.40%。",
@@ -66,6 +67,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时48分 ~ 06时40分]"
+        },
+        {
+          "title": "力拓第一季度氧化铝产量200万吨，同比增长6%，铝产量为84万吨，同比增长1%，铜产量为22.9万吨，同比增长9%。",
+          "url": "https://flash.jin10.com/detail/20260421062650234800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
         }
       ]
     },
