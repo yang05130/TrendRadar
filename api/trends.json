@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T00:56:20.775956+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-04-22T01:57:57.485410+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "海信硬杠格力：多3两铜就敢多卖500",
@@ -15,19 +15,92 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时57分]"
+        },
+        {
+          "title": "受美元和中东局势导致铜价下跌影响，智利比索兑美元日内下跌1.5%。",
+          "url": "https://flash.jin10.com/detail/20260422013029500800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "01时57分"
         },
         {
           "title": "海信硬杠格力：多三两铜就敢多卖500",
           "url": "https://www.toutiao.com/trending/7630769619493929003/",
           "source": "今日头条",
           "ranks": [
-            28
+            28,
+            26
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时57分]"
+        },
+        {
+          "title": "国际铜夜盘收跌0.25%，沪铜收跌0.23%，沪铝收跌0.44%，沪锌收涨0.15%，沪铅收跌0.60%，沪镍收涨0.19%，沪锡收跌1.85%。 氧化铝夜盘收跌0.35%，铝合金收跌0.36%。 不锈钢夜盘收跌0.90%。",
+          "url": "https://wallstreetcn.com/livenews/3092013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "01时57分"
+        },
+        {
+          "title": "LME期铜收跌44美元，报13230美元/吨。 LME期铝收平，报3557美元/吨。 LME期锌收涨34美元，报3442美元/吨。 LME期铅收跌10美元，报1964美元/吨。 LME期镍收跌25美元，报18225美元/吨。 LME期锡收跌754美元，报49930美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3092008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "新兴市场货币指数跌幅扩大，布伦特油价逼近100美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3092018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "美元指数DXY短线走高逾10点，最新报98.52。非美货币走低，欧元兑美元和澳元兑美元日内跌超0.50%；美元兑瑞郎和美元兑日元日内涨超0.50%。",
+          "url": "https://flash.jin10.com/detail/20260422011325105800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.80%，暂报2611.33点，整体保持上涨状态，北京时间19:37涨至2646.76点刷新日高。 MarketVectorTM数字资产100中盘指数涨1.84%，报2881.90点。 MarketVector数字资产100指数涨0.75%，报15082.87点。 目前，Solana跌0.07%，狗狗币跌0.69%，XRP持平。 比特币跌0.46%，暂报75942.84美元；以太坊跌0.80%，暂报2312.33美元。",
+          "url": "https://wallstreetcn.com/livenews/3092010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         }
       ]
     }
