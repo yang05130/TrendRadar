@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T10:08:19.201941+08:00",
-  "total_titles_processed": 863,
+  "generated_at": "2026-04-21T13:24:45.257117+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "究竟｜格力海信“真铜实料”之争背后：空调“铝代铜”影响有多大，为何厂家不肯认？",
@@ -18,6 +18,39 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时04分 ~ 07时39分]"
+        },
+        {
+          "title": "A股三大股指午后全线翻红，PET铜箔、光刻机概念股涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260421131742972800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "A股铜箔概念持续走强，方邦股份、英联股份涨停，德福科技涨超15%，铜冠铜箔、中一科技、隆扬电子等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3091536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "A股铜箔概念持续走强，方邦股份触及涨停，德福科技涨超15%，英联股份、铜冠铜箔、中一科技、隆扬电子等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260421130703447800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "智利国家铜业公司（Codelco）主席Maximo Pacheco在股东会以上表示：公司债务增长系公司的国有性质所致。 如果公司是私营性质，债务规模就会只有现阶段的五分之一。",
