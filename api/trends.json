@@ -1,72 +1,40 @@
 {
-  "generated_at": "2026-04-22T23:10:12.652605+08:00",
-  "total_titles_processed": 1709,
+  "generated_at": "2026-04-23T00:55:27.043756+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "铜",
-      "match_count": 13,
+      "keyword_group": "赛力斯 问界",
+      "match_count": 2,
       "titles": [
         {
-          "title": "海信硬杠格力：多3两铜就敢多卖500",
-          "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E4%BF%A1%E7%A1%AC%E6%9D%A0%E6%A0%BC%E5%8A%9B%EF%BC%9A%E5%A4%9A3%E4%B8%A4%E9%93%9C%E5%B0%B1%E6%95%A2%E5%A4%9A%E5%8D%96500",
-          "source": "百度热搜",
+          "title": "问界M9价格",
+          "url": "https://s.weibo.com/weibo?q=%E9%97%AE%E7%95%8CM9%E4%BB%B7%E6%A0%BC&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
-            4,
-            22
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 10时06分]"
+          "appearance_count": 1,
+          "time_info": "00时55分"
         },
         {
-          "title": "海信硬杠格力：多三两铜就敢多卖500",
-          "url": "https://www.toutiao.com/trending/7630769619493929003/",
+          "title": "问界M6上市",
+          "url": "https://www.toutiao.com/trending/7631374675020369427/",
           "source": "今日头条",
           "ranks": [
-            28,
-            26,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 07时32分]"
-        },
-        {
-          "title": "必和必拓：第三财季平均实现铜价为每磅5.86美元，环比下降1%。",
-          "url": "https://flash.jin10.com/detail/20260422064908551800",
-          "source": "金十数据",
-          "ranks": [
-            7
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "受美元和中东局势导致铜价下跌影响，智利比索兑美元日内下跌1.5%。",
-          "url": "https://flash.jin10.com/detail/20260422013029500800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "周二（4月21日）纽约尾盘，现货白银跌3.74%，报76.7435美元/盎司，全天持续走低，北京时间04:08刷新日低至75.4068美元。 COMEX白银期货跌3.99%，报77.265美元/盎司，04:08刷新日低至76美元。 COMEX铜期货跌0.46%，报6.0785美元/磅。 现货铂金跌2.45%，现货钯金跌1.17%。",
-          "url": "https://wallstreetcn.com/livenews/3092104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时41分 ~ 06时35分]"
-        },
+          "time_info": "00时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "铜",
+      "match_count": 2,
+      "titles": [
         {
           "title": "海信、格力「真铜实料」之争再有新剧情，格力被指「多三两铜就敢多卖 500 块」，这合理吗？双方到底在争啥？",
           "url": "https://www.zhihu.com/question/2030189627168875213",
@@ -75,175 +43,25 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时02分 ~ 23时10分]"
-        },
-        {
-          "title": "格力高管称「真铜实料」只能格力用，海信回怼其恶意拉踩，如何评价此番「商战」？",
-          "url": "https://www.zhihu.com/question/2027893136324608456",
-          "source": "知乎",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 13时22分]"
-        },
-        {
-          "title": "必和必拓预计2026财年铜产量将在指导区间的上半部分。",
-          "url": "https://flash.jin10.com/detail/20260422063604711800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时32分"
+          "time_info": "00时55分"
         },
         {
-          "title": "必和必拓第三财季铜产量为476,800吨，同比下降7%；铁矿石产量为6280万吨，同比增长2%；钢铁煤炭产量为380万吨，同比下降3%。",
-          "url": "https://flash.jin10.com/detail/20260422063539593800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "财报：必和必拓铁矿石产量上升，押注铜与钾肥增长",
-          "url": "https://wallstreetcn.com/livenews/3092139",
+          "title": "LME期铜涨1.6%，刷新2月27日以来高位至13442美元。",
+          "url": "https://wallstreetcn.com/livenews/3092725",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "力拓集团首席商务官巴塔尔：我们未看到美国有任何铜短缺。",
-          "url": "https://flash.jin10.com/detail/20260422150941511800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
-          "title": "国际铜夜盘收跌0.25%，沪铜收跌0.23%，沪铝收跌0.44%，沪锌收涨0.15%，沪铅收跌0.60%，沪镍收涨0.19%，沪锡收跌1.85%。 氧化铝夜盘收跌0.35%，铝合金收跌0.36%。 不锈钢夜盘收跌0.90%。",
-          "url": "https://wallstreetcn.com/livenews/3092013",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "LME期铜收跌44美元，报13230美元/吨。 LME期铝收平，报3557美元/吨。 LME期锌收涨34美元，报3442美元/吨。 LME期铅收跌10美元，报1964美元/吨。 LME期镍收跌25美元，报18225美元/吨。 LME期锡收跌754美元，报49930美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3092008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "赛力斯 问界",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "问界M6上市",
-          "url": "https://www.toutiao.com/trending/7631374675020369427/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时09分 ~ 23时10分]"
-        },
-        {
-          "title": "【问界M6正式上市，售价25.98万元起】鸿蒙智行旗下新锐智慧SUV问界M6正式上市，全系搭载华为896线双光路雷达、华为乾崑智驾ADS 4.1高阶版等配置，售价25.98万元起。",
-          "url": "https://wallstreetcn.com/livenews/3092629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "问界M6发布即提车五一开新车",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8CM6%E5%8F%91%E5%B8%83%E5%8D%B3%E6%8F%90%E8%BD%A6%E4%BA%94%E4%B8%80%E5%BC%80%E6%96%B0%E8%BD%A6%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时09分 ~ 23时10分]"
-        },
-        {
-          "title": "全新一代问界M9开启预售49.98万元起",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%96%B0%E4%B8%80%E4%BB%A3%E9%97%AE%E7%95%8CM9%E5%BC%80%E5%90%AF%E9%A2%84%E5%94%AE49.98%E4%B8%87%E5%85%83%E8%B5%B7%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时09分 ~ 23时10分]"
-        },
-        {
-          "title": "问界M9价格",
-          "url": "https://s.weibo.com/weibo?q=%E9%97%AE%E7%95%8CM9%E4%BB%B7%E6%A0%BC&t=31&band_rank=29&Refer=top",
-          "source": "微博",
           "ranks": [
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时09分 ~ 23时10分]"
-        },
-        {
-          "title": "问界M6正式上市",
-          "url": "https://flash.jin10.com/detail/20260422204949078800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "全新问界M9静态评测首发",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%96%B0%E9%97%AE%E7%95%8CM9%E9%9D%99%E6%80%81%E8%AF%84%E6%B5%8B%E9%A6%96%E5%8F%91%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
+          "time_info": "00时55分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
           "title": "地缘缓和叠加强劲财报，美股指高开，费城半导体指数连续第16天上涨，布油重回100美元、黄金涨幅回落",
@@ -253,104 +71,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时09分 ~ 23时10分]"
-        },
-        {
-          "title": "新兴市场货币指数跌幅扩大，布伦特油价逼近100美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3092018",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时11分]"
-        },
-        {
-          "title": "美元指数DXY短线走高逾10点，最新报98.52。非美货币走低，欧元兑美元和澳元兑美元日内跌超0.50%；美元兑瑞郎和美元兑日元日内涨超0.50%。",
-          "url": "https://flash.jin10.com/detail/20260422011325105800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.80%，暂报2611.33点，整体保持上涨状态，北京时间19:37涨至2646.76点刷新日高。 MarketVectorTM数字资产100中盘指数涨1.84%，报2881.90点。 MarketVector数字资产100指数涨0.75%，报15082.87点。 目前，Solana跌0.07%，狗狗币跌0.69%，XRP持平。 比特币跌0.46%，暂报75942.84美元；以太坊跌0.80%，暂报2312.33美元。",
-          "url": "https://wallstreetcn.com/livenews/3092010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "周二（4月21日）纽约尾盘，ICE美元指数涨0.40%，报98.501点，日内交投区间为98.064-98.567点。 彭博美元指数涨0.41%，报1196.83点，日内交投区间为1191.43-1197.40点。",
-          "url": "https://wallstreetcn.com/livenews/3092070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据伊朗塔斯尼姆通讯社，伊朗收到美国准备解除封锁的“某些迹象”。 国际原油价格短线走低，布油、WTI日内跌超1%；现货黄金短线拉升，日内涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3092314",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "两年期美债收益率涨超7个基点，投资者紧盯美国与伊朗能否再次会谈",
-          "url": "https://wallstreetcn.com/livenews/3092069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "文生图 文生视频 AIGC",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "抖音生活服务发布多条AIGC创作规范",
-          "url": "https://wallstreetcn.com/livenews/3092357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时26分"
+          "time_info": "00时55分"
         }
       ]
     }
