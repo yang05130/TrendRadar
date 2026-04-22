@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T17:16:35.434733+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-04-22T19:02:28.111119+08:00",
+  "total_titles_processed": 1435,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "海信硬杠格力：多3两铜就敢多卖500",
@@ -135,6 +135,17 @@
           "time_info": "01时57分"
         },
         {
+          "title": "海信、格力「真铜实料」之争再有新剧情，格力被指「多三两铜就敢多卖 500 块」，这合理吗？双方到底在争啥？",
+          "url": "https://www.zhihu.com/question/2030189627168875213",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "LME期铜收跌44美元，报13230美元/吨。 LME期铝收平，报3557美元/吨。 LME期锌收涨34美元，报3442美元/吨。 LME期铅收跌10美元，报1964美元/吨。 LME期镍收跌25美元，报18225美元/吨。 LME期锡收跌754美元，报49930美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3092008",
           "source": "华尔街见闻-快讯",
@@ -195,6 +206,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "赛力斯 问界",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全新问界M9静态评测首发",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%96%B0%E9%97%AE%E7%95%8CM9%E9%9D%99%E6%80%81%E8%AF%84%E6%B5%8B%E9%A6%96%E5%8F%91%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         }
       ]
     },
