@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T04:42:26.212990+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-04-25T05:44:09.741077+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时49分 ~ 04时42分]"
+          "appearance_count": 3,
+          "time_info": "[03时49分 ~ 05时44分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：4月21日当周，投机者所持COMEX黄金净多头头寸减少3,352手合约，至95,498手合约。 所持COMEX白银净多头头寸降低至8,863手合约，创七周新低。 所持COMEX铜净多头头寸增至59,132手合约，创逾三个月新高。 减持NYMEX铂金净多头头寸。 增持NYMEX钯金净空头头寸。",
@@ -25,11 +26,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时49分 ~ 04时42分]"
+          "appearance_count": 3,
+          "time_info": "[03时49分 ~ 05时44分]"
         },
         {
           "title": "铜价小幅走低，市场关注伊美或重启谈判",
