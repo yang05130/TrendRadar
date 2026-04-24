@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T13:32:11.627230+08:00",
-  "total_titles_processed": 1022,
+  "generated_at": "2026-04-24T15:56:51.483452+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
@@ -65,6 +65,45 @@
       ]
     },
     {
+      "keyword_group": "铜",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "LME期铜收跌78美元，报13356美元/吨。 LME期铝收涨6美元，报3620美元/吨。 LME期锌收跌17美元，报3453美元/吨。 LME期铅收跌10美元，报1954美元/吨。 LME期镍收涨275美元，报18737美元/吨。 LME期锡收跌207美元，报50215美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3093439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "上期所：本周铜库存减少39083吨，铝库存增加2265吨，锌库存减少2585吨，铅库存减少1209吨，镍库存增加1029吨，锡库存减少404吨，天然橡胶库存增加1640吨。",
+          "url": "https://wallstreetcn.com/livenews/3093802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
+          "title": "西安唐墓出土一批罕见鎏金铜器",
+          "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%94%90%E5%A2%93%E5%87%BA%E5%9C%9F%E4%B8%80%E6%89%B9%E7%BD%95%E8%A7%81%E9%8E%8F%E9%87%91%E9%93%9C%E5%99%A8",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 2,
       "titles": [
@@ -93,34 +132,6 @@
       ]
     },
     {
-      "keyword_group": "铜",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "LME期铜收跌78美元，报13356美元/吨。 LME期铝收涨6美元，报3620美元/吨。 LME期锌收跌17美元，报3453美元/吨。 LME期铅收跌10美元，报1954美元/吨。 LME期镍收涨275美元，报18737美元/吨。 LME期锡收跌207美元，报50215美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3093439",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "西安唐墓出土一批罕见鎏金铜器",
-          "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%94%90%E5%A2%93%E5%87%BA%E5%9C%9F%E4%B8%80%E6%89%B9%E7%BD%95%E8%A7%81%E9%8E%8F%E9%87%91%E9%93%9C%E5%99%A8",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "摩尔线程",
       "match_count": 1,
       "titles": [
@@ -131,7 +142,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         }
