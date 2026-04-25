@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T18:40:01.047215+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2026-04-25T19:36:13.223515+08:00",
+  "total_titles_processed": 1260,
   "failed_sources": [],
   "trends": [
     {
@@ -58,11 +58,12 @@
           "ranks": [
             9,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 18时40分]"
+          "appearance_count": 8,
+          "time_info": "[12时42分 ~ 19时36分]"
         },
         {
           "title": "两年期美债收益率周五跌超5个基点，特朗普政府“暂停”司法调查改善投资者对宽松前景的预期",
