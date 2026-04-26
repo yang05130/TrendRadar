@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T18:42:14.983009+08:00",
-  "total_titles_processed": 1094,
+  "generated_at": "2026-04-26T19:37:19.320797+08:00",
+  "total_titles_processed": 1151,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             7,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时56分 ~ 18时42分]"
+          "appearance_count": 4,
+          "time_info": "[16时56分 ~ 19时37分]"
         },
         {
           "title": "摩尔线程：一季度净利润2936万元 期内实现扭亏为盈",
@@ -46,11 +47,12 @@
           "ranks": [
             17,
             24,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时56分 ~ 18时42分]"
+          "appearance_count": 5,
+          "time_info": "[16时56分 ~ 19时37分]"
         }
       ]
     },
