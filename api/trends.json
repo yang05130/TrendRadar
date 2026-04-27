@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T10:26:09.053727+08:00",
-  "total_titles_processed": 669,
+  "generated_at": "2026-04-27T13:50:42.292952+08:00",
+  "total_titles_processed": 865,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
+          "appearance_count": 3,
+          "time_info": "[10时25分 ~ 13时50分]"
         },
         {
           "title": "A股AI芯片板块震荡走高，摩尔线程-U涨超11%，禾盛新材涨超9%，澜起科技涨超8%，铂科新材、海光信息、沐曦股份-U、景嘉微等个股跟涨。",
@@ -25,9 +25,26 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "赛力斯 问界",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "王传福打卡问界展台 余承东亲自讲解",
+          "url": "https://www.toutiao.com/trending/7633269240094576179/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         }
       ]
     },
@@ -61,7 +78,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         }
