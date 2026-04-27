@@ -1,194 +1,22 @@
 {
-  "generated_at": "2026-04-27T23:04:41.822552+08:00",
-  "total_titles_processed": 1476,
+  "generated_at": "2026-04-28T01:19:20.353482+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "铜",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "中信证券十大股东中罕见一位个人投资者，超级牛散付小铜加杠杆豪赌？",
-          "url": "https://www.cls.cn/detail/2356535",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时14分 ~ 20时22分]"
-        },
-        {
-          "title": "伦敦金属交易所(LME)：铅库存减少325吨，镍库存减少30吨，锡库存减少10吨，铝库存减少3575吨，锌库存减少1800吨，铜库存减少1325吨。",
-          "url": "https://wallstreetcn.com/livenews/3094838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "巴基斯坦总统冒雨向毛泽东铜像献花篮",
-          "url": "https://www.toutiao.com/trending/7633401438361882158/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时04分"
-        },
-        {
-          "title": "A股PCB、铜箔概念股多数走高，景旺电子、合力泰涨停，铜冠铜箔、德福科技、生益电子、深南电路涨幅居前。",
-          "url": "https://flash.jin10.com/detail/20260427095250378800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "伦敦金属交易所(LME)：铅库存减少325吨，镍库存减少30吨，锡库存减少10吨，铝库存减少3575吨，锌库存减少1800吨，铜库存减少1325吨。",
-          "url": "https://flash.jin10.com/detail/20260427160121904800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "铜冠铜箔：2026年第一季度营业收入18.42亿元，同比增长32.04%。净利润1.06亿元，同比增长2,138.17%。",
-          "url": "https://flash.jin10.com/detail/20260427180914877800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时01分"
-        },
-        {
-          "title": "调查结果显示：伦敦金属交易所（LME）现货铜2026年平均价格预计为12,428美元/公吨，2027年为12,308美元/吨，而2025年为9,939美元/吨。 预计2026年铜市场供应缺口为52,200吨；2027年供应缺口预计为169,950吨。",
-          "url": "https://wallstreetcn.com/livenews/3095087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时04分"
-        },
-        {
-          "title": "铜冠铜箔：2026年第一季度营业收入18.42亿元，同比增长32.04%。净利润1.06亿元，同比增长2,138.17%。",
-          "url": "https://wallstreetcn.com/livenews/3094915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "摩尔线程",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【早报】上交所修订发布交易规则；贵州茅台、摩尔线程，东方财富一季报披露",
-          "url": "https://www.cls.cn/detail/2356149",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 13时50分]"
-        },
-        {
-          "title": "A股AI芯片板块震荡走高，摩尔线程-U涨超11%，禾盛新材涨超9%，澜起科技涨超8%，铂科新材、海光信息、沐曦股份-U、景嘉微等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260427100332954800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "泡泡玛特 labubu",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "LABUBU冰箱二手价近9000元",
-          "url": "https://www.baidu.com/s?wd=LABUBU%E5%86%B0%E7%AE%B1%E4%BA%8C%E6%89%8B%E4%BB%B7%E8%BF%919000%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时59分 ~ 20时22分]"
-        },
-        {
-          "title": "labubu冰箱溢价3000元",
-          "url": "https://s.weibo.com/weibo?q=%23labubu%E5%86%B0%E7%AE%B1%E6%BA%A2%E4%BB%B73000%E5%85%83%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时59分 ~ 20时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "赛力斯 问界",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "王传福打卡问界展台 余承东亲自讲解",
-          "url": "https://www.toutiao.com/trending/7633269240094576179/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        }
-      ]
-    },
     {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
         {
-          "title": "美债市场聚焦美联储会议与美债拍卖，交易员押注年底降息",
-          "url": "https://flash.jin10.com/detail/20260427032034249800",
-          "source": "金十数据",
+          "title": "美国财政部拍卖690亿美元两年期国债，得标利率3.812%（3月24日为3.936%），投标倍数2.65（前次为2.44）。 两年期美债收益率涨2.95个基点，刷新日高至3.8078%。",
+          "url": "https://wallstreetcn.com/livenews/3095125",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            10,
-            23
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时35分 ~ 06时34分]"
+          "appearance_count": 1,
+          "time_info": "01时19分"
         }
       ]
     },
@@ -197,15 +25,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美元指数跌0.2%，至98.34，刷新日内新低。",
-          "url": "https://wallstreetcn.com/livenews/3094834",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.81%，暂报2646.68点。 MarketVectorTM数字资产100中盘指数跌2.67%，报2840.14点。 MarketVector数字资产100指数跌1.88%，报15109.57点。 目前，Solana跌2.99%，狗狗币跌1.90%，XRP跌3.13%。 比特币跌2.08%，暂报76615.68美元；以太坊跌3.81%，暂报2277.61美元。",
+          "url": "https://wallstreetcn.com/livenews/3095150",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "01时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "铜",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "巴基斯坦总统冒雨向毛泽东铜像献花篮",
+          "url": "https://www.toutiao.com/trending/7633401438361882158/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
         }
       ]
     }
