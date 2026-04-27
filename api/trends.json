@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-04-27T13:50:42.292952+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2026-04-27T16:14:58.591487+08:00",
+  "total_titles_processed": 1012,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "铜",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "中信证券十大股东中罕见一位个人投资者，超级牛散付小铜加杠杆豪赌？",
+          "url": "https://www.cls.cn/detail/2356535",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "伦敦金属交易所(LME)：铅库存减少325吨，镍库存减少30吨，锡库存减少10吨，铝库存减少3575吨，锌库存减少1800吨，铜库存减少1325吨。",
+          "url": "https://wallstreetcn.com/livenews/3094838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "A股PCB、铜箔概念股多数走高，景旺电子、合力泰涨停，铜冠铜箔、德福科技、生益电子、深南电路涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260427095250378800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "伦敦金属交易所(LME)：铅库存减少325吨，镍库存减少30吨，锡库存减少10吨，铝库存减少3575吨，锌库存减少1800吨，铜库存减少1325吨。",
+          "url": "https://flash.jin10.com/detail/20260427160121904800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        }
+      ]
+    },
     {
       "keyword_group": "摩尔线程",
       "match_count": 2,
@@ -42,7 +92,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         }
@@ -68,19 +118,19 @@
       ]
     },
     {
-      "keyword_group": "铜",
+      "keyword_group": "美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "A股PCB、铜箔概念股多数走高，景旺电子、合力泰涨停，铜冠铜箔、德福科技、生益电子、深南电路涨幅居前。",
-          "url": "https://flash.jin10.com/detail/20260427095250378800",
-          "source": "金十数据",
+          "title": "美元指数跌0.2%，至98.34，刷新日内新低。",
+          "url": "https://wallstreetcn.com/livenews/3094834",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "16时14分"
         }
       ]
     }
