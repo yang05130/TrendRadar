@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-27T16:14:58.591487+08:00",
-  "total_titles_processed": 1012,
+  "generated_at": "2026-04-27T19:01:15.799196+08:00",
+  "total_titles_processed": 1184,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "中信证券十大股东中罕见一位个人投资者，超级牛散付小铜加杠杆豪赌？",
           "url": "https://www.cls.cn/detail/2356535",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时14分 ~ 19时01分]"
         },
         {
           "title": "伦敦金属交易所(LME)：铅库存减少325吨，镍库存减少30吨，锡库存减少10吨，铝库存减少3575吨，锌库存减少1800吨，铜库存减少1325吨。",
@@ -25,7 +26,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -47,9 +48,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
+        },
+        {
+          "title": "铜冠铜箔：2026年第一季度营业收入18.42亿元，同比增长32.04%。净利润1.06亿元，同比增长2,138.17%。",
+          "url": "https://flash.jin10.com/detail/20260427180914877800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        },
+        {
+          "title": "铜冠铜箔：2026年第一季度营业收入18.42亿元，同比增长32.04%。净利润1.06亿元，同比增长2,138.17%。",
+          "url": "https://wallstreetcn.com/livenews/3094915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
         }
       ]
     },
@@ -78,6 +101,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "泡泡玛特 labubu",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "LABUBU冰箱二手价近9000元",
+          "url": "https://www.baidu.com/s?wd=LABUBU%E5%86%B0%E7%AE%B1%E4%BA%8C%E6%89%8B%E4%BB%B7%E8%BF%919000%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时01分]"
+        },
+        {
+          "title": "labubu冰箱溢价3000元",
+          "url": "https://s.weibo.com/weibo?q=%23labubu%E5%86%B0%E7%AE%B1%E6%BA%A2%E4%BB%B73000%E5%85%83%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时01分]"
         }
       ]
     },
@@ -128,7 +179,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         }
