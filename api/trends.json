@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-04-27T07:35:52.815604+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-04-27T10:26:09.053727+08:00",
+  "total_titles_processed": 669,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "摩尔线程",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【早报】上交所修订发布交易规则；贵州茅台、摩尔线程，东方财富一季报披露",
+          "url": "https://www.cls.cn/detail/2356149",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
+        },
+        {
+          "title": "A股AI芯片板块震荡走高，摩尔线程-U涨超11%，禾盛新材涨超9%，澜起科技涨超8%，铂科新材、海光信息、沐曦股份-U、景嘉微等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260427100332954800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        }
+      ]
+    },
     {
       "keyword_group": "美债",
       "match_count": 1,
@@ -19,6 +47,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时35分 ~ 06时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "铜",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股PCB、铜箔概念股多数走高，景旺电子、合力泰涨停，铜冠铜箔、德福科技、生益电子、深南电路涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260427095250378800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         }
       ]
     }
