@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-04-28T16:18:17.254527+08:00",
-  "total_titles_processed": 1159,
+  "generated_at": "2026-04-28T19:02:34.006915+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "铜",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "巴基斯坦总统冒雨向毛泽东铜像献花篮",
+          "url": "https://www.toutiao.com/trending/7633401438361882158/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            10,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 07时50分]"
+        },
+        {
+          "title": "周一（4月27日）纽约尾盘，现货黄金跌0.62%，报4680.23美元/盎司，全天呈现出冲高回落走势，北京时间12:34曾微涨至4730美元刷新日高。 COMEX黄金期货8月合约跌0.99%，报4729.20美元/盎司。 现货白银跌0.33%，报75.4783美元/盎司。 COMEX白银期货跌1.36%，报75.895美元/盎司。 COMEX铜期货跌0.09%，报6.0830美元/磅。 现货铂金跌1.47%，现货钯金跌1.45%。",
+          "url": "https://wallstreetcn.com/livenews/3095233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时46分]"
+        },
+        {
+          "title": "【数据看盘】多家机构激烈博弈铜箔人气股 游资联手量化资金抢筹综艺股份",
+          "url": "https://www.cls.cn/detail/2358304",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "伦敦金属交易所(LME)：铅库存减少500吨，锌库存减少2800吨，镍库存持平，锡库存减少50吨，铝库存减少2425吨，铜库存增加5275吨。",
+          "url": "https://wallstreetcn.com/livenews/3095567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "国际铜夜盘收跌0.57%，沪铜收跌0.64%，沪铝收跌1.28%，沪锌收跌2.03%，沪铅收涨0.27%，沪镍收跌0.28%，沪锡收跌1.76%。 氧化铝夜盘收跌0.38%，铝合金收跌1.34%。 不锈钢夜盘收跌0.33%。",
+          "url": "https://wallstreetcn.com/livenews/3095154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        }
+      ]
+    },
     {
       "keyword_group": "美元",
       "match_count": 4,
@@ -57,61 +123,6 @@
       ]
     },
     {
-      "keyword_group": "铜",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "巴基斯坦总统冒雨向毛泽东铜像献花篮",
-          "url": "https://www.toutiao.com/trending/7633401438361882158/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            10,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 07时50分]"
-        },
-        {
-          "title": "周一（4月27日）纽约尾盘，现货黄金跌0.62%，报4680.23美元/盎司，全天呈现出冲高回落走势，北京时间12:34曾微涨至4730美元刷新日高。 COMEX黄金期货8月合约跌0.99%，报4729.20美元/盎司。 现货白银跌0.33%，报75.4783美元/盎司。 COMEX白银期货跌1.36%，报75.895美元/盎司。 COMEX铜期货跌0.09%，报6.0830美元/磅。 现货铂金跌1.47%，现货钯金跌1.45%。",
-          "url": "https://wallstreetcn.com/livenews/3095233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时58分 ~ 06时46分]"
-        },
-        {
-          "title": "伦敦金属交易所(LME)：铅库存减少500吨，锌库存减少2800吨，镍库存持平，锡库存减少50吨，铝库存减少2425吨，铜库存增加5275吨。",
-          "url": "https://wallstreetcn.com/livenews/3095567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "国际铜夜盘收跌0.57%，沪铜收跌0.64%，沪铝收跌1.28%，沪锌收跌2.03%，沪铅收涨0.27%，沪镍收跌0.28%，沪锡收跌1.76%。 氧化铝夜盘收跌0.38%，铝合金收跌1.34%。 不锈钢夜盘收跌0.33%。",
-          "url": "https://wallstreetcn.com/livenews/3095154",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -152,6 +163,34 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "黄金价格跌跌不休",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E8%B7%8C%E8%B7%8C%E4%B8%8D%E4%BC%91%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "德商银行：如果油价持续上涨，黄金价格可能会回落至4500美元/盎司附近。",
+          "url": "https://flash.jin10.com/detail/20260428182036647800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人民币",
       "match_count": 1,
       "titles": [
@@ -165,23 +204,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄金价格跌跌不休",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E8%B7%8C%E8%B7%8C%E4%B8%8D%E4%BC%91%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时18分"
         }
       ]
     }
