@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T20:15:20.703376+08:00",
-  "total_titles_processed": 1445,
+  "generated_at": "2026-04-29T23:09:39.665615+08:00",
+  "total_titles_processed": 1614,
   "failed_sources": [],
   "trends": [
     {
@@ -29,6 +29,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "【数据看盘】外资联手机构抢筹多只锂电人气股 铜冠铜箔龙虎榜现多空博弈",
+          "url": "https://www.cls.cn/detail/2359683",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时52分 ~ 23时09分]"
         },
         {
           "title": "北方铜业：一季度净利润6.15亿元，同比增长65.74%。",
@@ -64,18 +77,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时54分 ~ 06时54分]"
-        },
-        {
-          "title": "【数据看盘】外资联手机构抢筹多只锂电人气股 铜冠铜箔龙虎榜现多空博弈",
-          "url": "https://www.cls.cn/detail/2359683",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 20时15分]"
         },
         {
           "title": "国际铜夜盘收跌1.24%，沪铜收跌1.15%，沪铝收跌0.43%，沪锌收跌0.40%，沪铅收跌0.18%，沪镍收涨1.70%，沪锡收跌0.52%。 氧化铝夜盘收跌1.08%，铝合金收跌0.80%。 不锈钢夜盘收涨0.03%。",
@@ -221,7 +222,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -232,7 +233,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         }
@@ -250,8 +251,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时52分 ~ 20时15分]"
+          "appearance_count": 8,
+          "time_info": "[07时52分 ~ 23时09分]"
         }
       ]
     }
