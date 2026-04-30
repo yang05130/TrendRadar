@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T18:52:14.419257+08:00",
-  "total_titles_processed": 1304,
+  "generated_at": "2026-04-30T20:12:54.351457+08:00",
+  "total_titles_processed": 1417,
   "failed_sources": [],
   "trends": [
     {
@@ -81,7 +81,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         }
@@ -109,7 +109,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -167,8 +167,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时51分 ~ 18时52分]"
+          "appearance_count": 8,
+          "time_info": "[07时51分 ~ 20时12分]"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
