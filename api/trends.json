@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T22:52:26.581900+08:00",
-  "total_titles_processed": 1604,
+  "generated_at": "2026-05-01T23:53:51.729391+08:00",
+  "total_titles_processed": 1679,
   "failed_sources": [],
   "trends": [
     {
@@ -81,8 +81,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时23分 ~ 22时52分]"
+          "appearance_count": 6,
+          "time_info": "[18时23分 ~ 23时53分]"
         },
         {
           "title": "周四（4月30日）纽约尾盘，美国10年期基准国债收益率下跌6.11个基点，刷新日低至4.3686%，4月份累计上涨5.41个基点，整体交投于4.2243%-4.4339%区间，4月17日跳水至期内底部，随后持续回升。 两年期美债收益率下跌8.20个基点，刷新日低至3.8648%，4月份累涨7.59个基点，整体交投于3.6768%-3.9510%区间。",
@@ -102,6 +102,18 @@
       "keyword_group": "泡泡玛特 labubu",
       "match_count": 3,
       "titles": [
+        {
+          "title": "限量Labubu冰箱售罄下架 二手平台价格从开售前万元以上跌至七千多",
+          "url": "https://www.cls.cn/detail/2361757",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时23分 ~ 23时53分]"
+        },
         {
           "title": "labubu冰箱被炒至19999元",
           "url": "https://s.weibo.com/weibo?q=%23labubu%E5%86%B0%E7%AE%B1%E8%A2%AB%E7%82%92%E8%87%B319999%E5%85%83%23&t=31&band_rank=2&Refer=top",
@@ -125,18 +137,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
-        },
-        {
-          "title": "限量Labubu冰箱售罄下架 二手平台价格从开售前万元以上跌至七千多",
-          "url": "https://www.cls.cn/detail/2361757",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时23分 ~ 22时52分]"
         }
       ]
     },
