@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-05-03T19:39:29.070656+08:00",
-  "total_titles_processed": 1104,
-  "failed_sources": [],
+  "generated_at": "2026-05-03T21:02:15.896035+08:00",
+  "total_titles_processed": 1187,
+  "failed_sources": [
+    "toutiao"
+  ],
   "trends": [
     {
       "keyword_group": "赛力斯 问界",
@@ -14,7 +16,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         }
