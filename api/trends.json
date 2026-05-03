@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-05-03T18:52:02.853753+08:00",
-  "total_titles_processed": 1057,
+  "generated_at": "2026-05-03T19:39:29.070656+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "赛力斯 问界",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全新问界M9累计预订量突破3.5万台",
+          "url": "https://www.toutiao.com/trending/7634732867230207551/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        }
+      ]
+    },
     {
       "keyword_group": "泡泡玛特 labubu",
       "match_count": 1,
