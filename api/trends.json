@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T00:06:49.501479+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-05-06T03:14:10.857525+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "油价助推，30年美债收益率突破5%，美财政部上调季度发债预期，周三将迎“美债重磅”",
@@ -15,8 +15,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 03时14分]"
+        },
+        {
+          "title": "30年期美债冲破5%！华尔街已纷纷拉响警报",
+          "url": "https://www.cls.cn/detail/2363061",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 03时14分]"
         }
       ]
     }
