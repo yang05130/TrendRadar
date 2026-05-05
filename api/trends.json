@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T05:01:31.958470+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-05-06T06:02:32.762445+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 06时02分]"
         },
         {
           "title": "30年期美债冲破5%！华尔街已纷纷拉响警报",
@@ -25,11 +26,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时13分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时13分 ~ 06时02分]"
         },
         {
           "title": "美债收益率走低，因伊朗停火协议得以维持和油价下跌",
@@ -38,7 +40,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
@@ -55,7 +57,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -66,7 +68,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
