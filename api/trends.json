@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T16:35:25.676891+08:00",
-  "total_titles_processed": 1189,
+  "generated_at": "2026-05-07T19:06:59.500814+08:00",
+  "total_titles_processed": 1345,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -52,11 +52,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 16时35分]"
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 19时06分]"
         },
         {
           "title": "2/10年期美债收益率跌超7个基点，追随国际油价下跌的表现",
