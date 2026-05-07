@@ -1,12 +1,63 @@
 {
-  "generated_at": "2026-05-07T13:58:15.839271+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2026-05-07T16:35:25.676891+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "铜",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伦敦金属交易所(LME)：铅库存减少225吨，锌库存减少375吨，铜库存增加600吨，锡库存减少25吨，镍库存增加1026吨，铝库存减少2000吨。",
+          "url": "https://flash.jin10.com/detail/20260507160119250800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "LME期铜涨2%，连续第三个交易日走高，报13390.50美元/吨，一度刷新4月23日以来高位至13462美元。 LME期铝跌1.8%，报3524.50美元/吨。 LME期锌涨1.1%，报3409美元/吨。 LME期铅涨0.2%，报1975.50美元/吨。 LME期镍跌2.1%，报19235美元/吨，一度涨至20000美元、创2024年5月份以来最高位。 LME期锡涨8.9%，报54125美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3099504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        },
+        {
+          "title": "阿根廷：预计十年内锂和铜出口额将达327亿美元",
+          "url": "https://wallstreetcn.com/livenews/3099519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        }
+      ]
+    },
     {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
+        {
+          "title": "警报响起！30年期美债收益率再逼5%警戒线，美股的狂欢还能维持多久？",
+          "url": "https://wallstreetcn.com/articles/3771684",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 16时35分]"
+        },
         {
           "title": "2/10年期美债收益率跌超7个基点，追随国际油价下跌的表现",
           "url": "https://wallstreetcn.com/livenews/3099537",
@@ -17,17 +68,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
-        },
-        {
-          "title": "警报响起！30年期美债收益率再逼5%警戒线，美股的狂欢还能维持多久？",
-          "url": "https://wallstreetcn.com/articles/3771684",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
         }
       ]
     },
@@ -56,34 +96,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "铜",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "LME期铜涨2%，连续第三个交易日走高，报13390.50美元/吨，一度刷新4月23日以来高位至13462美元。 LME期铝跌1.8%，报3524.50美元/吨。 LME期锌涨1.1%，报3409美元/吨。 LME期铅涨0.2%，报1975.50美元/吨。 LME期镍跌2.1%，报19235美元/吨，一度涨至20000美元、创2024年5月份以来最高位。 LME期锡涨8.9%，报54125美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3099504",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        },
-        {
-          "title": "阿根廷：预计十年内锂和铜出口额将达327亿美元",
-          "url": "https://wallstreetcn.com/livenews/3099519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时41分"
         }
       ]
     }
