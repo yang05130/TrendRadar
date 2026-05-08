@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T06:54:09.805262+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-05-09T07:54:17.859831+08:00",
+  "total_titles_processed": 548,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "国际铜夜盘收涨0.48%，沪铜收涨0.53%，沪铝收跌0.16%，沪锌收跌1.19%，沪铅收跌0.15%，沪镍收跌0.67%，沪锡收跌1.13%。 氧化铝夜盘收跌1.37%，铝合金收跌0.09%。 不锈钢夜盘收跌1.05%。",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "黄仁勋称铜线已无法满足需求",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E7%A7%B0%E9%93%9C%E7%BA%BF%E5%B7%B2%E6%97%A0%E6%B3%95%E6%BB%A1%E8%B6%B3%E9%9C%80%E6%B1%82%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
         }
       ]
     },
@@ -59,8 +70,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 07时54分]"
         }
       ]
     },
@@ -74,11 +85,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            12
+            12,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时54分]"
+          "appearance_count": 3,
+          "time_info": "[05时57分 ~ 07时54分]"
         }
       ]
     }
