@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T07:54:48.895675+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2026-05-08T10:37:34.826591+08:00",
+  "total_titles_processed": 800,
   "failed_sources": [],
   "trends": [
     {
@@ -79,6 +79,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "泡泡玛特 labubu",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "段永平清仓中国神华买入泡泡玛特，称能看懂王宁有多厉害",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33108989",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         }
       ]
     }
