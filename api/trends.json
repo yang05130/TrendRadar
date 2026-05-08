@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T01:11:33.792818+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-05-09T03:11:36.903552+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3100855",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 03时11分]"
         },
         {
           "title": "LME期铜涨1.3%，报13571美元/吨，一度涨至13619美元，逼近1月29日所创盘中历史最高位14527.50美元，本周累计上涨4.4%，有望创2025年10月3日以来最大单周涨幅。 LME期铝涨0.4%，报3507.50美元。 LME期镍跌1.2%，报18905美元。 LME期铅跌0.3%，报1975美元。 LME期锌跌0.7%，报3433美元。 LME期锡跌1.6%，报53755美元。",
@@ -40,11 +41,12 @@
           "url": "https://www.zhihu.com/question/2036025399935775604",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 03时11分]"
         }
       ]
     }
