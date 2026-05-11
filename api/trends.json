@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-05-11T14:36:24.283981+08:00",
-  "total_titles_processed": 972,
+  "generated_at": "2026-05-11T18:35:04.462641+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "摩尔线程",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "摩尔线程与光轮智能达成战略合作 将联合打造高置信度仿真数据合成方案",
+          "url": "https://flash.jin10.com/detail/20260511175404015800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        }
+      ]
+    },
     {
       "keyword_group": "美元",
       "match_count": 1,
@@ -21,6 +38,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时47分 ~ 05时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "铜",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美伊局势生变，布油再回100美元上方，英特尔盘前涨5%，现货黄金跌逾1%，铜价逼近历史新高",
+          "url": "https://wallstreetcn.com/articles/3771942",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 18时35分]"
         }
       ]
     }
