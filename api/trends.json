@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-12T19:51:35.895548+08:00",
-  "total_titles_processed": 1302,
+  "generated_at": "2026-05-12T22:21:47.151572+08:00",
+  "total_titles_processed": 1457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "LME铜价触及14,000美元/吨，为1月29日以来首次，逼近历史高位。",
+          "url": "https://flash.jin10.com/detail/20260512220841376800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
         {
           "title": "美伊谈判受挫吓不倒金属市场 国际铜价逼近历史高位",
           "url": "https://www.cls.cn/detail/2367924",
@@ -114,7 +125,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
