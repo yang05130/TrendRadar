@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-13T14:25:17.643551+08:00",
-  "total_titles_processed": 1001,
+  "generated_at": "2026-05-13T17:41:53.811628+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "泡泡玛特 labubu",
       "match_count": 5,
       "titles": [
+        {
+          "title": "泡泡玛特Q1收入预增75％至80％，欧美市场增长放缓，中国线上渠道预增150% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3772083",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 17时41分]"
+        },
         {
           "title": "泡泡玛特(09992.HK)高开低走，现跌超3%；公司管理层表示，结合当前采购及生产情况测算，原材料成本较去年同期预计上升3至5个百分点，预计公司整体毛利率下降约0.5个百分点。",
           "url": "https://flash.jin10.com/detail/20260513103104182800",
@@ -17,17 +29,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
-        },
-        {
-          "title": "泡泡玛特Q1收入预增75％至80％，欧美市场增长放缓，中国线上渠道预增150% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3772083",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 14时25分]"
         },
         {
           "title": "泡泡玛特：原材料成本较去年同期上涨3%-5%。",
