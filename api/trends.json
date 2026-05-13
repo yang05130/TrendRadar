@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T17:41:53.811628+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2026-05-13T20:02:40.844994+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "泡泡玛特 labubu",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "泡泡玛特Q1收入预增75％至80％，欧美市场增长放缓，中国线上渠道预增150% | 财报见闻",
@@ -62,12 +62,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        },
+        {
+          "title": "泡泡玛特(09992.HK)：派付末期普通股股息为每股2.3817元人民币。",
+          "url": "https://flash.jin10.com/detail/20260513191347738800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         }
       ]
     },
     {
       "keyword_group": "铜",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "LME期铜收涨78美元，报14021美元/吨。 LME期铝收跌18美元，报3562美元/吨。 LME期锌收涨52美元，报3532美元/吨。 LME期铅收涨10美元，报1997美元/吨。 LME期镍收跌301美元，报18952美元/吨。 LME期锡收跌896美元，报54812美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -112,6 +123,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "铜冠铜箔：公司自主研发的高频高速铜箔产品已开始批量供应，目前整体出货占比不高，2025年度该产品出货占铜箔总出货的20.94%。",
+          "url": "https://wallstreetcn.com/livenews/3102966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "A股有色板块震荡走强，华达新材、罗平锌电双双涨停，北方铜业涨超6%，翔鹭钨业、盛屯矿业、金钼股份跟涨。",
