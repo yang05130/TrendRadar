@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T19:56:04.288487+08:00",
-  "total_titles_processed": 1314,
+  "generated_at": "2026-05-16T21:13:32.308690+08:00",
+  "total_titles_processed": 1381,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             8,
             3,
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时52分 ~ 19时56分]"
+          "appearance_count": 11,
+          "time_info": "[06时52分 ~ 21时13分]"
         },
         {
           "title": "黑色星期五！全球股债双杀：韩股暴跌6%，美债收益率飙升，这次市场在怕什么？",
@@ -47,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时33分 ~ 19时56分]"
+          "appearance_count": 9,
+          "time_info": "[10时33分 ~ 21时13分]"
         },
         {
           "title": "油价与美债收益率齐升 美股期指集体走低 芯片股盘前普跌 | 今夜看点",
