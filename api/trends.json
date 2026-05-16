@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-05-16T18:59:48.229795+08:00",
-  "total_titles_processed": 1264,
+  "generated_at": "2026-05-16T19:56:04.288487+08:00",
+  "total_titles_processed": 1314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债",
       "match_count": 7,
       "titles": [
+        {
+          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2373036",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时52分 ~ 19时56分]"
+        },
         {
           "title": "黑色星期五！全球股债双杀：韩股暴跌6%，美债收益率飙升，这次市场在怕什么？",
           "url": "https://wallstreetcn.com/articles/3772362",
@@ -24,30 +38,17 @@
           "time_info": "[00时02分 ~ 18时59分]"
         },
         {
-          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2373036",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时52分 ~ 18时59分]"
-        },
-        {
           "title": "美债技术性破位，日债抛售恐慌，全球利率风暴正在形成",
           "url": "https://wallstreetcn.com/articles/3772386",
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时33分 ~ 18时59分]"
+          "appearance_count": 8,
+          "time_info": "[10时33分 ~ 19时56分]"
         },
         {
           "title": "油价与美债收益率齐升 美股期指集体走低 芯片股盘前普跌 | 今夜看点",
