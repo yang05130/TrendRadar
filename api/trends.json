@@ -1,97 +1,22 @@
 {
-  "generated_at": "2026-05-17T23:24:41.838086+08:00",
-  "total_titles_processed": 1364,
+  "generated_at": "2026-05-18T00:22:59.847792+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "摩尔线程",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "摩尔线程与国家具身智能应用中试基地签署战略合作协议",
-          "url": "https://wallstreetcn.com/livenews/3104831",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8,
-            12,
-            14,
-            17,
-            22,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时07分 ~ 19时27分]"
-        },
-        {
-          "title": "摩尔线程与国家具身智能应用中试基地签署战略合作协议",
-          "url": "https://flash.jin10.com/detail/20260517103109985800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
           "url": "https://wallstreetcn.com/articles/3772363",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            4,
-            3,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时18分 ~ 23时24分]"
-        },
-        {
-          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2373036",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            9,
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时20分 ~ 21时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "铜",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "山东泰山3:1重庆铜梁龙",
-          "url": "https://www.douyin.com/hot/2501672",
-          "source": "抖音",
-          "ranks": [
-            15,
-            14,
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 09时37分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         }
       ]
     }
