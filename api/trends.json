@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T19:27:36.500558+08:00",
-  "total_titles_processed": 1115,
+  "generated_at": "2026-05-17T20:21:56.224520+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时18分 ~ 19时27分]"
+          "appearance_count": 10,
+          "time_info": "[13时18分 ~ 20时21分]"
         },
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
@@ -65,11 +65,12 @@
             6,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时20分 ~ 19时27分]"
+          "appearance_count": 23,
+          "time_info": "[00时20分 ~ 20时21分]"
         }
       ]
     },
