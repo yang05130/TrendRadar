@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T16:44:56.988230+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2026-05-17T17:35:28.072191+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             8,
             12,
             14,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时07分 ~ 16时44分]"
+          "appearance_count": 6,
+          "time_info": "[11时07分 ~ 17时35分]"
         },
         {
           "title": "摩尔线程与国家具身智能应用中试基地签署战略合作协议",
@@ -49,8 +50,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 16时44分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 17时35分]"
         },
         {
           "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
@@ -63,8 +64,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时18分 ~ 16时44分]"
+          "appearance_count": 6,
+          "time_info": "[13时18分 ~ 17时35分]"
         }
       ]
     },
