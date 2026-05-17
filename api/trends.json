@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T18:32:14.823811+08:00",
-  "total_titles_processed": 1063,
+  "generated_at": "2026-05-17T19:27:36.500558+08:00",
+  "total_titles_processed": 1115,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             14,
             17,
             22,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时07分 ~ 18时32分]"
+          "appearance_count": 8,
+          "time_info": "[11时07分 ~ 19时27分]"
         },
         {
           "title": "摩尔线程与国家具身智能应用中试基地签署战略合作协议",
@@ -42,20 +43,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2373036",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时20分 ~ 18时32分]"
-        },
-        {
           "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
           "url": "https://wallstreetcn.com/articles/3772363",
           "source": "华尔街见闻",
@@ -66,8 +53,23 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时18分 ~ 18时32分]"
+          "appearance_count": 9,
+          "time_info": "[13时18分 ~ 19时27分]"
+        },
+        {
+          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2373036",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时20分 ~ 19时27分]"
         }
       ]
     },
