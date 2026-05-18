@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T11:09:39.667756+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2026-05-18T13:24:49.255926+08:00",
+  "total_titles_processed": 1051,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 11时09分]"
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 13时24分]"
         },
         {
           "title": "美债抛售恐慌继续蔓延：日债收益率飙至新高，韩股触发熔断，黄金失守4500",
@@ -44,13 +44,24 @@
           "time_info": "09时43分"
         },
         {
+          "title": "美股不祥信号浮现？美债收益率狂飙 一文解析背后三大推手",
+          "url": "https://www.cls.cn/detail/2373864",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "通胀担忧引爆全球债市抛售 长期美债收益率创近三年新高",
           "url": "https://flash.jin10.com/detail/20260518104607056800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
         }
