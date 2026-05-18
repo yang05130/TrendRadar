@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T13:24:49.255926+08:00",
-  "total_titles_processed": 1051,
+  "generated_at": "2026-05-18T15:24:23.930199+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时20分 ~ 13时24分]"
+          "appearance_count": 6,
+          "time_info": "[07时20分 ~ 15时24分]"
         },
         {
           "title": "美债抛售恐慌继续蔓延：日债收益率飙至新高，韩股触发熔断，黄金失守4500",
@@ -48,11 +48,12 @@
           "url": "https://www.cls.cn/detail/2373864",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 15时24分]"
         },
         {
           "title": "通胀担忧引爆全球债市抛售 长期美债收益率创近三年新高",
@@ -68,6 +69,34 @@
       ]
     },
     {
+      "keyword_group": "铜",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "A股铜缆高速连接板块走强，华工科技涨超8%，汇绿生态涨超7%，中天科技、鼎通科技等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260518093817426800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "十年大数据统计：金、银、油、铜、农产品期货本周展望（5月18日更新）",
+          "url": "https://flash.jin10.com/detail/20260518150649558800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人民币",
       "match_count": 1,
       "titles": [
@@ -77,23 +106,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "铜",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股铜缆高速连接板块走强，华工科技涨超8%，汇绿生态涨超7%，中天科技、鼎通科技等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260518093817426800",
-          "source": "金十数据",
-          "ranks": [
-            1
           ],
           "is_new": false,
           "appearance_count": 1,
