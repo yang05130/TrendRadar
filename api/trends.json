@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T13:23:10.515713+08:00",
-  "total_titles_processed": 1173,
+  "generated_at": "2026-05-19T15:14:08.596538+08:00",
+  "total_titles_processed": 1309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美债收益率破5%有何影响",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 13时23分]"
+          "appearance_count": 4,
+          "time_info": "[13时22分 ~ 15时14分]"
         },
         {
           "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
@@ -37,8 +37,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时08分 ~ 13时23分]"
+          "appearance_count": 5,
+          "time_info": "[11时08分 ~ 15时14分]"
         },
         {
           "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
@@ -75,6 +75,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时25分]"
+        },
+        {
+          "title": "3月外国投资者美债持仓下降 管涛：地缘冲突、能源供给冲击的自然反应，4月或回升",
+          "url": "https://www.cls.cn/detail/2374826",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 15时14分]"
         },
         {
           "title": "周一（5月18日）纽约尾盘，美国10年期国债收益率涨1.40个基点，报4.6073%。 两年期美债收益率涨0.46个基点，报4.0734%；30年期美债收益率涨2.50个基点，报5.1407%。 2/10年期美债收益率利差涨1.469个基点，报+53.296个基点。 10年期通胀保值国债（TIPS）收益率涨3.90个基点，至2.1085%；两年期TIPS收益率涨2.48个基点，至1.1751%；30年期TIPS收益率涨2.77个基点，至2.83%。",
@@ -160,7 +171,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         }
