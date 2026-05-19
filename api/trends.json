@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T19:05:59.970575+08:00",
-  "total_titles_processed": 1585,
+  "generated_at": "2026-05-19T21:06:15.744042+08:00",
+  "total_titles_processed": 1734,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时08分 ~ 19时05分]"
+          "appearance_count": 9,
+          "time_info": "[11时08分 ~ 21时06分]"
         },
         {
           "title": "美联储“不得不鹰”？大摩预警：若美债收益率持续飙升 美股恐现“重大回调”",
@@ -131,7 +131,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
         }
