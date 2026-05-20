@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T19:04:00.012544+08:00",
-  "total_titles_processed": 1588,
+  "generated_at": "2026-05-20T21:02:32.001395+08:00",
+  "total_titles_processed": 1725,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时08分 ~ 19时03分]"
+          "appearance_count": 7,
+          "time_info": "[11时08分 ~ 21时02分]"
         },
         {
           "title": "通胀担忧高企，美债收益率飙升至多年高位，标普、纳指三连跌，黄金一度跌超2%",
@@ -43,6 +43,19 @@
           "time_info": "[06时28分 ~ 07时27分]"
         },
         {
+          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
+          "url": "https://www.cls.cn/detail/2376546",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时08分 ~ 21时02分]"
+        },
+        {
           "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
           "url": "https://wallstreetcn.com/articles/3772572",
           "source": "华尔街见闻",
@@ -52,18 +65,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时01分 ~ 01时52分]"
-        },
-        {
-          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
-          "url": "https://www.cls.cn/detail/2376546",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时08分 ~ 19时03分]"
         },
         {
           "title": "美债收益率破5%意味着什么",
@@ -148,7 +149,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
