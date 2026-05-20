@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T21:55:01.019326+08:00",
-  "total_titles_processed": 1815,
+  "generated_at": "2026-05-20T23:06:46.561248+08:00",
+  "total_titles_processed": 1924,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时08分 ~ 21时55分]"
+          "appearance_count": 10,
+          "time_info": "[11时08分 ~ 23时06分]"
         },
         {
           "title": "通胀担忧高企，美债收益率持续攀升，美股存储概念股转涨，现货黄金日内跌2%",
@@ -205,7 +205,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         }
@@ -213,7 +213,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美元指数19日上涨",
@@ -261,6 +261,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时35分 ~ 05时32分]"
+        },
+        {
+          "title": "WTI原油期货跌超4%，回撤至100美元关口下方。 欧洲STOXX 600指数涨幅扩大至1.1%，刷新日高。 纳斯达克100指数涨幅一度扩大至1%，半导体指数涨超3.3%，银行指数涨1.5%%。 新兴市场外汇指数刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3106788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "WTI原油、现货黄金和美元指数DXY小幅异动，美国总统特朗普称，将迅速结束战争。",
