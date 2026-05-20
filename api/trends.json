@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T06:32:36.284777+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2026-05-21T07:30:13.155892+08:00",
+  "total_titles_processed": 668,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
@@ -16,8 +16,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 07时30分]"
+        },
+        {
+          "title": "美伊冲突降温，WIT原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
+          "url": "https://wallstreetcn.com/articles/3772708",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 07时30分]"
         },
         {
           "title": "高盛：至少在眼下，美债收益率恐“很难”掉头下行",
