@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T02:39:34.201379+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2026-05-22T03:35:43.560658+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时35分]"
         },
         {
           "title": "美伊核谈判僵持，油价涨4%，美股低开，量子计算股大涨，美债震荡",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时35分]"
         },
         {
           "title": "传美伊最终协议草案达成 美债收益率走低",
@@ -47,11 +47,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 02时39分]"
+          "appearance_count": 3,
+          "time_info": "[01时42分 ~ 03时35分]"
         }
       ]
     },
@@ -118,11 +119,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 02时39分]"
+          "appearance_count": 3,
+          "time_info": "[01时42分 ~ 03时35分]"
         },
         {
           "title": "LME期铜收跌140美元，报13516美元/吨。 LME期铝收涨14美元，报3637美元/吨。 LME期锌收跌33美元，报3522美元/吨。 LME期铅收涨25美元，报2004美元/吨。 LME期镍收跌202美元，报18727美元/吨。 LME期锡收跌786美元，报53248美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -150,8 +152,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时35分]"
         }
       ]
     }
