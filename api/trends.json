@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T11:09:01.908855+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2026-05-21T13:26:48.517365+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时42分 ~ 11时09分]"
+          "appearance_count": 5,
+          "time_info": "[08时42分 ~ 13时26分]"
         },
         {
           "title": "美伊冲突降温，WIT原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
@@ -112,7 +112,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
         },
@@ -123,7 +123,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
         },
