@@ -1,45 +1,22 @@
 {
-  "generated_at": "2026-05-21T23:05:58.008800+08:00",
-  "total_titles_processed": 1887,
+  "generated_at": "2026-05-22T00:55:24.640486+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债",
-      "match_count": 10,
+      "match_count": 2,
       "titles": [
         {
           "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
           "url": "https://wallstreetcn.com/articles/3772708",
           "source": "华尔街见闻",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时42分 ~ 23时05分]"
-        },
-        {
-          "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
-          "url": "https://wallstreetcn.com/articles/3772671",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 08时42分]"
-        },
-        {
-          "title": "美伊冲突降温，WIT原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
-          "url": "https://wallstreetcn.com/articles/3772708",
-          "source": "华尔街见闻",
-          "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 07时30分]"
+          "appearance_count": 1,
+          "time_info": "00时55分"
         },
         {
           "title": "美伊核谈判僵持，油价涨4%，美股低开，量子计算股大涨，美债震荡",
@@ -48,150 +25,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时05分"
-        },
-        {
-          "title": "分析师：美债收益率与美元联手施压，黄金多头短期“难有作为”",
-          "url": "https://flash.jin10.com/detail/20260521170258310800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "核谈判僵持，油价攀升，美股涨势受阻，量子计算股盘前拉升，美债震荡",
-          "url": "https://wallstreetcn.com/articles/3772777",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        },
-        {
-          "title": "高盛：至少在眼下，美债收益率恐“很难”掉头下行",
-          "url": "https://wallstreetcn.com/livenews/3106887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时49分 ~ 04时44分]"
-        },
-        {
-          "title": "美联储会议纪要发布后，美国10年期国债收益率维持下跌大约8.3个基点的状态不变，目前持稳于日低4.5617%附近，暂报4.5835%。 两年期美债收益率维持6.7个基点的跌幅，暂报4.0508%。 现货黄金涨1.1%，持稳于4530美元一线。 标普500指数目前涨0.89%，道指涨557点、涨幅1.1%，纳指涨348点、涨幅1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3106884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时49分 ~ 03时45分]"
-        },
-        {
-          "title": "报道：土耳其为撑本币几乎清仓美债",
-          "url": "https://flash.jin10.com/detail/20260521203524978800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        },
-        {
-          "title": "美债收益率至少跌超7个基点，美股盘初显著走低",
-          "url": "https://wallstreetcn.com/livenews/3106899",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "铜",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "A股有色金属板块回暖，华锡有色涨超6%，云南铜业涨超3%，山金国际、盛龙股份等股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260521093642237800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        },
-        {
-          "title": "周三（5月20日）纽约尾盘，现货黄金涨1.35%，报4543.20美元/盎司。 COMEX黄金期货涨0.78%，报4546.40美元/盎司。 现货白银涨2.92%，报75.8819美元/盎司。 COMEX白银期货涨3.01%，报75.9510美元/盎司。 COMEX铜期货涨2.04%，报6.3330美元/磅。 现货铂金涨1.57%，现货钯金涨0.87%。",
-          "url": "https://wallstreetcn.com/livenews/3106927",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "智利部长：智利国家铜业公司“失控”",
-          "url": "https://wallstreetcn.com/livenews/3107091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时09分"
-        },
-        {
-          "title": "伦敦金属交易所(LME)：铜库存减少300吨，铅库存持平，镍库存持平，铝库存持平，锡库存减少5吨，锌库存减少800吨。",
-          "url": "https://wallstreetcn.com/livenews/3107286",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "中国4月份精炼铜产量126.9万吨，同比增长3%。 中国4月份铅产量60.6万吨，同比下降7.9%。 中国4月份锌产量64.9万吨，同比增长10.9%。",
-          "url": "https://wallstreetcn.com/livenews/3107076",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时09分"
-        },
-        {
-          "title": "国际铜夜盘收涨1.45%，沪铜收涨1.43%，沪铝收涨0.35%，沪锌收涨1.35%，沪铅收涨0.97%，沪镍收涨0.27%，沪锡收涨3.93%。 氧化铝夜盘收涨0.07%，铝合金收涨0.24%。 不锈钢夜盘收涨0.51%。",
-          "url": "https://wallstreetcn.com/livenews/3106862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时49分"
+          "time_info": "00时55分"
         }
       ]
     },
@@ -200,27 +36,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "美元指数跌超0.2%",
-          "url": "https://wallstreetcn.com/livenews/3106896",
+          "title": "美国总统特朗普声称，可能要退还总值1490亿美元的关税，会用不同的方式征收关税。 目前，标普跌0.3%，纳指跌0.4%，半导体指数涨0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3107549",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时45分 ~ 04时44分]"
-        },
-        {
-          "title": "美元指数20日下跌",
-          "url": "https://flash.jin10.com/detail/20260521035335949800",
-          "source": "金十数据",
-          "ranks": [
-            26
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时44分"
+          "time_info": "00时55分"
+        },
+        {
+          "title": "中东股市收盘播报｜周四（5月21日），土耳其伊斯坦布尔证交所全国100指数收跌6.05%，报13163.88点，整体持续走低，北京时间22:20以来加速下跌，逼近4月7日收盘位12921.56点。 伊斯坦布尔证交所银行指数收跌8.63%，报14947.10点，逼近11月18日收盘位14472.10点。。 土耳其里拉兑美元反弹至45.5811里拉刷新日高，北京时间22:32曾跌至45.6269里拉创历史新低。",
+          "url": "https://wallstreetcn.com/livenews/3107536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
         }
       ]
     },
@@ -233,14 +68,11 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354481&amp;topic_name=5090Dv2%E7%96%91%E8%A2%AB%E6%B5%B7%E5%85%B3%E7%A6%81%E6%AD%A2%E8%BF%9B%E5%8F%A3",
           "source": "贴吧",
           "ranks": [
-            2,
-            4,
-            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时21分 ~ 23时05分]"
+          "appearance_count": 1,
+          "time_info": "00时55分"
         }
       ]
     }
