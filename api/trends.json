@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T08:42:52.574430+08:00",
-  "total_titles_processed": 791,
+  "generated_at": "2026-05-21T09:42:53.521447+08:00",
+  "total_titles_processed": 900,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,17 @@
           "time_info": "[01时05分 ~ 08时42分]"
         },
         {
+          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
+          "url": "https://wallstreetcn.com/articles/3772708",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时42分 ~ 09时42分]"
+        },
+        {
           "title": "美伊冲突降温，WIT原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
           "url": "https://wallstreetcn.com/articles/3772708",
           "source": "华尔街见闻",
@@ -29,17 +40,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时29分 ~ 07时30分]"
-        },
-        {
-          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
-          "url": "https://wallstreetcn.com/articles/3772708",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时42分"
         },
         {
           "title": "高盛：至少在眼下，美债收益率恐“很难”掉头下行",
@@ -80,6 +80,45 @@
       ]
     },
     {
+      "keyword_group": "铜",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "A股有色金属板块回暖，华锡有色涨超6%，云南铜业涨超3%，山金国际、盛龙股份等股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260521093642237800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "周三（5月20日）纽约尾盘，现货黄金涨1.35%，报4543.20美元/盎司。 COMEX黄金期货涨0.78%，报4546.40美元/盎司。 现货白银涨2.92%，报75.8819美元/盎司。 COMEX白银期货涨3.01%，报75.9510美元/盎司。 COMEX铜期货涨2.04%，报6.3330美元/磅。 现货铂金涨1.57%，现货钯金涨0.87%。",
+          "url": "https://wallstreetcn.com/livenews/3106927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "国际铜夜盘收涨1.45%，沪铜收涨1.43%，沪铝收涨0.35%，沪锌收涨1.35%，沪铅收涨0.97%，沪镍收涨0.27%，沪锡收涨3.93%。 氧化铝夜盘收涨0.07%，铝合金收涨0.24%。 不锈钢夜盘收涨0.51%。",
+          "url": "https://wallstreetcn.com/livenews/3106862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -105,34 +144,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "铜",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周三（5月20日）纽约尾盘，现货黄金涨1.35%，报4543.20美元/盎司。 COMEX黄金期货涨0.78%，报4546.40美元/盎司。 现货白银涨2.92%，报75.8819美元/盎司。 COMEX白银期货涨3.01%，报75.9510美元/盎司。 COMEX铜期货涨2.04%，报6.3330美元/磅。 现货铂金涨1.57%，现货钯金涨0.87%。",
-          "url": "https://wallstreetcn.com/livenews/3106927",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "国际铜夜盘收涨1.45%，沪铜收涨1.43%，沪铝收涨0.35%，沪锌收涨1.35%，沪铅收涨0.97%，沪镍收涨0.27%，沪锡收涨3.93%。 氧化铝夜盘收涨0.07%，铝合金收涨0.24%。 不锈钢夜盘收涨0.51%。",
-          "url": "https://wallstreetcn.com/livenews/3106862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时49分"
         }
       ]
     }
