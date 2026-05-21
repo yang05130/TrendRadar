@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T01:42:41.108344+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-05-22T02:39:34.201379+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时39分]"
         },
         {
           "title": "美伊核谈判僵持，油价涨4%，美股低开，量子计算股大涨，美债震荡",
@@ -26,30 +26,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时39分]"
         },
         {
           "title": "传美伊最终协议草案达成 美债收益率走低",
           "url": "https://flash.jin10.com/detail/20260522013708820800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 02时39分]"
         },
         {
           "title": "太平洋投资管理公司（PIMCO）的CIO Daniel Ivascyn：鉴于美债收益率飙涨，美联储将针对美国通胀问题采取行动。 如果通胀预期进一步抬头，美联储及其他主要央行可能不得不采取行动。 如果长期通胀预期“出现更显著的脱锚，那么即使面对经济疲软，你也将看到货币政策的收紧”，这将进一步加大股市和信用债市场的压力。",
           "url": "https://wallstreetcn.com/livenews/3107570",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 02时39分]"
         }
       ]
     },
@@ -62,11 +64,12 @@
           "url": "https://flash.jin10.com/detail/20260522012048114800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 02时39分]"
         },
         {
           "title": "美国总统特朗普声称，可能要退还总值1490亿美元的关税，会用不同的方式征收关税。 目前，标普跌0.3%，纳指跌0.4%，半导体指数涨0.1%。",
@@ -85,11 +88,12 @@
           "url": "https://wallstreetcn.com/livenews/3107559",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 02时39分]"
         },
         {
           "title": "中东股市收盘播报｜周四（5月21日），土耳其伊斯坦布尔证交所全国100指数收跌6.05%，报13163.88点，整体持续走低，北京时间22:20以来加速下跌，逼近4月7日收盘位12921.56点。 伊斯坦布尔证交所银行指数收跌8.63%，报14947.10点，逼近11月18日收盘位14472.10点。。 土耳其里拉兑美元反弹至45.5811里拉刷新日高，北京时间22:32曾跌至45.6269里拉创历史新低。",
@@ -113,22 +117,24 @@
           "url": "https://wallstreetcn.com/livenews/3107564",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 02时39分]"
         },
         {
           "title": "LME期铜收跌140美元，报13516美元/吨。 LME期铝收涨14美元，报3637美元/吨。 LME期锌收跌33美元，报3522美元/吨。 LME期铅收涨25美元，报2004美元/吨。 LME期镍收跌202美元，报18727美元/吨。 LME期锡收跌786美元，报53248美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3107563",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 02时39分]"
         }
       ]
     },
@@ -144,8 +150,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时39分]"
         }
       ]
     }
