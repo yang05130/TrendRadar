@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T21:08:33.555888+08:00",
-  "total_titles_processed": 1763,
+  "generated_at": "2026-05-21T23:05:58.008800+08:00",
+  "total_titles_processed": 1887,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时42分 ~ 21时08分]"
+          "appearance_count": 10,
+          "time_info": "[08时42分 ~ 23时05分]"
         },
         {
           "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
@@ -42,6 +42,17 @@
           "time_info": "[07时29分 ~ 07时30分]"
         },
         {
+          "title": "美伊核谈判僵持，油价涨4%，美股低开，量子计算股大涨，美债震荡",
+          "url": "https://wallstreetcn.com/articles/3772777",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
           "title": "分析师：美债收益率与美元联手施压，黄金多头短期“难有作为”",
           "url": "https://flash.jin10.com/detail/20260521170258310800",
           "source": "金十数据",
@@ -59,7 +70,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -95,7 +106,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -224,11 +235,12 @@
           "ranks": [
             2,
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时21分 ~ 21时08分]"
+          "appearance_count": 5,
+          "time_info": "[15时21分 ~ 23时05分]"
         }
       ]
     }
