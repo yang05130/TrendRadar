@@ -1,8 +1,94 @@
 {
-  "generated_at": "2026-05-22T15:14:25.147044+08:00",
-  "total_titles_processed": 1238,
+  "generated_at": "2026-05-22T17:07:46.917014+08:00",
+  "total_titles_processed": 1378,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "铜",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "A股PCB概念股午后再度冲高，深南电路涨停，东材科技触及涨停，铜冠铜箔、金安国纪等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260522130619305800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "国际铜夜盘收跌0.52%，沪铜收跌0.66%，沪铝收跌0.39%，沪锌收跌0.85%，沪铅收涨0.57%，沪镍收跌0.81%，沪锡收跌1.03%。 氧化铝夜盘收跌0.37%，铝合金收跌0.26%。 不锈钢夜盘收跌0.17%。",
+          "url": "https://wallstreetcn.com/livenews/3107564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时42分 ~ 03时35分]"
+        },
+        {
+          "title": "LME期铜收跌140美元，报13516美元/吨。 LME期铝收涨14美元，报3637美元/吨。 LME期锌收跌33美元，报3522美元/吨。 LME期铅收涨25美元，报2004美元/吨。 LME期镍收跌202美元，报18727美元/吨。 LME期锡收跌786美元，报53248美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3107563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 02时39分]"
+        },
+        {
+          "title": "伦敦金属交易所（LME）每日数据显示，铜现货库存为275525吨，为3月13日以来最低水平，此前新增注销仓单53325吨。",
+          "url": "https://flash.jin10.com/detail/20260522162415109800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
+        },
+        {
+          "title": "A股电池板块震荡走高，雄韬股份涨停，正业科技涨超10%，信德新材、德福科技、安孚科技、铜冠铜箔、蔚蓝锂芯跟涨。",
+          "url": "https://flash.jin10.com/detail/20260522103510805800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "双星新材在互动平台表示，复合铜箔项目持续推进中，已获得多个订单。",
+          "url": "https://flash.jin10.com/detail/20260522123009258800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "伦敦金属交易所(LME)：铅库存持平，铜库存减少1200吨，铝库存持平，镍库存减少600吨，锡库存减少105吨，锌库存减少225吨。",
+          "url": "https://wallstreetcn.com/livenews/3107904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
+        }
+      ]
+    },
     {
       "keyword_group": "美债",
       "match_count": 6,
@@ -37,8 +123,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时40分 ~ 15时14分]"
+          "appearance_count": 7,
+          "time_info": "[08时40分 ~ 17时07分]"
         },
         {
           "title": "传美伊最终协议草案达成 美债收益率走低",
@@ -155,70 +241,6 @@
       ]
     },
     {
-      "keyword_group": "铜",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "A股PCB概念股午后再度冲高，深南电路涨停，东材科技触及涨停，铜冠铜箔、金安国纪等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260522130619305800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "国际铜夜盘收跌0.52%，沪铜收跌0.66%，沪铝收跌0.39%，沪锌收跌0.85%，沪铅收涨0.57%，沪镍收跌0.81%，沪锡收跌1.03%。 氧化铝夜盘收跌0.37%，铝合金收跌0.26%。 不锈钢夜盘收跌0.17%。",
-          "url": "https://wallstreetcn.com/livenews/3107564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 03时35分]"
-        },
-        {
-          "title": "LME期铜收跌140美元，报13516美元/吨。 LME期铝收涨14美元，报3637美元/吨。 LME期锌收跌33美元，报3522美元/吨。 LME期铅收涨25美元，报2004美元/吨。 LME期镍收跌202美元，报18727美元/吨。 LME期锡收跌786美元，报53248美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3107563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 02时39分]"
-        },
-        {
-          "title": "A股电池板块震荡走高，雄韬股份涨停，正业科技涨超10%，信德新材、德福科技、安孚科技、铜冠铜箔、蔚蓝锂芯跟涨。",
-          "url": "https://flash.jin10.com/detail/20260522103510805800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时08分"
-        },
-        {
-          "title": "双星新材在互动平台表示，复合铜箔项目持续推进中，已获得多个订单。",
-          "url": "https://flash.jin10.com/detail/20260522123009258800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "文生图 文生视频 AIGC",
       "match_count": 2,
       "titles": [
@@ -279,8 +301,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时55分 ~ 15时14分]"
+          "appearance_count": 16,
+          "time_info": "[00时55分 ~ 17时07分]"
         }
       ]
     }
