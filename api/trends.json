@@ -1,8 +1,84 @@
 {
-  "generated_at": "2026-05-22T07:24:40.252498+08:00",
-  "total_titles_processed": 614,
+  "generated_at": "2026-05-22T08:41:01.921643+08:00",
+  "total_titles_processed": 755,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美债",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
+          "url": "https://wallstreetcn.com/articles/3772708",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 06时31分]"
+        },
+        {
+          "title": "美伊核谈判僵持，油价涨4%，美股低开，量子计算股大涨，美债震荡",
+          "url": "https://wallstreetcn.com/articles/3772777",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 06时31分]"
+        },
+        {
+          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
+          "url": "https://wallstreetcn.com/articles/3772777",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时40分 ~ 08时41分]"
+        },
+        {
+          "title": "传美伊最终协议草案达成 美债收益率走低",
+          "url": "https://flash.jin10.com/detail/20260522013708820800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 02时39分]"
+        },
+        {
+          "title": "太平洋投资管理公司（PIMCO）的CIO Daniel Ivascyn：鉴于美债收益率飙涨，美联储将针对美国通胀问题采取行动。 如果通胀预期进一步抬头，美联储及其他主要央行可能不得不采取行动。 如果长期通胀预期“出现更显著的脱锚，那么即使面对经济疲软，你也将看到货币政策的收紧”，这将进一步加大股市和信用债市场的压力。",
+          "url": "https://wallstreetcn.com/livenews/3107570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时42分 ~ 03时35分]"
+        },
+        {
+          "title": "两年期美债收益率涨2.8个基点",
+          "url": "https://wallstreetcn.com/livenews/3107639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时24分]"
+        }
+      ]
+    },
     {
       "keyword_group": "美元",
       "match_count": 6,
@@ -79,71 +155,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
-          "url": "https://wallstreetcn.com/articles/3772708",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 06时31分]"
-        },
-        {
-          "title": "美伊核谈判僵持，油价涨4%，美股低开，量子计算股大涨，美债震荡",
-          "url": "https://wallstreetcn.com/articles/3772777",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 06时31分]"
-        },
-        {
-          "title": "传美伊最终协议草案达成 美债收益率走低",
-          "url": "https://flash.jin10.com/detail/20260522013708820800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 02时39分]"
-        },
-        {
-          "title": "太平洋投资管理公司（PIMCO）的CIO Daniel Ivascyn：鉴于美债收益率飙涨，美联储将针对美国通胀问题采取行动。 如果通胀预期进一步抬头，美联储及其他主要央行可能不得不采取行动。 如果长期通胀预期“出现更显著的脱锚，那么即使面对经济疲软，你也将看到货币政策的收紧”，这将进一步加大股市和信用债市场的压力。",
-          "url": "https://wallstreetcn.com/livenews/3107570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 03时35分]"
-        },
-        {
-          "title": "两年期美债收益率涨2.8个基点",
-          "url": "https://wallstreetcn.com/livenews/3107639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时24分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "铜",
       "match_count": 2,
       "titles": [
@@ -183,11 +194,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354481&amp;topic_name=5090Dv2%E7%96%91%E8%A2%AB%E6%B5%B7%E5%85%B3%E7%A6%81%E6%AD%A2%E8%BF%9B%E5%8F%A3",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 08时41分]"
         }
       ]
     }
