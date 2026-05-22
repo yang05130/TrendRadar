@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T17:07:46.917014+08:00",
-  "total_titles_processed": 1378,
+  "generated_at": "2026-05-22T19:03:16.353301+08:00",
+  "total_titles_processed": 1521,
   "failed_sources": [],
   "trends": [
     {
@@ -50,7 +50,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时07分"
         },
@@ -83,7 +83,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时07分"
         }
@@ -93,6 +93,17 @@
       "keyword_group": "美债",
       "match_count": 6,
       "titles": [
+        {
+          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
+          "url": "https://wallstreetcn.com/articles/3772777",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时40分 ~ 19时03分]"
+        },
         {
           "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
           "url": "https://wallstreetcn.com/articles/3772708",
@@ -114,17 +125,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时55分 ~ 06时31分]"
-        },
-        {
-          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
-          "url": "https://wallstreetcn.com/articles/3772777",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时40分 ~ 17时07分]"
         },
         {
           "title": "传美伊最终协议草案达成 美债收益率走低",
@@ -301,8 +301,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时55分 ~ 17时07分]"
+          "appearance_count": 17,
+          "time_info": "[00时55分 ~ 19时03分]"
         }
       ]
     }
