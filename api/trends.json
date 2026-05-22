@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T09:42:31.353350+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2026-05-22T11:08:47.923893+08:00",
+  "total_titles_processed": 980,
   "failed_sources": [],
   "trends": [
     {
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时40分 ~ 09时42分]"
+          "appearance_count": 4,
+          "time_info": "[08时40分 ~ 11时08分]"
         },
         {
           "title": "传美伊最终协议草案达成 美债收益率走低",
@@ -156,7 +156,7 @@
     },
     {
       "keyword_group": "铜",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "国际铜夜盘收跌0.52%，沪铜收跌0.66%，沪铝收跌0.39%，沪锌收跌0.85%，沪铅收涨0.57%，沪镍收跌0.81%，沪锡收跌1.03%。 氧化铝夜盘收跌0.37%，铝合金收跌0.26%。 不锈钢夜盘收跌0.17%。",
@@ -182,6 +182,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 02时39分]"
+        },
+        {
+          "title": "A股电池板块震荡走高，雄韬股份涨停，正业科技涨超10%，信德新材、德福科技、安孚科技、铜冠铜箔、蔚蓝锂芯跟涨。",
+          "url": "https://flash.jin10.com/detail/20260522103510805800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         }
       ]
     },
@@ -196,7 +207,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         }
@@ -212,11 +223,29 @@
           "source": "贴吧",
           "ranks": [
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时55分 ~ 09时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 11时08分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "文生图 文生视频 AIGC",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "论文AIGC率如何判定更合理",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87AIGC%E7%8E%87%E5%A6%82%E4%BD%95%E5%88%A4%E5%AE%9A%E6%9B%B4%E5%90%88%E7%90%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         }
       ]
     }
