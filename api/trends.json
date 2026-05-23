@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T22:33:31.969298+08:00",
-  "total_titles_processed": 1527,
+  "generated_at": "2026-05-23T23:26:05.581383+08:00",
+  "total_titles_processed": 1603,
   "failed_sources": [],
   "trends": [
     {
@@ -133,8 +133,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时25分 ~ 22时33分]"
+          "appearance_count": 19,
+          "time_info": "[07时25分 ~ 23时26分]"
         },
         {
           "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
@@ -229,8 +229,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时46分 ~ 22时33分]"
+          "appearance_count": 28,
+          "time_info": "[00时46分 ~ 23时26分]"
         }
       ]
     }
