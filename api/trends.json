@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T08:40:12.903747+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2026-05-23T09:37:41.941030+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
@@ -139,11 +139,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时25分 ~ 08时40分]"
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 09时37分]"
         },
         {
           "title": "两年期美债收益率在沃什就任美联储主席当天涨约3.8个基点，本周两年期实际收益率狂飙将近30个基点",
@@ -212,8 +213,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时46分 ~ 08时40分]"
+          "appearance_count": 13,
+          "time_info": "[00时46分 ~ 09时37分]"
         }
       ]
     }
