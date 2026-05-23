@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T15:50:34.244912+08:00",
-  "total_titles_processed": 1091,
+  "generated_at": "2026-05-23T16:43:52.847771+08:00",
+  "total_titles_processed": 1151,
   "failed_sources": [],
   "trends": [
     {
@@ -123,17 +123,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
-          "url": "https://wallstreetcn.com/articles/3772777",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时25分]"
-        },
-        {
           "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
           "url": "https://wallstreetcn.com/articles/3772907",
           "source": "华尔街见闻",
@@ -143,8 +132,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时25分 ~ 15时50分]"
+          "appearance_count": 9,
+          "time_info": "[07时25分 ~ 16时43分]"
+        },
+        {
+          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
+          "url": "https://wallstreetcn.com/articles/3772777",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时25分]"
         },
         {
           "title": "两年期美债收益率在沃什就任美联储主席当天涨约3.8个基点，本周两年期实际收益率狂飙将近30个基点",
@@ -216,8 +216,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时46分 ~ 15时50分]"
+          "appearance_count": 18,
+          "time_info": "[00时46分 ~ 16时43分]"
         }
       ]
     }
