@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T19:28:14.474701+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2026-05-23T20:22:11.365845+08:00",
+  "total_titles_processed": 1392,
   "failed_sources": [],
   "trends": [
     {
@@ -133,8 +133,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时25分 ~ 19时28分]"
+          "appearance_count": 15,
+          "time_info": "[07时25分 ~ 20时22分]"
         },
         {
           "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
@@ -155,8 +155,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时36分 ~ 19时28分]"
+          "appearance_count": 6,
+          "time_info": "[17时36分 ~ 20时22分]"
         },
         {
           "title": "两年期美债收益率在沃什就任美联储主席当天涨约3.8个基点，本周两年期实际收益率狂飙将近30个基点",
@@ -229,8 +229,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时46分 ~ 19时28分]"
+          "appearance_count": 24,
+          "time_info": "[00时46分 ~ 20时22分]"
         }
       ]
     }
