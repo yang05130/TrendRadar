@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T08:40:48.121516+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-05-24T09:42:11.873495+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时22分 ~ 06时18分]"
+        },
+        {
+          "title": "美股和美债的“矛盾走势”，接下来谁会赢？",
+          "url": "https://wallstreetcn.com/articles/3772970",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 09时42分]"
         }
       ]
     },
@@ -34,8 +45,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 08时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时42分]"
         }
       ]
     }
