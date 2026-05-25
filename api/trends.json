@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T21:09:59.891396+08:00",
-  "total_titles_processed": 1596,
+  "generated_at": "2026-05-25T23:04:31.854116+08:00",
+  "total_titles_processed": 1723,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "立讯精密：光铜并进路线与头部客户布局光芯片、光纤厂商并不矛盾",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时44分 ~ 11时09分]"
+        },
+        {
+          "title": "黄金高开后陷入震荡，多空谁先亮底牌？从青铜到王者，免费测你的交易阶段 ><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260525220040372800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "中矿资源集团与秘鲁金达矿业签署秘鲁拉赫亚铜矿矿权合作协议",
