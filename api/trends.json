@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T13:33:56.744920+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-05-25T15:35:15.807850+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "立讯精密：光铜并进路线与头部客户布局光芯片、光纤厂商并不矛盾",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "十年大数据统计：金、银、油、铜、农产品期货本周展望",
+          "url": "https://flash.jin10.com/detail/20260525145359354800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         }
       ]
     },
