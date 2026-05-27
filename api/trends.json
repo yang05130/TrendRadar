@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T19:13:47.281432+08:00",
-  "total_titles_processed": 1579,
+  "generated_at": "2026-05-27T21:10:27.652451+08:00",
+  "total_titles_processed": 1737,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美伊边打边谈，美股开盘半导体股普涨，美光大涨12%，美债收益率回落，金银下挫",
@@ -43,6 +43,17 @@
           "time_info": "08时41分"
         },
         {
+          "title": "布伦特原油日内跌幅达4%，报92.78美元/桶。 WTI原油日内跌幅达5.5%，报88.69美元/桶。 现货黄金5分钟内上涨28.58美元/盎司，报4457.7美元/盎司。 美债收益率扩大跌幅，30年期收益率下跌3个基点至4.99%。 欧洲斯托克600指数涨0.6%，刷新日高。 伊朗电视台称获得了非官方的美伊谅解备忘录草案。",
+          "url": "https://wallstreetcn.com/livenews/3110086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "2/10年期美债收益率跌约7个基点",
           "url": "https://wallstreetcn.com/livenews/3109625",
           "source": "华尔街见闻-快讯",
@@ -57,7 +68,7 @@
     },
     {
       "keyword_group": "赛力斯 问界",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "全新问界M9系列正式发布",
@@ -71,15 +82,27 @@
           "time_info": "[15时27分 ~ 15时28分]"
         },
         {
+          "title": "全新一代问界M9正式上市",
+          "url": "https://www.toutiao.com/trending/7644514661387243059/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "鸿蒙智行问界 M9 上市，售价 47.98 万起，有哪些技术亮点？预计销量如何？",
           "url": "https://www.zhihu.com/question/2042953295174394055",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 21时10分]"
         },
         {
           "title": "问界M9售价47.98至65.98万元",
@@ -88,9 +111,89 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "WTI原油日内跌幅达6.0%，报88.12美元/桶；布伦特原油跌近5%，报91.98美元/桶。 美股期货走高，纳斯达克100指数期货涨1%，美国联合航空、美国航空、达美航空股价盘前上涨约2%。",
+          "url": "https://wallstreetcn.com/livenews/3110090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
+          "title": "美元指数26日上涨",
+          "url": "https://flash.jin10.com/detail/20260527042819319800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        },
+        {
+          "title": "周二（5月26日）纽约尾盘，ICE美元指数跌0.07%，报99.172点，日内交投区间为99.009-99.251点。 彭博美元指数涨0.15%，报1201.38点，日内交投区间为1199.58-1202.25点。 美元兑日元涨0.26%，报159.32日元，日内交投区间为158.86-159.38日元。",
+          "url": "https://wallstreetcn.com/livenews/3109629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "泡泡玛特 labubu",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "如何看待段永平称「泡泡玛特王宁的商业理解能力，比乔布斯还强」？",
+          "url": "https://www.zhihu.com/question/2042903393052485561",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时27分 ~ 19时13分]"
+        },
+        {
+          "title": "段永平谈泡泡玛特王宁：他对商业理解比乔布斯还要强一点",
+          "url": "https://www.cls.cn/detail/2381677",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 00时20分]"
+        },
+        {
+          "title": "段永平增持泡泡玛特",
+          "url": "https://wallstreetcn.com/livenews/3110084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         }
       ]
     },
@@ -130,64 +233,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数26日上涨",
-          "url": "https://flash.jin10.com/detail/20260527042819319800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        },
-        {
-          "title": "周二（5月26日）纽约尾盘，ICE美元指数跌0.07%，报99.172点，日内交投区间为99.009-99.251点。 彭博美元指数涨0.15%，报1201.38点，日内交投区间为1199.58-1202.25点。 美元兑日元涨0.26%，报159.32日元，日内交投区间为158.86-159.38日元。",
-          "url": "https://wallstreetcn.com/livenews/3109629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "泡泡玛特 labubu",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何看待段永平称「泡泡玛特王宁的商业理解能力，比乔布斯还强」？",
-          "url": "https://www.zhihu.com/question/2042903393052485561",
-          "source": "知乎",
-          "ranks": [
-            13,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时27分 ~ 19时13分]"
-        },
-        {
-          "title": "段永平谈泡泡玛特王宁：他对商业理解比乔布斯还要强一点",
-          "url": "https://www.cls.cn/detail/2381677",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
         }
       ]
     },
