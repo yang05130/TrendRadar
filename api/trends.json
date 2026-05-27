@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T13:32:00.507717+08:00",
-  "total_titles_processed": 1142,
+  "generated_at": "2026-05-27T15:28:11.426955+08:00",
+  "total_titles_processed": 1283,
   "failed_sources": [],
   "trends": [
     {
@@ -123,6 +123,51 @@
       ]
     },
     {
+      "keyword_group": "泡泡玛特 labubu",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "段永平谈泡泡玛特王宁：他对商业理解比乔布斯还要强一点",
+          "url": "https://www.cls.cn/detail/2381677",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 00时20分]"
+        },
+        {
+          "title": "如何看待段永平称「泡泡玛特王宁的商业理解能力，比乔布斯还强」？",
+          "url": "https://www.zhihu.com/question/2042903393052485561",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时27分 ~ 15时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "赛力斯 问界",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全新问界M9系列正式发布",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E6%96%B0%E9%97%AE%E7%95%8CM9%E7%B3%BB%E5%88%97%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时27分 ~ 15时28分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "摩尔线程",
       "match_count": 1,
       "titles": [
@@ -153,23 +198,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "泡泡玛特 labubu",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "段永平谈泡泡玛特王宁：他对商业理解比乔布斯还要强一点",
-          "url": "https://www.cls.cn/detail/2381677",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
         }
       ]
     }
