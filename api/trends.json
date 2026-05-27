@@ -1,285 +1,50 @@
 {
-  "generated_at": "2026-05-27T23:06:19.237357+08:00",
-  "total_titles_processed": 1856,
+  "generated_at": "2026-05-28T01:06:29.825150+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "赛力斯 问界",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
-          "title": "全新问界M9系列正式发布",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E6%96%B0%E9%97%AE%E7%95%8CM9%E7%B3%BB%E5%88%97%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
-          "source": "百度热搜",
+          "title": "鸿蒙智行问界 M9 上市，售价 47.98 万起，有哪些技术亮点？预计销量如何？",
+          "url": "https://www.zhihu.com/question/2042953295174394055",
+          "source": "知乎",
           "ranks": [
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时27分 ~ 15时28分]"
+          "appearance_count": 1,
+          "time_info": "01时06分"
         },
         {
           "title": "余承东称新款问界M9是最强悍SUV",
           "url": "https://www.toutiao.com/trending/7643427656411217970/",
           "source": "今日头条",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
-        },
-        {
-          "title": "鸿蒙智行问界 M9 上市，售价 47.98 万起，有哪些技术亮点？预计销量如何？",
-          "url": "https://www.zhihu.com/question/2042953295174394055",
-          "source": "知乎",
-          "ranks": [
-            18,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 23时06分]"
-        },
-        {
-          "title": "全新一代问界M9正式上市",
-          "url": "https://www.toutiao.com/trending/7644514661387243059/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时10分 ~ 23时06分]"
-        },
-        {
-          "title": "问界M9售价47.98至65.98万元",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8CM9%E5%94%AE%E4%BB%B747.98%E8%87%B365.98%E4%B8%87%E5%85%83%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "01时06分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
-          "title": "美伊边打边谈，美股开盘半导体股普涨，美光大涨12%，美债收益率回落，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3773116",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 05时34分]"
-        },
-        {
-          "title": "中日印为何抛售美债",
-          "url": "https://www.toutiao.com/trending/7644126127706885651/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 04时42分]"
-        },
-        {
-          "title": "中信证券：维持美股好于美债、美元指数有支撑的观点",
-          "url": "https://flash.jin10.com/detail/20260527081804133800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时41分"
-        },
-        {
-          "title": "布伦特原油日内跌幅达4%，报92.78美元/桶。 WTI原油日内跌幅达5.5%，报88.69美元/桶。 现货黄金5分钟内上涨28.58美元/盎司，报4457.7美元/盎司。 美债收益率扩大跌幅，30年期收益率下跌3个基点至4.99%。 欧洲斯托克600指数涨0.6%，刷新日高。 伊朗电视台称获得了非官方的美伊谅解备忘录草案。",
-          "url": "https://wallstreetcn.com/livenews/3110086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "2/10年期美债收益率跌约7个基点",
-          "url": "https://wallstreetcn.com/livenews/3109625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "WTI原油日内跌幅达6.0%，报88.12美元/桶；布伦特原油跌近5%，报91.98美元/桶。 美股期货走高，纳斯达克100指数期货涨1%，美国联合航空、美国航空、达美航空股价盘前上涨约2%。",
-          "url": "https://wallstreetcn.com/livenews/3110090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "美元指数26日上涨",
-          "url": "https://flash.jin10.com/detail/20260527042819319800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        },
-        {
-          "title": "周二（5月26日）纽约尾盘，ICE美元指数跌0.07%，报99.172点，日内交投区间为99.009-99.251点。 彭博美元指数涨0.15%，报1201.38点，日内交投区间为1199.58-1202.25点。 美元兑日元涨0.26%，报159.32日元，日内交投区间为158.86-159.38日元。",
-          "url": "https://wallstreetcn.com/livenews/3109629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "泡泡玛特 labubu",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "如何看待段永平称「泡泡玛特王宁的商业理解能力，比乔布斯还强」？",
-          "url": "https://www.zhihu.com/question/2042903393052485561",
-          "source": "知乎",
-          "ranks": [
-            13,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时27分 ~ 19时13分]"
-        },
-        {
-          "title": "段永平谈泡泡玛特王宁：他对商业理解比乔布斯还要强一点",
-          "url": "https://www.cls.cn/detail/2381677",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
-        },
-        {
-          "title": "段永平增持泡泡玛特",
-          "url": "https://wallstreetcn.com/livenews/3110084",
+          "title": "大摩：对冲基金青睐的美债策略正在收缩，反映出获利机会稀缺",
+          "url": "https://wallstreetcn.com/livenews/3110178",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "铜",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美伊和谈预期升温，油价跳水，全球股市走强，泛欧股指六连涨，金银铜齐升",
-          "url": "https://wallstreetcn.com/articles/3773010",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 04时42分]"
-        },
-        {
-          "title": "多家A股公司称PPO树脂“满产满销” 算力基建带火高频高速覆铜板主流基材",
-          "url": "https://www.cls.cn/detail/2381678",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
-        },
-        {
-          "title": "国际铜夜盘收跌0.85%，沪铜收跌0.39%，沪铝收涨0.64%，沪锌收跌0.72%，沪铅收涨0.21%，沪镍收涨1.44%，沪锡收跌0.10%。 氧化铝夜盘收涨1.31%，铝合金收涨0.26%。 不锈钢夜盘收涨0.88%。",
-          "url": "https://wallstreetcn.com/livenews/3109584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "摩尔线程",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "摩尔线程MTT S5000（PH100芯片）通过国家《安全可靠测评》",
-          "url": "https://wallstreetcn.com/livenews/3109549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "2026年5月27日银行间外汇市场人民币汇率中间价",
-          "url": "https://flash.jin10.com/detail/20260527091554686800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
+          "time_info": "01时06分"
         }
       ]
     }
