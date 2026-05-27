@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T07:26:58.501538+08:00",
-  "total_titles_processed": 620,
+  "generated_at": "2026-05-27T08:41:54.035493+08:00",
+  "total_titles_processed": 734,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美伊边打边谈，美股开盘半导体股普涨，美光大涨12%，美债收益率回落，金银下挫",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时19分 ~ 04时42分]"
+        },
+        {
+          "title": "中信证券：维持美股好于美债、美元指数有支撑的观点",
+          "url": "https://flash.jin10.com/detail/20260527081804133800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
         },
         {
           "title": "2/10年期美债收益率跌约7个基点",
