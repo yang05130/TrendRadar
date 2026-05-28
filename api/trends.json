@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T08:38:37.714016+08:00",
-  "total_titles_processed": 728,
+  "generated_at": "2026-05-28T09:37:14.281975+08:00",
+  "total_titles_processed": 823,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3773219",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时38分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时38分 ~ 09时37分]"
         },
         {
           "title": "高盛称伊朗战争期间美元走强拖累外国官方美债需求",
@@ -144,6 +145,23 @@
       ]
     },
     {
+      "keyword_group": "人民币",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2026年5月28日银行间外汇市场人民币汇率中间价",
+          "url": "https://flash.jin10.com/detail/20260528091524952800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "泡泡玛特 labubu",
       "match_count": 1,
       "titles": [
@@ -154,9 +172,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时38分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时38分 ~ 09时37分]"
         }
       ]
     }
