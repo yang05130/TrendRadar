@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T13:27:20.912780+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2026-05-28T15:21:54.533745+08:00",
+  "total_titles_processed": 1227,
   "failed_sources": [],
   "trends": [
     {
@@ -57,7 +57,7 @@
     },
     {
       "keyword_group": "铜",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "A股PET铜箔板块震荡走高，铜冠铜箔涨超15%，诺德股份涨停，阿石创涨超10%，大东南、杭电股份、海亮股份、欧莱新材、裕兴股份跟涨。",
@@ -66,7 +66,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -92,6 +92,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "A股电池板块走高，安孚科技、铜冠铜箔、德福科技盘中创新高，德新科技2连板，诺德股份、杭可科技涨停，壹石通涨超10%，瑞泰新材、正业科技、金银河、新宙邦、嘉元科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3110506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "泡泡玛特 labubu",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "知名投资人段永平成为泡泡玛特第二大股东",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33247029",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时38分 ~ 15时21分]"
+        },
+        {
+          "title": "美国网红券商允许散户用AI炒股 段永平举牌泡泡玛特 | 环球市场",
+          "url": "https://www.cls.cn/detail/2383558",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时09分 ~ 15时21分]"
+        },
+        {
+          "title": "段永平首次举牌泡泡玛特，持股占比达到 5.69%，从看不懂到重仓，其投资锚点是什么？如何评价潮玩生意？",
+          "url": "https://www.zhihu.com/question/2043067669423904188",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         }
       ]
     },
@@ -152,35 +204,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "泡泡玛特 labubu",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "知名投资人段永平成为泡泡玛特第二大股东",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33247029",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时38分 ~ 13时27分]"
-        },
-        {
-          "title": "美国网红券商允许散户用AI炒股 段永平举牌泡泡玛特 | 环球市场",
-          "url": "https://www.cls.cn/detail/2383558",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时09分 ~ 13时27分]"
         }
       ]
     },
