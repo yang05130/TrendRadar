@@ -1,337 +1,50 @@
 {
-  "generated_at": "2026-05-28T23:09:12.249875+08:00",
-  "total_titles_processed": 1791,
+  "generated_at": "2026-05-29T01:17:04.899380+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
         {
-          "title": "A股PET铜箔板块震荡走高，铜冠铜箔涨超15%，诺德股份涨停，阿石创涨超10%，大东南、杭电股份、海亮股份、欧莱新材、裕兴股份跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3110481",
+          "title": "国际铜夜盘收涨1.14%，沪铜收涨1.17%，沪铝收涨0.39%，沪锌收涨0.89%，沪铅收跌0.24%，沪镍收涨0.61%，沪锡收涨2.66%。 氧化铝夜盘收涨0.63%，铝合金收涨0.39%。 不锈钢夜盘收涨0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3110873",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时27分"
+          "time_info": "01时17分"
         },
         {
-          "title": "铜市场又现“乾坤大挪移”？关税担忧复燃 贸易商再掀抢运美国浪潮！",
-          "url": "https://www.cls.cn/detail/2383901",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
-        },
-        {
-          "title": "国际铜夜盘收跌0.98%，沪铜收跌0.90%，沪铝收跌1.24%，沪锌收跌0.48%，沪铅收跌0.81%，沪镍收跌0.48%，沪锡收跌0.64%。 氧化铝夜盘收涨0.17%，铝合金收跌1.02%。 不锈钢夜盘收涨0.23%。",
-          "url": "https://wallstreetcn.com/livenews/3110203",
+          "title": "伦敦铜价反弹，投资者关注美国与伊朗谈判进展和需求前景",
+          "url": "https://wallstreetcn.com/livenews/3110871",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23,
-            29
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 03时42分]"
-        },
-        {
-          "title": "伦敦金属交易所(LME)：锌库存减少75吨，铜库存减少2200吨，铝库存减少1250吨，锡库存增加200吨，铅库存增加29650吨，镍库存持平。",
-          "url": "https://wallstreetcn.com/livenews/3110585",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "LME期铜收跌92美元，报13531美元/吨。 LME期铝收跌36美元，报3636美元/吨。 LME期锌收跌20美元，报3512美元/吨。 LME期铅收跌8美元，报2006美元/吨。 LME期镍收跌30美元，报18943美元/吨。 LME期锡收跌353美元，报54393美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3110199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时48分"
-        },
-        {
-          "title": "A股电池板块走高，安孚科技、铜冠铜箔、德福科技盘中创新高，德新科技2连板，诺德股份、杭可科技涨停，壹石通涨超10%，瑞泰新材、正业科技、金银河、新宙邦、嘉元科技跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3110506",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美债遭遇“百年最惨熊市”，“末日博士”彼得·希夫：真正的危机才刚开始",
-          "url": "https://wallstreetcn.com/articles/3773219",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时38分 ~ 13时27分]"
-        },
-        {
-          "title": "高盛称伊朗战争期间美元走强拖累外国官方美债需求",
-          "url": "https://wallstreetcn.com/livenews/3110231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 04时45分]"
-        },
-        {
-          "title": "大摩：对冲基金青睐的美债策略正在收缩，反映出获利机会稀缺",
-          "url": "https://wallstreetcn.com/livenews/3110178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "美国PCE数据公布后，美债、美国股指期货维持稳定。",
-          "url": "https://flash.jin10.com/detail/20260528203324479800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时14分"
-        },
-        {
-          "title": "美债收益率大致持稳",
-          "url": "https://wallstreetcn.com/livenews/3110237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "赛力斯 问界",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "鸿蒙智行问界 M9 上市，售价 47.98 万起，有哪些技术亮点？预计销量如何？",
-          "url": "https://www.zhihu.com/question/2042953295174394055",
-          "source": "知乎",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 04时45分]"
-        },
-        {
-          "title": "余承东称新款问界M9是最强悍SUV",
-          "url": "https://www.toutiao.com/trending/7643427656411217970/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            15,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 04时45分]"
-        },
-        {
-          "title": "余承东：全新一代问界M9上市24小时大定突破20000台。",
-          "url": "https://wallstreetcn.com/livenews/3110738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时14分"
-        },
-        {
-          "title": "问界M9大定24小时破2万台",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8CM9%E5%A4%A7%E5%AE%9A24%E5%B0%8F%E6%97%B6%E7%A0%B42%E4%B8%87%E5%8F%B0%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时14分"
+          "time_info": "01时17分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美元指数短线小幅走低，现报99.22。美股期货短线波动不大，纳斯达克100指数期货跌0.2%。美国10年期国债收益率短线走低，现报4.50%。现货黄金短线拉升约10美元，现报4393.06美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3110759",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时14分"
-        },
-        {
-          "title": "美元指数DXY小幅走低，报99.22。",
-          "url": "https://flash.jin10.com/detail/20260528203142565800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时14分"
-        },
-        {
-          "title": "周三（5月27日）纽约尾盘，ICE美元指数涨0.02%，报99.193点，日内交投区间为98.969-99.260点。 彭博美元指数涨0.08%，报1202.20点，日内交投区间为1199.97-1203.03点。 美元兑日元涨0.14%，报159.53日元，日内交投区间为159.18-159.58日元，整体持续走高。",
-          "url": "https://wallstreetcn.com/livenews/3110235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时45分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.00%，暂报2778.94点，整体处于低位窄幅震荡状态。 MarketVectorTM数字资产100中盘指数跌1.96%，报3006.62点。 MarketVector数字资产100指数跌1.58%，报14826.82点。 目前，Solana涨0.33%，狗狗币涨0.84%，XRP暂时持平。 比特币跌1.12%，暂报75004.38美元，北京时间20:00出现一波显著的下跌行情、北京时间22:29刷新日低至74647.20美元；以太坊跌0.38%，暂报2062.24美元。",
-          "url": "https://wallstreetcn.com/livenews/3110198",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "泡泡玛特 labubu",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "知名投资人段永平成为泡泡玛特第二大股东",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33247029",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12,
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时38分 ~ 21时14分]"
-        },
-        {
-          "title": "从“看不懂”到重仓！段永平斥14亿举牌泡泡玛特成第二大股东",
-          "url": "https://www.cls.cn/detail/2383703",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时15分 ~ 19时14分]"
-        },
-        {
-          "title": "美国网红券商允许散户用AI炒股 段永平举牌泡泡玛特 | 环球市场",
-          "url": "https://www.cls.cn/detail/2383558",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时09分 ~ 17时15分]"
-        },
-        {
-          "title": "段永平首次举牌泡泡玛特，持股占比达到 5.69%，从看不懂到重仓，其投资锚点是什么？如何评价潮玩生意？",
-          "url": "https://www.zhihu.com/question/2043067669423904188",
-          "source": "知乎",
-          "ranks": [
-            16,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 17时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
       "match_count": 1,
       "titles": [
         {
-          "title": "2026年5月28日银行间外汇市场人民币汇率中间价",
-          "url": "https://flash.jin10.com/detail/20260528091524952800",
-          "source": "金十数据",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌5.25%，暂报2631.0点，北京时间04:00-12:00持续下挫，之后持续交投于2600点附近，日线图上，指数自2月份以来持续窄幅震荡于3000-2300点趋近。 MarketVectorTM数字资产100中盘指数跌4.58%，报2869.46点。 MarketVector数字资产100指数跌2.60，报14472.31点。 目前，Solana跌2.36%，狗狗币跌2.59%，XRP暂时持平。 比特币跌2.17%，暂报73265.71美元；以太坊跌2.16%，暂报2009.17美元。",
+          "url": "https://wallstreetcn.com/livenews/3110872",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "文生图 文生视频 AIGC",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "UP主实测AIGC检测工具",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BAIGC%E6%A3%80%E6%B5%8B%E5%B7%A5%E5%85%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时08分 ~ 23时09分]"
+          "time_info": "01时17分"
         }
       ]
     }
