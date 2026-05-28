@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T09:37:14.281975+08:00",
-  "total_titles_processed": 823,
+  "generated_at": "2026-05-28T11:10:13.475428+08:00",
+  "total_titles_processed": 946,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时38分 ~ 09时37分]"
+          "appearance_count": 5,
+          "time_info": "[08时38分 ~ 11时10分]"
         },
         {
           "title": "高盛称伊朗战争期间美元走强拖累外国官方美债需求",
@@ -116,6 +116,34 @@
       ]
     },
     {
+      "keyword_group": "泡泡玛特 labubu",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "知名投资人段永平成为泡泡玛特第二大股东",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33247029",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时38分 ~ 11时10分]"
+        },
+        {
+          "title": "美国网红券商允许散户用AI炒股 段永平举牌泡泡玛特 | 环球市场",
+          "url": "https://www.cls.cn/detail/2383558",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时09分 ~ 11时10分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "铜",
       "match_count": 2,
       "titles": [
@@ -155,26 +183,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "泡泡玛特 labubu",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "知名投资人段永平成为泡泡玛特第二大股东",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33247029",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时38分 ~ 09时37分]"
         }
       ]
     }
