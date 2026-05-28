@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T17:15:56.982892+08:00",
-  "total_titles_processed": 1368,
+  "generated_at": "2026-05-28T19:14:14.361331+08:00",
+  "total_titles_processed": 1520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "A股PET铜箔板块震荡走高，铜冠铜箔涨超15%，诺德股份涨停，阿石创涨超10%，大东南、杭电股份、海亮股份、欧莱新材、裕兴股份跟涨。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
+        },
+        {
+          "title": "铜市场又现“乾坤大挪移”？关税担忧复燃 贸易商再掀抢运美国浪潮！",
+          "url": "https://www.cls.cn/detail/2383901",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时14分]"
         },
         {
           "title": "国际铜夜盘收跌0.98%，沪铜收跌0.90%，沪铝收跌1.24%，沪锌收跌0.48%，沪铅收跌0.81%，沪镍收跌0.48%，沪锡收跌0.64%。 氧化铝夜盘收涨0.17%，铝合金收跌1.02%。 不锈钢夜盘收涨0.23%。",
@@ -37,7 +48,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -128,11 +139,24 @@
           "ranks": [
             11,
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时38分 ~ 17时15分]"
+          "appearance_count": 10,
+          "time_info": "[08时38分 ~ 19时14分]"
+        },
+        {
+          "title": "从“看不懂”到重仓！段永平斥14亿举牌泡泡玛特成第二大股东",
+          "url": "https://www.cls.cn/detail/2383703",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 19时14分]"
         },
         {
           "title": "美国网红券商允许散户用AI炒股 段永平举牌泡泡玛特 | 环球市场",
@@ -146,17 +170,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时09分 ~ 17时15分]"
-        },
-        {
-          "title": "从“看不懂”到重仓！段永平斥14亿举牌泡泡玛特成第二大股东",
-          "url": "https://www.cls.cn/detail/2383703",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
         },
         {
           "title": "段永平首次举牌泡泡玛特，持股占比达到 5.69%，从看不懂到重仓，其投资锚点是什么？如何评价潮玩生意？",
