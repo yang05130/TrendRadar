@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T17:11:39.596583+08:00",
-  "total_titles_processed": 1394,
+  "generated_at": "2026-05-29T19:07:08.107157+08:00",
+  "total_titles_processed": 1520,
   "failed_sources": [],
   "trends": [
     {
@@ -74,7 +74,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -155,6 +155,38 @@
       ]
     },
     {
+      "keyword_group": "泡泡玛特 labubu",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "泡泡玛特王宁：最核心、最本质的是帮助大家去解决对底层快乐的需求",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33255287",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            15,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时08分 ~ 19时07分]"
+        },
+        {
+          "title": "泡泡玛特大涨 段永平单日账面盈利近10亿港元",
+          "url": "https://www.cls.cn/detail/2385274",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 19时07分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "赛力斯 问界",
       "match_count": 1,
       "titles": [
@@ -202,26 +234,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "泡泡玛特 labubu",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "泡泡玛特王宁：最核心、最本质的是帮助大家去解决对底层快乐的需求",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33255287",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时08分 ~ 17时11分]"
         }
       ]
     }
