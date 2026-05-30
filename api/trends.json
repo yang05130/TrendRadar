@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T09:38:59.839005+08:00",
-  "total_titles_processed": 691,
+  "generated_at": "2026-05-30T11:07:45.752815+08:00",
+  "total_titles_processed": 766,
   "failed_sources": [],
   "trends": [
     {
@@ -125,6 +125,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "赛力斯 问界",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "赛力斯将推新汽车品牌，火山引擎深度参与，计划6月发布",
+          "url": "https://wallstreetcn.com/livenews/3111694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
         }
       ]
     }
