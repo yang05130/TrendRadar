@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T08:41:19.801687+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2026-05-30T09:38:59.839005+08:00",
+  "total_titles_processed": 691,
   "failed_sources": [],
   "trends": [
     {
@@ -78,11 +78,12 @@
           "ranks": [
             2,
             9,
-            10
+            10,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时33分 ~ 08时41分]"
+          "appearance_count": 4,
+          "time_info": "[06时33分 ~ 09时38分]"
         },
         {
           "title": "美债价格回吐涨幅，报道称特朗普并没有在周五会议上围绕伊朗问题做决定。",
