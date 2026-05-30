@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T17:38:42.210475+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2026-05-30T18:36:15.718259+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国商品期货交易委员会（CFTC）：截至5月26日当周，COMEX铜期货投机者净多头头寸减少3,025手，降至71,974手。",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时49分 ~ 04时49分]"
+        },
+        {
+          "title": "官方通报博物馆青铜剑疑似拼接",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%8D%9A%E7%89%A9%E9%A6%86%E9%9D%92%E9%93%9C%E5%89%91%E7%96%91%E4%BC%BC%E6%8B%BC%E6%8E%A5%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
         },
         {
           "title": "国际铜夜盘收跌0.38%，沪铜收跌0.39%，沪铝收跌0.31%，沪锌收跌0.86%，沪铅收跌0.06%，沪镍收跌0.80%，沪锡收跌0.27%。 氧化铝夜盘收平，铝合金收跌0.26%。 不锈钢夜盘收跌0.74%。",
