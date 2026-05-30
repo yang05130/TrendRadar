@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T20:27:00.311763+08:00",
-  "total_titles_processed": 1400,
+  "generated_at": "2026-05-30T21:33:23.907586+08:00",
+  "total_titles_processed": 1457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美国商品期货交易委员会（CFTC）：截至5月26日当周，COMEX铜期货投机者净多头头寸减少3,025手，降至71,974手。",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "绍兴一博物馆青铜剑疑似拼接？官方通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33272534",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：5月26日当周，投机者所持COMEX黄金净多头头寸增加2,543手合约，至96,931手合约。 所持COMEX白银净多头头寸减少至10,244手合约，创五周新低。 所持COMEX铜净多头头寸减少至71,974手合约，创三周新低。 所持NYMEX铂金净多头头寸降低至12,934手合约，创三周新低。 所持NYMEX钯金净空头头寸增加至3,773手合约，创八个月新高。",
