@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T13:19:26.633912+08:00",
-  "total_titles_processed": 903,
+  "generated_at": "2026-05-30T15:02:39.291998+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
@@ -142,6 +142,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "泡泡玛特 labubu",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "泡泡玛特大涨 段永平赚了超10亿港元",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%A4%A7%E6%B6%A8+%E6%AE%B5%E6%B0%B8%E5%B9%B3%E8%B5%9A%E4%BA%86%E8%B6%8510%E4%BA%BF%E6%B8%AF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         }
       ]
     }
