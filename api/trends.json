@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T18:40:02.099650+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2026-05-31T19:34:06.141554+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,12 @@
           "url": "https://www.zhihu.com/question/2026537858664546996",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 18时40分]"
+          "appearance_count": 4,
+          "time_info": "[18时39分 ~ 19时34分]"
         },
         {
           "title": "宝鼎科技：未与英伟达有过接触或业务合作 目前未有高速覆铜板M7和M9产品销售",
