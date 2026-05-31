@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T17:04:36.000388+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2026-05-31T18:40:02.099650+08:00",
+  "total_titles_processed": 1145,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "绍兴一博物馆青铜剑疑似拼接？官方通报",
@@ -31,13 +31,24 @@
           "time_info": "[11时09分 ~ 13时32分]"
         },
         {
+          "title": "绍兴一博物馆战国青铜剑被指有拼接痕，官方通报「不存在调包情形，拼接痕为旧修痕迹」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2026537858664546996",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时39分 ~ 18时40分]"
+        },
+        {
           "title": "宝鼎科技：未与英伟达有过接触或业务合作 目前未有高速覆铜板M7和M9产品销售",
           "url": "https://flash.jin10.com/detail/20260531154015750800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         }
