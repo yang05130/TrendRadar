@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T21:17:28.292616+08:00",
-  "total_titles_processed": 1668,
+  "generated_at": "2026-06-02T23:25:27.451318+08:00",
+  "total_titles_processed": 1814,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美国抢铜潮卷土重来！高盛：美国以外市场铜供应缺口暴增10倍",
@@ -27,11 +27,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 21时17分]"
+          "appearance_count": 5,
+          "time_info": "[17时28分 ~ 23时25分]"
         },
         {
           "title": "华西证券：关注电子铜箔国产化以及锂电铜箔进入涨价周期机遇",
@@ -84,7 +85,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -104,11 +105,12 @@
           "url": "https://www.cls.cn/detail/2388313",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时31分 ~ 21时17分]"
+          "appearance_count": 4,
+          "time_info": "[19时31分 ~ 23时25分]"
         },
         {
           "title": "美国进一步调整钢、铝和铜进口关税。 白宫称此次关税调整是暂时的，有效期至2027年12月。 如果外国公司使用的美国钢材占85%，则可适用10%的关税税率。",
@@ -121,6 +123,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时51分 ~ 11时11分]"
+        },
+        {
+          "title": "大量精炼铜或流入美国",
+          "url": "https://wallstreetcn.com/livenews/3113163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "国际铜夜盘收涨1.10%，沪铜收涨1.12%，沪铝收涨0.49%，沪锌收涨0.26%，沪铅收跌0.09%，沪镍收涨1.26%，沪锡收涨2.46%。 氧化铝夜盘收跌0.69%，铝合金收涨0.35%。 不锈钢夜盘收涨1.52%。",
@@ -140,7 +153,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -159,8 +172,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "恒天然：6月2日全球乳品贸易（GDT）拍卖价格指数下降0.6%，奶粉各合同期FAS拍卖均价4,021美元/吨。 批发奶粉价格指数下降2.2%，报3,706美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3113175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
         {
           "title": "美元指数1日上涨",
           "url": "https://flash.jin10.com/detail/20260602034131741800",
