@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T06:44:30.739374+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-06-04T07:34:38.103555+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 06时44分]"
+          "appearance_count": 5,
+          "time_info": "[01时42分 ~ 07时34分]"
         },
         {
           "title": "国际铜夜盘收跌1.05%，沪铜收跌0.95%，沪铝收跌1.14%，沪锌收跌0.59%，沪铅收跌0.87%，沪镍收跌1.94%，沪锡收跌0.68%。 氧化铝夜盘收跌0.07%，铝合金收跌1.07%。 不锈钢夜盘收跌1.89%。",
@@ -47,7 +47,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时44分"
         }
@@ -67,8 +67,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 06时44分]"
+          "appearance_count": 5,
+          "time_info": "[01时42分 ~ 07时34分]"
         },
         {
           "title": "问界回应浙江台州M9起火事故",
@@ -78,11 +78,12 @@
             17,
             10,
             19,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 06时44分]"
+          "appearance_count": 5,
+          "time_info": "[01时42分 ~ 07时34分]"
         }
       ]
     },
