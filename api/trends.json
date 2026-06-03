@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-03T13:40:23.601049+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2026-06-03T15:43:02.861493+08:00",
+  "total_titles_processed": 1266,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时34分 ~ 13时40分]"
+          "appearance_count": 14,
+          "time_info": "[01时34分 ~ 15时43分]"
         },
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时34分 ~ 13时40分]"
+          "appearance_count": 9,
+          "time_info": "[07时34分 ~ 15时43分]"
         },
         {
           "title": "孙正义重登亚洲首富宝座 COMEX铜创下历史新高 | 环球市场",
@@ -41,8 +41,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时34分 ~ 13时40分]"
+          "appearance_count": 9,
+          "time_info": "[07时34分 ~ 15时43分]"
         },
         {
           "title": "国际铜夜盘收涨1.19%，沪铜收涨1.05%，沪铝收涨0.79%，沪锌收涨1.57%，沪铅收涨0.69%，沪镍收跌0.28%，沪锡收涨2.22%。 氧化铝夜盘收跌1.23%，铝合金收涨0.90%。 不锈钢夜盘收涨0.67%。",
@@ -192,8 +192,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时34分 ~ 13时40分]"
+          "appearance_count": 8,
+          "time_info": "[07时34分 ~ 15时43分]"
         },
         {
           "title": "超越美债，黄金成为全球官方储备第一大资产",
@@ -202,7 +202,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -292,7 +292,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         }
