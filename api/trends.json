@@ -1,201 +1,51 @@
 {
-  "generated_at": "2026-06-03T23:35:53.562714+08:00",
-  "total_titles_processed": 1823,
+  "generated_at": "2026-06-04T01:42:24.671842+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 15,
+      "match_count": 3,
       "titles": [
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
           "url": "https://wallstreetcn.com/articles/3773650",
           "source": "华尔街见闻",
           "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时34分 ~ 23时35分]"
-        },
-        {
-          "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
-          "url": "https://wallstreetcn.com/articles/3773656",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时34分 ~ 15时43分]"
-        },
-        {
-          "title": "孙正义重登亚洲首富宝座 COMEX铜创下历史新高 | 环球市场",
-          "url": "https://www.cls.cn/detail/2388980",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时34分 ~ 15时43分]"
-        },
-        {
-          "title": "国际铜夜盘收涨1.19%，沪铜收涨1.05%，沪铝收涨0.79%，沪锌收涨1.57%，沪铅收涨0.69%，沪镍收跌0.28%，沪锡收涨2.22%。 氧化铝夜盘收跌1.23%，铝合金收涨0.90%。 不锈钢夜盘收涨0.67%。",
-          "url": "https://wallstreetcn.com/livenews/3113211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时34分"
+          "time_info": "01时42分"
         },
         {
-          "title": "创业板指大涨超3%，沪指涨0.23%，深成指涨1.67%，培育钻石、铜缆高速连接、光纤、半导体等方向领涨，沪深京三市上涨个股超1900只。",
-          "url": "https://wallstreetcn.com/livenews/3113451",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时11分"
-        },
-        {
-          "title": "LME期铜收涨208美元，报14040美元/吨。 LME期铝收涨36美元，报3752美元/吨。 LME期锌收涨64美元，报3642美元/吨。 LME期铅收涨38美元，报2044美元/吨。 LME期镍收跌3美元，报19248美元/吨。 LME期锡收涨1311美元，报57960美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3113209",
+          "title": "国际铜夜盘收跌1.05%，沪铜收跌0.95%，沪铝收跌1.14%，沪锌收跌0.59%，沪铅收跌0.87%，沪镍收跌1.94%，沪锡收跌0.68%。 氧化铝夜盘收跌0.07%，铝合金收跌1.07%。 不锈钢夜盘收跌1.89%。",
+          "url": "https://wallstreetcn.com/livenews/3113948",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时34分"
+          "time_info": "01时42分"
         },
         {
-          "title": "美铜伦铜差值走阔 铜价短中期或仍具备上行动能",
-          "url": "https://flash.jin10.com/detail/20260603065927721800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "创业板指日内涨幅达2%，光纤、CPO、铜缆高速连接概念涨幅居前。",
-          "url": "https://flash.jin10.com/detail/20260603095028743800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "中信证券：年内铜价高点有望冲击15000美元/吨",
-          "url": "https://wallstreetcn.com/livenews/3113368",
+          "title": "伦铜回撤，中东局势重新紧张，投资者风险偏好情绪回落",
+          "url": "https://wallstreetcn.com/livenews/3113944",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时52分 ~ 09时56分]"
-        },
-        {
-          "title": "中信证券：年内铜价高点有望冲击15000美元/吨",
-          "url": "https://flash.jin10.com/detail/20260603081825136800",
-          "source": "金十数据",
-          "ranks": [
-            13
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时52分"
-        },
-        {
-          "title": "A股电池产业链震荡拉升，湘潭电化涨停，杭可科技、豪鹏科技、德新科技、诺德股份、铜冠铜箔跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3113437",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时11分"
-        },
-        {
-          "title": "商品期货开盘，集运欧线主力合约跌超2%，多晶硅、沥青、氧化铝跌超1%。沪锡涨超2%，20号胶、沪锌、国际铜、沪铜、焦炭涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3113387",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "创业板指涨超2%，沪指涨0.17%，深成指涨1.35%，铜缆高速连接、光纤、CPO、半导体等方向领涨，沪深京三市上涨个股超2300只。",
-          "url": "https://wallstreetcn.com/livenews/3113422",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时11分"
-        },
-        {
-          "title": "铜缆高速连接概念大幅走强，金田股份、鑫科材料双双涨停，金信诺涨超15%，显盈科技、华工科技、神宇股份、中天科技涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3113413",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时11分"
-        },
-        {
-          "title": "创业板指涨超1%，沪指跌0.24%，深成指涨0.5%，铜缆高速连接、光纤、CPO、半导体等方向领涨，沪深京三市上涨个股超1400只。",
-          "url": "https://wallstreetcn.com/livenews/3113409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时11分"
+          "time_info": "01时42分"
         }
       ]
     },
     {
       "keyword_group": "赛力斯 问界",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "问界回应浙江台州M9起火事故",
-          "url": "https://www.toutiao.com/trending/7647012196665753646/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            1,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时38分 ~ 23时35分]"
-        },
         {
           "title": "问界回应浙江台州一辆M9起火事故：非车辆自身原因导致",
           "url": "https://m.thepaper.cn/newsDetail_forward_33299658",
@@ -203,190 +53,54 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时35分"
+          "time_info": "01时42分"
         },
         {
-          "title": "当小米车主遇到问界车主",
-          "url": "https://www.douyin.com/hot/2520867",
-          "source": "抖音",
+          "title": "问界回应浙江台州M9起火事故",
+          "url": "https://www.toutiao.com/trending/7647012196665753646/",
+          "source": "今日头条",
           "ranks": [
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时52分 ~ 11时11分]"
-        },
-        {
-          "title": "问界回应浙江台州M9事故",
-          "url": "https://www.douyin.com/hot/2522135",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 17时38分]"
-        },
-        {
-          "title": "问界回应M9起火：前车掉落金属部件拖行后致起火， 非车辆自身导致",
-          "url": "https://wallstreetcn.com/livenews/3113498",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "欧央行最新报告：黄金历史性超越美债，成为全球第一大储备资产",
-          "url": "https://wallstreetcn.com/articles/3773688",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时34分 ~ 19时38分]"
-        },
-        {
-          "title": "黄金超越美债引发储备体系重估，美国非农前哨牵动加息预期 | 每日市场观察06.03",
-          "url": "https://flash.jin10.com/detail/20260603173402031800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时38分"
-        },
-        {
-          "title": "超越美债，黄金成为全球官方储备第一大资产",
-          "url": "https://news.ifeng.com/c/8teZCHEvNB0",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时40分"
-        },
-        {
-          "title": "周二（6月2日）纽约尾盘，美国10年期基准国债收益率跌0.98个基点，报4.4433%，在V形反转行情中、于北京时间19:10刷新日低至4.4217%。 两年期美债收益率涨1.03个基点，报4.0431%，19:06也曾刷新日低至4.0060%。",
-          "url": "https://wallstreetcn.com/livenews/3113308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时42分"
-        },
-        {
-          "title": "欧洲央行：黄金替代美债成全球官方储备第一大资产",
-          "url": "https://wallstreetcn.com/livenews/3113185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
+          "time_info": "01时42分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "标普500指数总市值历史上首次突破69万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3113200",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.85%，暂报2701.85点。 MarketVectorTM数字资产100中盘指数涨1.30%，报2908.80点。 MarketVector数字资产100指数跌2.75%，报13212.00点。 目前，Solana跌3.70%，狗狗币跌1.92%，XRP持平。 比特币跌1.78%，暂报65764.47美元，日内主要出现两波下跌行情，北京时间11:50跌至65391.95美元，目前正测试这一低位；以太坊跌4.10%，暂报1824.89美元，00:27刷新日低至1809.278美元。",
+          "url": "https://wallstreetcn.com/livenews/3113946",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "美元指数2日上涨",
-          "url": "https://flash.jin10.com/detail/20260603035246747800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "周二（6月2日）纽约尾盘，ICE美元指数持平，报99.205点，日内交投区间为99.049-99.329点，整体呈现出W形反转。 彭博美元指数跌0.03%，报1201.62点，日内交投区间为1200.43-1202.78点。 美元兑日元涨0.16%，报159.92日元，日内交投区间为159.60-159.99日元。",
-          "url": "https://wallstreetcn.com/livenews/3113255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
+          "time_info": "01时42分"
         }
       ]
     },
     {
       "keyword_group": "泡泡玛特 labubu",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "段永平再次增持泡泡玛特H股，持股比例升至6.04％",
-          "url": "https://wallstreetcn.com/livenews/3113680",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时38分"
-        },
-        {
-          "title": "据港交所权益披露，段永平在泡泡玛特H股的持股比例于5月28日从5.69%升至6.04%。",
-          "url": "https://flash.jin10.com/detail/20260603171757981800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "5090 nvidia",
       "match_count": 1,
       "titles": [
         {
-          "title": "如何评价 NVIDIA RTX Spark？",
-          "url": "https://www.zhihu.com/question/2044792103595770822",
-          "source": "知乎",
+          "title": "段永平举牌泡泡玛特3日后再增持 持股总市值近145亿港元",
+          "url": "https://www.cls.cn/detail/2389833",
+          "source": "财联社热门",
           "ranks": [
-            16,
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时34分 ~ 09时56分]"
+          "appearance_count": 1,
+          "time_info": "01时42分"
         }
       ]
     }
