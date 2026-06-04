@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T09:55:24.028524+08:00",
-  "total_titles_processed": 786,
+  "generated_at": "2026-06-04T11:10:31.870152+08:00",
+  "total_titles_processed": 898,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -47,9 +47,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "印度尼西亚矿业部：1月至4月铜精矿产量为422,510公吨，阴极铜产量为83,280公吨。",
+          "url": "https://flash.jin10.com/detail/20260604104114119800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "纽约期金跌超1.3%，逼近4400美元，纽约期银跌3.5%，纽约铜跌约3%",
@@ -76,11 +87,12 @@
             9,
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时42分 ~ 09时55分]"
+          "appearance_count": 8,
+          "time_info": "[01时42分 ~ 11时10分]"
         },
         {
           "title": "问界回应浙江台州M9起火事故",
