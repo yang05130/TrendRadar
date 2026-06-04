@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T13:38:49.141458+08:00",
-  "total_titles_processed": 1071,
+  "generated_at": "2026-06-04T15:39:44.636303+08:00",
+  "total_titles_processed": 1220,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -80,7 +80,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -111,11 +111,12 @@
             8,
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时42分 ~ 13时38分]"
+          "appearance_count": 10,
+          "time_info": "[01时42分 ~ 15时39分]"
         },
         {
           "title": "问界回应浙江台州M9起火事故",
@@ -163,6 +164,35 @@
       ]
     },
     {
+      "keyword_group": "泡泡玛特 labubu",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "段永平举牌泡泡玛特3日后再增持 持股总市值近145亿港元",
+          "url": "https://www.cls.cn/detail/2389833",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时42分 ~ 09时55分]"
+        },
+        {
+          "title": "泡泡玛特告奈雪的茶获赔32万",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%91%8A%E5%A5%88%E9%9B%AA%E7%9A%84%E8%8C%B6%E8%8E%B7%E8%B5%9432%E4%B8%87%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -176,24 +206,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "泡泡玛特 labubu",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "段永平举牌泡泡玛特3日后再增持 持股总市值近145亿港元",
-          "url": "https://www.cls.cn/detail/2389833",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时42分 ~ 09时55分]"
         }
       ]
     }
