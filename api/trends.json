@@ -1,279 +1,39 @@
 {
-  "generated_at": "2026-06-04T23:04:15.859782+08:00",
-  "total_titles_processed": 1757,
+  "generated_at": "2026-06-05T01:04:19.228732+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "铜",
-      "match_count": 9,
+      "keyword_group": "泡泡玛特 labubu",
+      "match_count": 1,
       "titles": [
         {
-          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
-          "url": "https://wallstreetcn.com/articles/3773650",
-          "source": "华尔街见闻",
+          "title": "泡泡玛特告奈雪的茶赢了",
+          "url": "https://www.cls.cn/detail/2390796",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "铜",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "LME期铜收涨107美元，报13932美元/吨。 LME期铝收跌38美元，报3666美元/吨。 LME期锌收跌22美元，报3588美元/吨。 LME期铅收跌6美元，报2017美元/吨。 LME期镍收跌182美元，报18689美元/吨。 LME期锡收跌1664美元，报55744美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3114554",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时42分 ~ 07时34分]"
-        },
-        {
-          "title": "A股铜缆高速连接概念反复活跃，鼎通科技20cm涨停，奕东电子涨超15%，鑫科材料此前封板，金信诺、中航光电、意华股份跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3114214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "国际铜夜盘收跌1.05%，沪铜收跌0.95%，沪铝收跌1.14%，沪锌收跌0.59%，沪铅收跌0.87%，沪镍收跌1.94%，沪锡收跌0.68%。 氧化铝夜盘收跌0.07%，铝合金收跌1.07%。 不锈钢夜盘收跌1.89%。",
-          "url": "https://wallstreetcn.com/livenews/3113948",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "伦铜回撤，中东局势重新紧张，投资者风险偏好情绪回落",
-          "url": "https://wallstreetcn.com/livenews/3113944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "商品期货开盘，焦煤主力合约涨超3%，焦炭、菜籽油涨超2%。沪银、沪镍跌超2%，不锈钢、20号胶、沪铝、铝合金、国际铜、沪铜跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3114103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "印度尼西亚矿业部：1月至4月铜精矿产量为422,510公吨，阴极铜产量为83,280公吨。",
-          "url": "https://flash.jin10.com/detail/20260604104114119800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "伦敦金属交易所：铜库存减少2575吨，铝库存减少250吨，锌库存减少625吨，镍库存持平，锡库存减少40吨，铅库存减少1150吨。",
-          "url": "https://wallstreetcn.com/livenews/3114297",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "A股铜缆高速连接板块午后短线拉升，鼎通科技20cm涨停，奕东电子涨超14%，鑫科材料此前涨停，金信诺、中航光电、意华股份跟涨。",
-          "url": "https://flash.jin10.com/detail/20260604130400756800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "纽约期金跌超1.3%，逼近4400美元，纽约期银跌3.5%，纽约铜跌约3%",
-          "url": "https://wallstreetcn.com/livenews/3114022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "欧洲央行称黄金替代美债成全球官方储备第一大资产，黄金占比升至 27%，美债占比降至 22%，如何解读？",
-          "url": "https://www.zhihu.com/question/2045468542531851848",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时05分"
-        },
-        {
-          "title": "DeepTalk：国际现货黄金压倒美债，铜矿的机会来了？",
-          "url": "https://flash.jin10.com/detail/20260604203354569800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "美国国债收益率在初请失业金数据公布后维持下跌，10年期美债收益率最新下跌3.8个基点，报4.453%。",
-          "url": "https://flash.jin10.com/detail/20260604203112907800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "2/10年期美债收益率涨约4个基点",
-          "url": "https://wallstreetcn.com/livenews/3113992",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "泡泡玛特 labubu",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "泡泡玛特告奈雪的茶获赔32万",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%91%8A%E5%A5%88%E9%9B%AA%E7%9A%84%E8%8C%B6%E8%8E%B7%E8%B5%9432%E4%B8%87%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时39分 ~ 21时05分]"
-        },
-        {
-          "title": "段永平举牌泡泡玛特3日后再增持 持股总市值近145亿港元",
-          "url": "https://www.cls.cn/detail/2389833",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时42分 ~ 09时55分]"
-        },
-        {
-          "title": "段永平跻身泡泡玛特第二大股东后继续增持，持股比例超6%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33303128",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时03分 ~ 23时04分]"
-        },
-        {
-          "title": "泡泡玛特告奈雪的茶获赔32万",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%91%8A%E5%A5%88%E9%9B%AA%E7%9A%84%E8%8C%B6%E8%8E%B7%E8%B5%9432%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 17时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "赛力斯 问界",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "问界回应浙江台州一辆M9起火事故：非车辆自身原因导致",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33299658",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10,
-            8,
-            7,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时42分 ~ 15时39分]"
-        },
-        {
-          "title": "问界回应浙江台州M9起火事故",
-          "url": "https://www.toutiao.com/trending/7647012196665753646/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            10,
-            19,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时42分 ~ 07时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数3日上涨",
-          "url": "https://flash.jin10.com/detail/20260604044651294800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.85%，暂报2701.85点。 MarketVectorTM数字资产100中盘指数涨1.30%，报2908.80点。 MarketVector数字资产100指数跌2.75%，报13212.00点。 目前，Solana跌3.70%，狗狗币跌1.92%，XRP持平。 比特币跌1.78%，暂报65764.47美元，日内主要出现两波下跌行情，北京时间11:50跌至65391.95美元，目前正测试这一低位；以太坊跌4.10%，暂报1824.89美元，00:27刷新日低至1809.278美元。",
-          "url": "https://wallstreetcn.com/livenews/3113946",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
+          "time_info": "01时04分"
         }
       ]
     }
