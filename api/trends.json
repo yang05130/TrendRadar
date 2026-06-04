@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T07:34:38.103555+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2026-06-04T08:52:36.261843+08:00",
+  "total_titles_processed": 692,
   "failed_sources": [],
   "trends": [
     {
@@ -67,8 +67,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时42分 ~ 07时34分]"
+          "appearance_count": 6,
+          "time_info": "[01时42分 ~ 08时52分]"
         },
         {
           "title": "问界回应浙江台州M9起火事故",
@@ -145,8 +145,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 06时44分]"
+          "appearance_count": 5,
+          "time_info": "[01时42分 ~ 08时52分]"
         }
       ]
     }
