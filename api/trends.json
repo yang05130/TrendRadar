@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T21:05:05.168893+08:00",
-  "total_titles_processed": 1629,
+  "generated_at": "2026-06-04T23:04:15.859782+08:00",
+  "total_titles_processed": 1757,
   "failed_sources": [],
   "trends": [
     {
@@ -130,7 +130,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -141,7 +141,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -160,7 +160,7 @@
     },
     {
       "keyword_group": "泡泡玛特 labubu",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "泡泡玛特告奈雪的茶获赔32万",
@@ -186,6 +186,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时42分 ~ 09时55分]"
+        },
+        {
+          "title": "段永平跻身泡泡玛特第二大股东后继续增持，持股比例超6%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33303128",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时03分 ~ 23时04分]"
         },
         {
           "title": "泡泡玛特告奈雪的茶获赔32万",
