@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T08:52:36.261843+08:00",
-  "total_titles_processed": 692,
+  "generated_at": "2026-06-04T09:55:24.028524+08:00",
+  "total_titles_processed": 786,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -41,6 +41,17 @@
           "time_info": "01时42分"
         },
         {
+          "title": "商品期货开盘，焦煤主力合约涨超3%，焦炭、菜籽油涨超2%。沪银、沪镍跌超2%，不锈钢、20号胶、沪铝、铝合金、国际铜、沪铜跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3114103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
           "title": "纽约期金跌超1.3%，逼近4400美元，纽约期银跌3.5%，纽约铜跌约3%",
           "url": "https://wallstreetcn.com/livenews/3114022",
           "source": "华尔街见闻-快讯",
@@ -64,11 +75,12 @@
           "ranks": [
             9,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时42分 ~ 08时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时42分 ~ 09时55分]"
         },
         {
           "title": "问界回应浙江台州M9起火事故",
@@ -145,8 +157,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时42分 ~ 08时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时42分 ~ 09时55分]"
         }
       ]
     }
