@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T19:05:51.692778+08:00",
-  "total_titles_processed": 1494,
+  "generated_at": "2026-06-04T21:05:05.168893+08:00",
+  "total_titles_processed": 1629,
   "failed_sources": [],
   "trends": [
     {
@@ -109,9 +109,72 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "欧洲央行称黄金替代美债成全球官方储备第一大资产，黄金占比升至 27%，美债占比降至 22%，如何解读？",
+          "url": "https://www.zhihu.com/question/2045468542531851848",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "DeepTalk：国际现货黄金压倒美债，铜矿的机会来了？",
+          "url": "https://flash.jin10.com/detail/20260604203354569800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
+          "title": "美国国债收益率在初请失业金数据公布后维持下跌，10年期美债收益率最新下跌3.8个基点，报4.453%。",
+          "url": "https://flash.jin10.com/detail/20260604203112907800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
+          "title": "2/10年期美债收益率涨约4个基点",
+          "url": "https://wallstreetcn.com/livenews/3113992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        }
+      ]
+    },
+    {
       "keyword_group": "泡泡玛特 labubu",
       "match_count": 3,
       "titles": [
+        {
+          "title": "泡泡玛特告奈雪的茶获赔32万",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%91%8A%E5%A5%88%E9%9B%AA%E7%9A%84%E8%8C%B6%E8%8E%B7%E8%B5%9432%E4%B8%87%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时39分 ~ 21时05分]"
+        },
         {
           "title": "段永平举牌泡泡玛特3日后再增持 持股总市值近145亿港元",
           "url": "https://www.cls.cn/detail/2389833",
@@ -123,18 +186,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时42分 ~ 09时55分]"
-        },
-        {
-          "title": "泡泡玛特告奈雪的茶获赔32万",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%91%8A%E5%A5%88%E9%9B%AA%E7%9A%84%E8%8C%B6%E8%8E%B7%E8%B5%9432%E4%B8%87%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时39分 ~ 17时21分]"
         },
         {
           "title": "泡泡玛特告奈雪的茶获赔32万",
@@ -184,34 +235,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时42分 ~ 07时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "欧洲央行称黄金替代美债成全球官方储备第一大资产，黄金占比升至 27%，美债占比降至 22%，如何解读？",
-          "url": "https://www.zhihu.com/question/2045468542531851848",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时05分"
-        },
-        {
-          "title": "2/10年期美债收益率涨约4个基点",
-          "url": "https://wallstreetcn.com/livenews/3113992",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
         }
       ]
     },
