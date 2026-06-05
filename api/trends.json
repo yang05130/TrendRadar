@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T06:28:12.259500+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2026-06-06T07:28:37.715090+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
@@ -132,8 +132,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 06时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时49分 ~ 07时28分]"
         },
         {
           "title": "非农大超预期，美债收益率全线拉升，纳指重挫3.2%，AI剧烈回调，WTI原油下跌3.3%",
@@ -206,9 +206,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时28分]"
         },
         {
           "title": "美元指数DXY突破100，日内涨0.56%。",
