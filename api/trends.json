@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T20:28:53.509318+08:00",
-  "total_titles_processed": 1514,
+  "generated_at": "2026-06-06T21:34:01.330604+08:00",
+  "total_titles_processed": 1589,
   "failed_sources": [],
   "trends": [
     {
@@ -132,8 +132,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时07分 ~ 20时28分]"
+          "appearance_count": 13,
+          "time_info": "[11时07分 ~ 21时34分]"
         },
         {
           "title": "美元指数在非农日涨超0.6%，使得本周涨幅扩大至超过1.1%",
