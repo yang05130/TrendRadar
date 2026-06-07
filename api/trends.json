@@ -1,52 +1,22 @@
 {
-  "generated_at": "2026-06-07T23:32:27.871509+08:00",
-  "total_titles_processed": 1538,
+  "generated_at": "2026-06-08T00:32:11.648690+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "高盛金属主管谈“金银铜铝”：金银承压，铜有风险，铝最确定",
           "url": "https://wallstreetcn.com/articles/3774029",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7,
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时25分 ~ 23时32分]"
-        },
-        {
-          "title": "原来青铜器刚铸成时是金色的",
-          "url": "https://www.toutiao.com/trending/7648272294901039142/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国芯片股单日蒸发逾万亿美元市值，费城半导体指数创六年最大单日跌幅",
-          "url": "https://wallstreetcn.com/articles/3773996",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时27分]"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         }
       ]
     }
