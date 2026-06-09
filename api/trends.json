@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T15:16:06.452681+08:00",
-  "total_titles_processed": 1311,
+  "generated_at": "2026-06-09T17:09:49.141756+08:00",
+  "total_titles_processed": 1470,
   "failed_sources": [],
   "trends": [
     {
@@ -76,6 +76,58 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "30年期美债收益率涨约4个基点",
+          "url": "https://wallstreetcn.com/livenews/3116333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时54分 ~ 06时33分]"
+        },
+        {
+          "title": "伊以交火“点到为止”！美债却遗憾未能“止血”……",
+          "url": "https://www.cls.cn/detail/2394275",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
+          "title": "美债市场向美联储主席沃什发出明确信号：利率不够高",
+          "url": "https://wallstreetcn.com/livenews/3116675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
+          "title": "世界杯或分散交易员注意力 花旗称赛期欧美债市波动通常减弱",
+          "url": "https://wallstreetcn.com/livenews/3116529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -113,36 +165,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "30年期美债收益率涨约4个基点",
-          "url": "https://wallstreetcn.com/livenews/3116333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时54分 ~ 06时33分]"
-        },
-        {
-          "title": "世界杯或分散交易员注意力 花旗称赛期欧美债市波动通常减弱",
-          "url": "https://wallstreetcn.com/livenews/3116529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
         }
       ]
     },
