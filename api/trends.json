@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T08:41:09.246802+08:00",
-  "total_titles_processed": 754,
+  "generated_at": "2026-06-09T09:39:14.001175+08:00",
+  "total_titles_processed": 877,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "source": "百度热搜",
           "ranks": [
             12,
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时28分 ~ 08时41分]"
+          "appearance_count": 5,
+          "time_info": "[07时28分 ~ 09时39分]"
         },
         {
           "title": "LME期铜收涨96美元，报13616美元/吨。 LME期铝收涨12美元，报3604美元/吨。 LME期锌收涨7美元，报3537美元/吨。 LME期铅收跌15美元，报1990美元/吨。 LME期镍收跌240美元，报18341美元/吨。 LME期锡收跌656美元，报52279美元/吨。 LME期钴收平，报56290美元/吨。",
