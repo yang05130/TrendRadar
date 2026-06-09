@@ -1,22 +1,62 @@
 {
-  "generated_at": "2026-06-10T00:56:04.982345+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-10T01:42:10.058884+08:00",
+  "total_titles_processed": 369,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股费城半导体指数狂泄超千点，纳斯达克100指数跌超3.5%，标普跌1.8%，道指跌0.8%，纳指跌3%。 现货白银日内跌幅达4.5%，报64.98美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3116953",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时42分]"
+        },
+        {
+          "title": "美元指数DXY在美国总统特朗普指责伊朗击落直升机后转涨，目前涨0.01%，报100.01。欧元兑美元EUR/USD的涨幅回落，目前上涨0.03%，报1.1537。",
+          "url": "https://flash.jin10.com/detail/20260610005846759800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "铜",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国际铜夜盘收跌0.37%，沪铜收跌0.34%，沪铝收跌0.67%，沪锌收涨0.14%，沪铅收跌0.40%，沪镍收跌1.34%，沪锡收跌1.10%。 氧化铝夜盘收涨0.68%，铝合金收平。 不锈钢夜盘收跌0.69%。",
+          "url": "https://wallstreetcn.com/livenews/3116964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "01时42分"
+        },
+        {
+          "title": "LME期铜收平，报13615美元/吨。 LME期铝收跌56美元，报3548美元/吨。 LME期锌收涨18美元，报3556美元/吨。 LME期铅收跌6美元，报1984美元/吨。 LME期镍收跌277美元，报18064美元/吨。 LME期锡收涨223美元，报52502美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3116962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
         }
       ]
     }
