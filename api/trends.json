@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T15:32:07.254480+08:00",
-  "total_titles_processed": 1304,
+  "generated_at": "2026-06-10T17:15:30.302796+08:00",
+  "total_titles_processed": 1439,
   "failed_sources": [],
   "trends": [
     {
@@ -52,6 +52,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "铜",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国际铜夜盘收跌0.37%，沪铜收跌0.34%，沪铝收跌0.67%，沪锌收涨0.14%，沪铅收跌0.40%，沪镍收跌1.34%，沪锡收跌1.10%。 氧化铝夜盘收涨0.68%，铝合金收平。 不锈钢夜盘收跌0.69%。",
+          "url": "https://wallstreetcn.com/livenews/3116964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 02时46分]"
+        },
+        {
+          "title": "LME期铜收平，报13615美元/吨。 LME期铝收跌56美元，报3548美元/吨。 LME期锌收涨18美元，报3556美元/吨。 LME期铅收跌6美元，报1984美元/吨。 LME期镍收跌277美元，报18064美元/吨。 LME期锡收涨223美元，报52502美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3116962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 02时46分]"
+        },
+        {
+          "title": "伦敦金属交易所(LME)：镍库存减少138吨，铅库存减少825吨，铜库存减少3075吨，锡库存减少50吨，铝库存减少2925吨，锌库存减少825吨。",
+          "url": "https://wallstreetcn.com/livenews/3117327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         }
       ]
     },
@@ -112,36 +153,6 @@
       ]
     },
     {
-      "keyword_group": "铜",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国际铜夜盘收跌0.37%，沪铜收跌0.34%，沪铝收跌0.67%，沪锌收涨0.14%，沪铅收跌0.40%，沪镍收跌1.34%，沪锡收跌1.10%。 氧化铝夜盘收涨0.68%，铝合金收平。 不锈钢夜盘收跌0.69%。",
-          "url": "https://wallstreetcn.com/livenews/3116964",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 02时46分]"
-        },
-        {
-          "title": "LME期铜收平，报13615美元/吨。 LME期铝收跌56美元，报3548美元/吨。 LME期锌收涨18美元，报3556美元/吨。 LME期铅收跌6美元，报1984美元/吨。 LME期镍收跌277美元，报18064美元/吨。 LME期锡收涨223美元，报52502美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3116962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 02时46分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "赛力斯 问界",
       "match_count": 1,
       "titles": [
@@ -155,6 +166,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "摩尔线程",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "摩尔线程MusaCoder正式开源：基于国产全功能GPU全栈训练，性能比肩国际SOTA",
+          "url": "https://wallstreetcn.com/livenews/3117337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         }
       ]
     }
