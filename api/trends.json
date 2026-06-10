@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T06:38:02.252198+08:00",
-  "total_titles_processed": 603,
+  "generated_at": "2026-06-11T07:33:28.530616+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
@@ -39,6 +39,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "赛力斯 问界",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "赛力斯和豆包合作造车",
+          "url": "https://s.weibo.com/weibo?q=%E8%B5%9B%E5%8A%9B%E6%96%AF%E5%92%8C%E8%B1%86%E5%8C%85%E5%90%88%E4%BD%9C%E9%80%A0%E8%BD%A6&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         }
       ]
     },
