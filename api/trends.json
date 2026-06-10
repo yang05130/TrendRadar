@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T09:47:40.740666+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2026-06-10T11:09:13.407444+08:00",
+  "total_titles_processed": 996,
   "failed_sources": [],
   "trends": [
     {
@@ -110,6 +110,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 02时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "赛力斯 问界",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港股新能源车企股走弱，小鹏集团(09868.HK)、蔚来-SW(09866.HK)、零跑汽车(09863.HK)均跌超5%，赛力斯(09927.HK)、小米集团(01810.HK)、比亚迪股份(01211.HK)、理想汽车(02015.HK)等个股跟跌。",
+          "url": "https://flash.jin10.com/detail/20260610102317486800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时09分"
         }
       ]
     }
