@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T19:33:03.446039+08:00",
-  "total_titles_processed": 1628,
+  "generated_at": "2026-06-11T21:19:06.766837+08:00",
+  "total_titles_processed": 1786,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "LME期铜收跌100美元，报13516美元/吨。 LME期铝收跌82美元，报3466美元/吨。 LME期锌收跌64美元，报3491美元/吨。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "夜盘期货开盘，20号胶、乙二醇、纸浆、橡胶等上涨；沪银跌逾1%，沪金、原油、沥青、国际铜等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3118211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "中色股份：公司获得蒙古国铜冶炼项目最高评分",
@@ -106,6 +117,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金期货价格较近期高点下跌 20%，四年来首次正式迈入熊市，黄金到底为什么崩了？",
+          "url": "https://www.zhihu.com/question/2048414803740160205",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 21时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数触及日内高点，此前特朗普表示，美国将于11日晚对伊朗进行重创。",
+          "url": "https://wallstreetcn.com/livenews/3118194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         }
       ]
     }
