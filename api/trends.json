@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T15:42:26.422714+08:00",
-  "total_titles_processed": 1340,
+  "generated_at": "2026-06-11T17:32:14.341855+08:00",
+  "total_titles_processed": 1494,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "LME期铜收跌100美元，报13516美元/吨。 LME期铝收跌82美元，报3466美元/吨。 LME期锌收跌64美元，报3491美元/吨。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "中色股份：公司获得蒙古国铜冶炼项目最高评分",
+          "url": "https://flash.jin10.com/detail/20260611165908817800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "周三（6月10日）纽约尾盘，现货黄金下跌大约4.40%，报4069.40美元/盎司，跌穿3月23日底部4407.18美元、逼近2025年11月24日底部4040.25美元、当年11月18日盘中最低位3998.08美元。 COMEX黄金期货跌4.40%，刷新日低至4092.30美元/盎司。 现货白银跌3.0%，报63.33美元/盎司。 COMEX白银期货跌2.35%，报63.710美元/盎司。 COMEX铜期货跌2.30%，刷新日低至6.1895美元/磅。 现货铂金跌3.76%，现货钯金跌1.01%。",
@@ -54,6 +65,34 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "机构：短期美债对CPI的反应通常不如就业数据敏感",
+          "url": "https://flash.jin10.com/detail/20260611171154825800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
+          "title": "10年期美债收益率在美国CPI通胀数据发布日涨约2.4个基点，两年期实际收益率涨4.8个基点",
+          "url": "https://wallstreetcn.com/livenews/3117678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "赛力斯 问界",
       "match_count": 1,
       "titles": [
@@ -67,23 +106,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "10年期美债收益率在美国CPI通胀数据发布日涨约2.4个基点，两年期实际收益率涨4.8个基点",
-          "url": "https://wallstreetcn.com/livenews/3117678",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时55分"
         }
       ]
     }
