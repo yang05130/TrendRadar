@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T11:09:51.657269+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-06-12T13:36:46.930866+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "泡泡玛特 labubu",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "中国队首发 labubu马宁",
@@ -113,6 +113,17 @@
           "time_info": "[08时48分 ~ 11时09分]"
         },
         {
+          "title": "泡泡玛特(09992.HK)涨超3%。",
+          "url": "https://flash.jin10.com/detail/20260612131911708800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
           "title": "Labubu都进世界杯了",
           "url": "https://www.douyin.com/hot/2531424",
           "source": "抖音",
@@ -136,7 +147,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
         },
@@ -170,7 +181,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
         }
@@ -254,6 +265,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "赛力斯 问界",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港股新能源车企股午后走强，理想汽车(02015.HK)涨超8%，赛力斯(09927.HK)涨超4%，长城汽车(02333.HK)、小鹏集团(09868.HK)、零跑汽车(09863.HK)、小米集团(01810.HK)等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260612132422169800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
         }
       ]
     },
