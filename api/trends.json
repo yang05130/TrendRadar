@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T07:33:39.307411+08:00",
-  "total_titles_processed": 680,
+  "generated_at": "2026-06-12T08:48:59.420995+08:00",
+  "total_titles_processed": 801,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "泡泡玛特 labubu",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "Labubu现身世界杯开幕式",
@@ -17,8 +17,21 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时01分 ~ 08时48分]"
+        },
+        {
+          "title": "中国队首发 labubu马宁",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%A6%96%E5%8F%91%20labubu%E9%A9%AC%E5%AE%81&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[03时01分 ~ 07时33分]"
+          "time_info": "[03时58分 ~ 08时48分]"
         },
         {
           "title": "labubu都去世界杯了",
@@ -38,24 +51,12 @@
           "source": "抖音",
           "ranks": [
             9,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时01分 ~ 07时33分]"
-        },
-        {
-          "title": "中国队首发 labubu马宁",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%A6%96%E5%8F%91%20labubu%E9%A9%AC%E5%AE%81&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时58分 ~ 07时33分]"
+          "appearance_count": 9,
+          "time_info": "[03时01分 ~ 08时48分]"
         },
         {
           "title": "labubu都进世界杯了",
@@ -66,11 +67,45 @@
             5,
             8,
             14,
-            13
+            13,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时01分 ~ 07时33分]"
+          "appearance_count": 9,
+          "time_info": "[03时01分 ~ 08时48分]"
+        },
+        {
+          "title": "世界杯中国队首发：LABUBU和马宁 ​",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%A6%96%E5%8F%91%EF%BC%9ALABUBU%E5%92%8C%E9%A9%AC%E5%AE%81+%E2%80%8B",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
+        },
+        {
+          "title": "Labubu都进世界杯了",
+          "url": "https://www.douyin.com/hot/2531424",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
+        },
+        {
+          "title": "LABUBU都去世界杯了",
+          "url": "https://www.baidu.com/s?wd=LABUBU%E9%83%BD%E5%8E%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
         }
       ]
     },
