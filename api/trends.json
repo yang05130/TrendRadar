@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T19:19:04.149468+08:00",
-  "total_titles_processed": 1642,
+  "generated_at": "2026-06-12T21:09:55.901454+08:00",
+  "total_titles_processed": 1770,
   "failed_sources": [],
   "trends": [
     {
@@ -80,11 +80,12 @@
           "url": "https://s.weibo.com/weibo?q=%23labubu%E4%B8%96%E7%95%8C%E6%9D%AF%E9%94%80%E9%87%8F%E6%9A%B4%E6%B6%A830%E5%80%8D%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 19时19分]"
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时09分]"
         },
         {
           "title": "世界杯中国队首发：LABUBU和马宁 ​",
