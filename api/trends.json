@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T17:26:25.118189+08:00",
-  "total_titles_processed": 1499,
+  "generated_at": "2026-06-12T19:19:04.149468+08:00",
+  "total_titles_processed": 1642,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "泡泡玛特 labubu",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "中国队首发 labubu马宁",
@@ -76,6 +76,17 @@
           "time_info": "[03时01分 ~ 08时48分]"
         },
         {
+          "title": "labubu世界杯销量暴涨30倍",
+          "url": "https://s.weibo.com/weibo?q=%23labubu%E4%B8%96%E7%95%8C%E6%9D%AF%E9%94%80%E9%87%8F%E6%9A%B4%E6%B6%A830%E5%80%8D%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
+        },
+        {
           "title": "世界杯中国队首发：LABUBU和马宁 ​",
           "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%A6%96%E5%8F%91%EF%BC%9ALABUBU%E5%92%8C%E9%A9%AC%E5%AE%81+%E2%80%8B",
           "source": "百度热搜",
@@ -119,7 +130,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -192,7 +203,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         }
