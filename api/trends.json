@@ -1,372 +1,39 @@
 {
-  "generated_at": "2026-06-12T23:04:42.261407+08:00",
-  "total_titles_processed": 1904,
+  "generated_at": "2026-06-13T01:02:08.378212+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "泡泡玛特 labubu",
-      "match_count": 12,
+      "keyword_group": "美元",
+      "match_count": 1,
       "titles": [
         {
-          "title": "中国队首发 labubu马宁",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%A6%96%E5%8F%91%20labubu%E9%A9%AC%E5%AE%81&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "SpaceX美国IPO首日盘初涨幅扩大至25%，报168.75美元，盘中市值2.206575万亿美元；马斯克成为全球第一位万亿美元级别的富豪。 特斯拉跌幅扩大至2.2%，标普500指数涨幅收窄至0.36%，纳指涨0.11%，半导体指数涨1.77%。",
+          "url": "https://wallstreetcn.com/livenews/3118990",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时58分 ~ 11时09分]"
-        },
-        {
-          "title": "Labubu现身世界杯开幕式",
-          "url": "https://www.toutiao.com/trending/7650204634295963187/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时01分 ~ 08时48分]"
-        },
-        {
-          "title": "labubu都去世界杯了",
-          "url": "https://www.baidu.com/s?wd=labubu%E9%83%BD%E5%8E%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时58分 ~ 07时33分]"
-        },
-        {
-          "title": "LABUBU亮相世界杯开幕式",
-          "url": "https://www.douyin.com/hot/2531420",
-          "source": "抖音",
-          "ranks": [
-            9,
-            10,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时01分 ~ 11时09分]"
-        },
-        {
-          "title": "labubu都进世界杯了",
-          "url": "https://s.weibo.com/weibo?q=labubu%E9%83%BD%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%86&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            5,
-            8,
-            14,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时01分 ~ 08时48分]"
-        },
-        {
-          "title": "labubu世界杯销量暴涨30倍",
-          "url": "https://s.weibo.com/weibo?q=%23labubu%E4%B8%96%E7%95%8C%E6%9D%AF%E9%94%80%E9%87%8F%E6%9A%B4%E6%B6%A830%E5%80%8D%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
             8
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时09分]"
-        },
-        {
-          "title": "世界杯中国队首发：LABUBU和马宁 ​",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%A6%96%E5%8F%91%EF%BC%9ALABUBU%E5%92%8C%E9%A9%AC%E5%AE%81+%E2%80%8B",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时48分 ~ 11时09分]"
-        },
-        {
-          "title": "世界杯中国队首发：LABUBU和马宁",
-          "url": "https://www.toutiao.com/trending/7650204634295963187/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 11时09分]"
-        },
-        {
-          "title": "LABUBU都去世界杯了",
-          "url": "https://www.baidu.com/s?wd=LABUBU%E9%83%BD%E5%8E%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时48分 ~ 11时09分]"
-        },
-        {
-          "title": "世界杯同款LABUBU卖爆了",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%8C%E6%AC%BELABUBU%E5%8D%96%E7%88%86%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
-          "title": "泡泡玛特(09992.HK)涨超3%。",
-          "url": "https://flash.jin10.com/detail/20260612131911708800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时36分"
-        },
-        {
-          "title": "Labubu都进世界杯了",
-          "url": "https://www.douyin.com/hot/2531424",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时48分"
+          "time_info": "01时02分"
         }
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 4,
+      "keyword_group": "泡泡玛特 labubu",
+      "match_count": 1,
       "titles": [
         {
-          "title": "美元指数周四跌超0.2%，纽约中午跳水，南非兰特涨1.9%，巴西雷亚尔涨超1.7%",
-          "url": "https://wallstreetcn.com/livenews/3118421",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时37分 ~ 07时33分]"
-        },
-        {
-          "title": "彭博美元指数创逾1个月最大跌幅，特朗普暗示美伊协议即将达成",
-          "url": "https://wallstreetcn.com/livenews/3118400",
-          "source": "华尔街见闻-快讯",
+          "title": "Labubu亮相美加墨世界杯开幕式 联名系列搪胶毛绒公仔“24小时热度飙升”",
+          "url": "https://www.cls.cn/detail/2398666",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时42分"
-        },
-        {
-          "title": "美元指数11日下跌",
-          "url": "https://flash.jin10.com/detail/20260612032521443800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时58分"
-        },
-        {
-          "title": "美元指数回吐日内涨幅；国际油价下跌，布伦特原油、WTI原油均跌超4%。此前报道称，美国和伊朗的谅解备忘录规定霍尔木兹海峡将在30天内重新开放。",
-          "url": "https://wallstreetcn.com/livenews/3118730",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "铜",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "特朗普暗示美伊协议有望达成，铜价从三周低点反弹",
-          "url": "https://flash.jin10.com/detail/20260612105906322800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时09分"
-        },
-        {
-          "title": "现货黄金涨超3.4%，白银涨6%，纽约铜涨约3.1%",
-          "url": "https://wallstreetcn.com/livenews/3118402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            30
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时37分]"
-        },
-        {
-          "title": "智利国家铜业公司（Codelco）：Vendor遭遇网络袭击，但关键数据并没有面临外泄风险。",
-          "url": "https://wallstreetcn.com/livenews/3118296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "A股工业金属板块走高，铜陵有色、锌业股份、中色股份、驰宏锌锗、金田股份涨停，焦作万方、洛阳钼业、豫光金铅、北方铜业、云南铜业跟涨。",
-          "url": "https://flash.jin10.com/detail/20260612103618287800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美债价格于纽约中午短线飙涨，特朗普取消对伊朗的后续袭击计划",
-          "url": "https://wallstreetcn.com/livenews/3118414",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时42分"
-        },
-        {
-          "title": "美债价格上涨、交易量激增，之前特朗普宣布取消对伊朗的打击计划",
-          "url": "https://wallstreetcn.com/livenews/3118346",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时58分]"
-        },
-        {
-          "title": "美债价格于纽约中午短线飙涨，特朗普宣称取消对伊朗的后续袭击计划",
-          "url": "https://wallstreetcn.com/livenews/3118414",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时37分 ~ 07时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "赛力斯 问界",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "港股新能源车企股午后走强，理想汽车(02015.HK)涨超8%，赛力斯(09927.HK)涨超4%，长城汽车(02333.HK)、小鹏集团(09868.HK)、零跑汽车(09863.HK)、小米集团(01810.HK)等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260612132422169800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "摩尔线程",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股多股尾盘集合竞价大幅异动，鼎通科技、山东高速、有研硅、卓胜微、圣邦股份、时代电气等快速拉升超2%，沐曦股份、摩尔线程、源杰科技、德明利、长川科技等多股快速跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3118669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "2026年6月12日银行间外汇市场人民币汇率中间价",
-          "url": "https://flash.jin10.com/detail/20260612091624219800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中国黄金国际",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "港股黄金股走强，灵宝黄金(03330.HK)涨超7%，招金矿业(01818.HK)、赤峰黄金(06693.HK)、潼关黄金(00340.HK)、中国黄金国际(02099.HK)、紫金矿业(02899.HK)、紫金黄金国际(02259.HK)等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260612092429022800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
+          "time_info": "[01时01分 ~ 01时02分]"
         }
       ]
     }
