@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-06-12T08:48:59.420995+08:00",
-  "total_titles_processed": 801,
+  "generated_at": "2026-06-12T09:50:24.255895+08:00",
+  "total_titles_processed": 908,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "泡泡玛特 labubu",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "中国队首发 labubu马宁",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%A6%96%E5%8F%91%20labubu%E9%A9%AC%E5%AE%81&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时58分 ~ 09时50分]"
+        },
         {
           "title": "Labubu现身世界杯开幕式",
           "url": "https://www.toutiao.com/trending/7650204634295963187/",
@@ -21,17 +34,17 @@
           "time_info": "[03时01分 ~ 08时48分]"
         },
         {
-          "title": "中国队首发 labubu马宁",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%A6%96%E5%8F%91%20labubu%E9%A9%AC%E5%AE%81&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "LABUBU亮相世界杯开幕式",
+          "url": "https://www.douyin.com/hot/2531420",
+          "source": "抖音",
           "ranks": [
-            6,
-            5,
-            4
+            9,
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时58分 ~ 08时48分]"
+          "appearance_count": 10,
+          "time_info": "[03时01分 ~ 09时50分]"
         },
         {
           "title": "labubu都去世界杯了",
@@ -44,19 +57,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时58分 ~ 07时33分]"
-        },
-        {
-          "title": "LABUBU亮相世界杯开幕式",
-          "url": "https://www.douyin.com/hot/2531420",
-          "source": "抖音",
-          "ranks": [
-            9,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时01分 ~ 08时48分]"
         },
         {
           "title": "labubu都进世界杯了",
@@ -81,9 +81,32 @@
           "ranks": [
             4
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时48分 ~ 09时50分]"
+        },
+        {
+          "title": "世界杯中国队首发：LABUBU和马宁",
+          "url": "https://www.toutiao.com/trending/7650204634295963187/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时48分"
+          "time_info": "09时50分"
+        },
+        {
+          "title": "LABUBU都去世界杯了",
+          "url": "https://www.baidu.com/s?wd=LABUBU%E9%83%BD%E5%8E%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时48分 ~ 09时50分]"
         },
         {
           "title": "Labubu都进世界杯了",
@@ -92,18 +115,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时48分"
-        },
-        {
-          "title": "LABUBU都去世界杯了",
-          "url": "https://www.baidu.com/s?wd=LABUBU%E9%83%BD%E5%8E%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         }
@@ -216,6 +228,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2026年6月12日银行间外汇市场人民币汇率中间价",
+          "url": "https://flash.jin10.com/detail/20260612091624219800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中国黄金国际",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港股黄金股走强，灵宝黄金(03330.HK)涨超7%，招金矿业(01818.HK)、赤峰黄金(06693.HK)、潼关黄金(00340.HK)、中国黄金国际(02099.HK)、紫金矿业(02899.HK)、紫金黄金国际(02259.HK)等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260612092429022800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         }
       ]
     }
