@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T15:20:15.478353+08:00",
-  "total_titles_processed": 1079,
+  "generated_at": "2026-06-13T17:06:14.066158+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "AI材料短缺蔓延：英伟达亲自下场抢购HVLP4铜箔，2026年缺口达1500吨",
@@ -72,6 +72,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时51分 ~ 02时42分]"
+        },
+        {
+          "title": "云南铜业：今年以来硫酸销售价格持续处于高位",
+          "url": "https://flash.jin10.com/detail/20260613152517398800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         }
       ]
     },
