@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-06-13T11:08:46.748135+08:00",
-  "total_titles_processed": 872,
+  "generated_at": "2026-06-13T13:32:56.897424+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
       "match_count": 5,
       "titles": [
+        {
+          "title": "AI材料短缺蔓延：英伟达亲自下场抢购HVLP4铜箔，2026年缺口达1500吨",
+          "url": "https://wallstreetcn.com/articles/3774502",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时48分 ~ 13时32分]"
+        },
         {
           "title": "纽约期金本周跌约3%，纽约铜累涨超3.5%",
           "url": "https://wallstreetcn.com/livenews/3119081",
@@ -22,19 +35,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时35分 ~ 11时08分]"
-        },
-        {
-          "title": "AI材料短缺蔓延：英伟达亲自下场抢购HVLP4铜箔，2026年缺口达1500吨",
-          "url": "https://wallstreetcn.com/articles/3774502",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时48分 ~ 11时08分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：6月9日当周，投机者所持COMEX黄金净多头头寸减少7,681手合约，至103,660手合约。 所持COMEX白银净多头头寸降低至9,794手合约，创七周新低。 所持COMEX铜净多头头寸减少至71,127手合约，创五周新低。 所持NYMEX铂金净多头头寸减少至8,377手合约，创三个月新低。 所持NYMEX钯金净空头头寸增至4,520手合约，创八个月新高。",
