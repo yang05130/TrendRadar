@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T19:38:13.098350+08:00",
-  "total_titles_processed": 1359,
+  "generated_at": "2026-06-13T20:37:44.468714+08:00",
+  "total_titles_processed": 1434,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 19时38分]"
+          "appearance_count": 3,
+          "time_info": "[18时49分 ~ 20时37分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：6月9日当周，投机者所持COMEX黄金净多头头寸减少7,681手合约，至103,660手合约。 所持COMEX白银净多头头寸降低至9,794手合约，创七周新低。 所持COMEX铜净多头头寸减少至71,127手合约，创五周新低。 所持NYMEX铂金净多头头寸减少至8,377手合约，创三个月新低。 所持NYMEX钯金净空头头寸增至4,520手合约，创八个月新高。",
