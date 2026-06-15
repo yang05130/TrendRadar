@@ -1,8 +1,59 @@
 {
-  "generated_at": "2026-06-16T03:21:40.568577+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-06-16T05:04:02.574252+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "周一（6月15日），美股信息科技指数涨5.44%，报460.94点。 人工智能（AI）赢家指数涨5.65%，报448.13点。 AI软件先驱指数涨2.19%，报110.89点。 北美科技软件股指数ETF收涨2.20%，报92.68美元。",
+          "url": "https://wallstreetcn.com/livenews/3119872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "美元指数15日下跌",
+          "url": "https://flash.jin10.com/detail/20260616031900342800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 05时04分]"
+        },
+        {
+          "title": "周一（6月15日），美股存储芯片与硬件供应链指数涨8.54%，报253.05点，再次创收盘历史新高，最近三个交易日累计上涨25%。 成分股西部数据涨16.10%，创1月份以来最佳单日表现，报653.53美元，创收盘历史新高，美光科技涨涨10.8%，希捷科技涨9.4%，泰瑞达涨7.2%，闪迪涨超6.4%，拉姆研究涨6%，应用材料涨3.3%，Rambus跌2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3119862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "美元指数跌0.1%",
+          "url": "https://wallstreetcn.com/livenews/3119848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        }
+      ]
+    },
     {
       "keyword_group": "铜",
       "match_count": 4,
@@ -48,7 +99,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         }
@@ -65,26 +116,26 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         }
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "美债",
       "match_count": 1,
       "titles": [
         {
-          "title": "美元指数15日下跌",
-          "url": "https://flash.jin10.com/detail/20260616031900342800",
-          "source": "金十数据",
+          "title": "两年期美债收益率跌幅收窄至2.5个基点",
+          "url": "https://wallstreetcn.com/livenews/3119855",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时21分"
+          "time_info": "05时04分"
         }
       ]
     }
