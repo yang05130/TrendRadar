@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-16T13:52:12.303846+08:00",
-  "total_titles_processed": 1172,
+  "generated_at": "2026-06-16T15:58:34.001865+08:00",
+  "total_titles_processed": 1322,
   "failed_sources": [],
   "trends": [
     {
@@ -153,8 +153,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时35分 ~ 13时52分]"
+          "appearance_count": 8,
+          "time_info": "[07时35分 ~ 15时58分]"
         },
         {
           "title": "两年期美债收益率跌幅收窄至2.5个基点",
