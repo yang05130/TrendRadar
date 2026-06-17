@@ -1,197 +1,39 @@
 {
-  "generated_at": "2026-06-17T23:06:29.735362+08:00",
-  "total_titles_processed": 1869,
+  "generated_at": "2026-06-18T01:13:32.915358+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "铜",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "阿根廷经济部长：通过RIGI投资计划批准价值97亿美元的Vicuna铜矿项目。",
-          "url": "https://flash.jin10.com/detail/20260617011455969800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "人工智能拉动铜价飙升 10日元硬币金属价值已超过面值",
-          "url": "https://flash.jin10.com/detail/20260617173053528800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
-          "title": "国际铜夜盘收涨0.24%，沪铜收涨0.22%，沪铝收涨0.27%，沪锌收跌0.30%，沪铅收涨0.77%，沪镍收涨0.07%，沪锡收跌0.53%。 氧化铝夜盘收涨0.73%，铝合金收涨0.39%。 不锈钢夜盘收涨1.16%。",
-          "url": "https://wallstreetcn.com/livenews/3120445",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 03时15分]"
-        },
-        {
-          "title": "LME期铜收涨29美元，报13774美元/吨。 LME期铝收涨9美元，报3388美元/吨。 LME期锌收跌21美元，报3569美元/吨。 LME期铅收涨12美元，报1982美元/吨。 LME期镍收涨85美元，报17996美元/吨。 LME期锡收跌175美元，报55126美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3120442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 03时15分]"
-        },
-        {
-          "title": "A股PET铜箔盘初走强，中一科技涨超13%，诺德股份、光华科技、杭电股份等均封板涨停，双星新材、铜峰电子、洁美科技等跟涨",
-          "url": "https://flash.jin10.com/detail/20260617094035681800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "A股三大指数集体翻红，玻璃基板、铜箔、PCB、CPO等算力硬件方向领涨，沪深京三市上涨个股近1800只。",
-          "url": "https://wallstreetcn.com/livenews/3120635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "美国5月零售销售数据公布后，美元指数短线小幅拉升，现报99.64。美股期货短线波动不大，纳斯达克100指数期货维持约0.6%的涨幅。美国10年期国债收益率短线波动不大，现报4.440%。现货黄金短线小幅拉升，现报4327.37美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3121019",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.35%，暂报2413.24点，北京时间10:29刷新期内高位至2458.69点，随后持续下挫，20:30刷新日低至2350.11点。 MarketVectorTM数字资产100中盘指数涨1.65%，报2781.37点，00:29曾达到2809.63点。 MarketVector数字资产100指数涨0.16%，报13086.58点。 目前，Solana跌0.17%，狗狗币跌0.37%，XRP跌0.72%。 比特币涨0.35%，暂报65824.80美元；以太坊跌1.42%，暂报1769.49美元。",
+          "url": "https://wallstreetcn.com/livenews/3121162",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌3.34%，暂报2380.03点，整体持续走低。 MarketVectorTM数字资产100中盘指数跌3.40%，报2730.06点，出现一波V形走势之后转跌、在北京时间22:33刷新期内最低位至2712.52点。 MarketVector数字资产100指数跌2.53%，报13051.20点，22:33也刷新期内最低位至12983.30点。 目前，Solana跌2.87%，狗狗币跌2.86%，XRP跌4.97%。 比特币跌1.42%，暂报65665.81美元；以太坊跌2.52%，暂报1777.06美元。",
-          "url": "https://wallstreetcn.com/livenews/3120444",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 03时15分]"
-        },
-        {
-          "title": "美元指数16日下跌",
-          "url": "https://flash.jin10.com/detail/20260617040255849800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "周二（6月16日）纽约尾盘，ICE美元指数跌0.09%，报99.543点，日内交投区间为99.791-99.461点。 彭博美元指数跌0.12%，报1204.72点，日内交投区间为1207.31-1204.02点。",
-          "url": "https://wallstreetcn.com/livenews/3120470",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
+          "time_info": "01时13分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 3,
+      "keyword_group": "铜",
+      "match_count": 1,
       "titles": [
         {
-          "title": "美债期权交易员对美联储利率路径看法分化，聚焦沃什发布会基调",
-          "url": "https://flash.jin10.com/detail/20260617064209134800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "长端美债价格涨幅突出，两年期实际收益率涨超6.6个基点",
-          "url": "https://wallstreetcn.com/livenews/3120479",
+          "title": "LME期铜收涨40美元，报13814美元/吨。 LME期铝收涨22美元，报3410美元/吨。 LME期锌收涨19美元，报3588美元/吨。 LME期铅收跌3美元，报1979美元/吨。 LME期镍收涨64美元，报18060美元/吨。 LME期锡收涨218美元，报55344美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3121160",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "美债期权交易员对美联储利率路径看法分化，聚焦沃什发布会基调",
-          "url": "https://wallstreetcn.com/livenews/3120522",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "赛力斯 问界",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "港股汽车股再度大幅下挫，赛力斯(09927.HK)跌超4%，吉利汽车(00175.HK)、小鹏集团(09868.HK)均跌超3%，奇瑞汽车(09973.HK)、比亚迪股份(01211.HK)、理想汽车(02015.HK)、北京汽车(01958.HK)均跌2%。",
-          "url": "https://flash.jin10.com/detail/20260617102252332800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时09分"
-        },
-        {
-          "title": "问界M6拆出硬实力",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8CM6%E6%8B%86%E5%87%BA%E7%A1%AC%E5%AE%9E%E5%8A%9B%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时39分"
+          "time_info": "01时13分"
         }
       ]
     }
