@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T15:51:34.437425+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2026-06-17T17:39:18.662504+08:00",
+  "total_titles_processed": 1458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "阿根廷经济部长：通过RIGI投资计划批准价值97亿美元的Vicuna铜矿项目。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "人工智能拉动铜价飙升 10日元硬币金属价值已超过面值",
+          "url": "https://flash.jin10.com/detail/20260617173053528800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "国际铜夜盘收涨0.24%，沪铜收涨0.22%，沪铝收涨0.27%，沪锌收跌0.30%，沪铅收涨0.77%，沪镍收涨0.07%，沪锡收跌0.53%。 氧化铝夜盘收涨0.73%，铝合金收涨0.39%。 不锈钢夜盘收涨1.16%。",
@@ -147,7 +158,7 @@
     },
     {
       "keyword_group": "赛力斯 问界",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "港股汽车股再度大幅下挫，赛力斯(09927.HK)跌超4%，吉利汽车(00175.HK)、小鹏集团(09868.HK)均跌超3%，奇瑞汽车(09973.HK)、比亚迪股份(01211.HK)、理想汽车(02015.HK)、北京汽车(01958.HK)均跌2%。",
@@ -159,6 +170,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
+        },
+        {
+          "title": "问界M6拆出硬实力",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8CM6%E6%8B%86%E5%87%BA%E7%A1%AC%E5%AE%9E%E5%8A%9B%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         }
       ]
     }
