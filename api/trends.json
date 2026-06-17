@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-06-18T04:58:12.802570+08:00",
-  "total_titles_processed": 567,
+  "generated_at": "2026-06-18T05:40:17.990578+08:00",
+  "total_titles_processed": 603,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
       "match_count": 5,
       "titles": [
-        {
-          "title": "美元指数17日上涨",
-          "url": "https://flash.jin10.com/detail/20260618043622317800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
         {
           "title": "美联储决议声明发布后，标普跌超0.3%，纳指跌超0.2%。 美元指数5分钟内上涨0.3327，报99.9866。 现货黄金从日高4382.28美元附近跳水至4278美元下方，瞬间转而跌超1%。 美国两年期国债收益率从4.05%附近瞬间飙升，涨穿4.14%刷新日高。 在美联储点阵图调整后，交易员押注美联储将更大幅度收紧政策。",
           "url": "https://wallstreetcn.com/livenews/3121187",
@@ -42,15 +31,28 @@
           "time_info": "[01时13分 ~ 02时50分]"
         },
         {
+          "title": "美元指数17日上涨",
+          "url": "https://flash.jin10.com/detail/20260618043622317800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时40分]"
+        },
+        {
           "title": "美元指数日内涨幅达1.0%，报100.5602。",
           "url": "https://wallstreetcn.com/livenews/3121239",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时40分]"
         },
         {
           "title": "彭博美元指数创3月13日以来最大盘中涨幅",
@@ -59,9 +61,37 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周三（6月17日）纽约尾盘，美国10年期基准国债收益率上涨4.74个基点，报4.4869%，日内过半时间窄幅震荡于平盘4.44%下方，北京时间02:00美联储宣布按兵不动、披露经济预期概要（SEP）之前60秒刷新日低至4.4217%，随后反弹至4.47%上方，随着美联储主席沃什新闻发布会开始，再次加速上扬，新闻发布会结束后，交易员持续消化美联储加息前景、03:52涨至4.4968%刷新日高。 两年期美债收益率涨13.28个基点，报4.1843%，日内交投于4.0390%-4.2181%区间，美联储决议声明发布前大致持稳于4.05%附近，03:50创2025年2月24日（当天顶部4.2215%）以来盘中最高，逼近当年2月12日顶部4.3822%。",
+          "url": "https://wallstreetcn.com/livenews/3121268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
+        },
+        {
+          "title": "美联储决议声明发布前，标普500指数大致持平，道指涨0.3%，纳指涨0.2%，半导体指数涨3.6%，银行指数涨1.3%。 美元指数涨0.1%，美元兑日元跌0.16%，欧元兑美元跌0.1%，英镑兑美元跌0.2%。 现货黄金涨1.1%，白银涨1.8%。 美国10年期国债收益率跌1.38个基点，报4.4256%，两年期美债收益率涨幅收窄至不足0.5个基点。",
+          "url": "https://wallstreetcn.com/livenews/3121179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时50分"
         }
       ]
     },
@@ -86,23 +116,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美联储决议声明发布前，标普500指数大致持平，道指涨0.3%，纳指涨0.2%，半导体指数涨3.6%，银行指数涨1.3%。 美元指数涨0.1%，美元兑日元跌0.16%，欧元兑美元跌0.1%，英镑兑美元跌0.2%。 现货黄金涨1.1%，白银涨1.8%。 美国10年期国债收益率跌1.38个基点，报4.4256%，两年期美债收益率涨幅收窄至不足0.5个基点。",
-          "url": "https://wallstreetcn.com/livenews/3121179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 1,
