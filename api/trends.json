@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T05:26:52.411700+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-06-20T06:22:04.896788+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时22分]"
         },
         {
           "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
@@ -27,20 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 05时26分]"
-        },
-        {
-          "title": "美元指数本周涨约1%",
-          "url": "https://wallstreetcn.com/livenews/3122179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时22分]"
         },
         {
           "title": "美元指数19日下跌",
@@ -51,8 +39,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 05时26分]"
+          "appearance_count": 3,
+          "time_info": "[04时33分 ~ 06时22分]"
+        },
+        {
+          "title": "美元指数本周涨约1%",
+          "url": "https://wallstreetcn.com/livenews/3122179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时33分 ~ 06时22分]"
         }
       ]
     },
@@ -69,11 +70,12 @@
             11,
             12,
             18,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时37分 ~ 05时26分]"
+          "appearance_count": 6,
+          "time_info": "[01时37分 ~ 06时22分]"
         },
         {
           "title": "LME期铜收跌96美元，报13595美元/吨。 LME期铝收涨10美元，报3396美元/吨。 LME期锌收跌82美元，报3556美元/吨。 LME期铅收跌30美元，报1954美元/吨。 LME期镍收跌262美元，报17580美元/吨。 LME期锡收跌360美元，报53293美元/吨。 LME期钴收平，报56290美元/吨。",
