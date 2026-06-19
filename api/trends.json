@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T06:22:04.896788+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-06-20T07:24:02.506491+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时24分]"
         },
         {
           "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时24分]"
         },
         {
           "title": "美元指数19日下跌",
@@ -39,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时33分 ~ 06时22分]"
+          "appearance_count": 4,
+          "time_info": "[04时33分 ~ 07时24分]"
         },
         {
           "title": "美元指数本周涨约1%",
@@ -49,11 +49,12 @@
           "ranks": [
             2,
             9,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时33分 ~ 06时22分]"
+          "appearance_count": 4,
+          "time_info": "[04时33分 ~ 07时24分]"
         }
       ]
     },
