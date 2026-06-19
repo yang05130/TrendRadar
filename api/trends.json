@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T17:37:02.124506+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2026-06-19T19:33:52.204806+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3774963",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时38分 ~ 17时37分]"
+          "appearance_count": 10,
+          "time_info": "[07时38分 ~ 19时33分]"
         },
         {
           "title": "美元指数升至一年多新高 美国电力监管下场推动数据中心入网 | 环球市场",
@@ -28,8 +29,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时58分 ~ 17时37分]"
+          "appearance_count": 8,
+          "time_info": "[09时58分 ~ 19时33分]"
         },
         {
           "title": "美伊瑞士会谈生变，韩股收跌0.1%，印度IT股大跌，纳指期货跌1%，美元指数站上101关口",
@@ -37,11 +38,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时53分 ~ 17时37分]"
+          "appearance_count": 4,
+          "time_info": "[15时53分 ~ 19时33分]"
         },
         {
           "title": "美元指数创13个月新高，两天涨超1.3%",
@@ -136,7 +138,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         }
