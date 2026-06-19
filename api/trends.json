@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T02:38:11.920630+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-06-20T03:34:59.274880+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 03时34分]"
         },
         {
           "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 03时34分]"
         }
       ]
     },
@@ -42,11 +42,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 02时38分]"
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 03时34分]"
         },
         {
           "title": "LME期铜收跌96美元，报13595美元/吨。 LME期铝收涨10美元，报3396美元/吨。 LME期锌收跌82美元，报3556美元/吨。 LME期铅收跌30美元，报1954美元/吨。 LME期镍收跌262美元，报17580美元/吨。 LME期锡收跌360美元，报53293美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -54,11 +55,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 02时38分]"
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 03时34分]"
         }
       ]
     }
