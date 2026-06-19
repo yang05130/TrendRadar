@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T15:53:51.160655+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2026-06-19T17:37:02.124506+08:00",
+  "total_titles_processed": 1297,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时38分 ~ 15时53分]"
+          "appearance_count": 9,
+          "time_info": "[07时38分 ~ 17时37分]"
         },
         {
           "title": "美元指数升至一年多新高 美国电力监管下场推动数据中心入网 | 环球市场",
@@ -28,19 +28,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时58分 ~ 15时53分]"
+          "appearance_count": 7,
+          "time_info": "[09时58分 ~ 17时37分]"
         },
         {
           "title": "美伊瑞士会谈生变，韩股收跌0.1%，印度IT股大跌，纳指期货跌1%，美元指数站上101关口",
           "url": "https://wallstreetcn.com/articles/3775074",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时53分 ~ 17时37分]"
         },
         {
           "title": "美元指数创13个月新高，两天涨超1.3%",
@@ -90,47 +91,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "沃什“首秀”美联储放鹰，三大美股指转跌，美元拉升，美债黄金跳水",
-          "url": "https://wallstreetcn.com/articles/3774939",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "日本4月所持美国国债1.2099万亿美元，前值1.1916万亿美元。 4月英国所持美债9375亿美元，前值9269亿美元。 4月中国所持美债6511亿美元，前值6523亿美元。 4月开曼群岛所持美债4716亿美元，前值4594亿美元。 4月比利时所持美债4599亿美元，前值4540亿美元。 4月卢森堡所持美债4311亿美元，前值4320亿美元。 4月加拿大所持美债3971亿美元，前值4394亿美元。 4月法国所持美债3933亿美元，前值3930亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3121881",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时42分"
-        },
-        {
-          "title": "10年期美债收益率在沃什首秀次日回撤超3个基点，两年期实际收益率一度涨穿2%",
-          "url": "https://wallstreetcn.com/livenews/3121874",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "铜",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "周四（6月18日）纽约尾盘，现货黄金跌1.10%，报4210.35美元/盎司，亚太早盘上涨、北京时间10:13刷新日高至4329.87美元，14:00以来持续走低。 COMEX黄金期货跌3.41%，报4232.00美元/盎司。 现货白银跌3.27%，报65.7071美元/盎司。 COMEX白银期货跌3.09%，报66.385美元/盎司。 COMEX铜期货跌1.76%，报6.4425美元/磅。 现货铂金跌2.40%，现货钯金跌2.79%。",
@@ -166,6 +128,56 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时38分 ~ 08时53分]"
+        },
+        {
+          "title": "伦敦金属交易所（LME）：锌库存增加2875吨，镍库存减少90吨，铝库存减少225吨，铜库存减少3575吨，铅库存减少1375吨，锡库存减少50吨。",
+          "url": "https://wallstreetcn.com/livenews/3122035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "沃什“首秀”美联储放鹰，三大美股指转跌，美元拉升，美债黄金跳水",
+          "url": "https://wallstreetcn.com/articles/3774939",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "日本4月所持美国国债1.2099万亿美元，前值1.1916万亿美元。 4月英国所持美债9375亿美元，前值9269亿美元。 4月中国所持美债6511亿美元，前值6523亿美元。 4月开曼群岛所持美债4716亿美元，前值4594亿美元。 4月比利时所持美债4599亿美元，前值4540亿美元。 4月卢森堡所持美债4311亿美元，前值4320亿美元。 4月加拿大所持美债3971亿美元，前值4394亿美元。 4月法国所持美债3933亿美元，前值3930亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3121881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "10年期美债收益率在沃什首秀次日回撤超3个基点，两年期实际收益率一度涨穿2%",
+          "url": "https://wallstreetcn.com/livenews/3121874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         }
       ]
     },
