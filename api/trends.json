@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T21:00:49.756730+08:00",
-  "total_titles_processed": 1585,
+  "generated_at": "2026-06-22T23:02:52.775669+08:00",
+  "total_titles_processed": 1719,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时00分"
         },
@@ -73,6 +73,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY短线下挫约15点，报100.97。",
+          "url": "https://flash.jin10.com/detail/20260622221300744800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         }
       ]
     },
