@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-06-22T11:11:07.915588+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-06-22T13:51:14.182692+08:00",
+  "total_titles_processed": 1103,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "铜",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "1818追问南派三叔青铜门背后是什么",
+          "url": "https://www.baidu.com/s?wd=1818%E8%BF%BD%E9%97%AE%E5%8D%97%E6%B4%BE%E4%B8%89%E5%8F%94%E9%9D%92%E9%93%9C%E9%97%A8%E8%83%8C%E5%90%8E%E6%98%AF%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 03时33分]"
+        },
+        {
+          "title": "中国5月份铅产量61.1万吨，同比下降5.4%。 中国5月份锌产量64.1万吨，同比增长9.4%。 中国5月份精炼铜产量126.4万吨，同比增长2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3122526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        }
+      ]
+    },
     {
       "keyword_group": "赛力斯 问界",
       "match_count": 1,
@@ -14,7 +42,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时11分"
         }
@@ -38,19 +66,19 @@
       ]
     },
     {
-      "keyword_group": "铜",
+      "keyword_group": "泡泡玛特 labubu",
       "match_count": 1,
       "titles": [
         {
-          "title": "1818追问南派三叔青铜门背后是什么",
-          "url": "https://www.baidu.com/s?wd=1818%E8%BF%BD%E9%97%AE%E5%8D%97%E6%B4%BE%E4%B8%89%E5%8F%94%E9%9D%92%E9%93%9C%E9%97%A8%E8%83%8C%E5%90%8E%E6%98%AF%E4%BB%80%E4%B9%88",
-          "source": "百度热搜",
+          "title": "花旗：市场对泡泡玛特“THEMONSTERS”新系列反应不一",
+          "url": "https://flash.jin10.com/detail/20260622125220412800",
+          "source": "金十数据",
           "ranks": [
-            30
+            23
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 03时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         }
       ]
     }
