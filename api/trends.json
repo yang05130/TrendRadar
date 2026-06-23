@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T11:08:04.165550+08:00",
-  "total_titles_processed": 954,
+  "generated_at": "2026-06-23T13:22:52.748082+08:00",
+  "total_titles_processed": 1119,
   "failed_sources": [],
   "trends": [
     {
@@ -48,7 +48,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
         }
@@ -66,8 +66,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时32分 ~ 11时08分]"
+          "appearance_count": 6,
+          "time_info": "[07时32分 ~ 13时22分]"
         },
         {
           "title": "科技巨头下挫拖累美股大盘，芯片股指、小盘股指逆市新高，原油高开走跌，美债收益率“补涨”",
