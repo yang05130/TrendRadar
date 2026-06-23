@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T17:09:37.580566+08:00",
-  "total_titles_processed": 1441,
+  "generated_at": "2026-06-23T19:04:58.716988+08:00",
+  "total_titles_processed": 1591,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3775156",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时32分 ~ 17时09分]"
+          "appearance_count": 10,
+          "time_info": "[07时32分 ~ 19时04分]"
         },
         {
           "title": "科技巨头下挫拖累美股大盘，芯片股指、小盘股指逆市新高，原油高开走跌，美债收益率“补涨”",
@@ -34,11 +35,12 @@
           "url": "https://wallstreetcn.com/articles/3775250",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 19时04分]"
         },
         {
           "title": "长周末归来，美债收益率普遍涨超5个基点",
