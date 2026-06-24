@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-24T20:46:34.474894+08:00",
-  "total_titles_processed": 1760,
+  "generated_at": "2026-06-24T21:45:03.716797+08:00",
+  "total_titles_processed": 1860,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
           "url": "https://wallstreetcn.com/articles/3775262",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时38分 ~ 20时46分]"
+          "appearance_count": 12,
+          "time_info": "[08时38分 ~ 21时45分]"
         },
         {
           "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
@@ -112,12 +113,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时07分"
+        },
+        {
+          "title": "中东冲突缓和之际 美债收益率下滑",
+          "url": "https://flash.jin10.com/detail/20260624211629052800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         }
       ]
     },
     {
       "keyword_group": "铜",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "东宝生物：公司胶原蛋白产品可作为电解铜箔生产专用工艺添加剂使用",
@@ -177,6 +189,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时37分 ~ 02时43分]"
+        },
+        {
+          "title": "伦铜日内跌幅达2.00%，现报13105.80美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260624212159851800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         }
       ]
     },
