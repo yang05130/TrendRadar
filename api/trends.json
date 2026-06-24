@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T15:13:01.505536+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2026-06-24T17:07:51.102256+08:00",
+  "total_titles_processed": 1476,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
@@ -23,6 +23,18 @@
           "time_info": "[00时50分 ~ 09时40分]"
         },
         {
+          "title": "AI交易遭遇加息考验：除了美元、美债，一切都在跌",
+          "url": "https://wallstreetcn.com/articles/3775294",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时25分 ~ 17时07分]"
+        },
+        {
           "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
           "url": "https://wallstreetcn.com/articles/3775156",
           "source": "华尔街见闻",
@@ -34,18 +46,6 @@
           "time_info": "[00时50分 ~ 06时31分]"
         },
         {
-          "title": "AI交易遭遇加息考验：除了美元、美债，一切都在跌",
-          "url": "https://wallstreetcn.com/articles/3775294",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时25分 ~ 15时13分]"
-        },
-        {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
           "url": "https://wallstreetcn.com/articles/3775262",
           "source": "华尔街见闻",
@@ -53,8 +53,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时38分 ~ 15时13分]"
+          "appearance_count": 7,
+          "time_info": "[08时38分 ~ 17时07分]"
         },
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债汇齐升，金银下挫",
@@ -101,6 +101,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时26分]"
+        },
+        {
+          "title": "美联储加息利剑高悬，除了美元、美债，一切都在跌？金十研究员高阳GMA行情分析中，点击进入直播间<font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260624164235324800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
         }
       ]
     },
