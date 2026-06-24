@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T13:21:34.030050+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2026-06-24T15:13:01.505536+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时25分 ~ 13时21分]"
+          "appearance_count": 8,
+          "time_info": "[07时25分 ~ 15时13分]"
         },
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
@@ -53,8 +53,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时38分 ~ 13时21分]"
+          "appearance_count": 6,
+          "time_info": "[08时38分 ~ 15时13分]"
         },
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债汇齐升，金银下挫",
@@ -115,7 +115,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
