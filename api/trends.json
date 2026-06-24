@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T07:26:11.375293+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2026-06-24T08:38:40.081889+08:00",
+  "total_titles_processed": 845,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 08时38分]"
         },
         {
           "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
@@ -43,6 +44,17 @@
           "time_info": "[07时25分 ~ 07时26分]"
         },
         {
+          "title": "AI交易遭遇加息考验：除了美元、美债，一切都在跌",
+          "url": "https://wallstreetcn.com/articles/3775294",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时25分 ~ 08时38分]"
+        },
+        {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐升，金银下挫",
           "url": "https://wallstreetcn.com/articles/3775262",
           "source": "华尔街见闻",
@@ -54,15 +66,15 @@
           "time_info": "06时31分"
         },
         {
-          "title": "AI交易遭遇加息考验：除了美元、美债，一切都在跌",
-          "url": "https://wallstreetcn.com/articles/3775294",
+          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3775262",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时25分 ~ 07时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时38分"
         },
         {
           "title": "德银上调对短期美债收益率的预测",
