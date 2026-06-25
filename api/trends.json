@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T11:08:19.982864+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2026-06-25T13:22:45.871531+08:00",
+  "total_titles_processed": 1256,
   "failed_sources": [],
   "trends": [
     {
@@ -84,6 +84,46 @@
       ]
     },
     {
+      "keyword_group": "铜",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "《铁齿铜牙纪晓岚 2》让第一部的莫愁下线，却保留了杜小月，是什么原因？",
+          "url": "https://www.zhihu.com/question/2036729489602909706",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "智利国家铜业公司将在投资审查中权衡资产出售事宜",
+          "url": "https://wallstreetcn.com/livenews/3124241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 06时30分]"
+        },
+        {
+          "title": "国际铜夜盘收跌2.29%，沪铜收跌2.30%，沪铝收跌2.13%，沪锌收跌1.33%，沪铅收跌0.95%，沪镍收跌1.72%，沪锡收跌2.64%。 氧化铝夜盘收跌0.84%，铝合金收跌1.69%。 不锈钢夜盘收跌0.85%。",
+          "url": "https://wallstreetcn.com/livenews/3124162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 2,
       "titles": [
@@ -109,37 +149,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时43分 ~ 11时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "铜",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "智利国家铜业公司将在投资审查中权衡资产出售事宜",
-          "url": "https://wallstreetcn.com/livenews/3124241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时30分]"
-        },
-        {
-          "title": "国际铜夜盘收跌2.29%，沪铜收跌2.30%，沪铝收跌2.13%，沪锌收跌1.33%，沪铅收跌0.95%，沪镍收跌1.72%，沪锡收跌2.64%。 氧化铝夜盘收跌0.84%，铝合金收跌1.69%。 不锈钢夜盘收跌0.85%。",
-          "url": "https://wallstreetcn.com/livenews/3124162",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
+          "appearance_count": 3,
+          "time_info": "[08时43分 ~ 13时22分]"
         }
       ]
     }
