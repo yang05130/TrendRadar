@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T07:27:34.783642+08:00",
-  "total_titles_processed": 740,
+  "generated_at": "2026-06-25T08:43:59.362452+08:00",
+  "total_titles_processed": 867,
   "failed_sources": [],
   "trends": [
     {
@@ -84,6 +84,36 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://www.douyin.com/hot/2546511",
+          "source": "抖音",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 02时37分]"
+        },
+        {
+          "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "铜",
       "match_count": 2,
       "titles": [
@@ -109,25 +139,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "现货黄金价格跌破4000美元大关",
-          "url": "https://www.douyin.com/hot/2546511",
-          "source": "抖音",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 02时37分]"
         }
       ]
     }
