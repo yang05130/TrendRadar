@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T13:22:45.871531+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2026-06-25T15:13:08.173828+08:00",
+  "total_titles_processed": 1389,
   "failed_sources": [],
   "trends": [
     {
@@ -92,11 +92,12 @@
           "url": "https://www.zhihu.com/question/2036729489602909706",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 15时13分]"
         },
         {
           "title": "智利国家铜业公司将在投资审查中权衡资产出售事宜",
@@ -149,8 +150,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时43分 ~ 13时22分]"
+          "appearance_count": 5,
+          "time_info": "[08时43分 ~ 15时13分]"
         }
       ]
     }
