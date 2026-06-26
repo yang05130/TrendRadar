@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T02:38:14.985172+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-06-27T03:34:42.372750+08:00",
+  "total_titles_processed": 498,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时34分]"
         },
         {
           "title": "伦铜涨0.5%，本周跌约2%，欧盟出口税计划提振伦铝价格",
@@ -63,8 +63,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时34分]"
         }
       ]
     }
