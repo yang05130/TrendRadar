@@ -1,8 +1,84 @@
 {
-  "generated_at": "2026-06-26T22:55:24.722116+08:00",
-  "total_titles_processed": 1981,
+  "generated_at": "2026-06-26T23:48:24.023112+08:00",
+  "total_titles_processed": 2067,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美元",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美元指数25日下跌",
+          "url": "https://flash.jin10.com/detail/20260626045241323800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时34分 ~ 07时31分]"
+        },
+        {
+          "title": "新兴市场外汇指数回吐涨幅，报道称伊朗袭击霍尔木兹海峡的船只。 布伦特原油日内涨幅达2.0%，报75.38美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3124812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 03时36分]"
+        },
+        {
+          "title": "周四（6月25日）纽约尾盘，ICE美元指数跌0.16%，报101.443点，在一波W形反转行情结束时，于北京时间19:39刷新日高至101.746点，随后持续走低，00:28刷新日低至101.305点。 彭博美元指数跌0.25%，报1222.78点，日内交投区间为1227.65-1222.78点。",
+          "url": "https://wallstreetcn.com/livenews/3124835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时34分]"
+        },
+        {
+          "title": "美元指数DXY短线上扬20点，最新报101.29。",
+          "url": "https://flash.jin10.com/detail/20260626225851367800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
+          "title": "中信证券：预计年内美元指数有支撑、但也难以持续冲高",
+          "url": "https://flash.jin10.com/detail/20260626080026714800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时44分"
+        },
+        {
+          "title": "美元指数DXY短线下挫十余点，现报101.06。",
+          "url": "https://flash.jin10.com/detail/20260626210044805800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        }
+      ]
+    },
     {
       "keyword_group": "铜",
       "match_count": 6,
@@ -16,8 +92,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时07分 ~ 22时55分]"
+          "appearance_count": 7,
+          "time_info": "[17时07分 ~ 23时48分]"
         },
         {
           "title": "周四（6月25日）纽约尾盘，现货黄金涨0.64%，报4024.97美元/盎司。 COMEX黄金期货涨0.78%，报4040.10美元/盎司。 现货白银涨0.73%，报57.8327美元/盎司。 COMEX白银期货跌0.38%，报58.290美元/盎司。 COMEX铜期货涨2.03%，报6.1335美元/磅。 现货铂金涨1.08%，现货钯金涨1.43%。",
@@ -83,71 +159,6 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美元指数25日下跌",
-          "url": "https://flash.jin10.com/detail/20260626045241323800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时34分 ~ 07时31分]"
-        },
-        {
-          "title": "新兴市场外汇指数回吐涨幅，报道称伊朗袭击霍尔木兹海峡的船只。 布伦特原油日内涨幅达2.0%，报75.38美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3124812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 03时36分]"
-        },
-        {
-          "title": "周四（6月25日）纽约尾盘，ICE美元指数跌0.16%，报101.443点，在一波W形反转行情结束时，于北京时间19:39刷新日高至101.746点，随后持续走低，00:28刷新日低至101.305点。 彭博美元指数跌0.25%，报1222.78点，日内交投区间为1227.65-1222.78点。",
-          "url": "https://wallstreetcn.com/livenews/3124835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时34分]"
-        },
-        {
-          "title": "中信证券：预计年内美元指数有支撑、但也难以持续冲高",
-          "url": "https://flash.jin10.com/detail/20260626080026714800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时44分"
-        },
-        {
-          "title": "美元指数DXY短线下挫十余点，现报101.06。",
-          "url": "https://flash.jin10.com/detail/20260626210044805800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -199,11 +210,12 @@
           "ranks": [
             3,
             5,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时02分 ~ 22时55分]"
+          "appearance_count": 6,
+          "time_info": "[19时02分 ~ 23时48分]"
         },
         {
           "title": "LABUBU第四代来了！隐藏款二手溢价最高超7倍",
