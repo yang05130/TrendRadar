@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T22:34:02.593336+08:00",
-  "total_titles_processed": 1601,
+  "generated_at": "2026-06-27T23:29:01.863438+08:00",
+  "total_titles_processed": 1656,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "基因太顶!铜牌假小子出圈",
@@ -18,11 +18,12 @@
             5,
             10,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时41分 ~ 22时34分]"
+          "appearance_count": 29,
+          "time_info": "[00时41分 ~ 23时29分]"
         },
         {
           "title": "招商证券：铜价短期关注流动性收紧与地缘风险变化，中长期仍看供需格局演变",
@@ -36,8 +37,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时41分 ~ 22时34分]"
+          "appearance_count": 6,
+          "time_info": "[18时41分 ~ 23时29分]"
         },
         {
           "title": "招商证券：铜价短期关注两方面因素 中长期看供需格局演变",
@@ -64,6 +65,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时35分 ~ 02时38分]"
+        },
+        {
+          "title": "中超重庆铜梁龙1:0天津津门虎",
+          "url": "https://www.douyin.com/hot/2550054",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时28分 ~ 23时29分]"
         }
       ]
     },
