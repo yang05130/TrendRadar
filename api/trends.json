@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T02:26:47.956758+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2026-06-28T03:31:59.021900+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时31分]"
         },
         {
           "title": "中超重庆铜梁龙1:0天津津门虎",
@@ -39,8 +39,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时31分]"
         }
       ]
     }
