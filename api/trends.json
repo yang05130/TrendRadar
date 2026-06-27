@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T03:31:59.021900+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2026-06-28T04:25:34.418213+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 03时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 04时25分]"
+        },
+        {
+          "title": "招商证券：铜价短期关注流动性收紧与地缘风险变化，中长期仍看供需格局演变",
+          "url": "https://wallstreetcn.com/livenews/3125581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时25分]"
         },
         {
           "title": "中超重庆铜梁龙1:0天津津门虎",
@@ -30,17 +41,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时25分 ~ 02时26分]"
-        },
-        {
-          "title": "招商证券：铜价短期关注流动性收紧与地缘风险变化，中长期仍看供需格局演变",
-          "url": "https://wallstreetcn.com/livenews/3125581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时31分]"
         }
       ]
     }
