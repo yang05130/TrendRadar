@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T01:26:05.964653+08:00",
-  "total_titles_processed": 357,
+  "generated_at": "2026-06-28T02:26:47.956758+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355670&amp;topic_name=%E5%9F%BA%E5%9B%A0%E5%A4%AA%E9%A1%B6%21%E9%93%9C%E7%89%8C%E5%81%87%E5%B0%8F%E5%AD%90%E5%87%BA%E5%9C%88",
           "source": "贴吧",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 01时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 02时26分]"
         },
         {
           "title": "中超重庆铜梁龙1:0天津津门虎",
           "url": "https://www.douyin.com/hot/2550054",
           "source": "抖音",
           "ranks": [
-            15
+            15,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 02时26分]"
         },
         {
           "title": "招商证券：铜价短期关注流动性收紧与地缘风险变化，中长期仍看供需格局演变",
@@ -37,8 +39,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时26分]"
         }
       ]
     }
