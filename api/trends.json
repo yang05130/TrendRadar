@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T19:32:36.921306+08:00",
-  "total_titles_processed": 1405,
+  "generated_at": "2026-06-27T20:29:02.298119+08:00",
+  "total_titles_processed": 1456,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时41分 ~ 19时32分]"
+          "appearance_count": 24,
+          "time_info": "[00时41分 ~ 20时29分]"
         },
         {
           "title": "招商证券：铜价短期关注流动性收紧与地缘风险变化，中长期仍看供需格局演变",
@@ -30,11 +30,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 19时32分]"
+          "appearance_count": 3,
+          "time_info": "[18时41分 ~ 20时29分]"
         },
         {
           "title": "招商证券：铜价短期关注两方面因素 中长期看供需格局演变",
@@ -42,11 +43,12 @@
           "source": "金十数据",
           "ranks": [
             11,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 19时32分]"
+          "appearance_count": 3,
+          "time_info": "[18时41分 ~ 20时29分]"
         },
         {
           "title": "伦铜涨0.5%，本周跌约2%，欧盟出口税计划提振伦铝价格",
@@ -73,11 +75,12 @@
           "ranks": [
             4,
             17,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时45分 ~ 19时32分]"
+          "appearance_count": 4,
+          "time_info": "[17时45分 ~ 20时29分]"
         },
         {
           "title": "余承东：全新一代问界M9系列大定破42000台",
@@ -86,11 +89,12 @@
           "ranks": [
             4,
             12,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时45分 ~ 19时32分]"
+          "appearance_count": 4,
+          "time_info": "[17时45分 ~ 20时29分]"
         },
         {
           "title": "张兴海回应问界供应链：坚定与华为、宁德时代的战略约定不改变",
