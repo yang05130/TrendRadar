@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T20:29:02.298119+08:00",
-  "total_titles_processed": 1456,
+  "generated_at": "2026-06-27T21:33:52.740127+08:00",
+  "total_titles_processed": 1528,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时41分 ~ 20时29分]"
+          "appearance_count": 25,
+          "time_info": "[00时41分 ~ 21时33分]"
         },
         {
           "title": "招商证券：铜价短期关注流动性收紧与地缘风险变化，中长期仍看供需格局演变",
@@ -31,11 +31,12 @@
           "ranks": [
             5,
             11,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时41分 ~ 20时29分]"
+          "appearance_count": 4,
+          "time_info": "[18时41分 ~ 21时33分]"
         },
         {
           "title": "招商证券：铜价短期关注两方面因素 中长期看供需格局演变",
@@ -44,11 +45,12 @@
           "ranks": [
             11,
             15,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时41分 ~ 20时29分]"
+          "appearance_count": 4,
+          "time_info": "[18时41分 ~ 21时33分]"
         },
         {
           "title": "伦铜涨0.5%，本周跌约2%，欧盟出口税计划提振伦铝价格",
@@ -70,6 +72,21 @@
       "titles": [
         {
           "title": "余承东：全新一代问界M9系列大定破42000台",
+          "url": "https://wallstreetcn.com/livenews/3125573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12,
+            18,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时45分 ~ 21时33分]"
+        },
+        {
+          "title": "余承东：全新一代问界M9系列大定破42000台",
           "url": "https://flash.jin10.com/detail/20260627171134659800",
           "source": "金十数据",
           "ranks": [
@@ -77,20 +94,6 @@
             17,
             21,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时45分 ~ 20时29分]"
-        },
-        {
-          "title": "余承东：全新一代问界M9系列大定破42000台",
-          "url": "https://wallstreetcn.com/livenews/3125573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12,
-            18,
-            25
           ],
           "is_new": false,
           "appearance_count": 4,
