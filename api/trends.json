@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T13:33:20.113437+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2026-06-28T15:22:54.866639+08:00",
+  "total_titles_processed": 949,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
             18,
             19,
             21,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时25分 ~ 13时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 15时22分]"
         },
         {
           "title": "招商证券：铜价短期关注流动性收紧与地缘风险变化，中长期仍看供需格局演变",
@@ -55,11 +56,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时44分 ~ 13时33分]"
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 15时22分]"
         }
       ]
     },
@@ -77,8 +79,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时43分 ~ 13时33分]"
+          "appearance_count": 5,
+          "time_info": "[08时43分 ~ 15时22分]"
         }
       ]
     }
