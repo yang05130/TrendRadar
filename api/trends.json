@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-06-28T17:04:59.575286+08:00",
-  "total_titles_processed": 1052,
+  "generated_at": "2026-06-28T18:46:15.334920+08:00",
+  "total_titles_processed": 1147,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
       "match_count": 5,
       "titles": [
+        {
+          "title": "铜价走到哪了？",
+          "url": "https://wallstreetcn.com/articles/3775678",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时44分 ~ 18时46分]"
+        },
         {
           "title": "中超重庆铜梁龙1:0天津津门虎",
           "url": "https://www.douyin.com/hot/2550054",
@@ -35,23 +51,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 17时04分]"
-        },
-        {
-          "title": "铜价走到哪了？",
-          "url": "https://wallstreetcn.com/articles/3775678",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 17时04分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 18时46分]"
         },
         {
           "title": "招商证券：铜价短期关注流动性收紧与地缘风险变化，中长期仍看供需格局演变",
@@ -71,7 +72,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         }
@@ -89,11 +90,12 @@
             9,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时43分 ~ 17时04分]"
+          "appearance_count": 8,
+          "time_info": "[08时43分 ~ 18时46分]"
         }
       ]
     }
