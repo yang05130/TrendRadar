@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T15:22:54.866639+08:00",
-  "total_titles_processed": 949,
+  "generated_at": "2026-06-28T17:04:59.575286+08:00",
+  "total_titles_processed": 1052,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "中超重庆铜梁龙1:0天津津门虎",
@@ -35,8 +35,23 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 15时22分]"
+          "appearance_count": 19,
+          "time_info": "[00时25分 ~ 17时04分]"
+        },
+        {
+          "title": "铜价走到哪了？",
+          "url": "https://wallstreetcn.com/articles/3775678",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时44分 ~ 17时04分]"
         },
         {
           "title": "招商证券：铜价短期关注流动性收紧与地缘风险变化，中长期仍看供需格局演变",
@@ -50,18 +65,15 @@
           "time_info": "[00时26分 ~ 07时24分]"
         },
         {
-          "title": "铜价走到哪了？",
-          "url": "https://wallstreetcn.com/articles/3775678",
-          "source": "华尔街见闻",
+          "title": "超声电子：未供货英伟达 高速覆铜板等研发项目存在不确定性",
+          "url": "https://flash.jin10.com/detail/20260628154423642800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            8,
-            7,
-            6
+            19
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时44分 ~ 15时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         }
       ]
     },
@@ -76,11 +88,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时43分 ~ 15时22分]"
+          "appearance_count": 6,
+          "time_info": "[08时43分 ~ 17时04分]"
         }
       ]
     }
