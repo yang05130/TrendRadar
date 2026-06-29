@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T13:37:17.316872+08:00",
-  "total_titles_processed": 1087,
+  "generated_at": "2026-06-29T15:44:09.256199+08:00",
+  "total_titles_processed": 1238,
   "failed_sources": [],
   "trends": [
     {
@@ -33,25 +33,8 @@
       ]
     },
     {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "分析师：风险偏好影响黄金价格 未来金价料进一步承压",
-          "url": "https://flash.jin10.com/detail/20260629084911485800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        }
-      ]
-    },
-    {
       "keyword_group": "铜",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "基因太顶!铜牌假小子出圈",
@@ -67,6 +50,34 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时27分 ~ 13时37分]"
+        },
+        {
+          "title": "铜价上涨 日本住宅水表失窃严重",
+          "url": "https://wallstreetcn.com/livenews/3125954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "分析师：风险偏好影响黄金价格 未来金价料进一步承压",
+          "url": "https://flash.jin10.com/detail/20260629084911485800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         }
       ]
     }
