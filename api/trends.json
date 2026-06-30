@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T17:09:17.637388+08:00",
-  "total_titles_processed": 1398,
+  "generated_at": "2026-06-30T19:03:28.235211+08:00",
+  "total_titles_processed": 1547,
   "failed_sources": [],
   "trends": [
     {
@@ -59,7 +59,7 @@
     },
     {
       "keyword_group": "铜",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "LME期铜收跌79美元，报13278美元/吨。 LME期铝收跌92美元，报3088美元/吨。 LME期锌收涨2美元，报3474美元/吨。 LME期铅收跌10美元，报1894美元/吨。 LME期镍收跌388美元，报16311美元/吨。 LME期锡收跌178美元，报50375美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -74,13 +74,24 @@
           "time_info": "[02时42分 ~ 03时35分]"
         },
         {
+          "title": "方邦股份：FCCL、电阻薄膜、可剥离铜箔等产品验证周期漫长，后续客户导入存在不确定性风险",
+          "url": "https://flash.jin10.com/detail/20260630183932398800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
           "title": "伦敦金属交易所（LME）：锌库存减少700吨，锡库存增加15吨，镍库存增加6吨，铜库存减少3875吨，铝库存减少1550吨，铅库存增加375吨。",
           "url": "https://wallstreetcn.com/livenews/3126602",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         }
