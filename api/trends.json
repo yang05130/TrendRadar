@@ -1,80 +1,45 @@
 {
-  "generated_at": "2026-07-02T04:36:33.368826+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2026-07-02T05:33:36.830722+08:00",
+  "total_titles_processed": 584,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美元",
-      "match_count": 3,
+      "keyword_group": "铜",
+      "match_count": 5,
       "titles": [
         {
-          "title": "美元指数1日上涨",
-          "url": "https://flash.jin10.com/detail/20260702042100107800",
+          "title": "必和必拓(BHP.N)：已提交环境许可申请，计划投资15亿美元重新启用智利塞罗科罗拉多铜矿。",
+          "url": "https://flash.jin10.com/detail/20260702051010821800",
           "source": "金十数据",
           "ranks": [
-            1
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "05时33分"
         },
         {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.22%，暂报2150.11点，北京时间08:55之前大致持平于2100点附近，09:13跌至2063.01点刷新期内最低位，随后呈现出N形走势、第一波反弹走势在12:47达到2155.28点、23:23刷新期内最高位至2161.93点。 MarketVectorTM数字资产100中盘指数涨0.99%，报2453.77点。 MarketVector数字资产100指数涨2.65%，报11919.46点。 目前，Solana涨4.78%，狗狗币涨1.11%，XRP涨1.31%。 比特币涨2.06%，暂报59850.94美元；以太坊涨2.33%，暂报1613.15美元。",
-          "url": "https://wallstreetcn.com/livenews/3127549",
+          "title": "必和必拓：已经围绕15亿美元重启智利Cerro Colorado铜矿递交环境许可申请。",
+          "url": "https://wallstreetcn.com/livenews/3127622",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 02时41分]"
-        },
-        {
-          "title": "周三（7月1日）纽约尾盘，ICE美元指数涨0.20%，报101.387点，亚太盘初以来持续上扬、北京时间21:14刷新日高至101.595点，随后快速回落、刷新日低至101.200点、几乎完全回吐日内稍早涨幅，之后逐步回升。 彭博美元指数涨0.20%，报1224.73点，日内交投区间为1222.26-1226.75点。",
-          "url": "https://wallstreetcn.com/livenews/3127589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
-          "url": "https://wallstreetcn.com/articles/3775797",
-          "source": "华尔街见闻",
           "ranks": [
             5
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
         },
         {
-          "title": "周三（7月1日）纽约尾盘，美国10年期国债收益率涨0.99个基点，报4.4752%，美股开盘前后出现一波冲高回落行情、北京时间21:08刷新日高至4.4970% 两年期美债收益率大致持平，报4.1702%，21:08刷新日高至4.1971%、随后快速回撤、22:09刷新日低至4.1311%；30年期美债收益率涨1.40个基点，报4.9653%。 2/10年期美债收益率利差涨1.817个基点，报+30.495个基点。 10年期通胀保值国债（TIPS）收益率涨0.85个基点，至2.2305%；两年期TIPS收益率跌0.77个基点，至2.1636%；30年期TIPS收益率涨0.82个基点，至2.7870%。",
-          "url": "https://wallstreetcn.com/livenews/3127592",
+          "title": "周三（7月1日）纽约尾盘，现货黄金涨0.57%，报4030.87美元/盎司，日内交投于3960.30-4115.66美元区间，北京时间21:30美股开盘前后显著拉升。 现货白银涨0.90%，报59.0942美元/盎司。 COMEX铜期货跌1.61%，报6.1530美元/磅，日内绝大部分时间处于下跌状态。 现货铂金涨1.74%，现货钯金涨0.27%。",
+          "url": "https://wallstreetcn.com/livenews/3127621",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "铜",
-      "match_count": 2,
-      "titles": [
+          "time_info": "05时33分"
+        },
         {
           "title": "国际铜夜盘收涨0.10%，沪铜收涨0.70%，沪铝收平，沪锌收跌0.47%，沪铅收跌0.57%，沪镍收跌0.10%，沪锡收涨0.99%。 氧化铝夜盘收涨0.11%，铝合金收涨0.40%。 不锈钢夜盘收跌0.54%。",
           "url": "https://wallstreetcn.com/livenews/3127551",
@@ -103,6 +68,86 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美元指数1日上涨",
+          "url": "https://flash.jin10.com/detail/20260702042100107800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时33分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.22%，暂报2150.11点，北京时间08:55之前大致持平于2100点附近，09:13跌至2063.01点刷新期内最低位，随后呈现出N形走势、第一波反弹走势在12:47达到2155.28点、23:23刷新期内最高位至2161.93点。 MarketVectorTM数字资产100中盘指数涨0.99%，报2453.77点。 MarketVector数字资产100指数涨2.65%，报11919.46点。 目前，Solana涨4.78%，狗狗币涨1.11%，XRP涨1.31%。 比特币涨2.06%，暂报59850.94美元；以太坊涨2.33%，暂报1613.15美元。",
+          "url": "https://wallstreetcn.com/livenews/3127549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时38分 ~ 02时41分]"
+        },
+        {
+          "title": "北美科技软件股指数ETF涨3.02%，报93.34美元。 Global X网络安全ETF涨2.59%，纳斯达克网络安全ETF涨1.40%，ETFMG网络安全ETF涨2.07%",
+          "url": "https://wallstreetcn.com/livenews/3127613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
+        },
+        {
+          "title": "周三（7月1日）纽约尾盘，ICE美元指数涨0.20%，报101.387点，亚太盘初以来持续上扬、北京时间21:14刷新日高至101.595点，随后快速回落、刷新日低至101.200点、几乎完全回吐日内稍早涨幅，之后逐步回升。 彭博美元指数涨0.20%，报1224.73点，日内交投区间为1222.26-1226.75点。",
+          "url": "https://wallstreetcn.com/livenews/3127589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时33分]"
+        },
+        {
+          "title": "周三（7月1日）纽约尾盘，美国10年期国债收益率涨0.99个基点，报4.4752%，美股开盘前后出现一波冲高回落行情、北京时间21:08刷新日高至4.4970% 两年期美债收益率大致持平，报4.1702%，21:08刷新日高至4.1971%、随后快速回撤、22:09刷新日低至4.1311%；30年期美债收益率涨1.40个基点，报4.9653%。 2/10年期美债收益率利差涨1.817个基点，报+30.495个基点。 10年期通胀保值国债（TIPS）收益率涨0.85个基点，至2.2305%；两年期TIPS收益率跌0.77个基点，至2.1636%；30年期TIPS收益率涨0.82个基点，至2.7870%。",
+          "url": "https://wallstreetcn.com/livenews/3127592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
@@ -116,8 +161,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时33分]"
         }
       ]
     }
