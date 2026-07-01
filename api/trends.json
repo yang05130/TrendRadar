@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T13:34:19.440597+08:00",
-  "total_titles_processed": 1221,
+  "generated_at": "2026-07-01T15:32:44.092385+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
@@ -57,7 +57,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
         },
@@ -68,7 +68,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
         }
@@ -87,8 +87,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时29分 ~ 13时34分]"
+          "appearance_count": 8,
+          "time_info": "[07时29分 ~ 15时32分]"
         },
         {
           "title": "6月份两年期美债实际收益率涨超77个基点，二季度两年期收益率涨超35个基点",
