@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-02T09:43:19.969059+08:00",
-  "total_titles_processed": 916,
+  "generated_at": "2026-07-02T13:56:13.595411+08:00",
+  "total_titles_processed": 1111,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "博士明明比本科难毕业的多，为什么很多人仍认为「金本银硕铜博」？",
+          "url": "https://www.zhihu.com/question/5587850354",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 13时56分]"
+        },
         {
           "title": "必和必拓(BHP.N)：已提交环境许可申请，计划投资15亿美元重新启用智利塞罗科罗拉多铜矿。",
           "url": "https://flash.jin10.com/detail/20260702051010821800",
@@ -164,7 +175,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
         }
