@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T13:56:13.595411+08:00",
-  "total_titles_processed": 1111,
+  "generated_at": "2026-07-02T16:50:11.439766+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/5587850354",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
+          "appearance_count": 4,
+          "time_info": "[13时55分 ~ 16时50分]"
         },
         {
           "title": "必和必拓(BHP.N)：已提交环境许可申请，计划投资15亿美元重新启用智利塞罗科罗拉多铜矿。",
