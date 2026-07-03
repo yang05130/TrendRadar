@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T18:39:54.974986+08:00",
-  "total_titles_processed": 1262,
+  "generated_at": "2026-07-03T20:54:49.918858+08:00",
+  "total_titles_processed": 1406,
   "failed_sources": [],
   "trends": [
     {
@@ -88,11 +88,12 @@
           "url": "https://wallstreetcn.com/articles/3776124",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时39分 ~ 20时54分]"
         },
         {
           "title": "国际铜夜盘收涨0.22%，沪铜收涨0.12%，沪铝收涨0.09%，沪锌收跌0.43%，沪铅收涨0.19%，沪镍收跌0.62%，沪锡收跌0.85%。 氧化铝夜盘收跌1.73%，铝合金收涨0.67%。 不锈钢夜盘收跌0.31%。",
@@ -129,7 +130,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
@@ -140,7 +141,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         }
