@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T04:59:51.623570+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-07-04T06:09:11.447286+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时20分 ~ 04时59分]"
+        },
+        {
+          "title": "AI焦虑暂退，全球股市反弹，欧股创历史新高，金铜拉涨，美元下跌",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 06时09分]"
         },
         {
           "title": "伦敦金属交易所（LME）：已批准将阿达尼铜业（Adani Copper）品牌注册为LME铜合约的可交割品牌。",
