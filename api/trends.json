@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T15:59:24.053442+08:00",
-  "total_titles_processed": 1093,
+  "generated_at": "2026-07-03T18:39:54.974986+08:00",
+  "total_titles_processed": 1262,
   "failed_sources": [],
   "trends": [
     {
@@ -81,8 +81,19 @@
     },
     {
       "keyword_group": "铜",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
         {
           "title": "国际铜夜盘收涨0.22%，沪铜收涨0.12%，沪铝收涨0.09%，沪锌收跌0.43%，沪铅收涨0.19%，沪镍收跌0.62%，沪锡收跌0.85%。 氧化铝夜盘收跌1.73%，铝合金收涨0.67%。 不锈钢夜盘收跌0.31%。",
           "url": "https://wallstreetcn.com/livenews/3128163",
@@ -104,6 +115,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "赤峰黄金：近期，公司黄金产品的市场价格波动较大，预计将对公司经营业绩产生一定影响。",
+          "url": "https://wallstreetcn.com/livenews/3128645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "赤峰黄金：近期黄金产品的市场价格波动较大，预计将对公司经营业绩产生一定影响",
+          "url": "https://flash.jin10.com/detail/20260703182721556800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         }
       ]
     }
