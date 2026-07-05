@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-06T00:03:51.305838+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-06T01:59:30.852563+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "赛力斯 问界",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "一辆华为问界 M9 于隧道内起火，起火原因不明，但现场没有明显碰撞痕迹，具体原因可能是怎样的？",
+          "url": "https://www.zhihu.com/question/2057012511703053889",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时59分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
