@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T05:58:21.967908+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-07-06T07:01:56.945377+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,25 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 07时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "铜",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "矿业公司Greatland Resource：第四季度黄金产量为79,099盎司，铜产量为3,573吨。2026财年黄金产量为328,986盎司，铜产量为14,594吨。2026财年黄金产量超出26万至31万盎司的业绩指引区间。",
+          "url": "https://flash.jin10.com/detail/20260706062759883800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         }
       ]
     }
