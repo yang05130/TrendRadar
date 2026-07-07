@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T04:52:39.373777+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-07-08T06:09:34.703505+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时09分]"
         },
         {
           "title": "美元指数7日上涨",
@@ -25,7 +25,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -103,7 +103,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         }
