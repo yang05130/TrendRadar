@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T06:09:34.703505+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-07-08T07:55:56.491032+08:00",
+  "total_titles_processed": 692,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2419496",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 06时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 07时55分]"
         },
         {
           "title": "美元指数7日上涨",
