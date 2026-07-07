@@ -1,7 +1,10 @@
 {
-  "generated_at": "2026-07-07T10:39:14.937317+08:00",
-  "total_titles_processed": 770,
-  "failed_sources": [],
+  "generated_at": "2026-07-07T14:44:25.455647+08:00",
+  "total_titles_processed": 954,
+  "failed_sources": [
+    "thepaper",
+    "cls-hot"
+  ],
   "trends": [
     {
       "keyword_group": "美元",
