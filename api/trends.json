@@ -1,118 +1,22 @@
 {
-  "generated_at": "2026-07-10T21:09:53.652456+08:00",
-  "total_titles_processed": 1326,
+  "generated_at": "2026-07-11T00:23:00.483822+08:00",
+  "total_titles_processed": 316,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.64%，暂报2168.03点。 MarketVectorTM数字资产100中盘指数涨0.89%，报2538.31点。 MarketVector数字资产100指数涨0.69%，报12443.14点。 目前，Solana涨0.44%，狗狗币涨0.11%，XRP持平。 比特币涨0.68%，暂报62572.83美元；以太坊跌0.11%，暂报1734.71美元。",
-          "url": "https://wallstreetcn.com/livenews/3131481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "北美科技软件股指数ETF涨1.51%，报93.88美元。 Global X网络安全ETF涨2.97%，纳斯达克网络安全ETF涨2.84%，ETFMG网络安全ETF涨2.78%",
-          "url": "https://wallstreetcn.com/livenews/3131555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 07时09分]"
-        },
-        {
-          "title": "美元指数9日下跌",
-          "url": "https://flash.jin10.com/detail/20260710035820523800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "铜",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "国际铜夜盘收涨1.69%，沪铜收涨1.58%，沪铝收涨0.48%，沪锌收涨1.26%，沪铅收跌0.19%，沪镍收涨1.08%，沪锡收涨2.26%。 氧化铝夜盘收涨0.29%，铝合金收涨0.63%。 不锈钢夜盘收跌0.59%。",
-          "url": "https://wallstreetcn.com/livenews/3131484",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "LME期铜收涨324美元，报13490美元/吨。 LME期铝收涨68美元，报3200美元/吨。 LME期锌收涨108美元，报3626美元/吨。 LME期铅收平，报1892美元/吨。 LME期镍收涨249美元，报16587美元/吨。 LME期锡收涨1552美元，报53647美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3131482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
         {
           "title": "三星堆考古新发现：青铜顶尊跪坐人像并非神话符号，是古人祭祀实录",
           "url": "https://m.thepaper.cn/newsDetail_forward_33555614",
           "source": "澎湃新闻",
           "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "PGIM：30年期美债收益率的重新定价已经开始",
-          "url": "https://wallstreetcn.com/livenews/3131473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "泡泡玛特 labubu",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "段永平在泡泡玛特H股的持股比例于7月6日从6.85%增至7.65%。",
-          "url": "https://wallstreetcn.com/livenews/3131941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 00时23分]"
         }
       ]
     }
