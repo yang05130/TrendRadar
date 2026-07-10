@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T18:20:29.099988+08:00",
-  "total_titles_processed": 1144,
+  "generated_at": "2026-07-10T21:09:53.652456+08:00",
+  "total_titles_processed": 1326,
   "failed_sources": [],
   "trends": [
     {
@@ -45,7 +45,7 @@
     },
     {
       "keyword_group": "铜",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "国际铜夜盘收涨1.69%，沪铜收涨1.58%，沪铝收涨0.48%，沪锌收涨1.26%，沪铅收跌0.19%，沪镍收涨1.08%，沪锡收涨2.26%。 氧化铝夜盘收涨0.29%，铝合金收涨0.63%。 不锈钢夜盘收跌0.59%。",
@@ -68,6 +68,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "三星堆考古新发现：青铜顶尊跪坐人像并非神话符号，是古人祭祀实录",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33555614",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         }
       ]
     },
@@ -99,7 +110,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         }
