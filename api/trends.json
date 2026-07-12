@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T19:56:01.041817+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2026-07-12T21:09:31.470339+08:00",
+  "total_titles_processed": 1207,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "赛力斯 问界",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "赛力斯：2026年上半年预计亏损15亿元-18亿元",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 19时56分]"
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 21时09分]"
         },
         {
           "title": "曝余承东内部群发飙，要求立刻整改「问界 M8 致车主行踪暴露」一事，是真的吗？这种 bug 是什么环节的问题？",
@@ -29,6 +30,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
+        },
+        {
+          "title": "赛力斯预计半年净亏损15至18亿元",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B5%9B%E5%8A%9B%E6%96%AF%E9%A2%84%E8%AE%A1%E5%8D%8A%E5%B9%B4%E5%87%80%E4%BA%8F%E6%8D%9F15%E8%87%B318%E4%BA%BF%E5%85%83%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "赛力斯：2026年上半年预亏15亿-18亿元",
