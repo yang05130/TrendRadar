@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-07-12T13:53:01.896737+08:00",
-  "total_titles_processed": 797,
+  "generated_at": "2026-07-12T16:09:48.927675+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "赛力斯 问界",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "曝余承东内部群发飙，要求立刻整改「问界 M8 致车主行踪暴露」一事，是真的吗？这种 bug 是什么环节的问题？",
+          "url": "https://www.zhihu.com/question/2059329797826635179",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        }
+      ]
+    },
     {
       "keyword_group": "铜",
       "match_count": 1,
