@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T22:52:40.841030+08:00",
-  "total_titles_processed": 1296,
+  "generated_at": "2026-07-12T23:56:24.458481+08:00",
+  "total_titles_processed": 1349,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "source": "微博",
           "ranks": [
             20,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时09分 ~ 22时52分]"
+          "appearance_count": 3,
+          "time_info": "[21时09分 ~ 23时56分]"
         },
         {
           "title": "赛力斯：2026年上半年将预计亏损",
@@ -50,9 +51,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时52分 ~ 23时56分]"
         },
         {
           "title": "赛力斯：2026年上半年预亏15亿-18亿元",
