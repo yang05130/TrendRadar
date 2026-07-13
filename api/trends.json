@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-13T14:11:31.651637+08:00",
-  "total_titles_processed": 884,
+  "generated_at": "2026-07-13T18:21:07.717186+08:00",
+  "total_titles_processed": 1093,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "赛力斯 问界",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "如何评价赛力斯 2026 年上半年预计亏损 15-18 亿？为什么销量不低却依然巨亏？",
           "url": "https://www.zhihu.com/question/2059697862565536691",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时11分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时11分 ~ 18时21分]"
         },
         {
           "title": "赛力斯：2026年上半年将预计亏损",
@@ -50,7 +51,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -61,9 +62,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
+        },
+        {
+          "title": "赛力斯上半年预亏：短期承压主要系成本上涨所致",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33572532",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 18时21分]"
         }
       ]
     },
