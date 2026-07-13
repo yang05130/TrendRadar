@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T05:52:40.463219+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-07-14T06:52:39.731735+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             4,
             12,
             13,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时52分]"
         },
         {
           "title": "赛力斯上半年预亏：短期承压主要系成本上涨所致",
@@ -29,8 +30,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 06时52分]"
         }
       ]
     },
@@ -56,7 +57,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         }
