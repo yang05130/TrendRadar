@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T10:02:17.502195+08:00",
-  "total_titles_processed": 835,
+  "generated_at": "2026-07-14T13:08:06.182521+08:00",
+  "total_titles_processed": 999,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "赛力斯 问界",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何评价赛力斯 2026 年上半年预计亏损 15-18 亿？为什么销量不低却依然巨亏？",
@@ -23,6 +23,17 @@
           "time_info": "[00时27分 ~ 07时50分]"
         },
         {
+          "title": "股票腰斩,赛力斯血亏18亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356158&amp;topic_name=%E8%82%A1%E7%A5%A8%E8%85%B0%E6%96%A9%2C%E8%B5%9B%E5%8A%9B%E6%96%AF%E8%A1%80%E4%BA%8F18%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
+        },
+        {
           "title": "赛力斯上半年预亏：短期承压主要系成本上涨所致",
           "url": "https://m.thepaper.cn/newsDetail_forward_33572532",
           "source": "澎湃新闻",
@@ -32,6 +43,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 06时52分]"
+        },
+        {
+          "title": "汽车观察｜赛力斯由盈转亏背后：分工时代的得与失",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33573882",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
         }
       ]
     },
