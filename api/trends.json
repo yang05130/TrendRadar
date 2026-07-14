@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T21:23:10.089596+08:00",
-  "total_titles_processed": 1624,
+  "generated_at": "2026-07-14T23:21:03.745196+08:00",
+  "total_titles_processed": 1770,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             4,
             8,
             10,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时07分 ~ 21时23分]"
+          "appearance_count": 10,
+          "time_info": "[13时07分 ~ 23时21分]"
         },
         {
           "title": "如何评价赛力斯 2026 年上半年预计亏损 15-18 亿？为什么销量不低却依然巨亏？",
@@ -104,7 +105,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         },
@@ -132,11 +133,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时54分 ~ 21时23分]"
+          "appearance_count": 8,
+          "time_info": "[15时54分 ~ 23时21分]"
         },
         {
           "title": "CPI数据低于预期，美联储7月加息押注降至20%，美债价格大涨",
@@ -145,7 +147,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         }
