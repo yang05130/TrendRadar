@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T13:08:06.182521+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2026-07-14T15:54:54.896749+08:00",
+  "total_titles_processed": 1172,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356158&amp;topic_name=%E8%82%A1%E7%A5%A8%E8%85%B0%E6%96%A9%2C%E8%B5%9B%E5%8A%9B%E6%96%AF%E8%A1%80%E4%BA%8F18%E4%BA%BF",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时07分 ~ 13时08分]"
+          "appearance_count": 3,
+          "time_info": "[13时07分 ~ 15时54分]"
         },
         {
           "title": "赛力斯上半年预亏：短期承压主要系成本上涨所致",
@@ -87,7 +88,7 @@
     },
     {
       "keyword_group": "铜",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "国际铜夜盘收涨0.27%，沪铜收涨0.40%，沪铝收涨0.33%，沪锌收跌0.60%，沪铅收跌0.66%，沪镍收涨0.46%，沪锡收跌1.27%。 氧化铝夜盘收涨0.15%，铝合金收跌0.22%。 不锈钢夜盘收涨1.85%。",
@@ -99,6 +100,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "港股有色股午后反弹，中国铝业涨近10%，中国宏桥、江西铜业股份涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3133371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
+          "url": "https://wallstreetcn.com/articles/3776831",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         }
       ]
     }
