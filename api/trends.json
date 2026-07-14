@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T17:54:02.381057+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2026-07-14T19:23:42.372163+08:00",
+  "total_titles_processed": 1467,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "ranks": [
             4,
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时07分 ~ 17时54分]"
+          "appearance_count": 6,
+          "time_info": "[13时07分 ~ 19时23分]"
         },
         {
           "title": "赛力斯：高管及骨干拟增持不低于1.19亿元",
@@ -42,7 +43,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -75,7 +76,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         }
@@ -150,8 +151,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时54分 ~ 17时54分]"
+          "appearance_count": 4,
+          "time_info": "[15时54分 ~ 19时23分]"
         }
       ]
     }
