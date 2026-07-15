@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T07:49:44.591818+08:00",
-  "total_titles_processed": 703,
+  "generated_at": "2026-07-15T09:57:42.807448+08:00",
+  "total_titles_processed": 860,
   "failed_sources": [],
   "trends": [
     {
@@ -37,7 +37,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
@@ -104,11 +104,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时10分 ~ 07时49分]"
+          "appearance_count": 9,
+          "time_info": "[01时10分 ~ 09时57分]"
         },
         {
           "title": "赛力斯的钱流向了谁的口袋",
