@@ -1,28 +1,11 @@
 {
-  "generated_at": "2026-07-16T01:13:26.928100+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-16T03:05:11.946307+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.21%，暂报2201.16点，北京时间20:48曾出现一波显著的拉升行情。 MarketVectorTM数字资产100中盘指数跌1.37%，报2601.54点，美股开盘前后冲高回落。 MarketVector数字资产100指数涨0.59%，报12956.63点。 目前，Solana涨0.31%，狗狗币跌0.62%，XRP持平。 比特币涨0.66%，暂报64969.74美元；以太坊涨1.95%，暂报1913.81美元。",
-          "url": "https://wallstreetcn.com/livenews/3134531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "铜",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "LME期铜收跌62美元，报13582美元/吨。 LME期铝收跌27美元，报3150美元/吨。 LME期锌收跌52美元，报3546美元/吨。 LME期铅收跌14美元，报1852美元/吨。 LME期镍收涨38美元，报16803美元/吨。 LME期锡收跌1033美元，报52780美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -34,6 +17,52 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "国际铜夜盘收跌0.54%，沪铜收跌0.61%，沪铝收跌0.58%，沪锌收跌1.03%，沪铅收跌0.61%，沪镍收跌0.08%，沪锡收跌2.04%。 氧化铝夜盘收涨0.18%，铝合金收跌0.28%。 不锈钢夜盘收涨0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3134534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "日本为何抛售大量美债",
+          "url": "https://www.toutiao.com/trending/7662700915773672996/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时04分 ~ 03时05分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.21%，暂报2201.16点，北京时间20:48曾出现一波显著的拉升行情。 MarketVectorTM数字资产100中盘指数跌1.37%，报2601.54点，美股开盘前后冲高回落。 MarketVector数字资产100指数涨0.59%，报12956.63点。 目前，Solana涨0.31%，狗狗币跌0.62%，XRP持平。 比特币涨0.66%，暂报64969.74美元；以太坊涨1.95%，暂报1913.81美元。",
+          "url": "https://wallstreetcn.com/livenews/3134531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时05分]"
         }
       ]
     }
