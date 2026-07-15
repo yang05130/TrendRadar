@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T09:57:42.807448+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2026-07-15T12:52:29.720150+08:00",
+  "total_titles_processed": 1033,
   "failed_sources": [],
   "trends": [
     {
@@ -105,11 +105,12 @@
           "ranks": [
             14,
             15,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时10分 ~ 09时57分]"
+          "appearance_count": 10,
+          "time_info": "[01时10分 ~ 12时52分]"
         },
         {
           "title": "赛力斯的钱流向了谁的口袋",
@@ -123,6 +124,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时10分 ~ 06时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "澳新银行：将年末黄金价格预测下调至每盎司4600美元，将未来12个月预测下调至每盎司5400美元。",
+          "url": "https://flash.jin10.com/detail/20260715122146880800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         }
       ]
     },
