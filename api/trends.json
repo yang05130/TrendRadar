@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T21:26:30.576459+08:00",
-  "total_titles_processed": 1650,
+  "generated_at": "2026-07-15T23:24:05.283846+08:00",
+  "total_titles_processed": 1779,
   "failed_sources": [],
   "trends": [
     {
@@ -78,7 +78,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "东方金诚：10年期美债收益率中枢大概率将继续抬升",
@@ -124,6 +124,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
+        },
+        {
+          "title": "美联储主席沃什：已经将我的投资组合转换至现金等价物和短期美债。",
+          "url": "https://wallstreetcn.com/livenews/3134460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         }
       ]
     },
@@ -183,7 +194,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         }
