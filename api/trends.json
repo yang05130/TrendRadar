@@ -1,8 +1,81 @@
 {
-  "generated_at": "2026-07-15T15:12:45.460843+08:00",
-  "total_titles_processed": 1184,
+  "generated_at": "2026-07-15T17:58:19.698034+08:00",
+  "total_titles_processed": 1372,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "铜",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "LME期铜收涨102美元，报13643美元/吨。 LME期铝收涨8美元，报3177美元/吨。 LME期锌收涨32美元，报3598美元/吨。 LME期铅收跌2美元，报1866美元/吨。 LME期镍收跌1美元，报16765美元/吨。 LME期锡收涨1215美元，报53813美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3133800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时10分"
+        },
+        {
+          "title": "力拓二季度皮尔巴拉铁矿石产量8349万吨。 二季度皮尔巴拉铁矿石发货量8530万吨，分析师预期8313万吨。 二季度铜产量21.32万吨。 维持全年产量/销售指引不变，预计总体铁矿石销量3.43亿-3.66亿吨、预计皮尔巴拉铁矿石发货量3.23亿-3.38亿吨。",
+          "url": "https://wallstreetcn.com/livenews/3133912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时49分]"
+        },
+        {
+          "title": "嘉元科技：预计上半年净利润为3.6亿元到3.9亿元，同比增加879.48%到961.11%，铜箔产品产销量显著增长。",
+          "url": "https://wallstreetcn.com/livenews/3134251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "景气度攀升，覆铜板领涨产业链，PCB行业盈利能力大增",
+          "url": "https://wallstreetcn.com/livenews/3133918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时49分"
+        },
+        {
+          "title": "伦敦金属交易所(LME)：铝库存减少1500吨，镍库存减少156吨，锡库存减少45吨，铅库存增加86500吨，锌库存减少1000吨，铜库存减少1250吨。",
+          "url": "https://wallstreetcn.com/livenews/3134229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "国际铜夜盘收涨0.63%，沪铜收涨0.56%，沪铝收跌0.19%，沪锌收涨0.49%，沪铅收跌1.45%，沪镍收跌0.21%，沪锡收跌1.45%。 氧化铝夜盘收涨1.08%，铝合金收跌0.11%。 不锈钢夜盘收涨0.10%。",
+          "url": "https://wallstreetcn.com/livenews/3133805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        }
+      ]
+    },
     {
       "keyword_group": "美债",
       "match_count": 4,
@@ -14,7 +87,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -51,57 +124,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "铜",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "LME期铜收涨102美元，报13643美元/吨。 LME期铝收涨8美元，报3177美元/吨。 LME期锌收涨32美元，报3598美元/吨。 LME期铅收跌2美元，报1866美元/吨。 LME期镍收跌1美元，报16765美元/吨。 LME期锡收涨1215美元，报53813美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3133800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "力拓二季度皮尔巴拉铁矿石产量8349万吨。 二季度皮尔巴拉铁矿石发货量8530万吨，分析师预期8313万吨。 二季度铜产量21.32万吨。 维持全年产量/销售指引不变，预计总体铁矿石销量3.43亿-3.66亿吨、预计皮尔巴拉铁矿石发货量3.23亿-3.38亿吨。",
-          "url": "https://wallstreetcn.com/livenews/3133912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时54分 ~ 07时49分]"
-        },
-        {
-          "title": "景气度攀升，覆铜板领涨产业链，PCB行业盈利能力大增",
-          "url": "https://wallstreetcn.com/livenews/3133918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时49分"
-        },
-        {
-          "title": "国际铜夜盘收涨0.63%，沪铜收涨0.56%，沪铝收跌0.19%，沪锌收涨0.49%，沪铅收跌1.45%，沪镍收跌0.21%，沪锡收跌1.45%。 氧化铝夜盘收涨1.08%，铝合金收跌0.11%。 不锈钢夜盘收涨0.10%。",
-          "url": "https://wallstreetcn.com/livenews/3133805",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
         }
       ]
     },
