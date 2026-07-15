@@ -1,219 +1,39 @@
 {
-  "generated_at": "2026-07-15T23:24:05.283846+08:00",
-  "total_titles_processed": 1779,
+  "generated_at": "2026-07-16T01:13:26.928100+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "铜",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "LME期铜收涨102美元，报13643美元/吨。 LME期铝收涨8美元，报3177美元/吨。 LME期锌收涨32美元，报3598美元/吨。 LME期铅收跌2美元，报1866美元/吨。 LME期镍收跌1美元，报16765美元/吨。 LME期锡收涨1215美元，报53813美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3133800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "力拓二季度皮尔巴拉铁矿石产量8349万吨。 二季度皮尔巴拉铁矿石发货量8530万吨，分析师预期8313万吨。 二季度铜产量21.32万吨。 维持全年产量/销售指引不变，预计总体铁矿石销量3.43亿-3.66亿吨、预计皮尔巴拉铁矿石发货量3.23亿-3.38亿吨。",
-          "url": "https://wallstreetcn.com/livenews/3133912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时54分 ~ 07时49分]"
-        },
-        {
-          "title": "嘉元科技：预计上半年净利润为3.6亿元到3.9亿元，同比增加879.48%到961.11%，铜箔产品产销量显著增长。",
-          "url": "https://wallstreetcn.com/livenews/3134251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
-          "title": "景气度攀升，覆铜板领涨产业链，PCB行业盈利能力大增",
-          "url": "https://wallstreetcn.com/livenews/3133918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时49分"
-        },
-        {
-          "title": "伦敦金属交易所(LME)：铝库存减少1500吨，镍库存减少156吨，锡库存减少45吨，铅库存增加86500吨，锌库存减少1000吨，铜库存减少1250吨。",
-          "url": "https://wallstreetcn.com/livenews/3134229",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
-          "title": "国际铜夜盘收涨0.63%，沪铜收涨0.56%，沪铝收跌0.19%，沪锌收涨0.49%，沪铅收跌1.45%，沪镍收跌0.21%，沪锡收跌1.45%。 氧化铝夜盘收涨1.08%，铝合金收跌0.11%。 不锈钢夜盘收涨0.10%。",
-          "url": "https://wallstreetcn.com/livenews/3133805",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "东方金诚：10年期美债收益率中枢大概率将继续抬升",
-          "url": "https://flash.jin10.com/detail/20260715145250458800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
-          "url": "https://wallstreetcn.com/articles/3776831",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "据知情人士透露，高盛100亿美元高评级债券发行获得大约320亿美元认购。 在6-31年的三部分到期时间债券供应中，久期最长的债券收益率定价较可比美债溢价大约113个基点，最初讨论的收窄大约22个基点。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3133904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时54分 ~ 07时49分]"
-        },
-        {
-          "title": "日本5月所持美国国债1.143万亿美元，前值1.210万亿美元。中国5月所持美债6590亿美元，前值6510亿美元。英国5月所持美债9490亿美元，前值9380亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3133866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        },
-        {
-          "title": "美联储主席沃什：已经将我的投资组合转换至现金等价物和短期美债。",
-          "url": "https://wallstreetcn.com/livenews/3134460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "赛力斯 问界",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "股票腰斩,赛力斯血亏18亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356158&amp;topic_name=%E8%82%A1%E7%A5%A8%E8%85%B0%E6%96%A9%2C%E8%B5%9B%E5%8A%9B%E6%96%AF%E8%A1%80%E4%BA%8F18%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            15,
-            17,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时10分 ~ 15时12分]"
-        },
-        {
-          "title": "赛力斯的钱流向了谁的口袋",
-          "url": "https://www.toutiao.com/trending/7662378774192721462/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 06时54分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数14日下跌",
-          "url": "https://flash.jin10.com/detail/20260715045623923800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "美元指数短线小幅走低，现报100.94。美股期货短线小幅拉升，纳斯达克100指数期货涨0.5%。美国10年期国债收益率短线走低，现报4.606%。现货黄金短线拉升逾10美元，现报4052.19美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3134371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
         {
-          "title": "澳新银行：将年末黄金价格预测下调至每盎司4600美元，将未来12个月预测下调至每盎司5400美元。",
-          "url": "https://flash.jin10.com/detail/20260715122146880800",
-          "source": "金十数据",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.21%，暂报2201.16点，北京时间20:48曾出现一波显著的拉升行情。 MarketVectorTM数字资产100中盘指数跌1.37%，报2601.54点，美股开盘前后冲高回落。 MarketVector数字资产100指数涨0.59%，报12956.63点。 目前，Solana涨0.31%，狗狗币跌0.62%，XRP持平。 比特币涨0.66%，暂报64969.74美元；以太坊涨1.95%，暂报1913.81美元。",
+          "url": "https://wallstreetcn.com/livenews/3134531",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时52分"
+          "time_info": "01时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "铜",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "LME期铜收跌62美元，报13582美元/吨。 LME期铝收跌27美元，报3150美元/吨。 LME期锌收跌52美元，报3546美元/吨。 LME期铅收跌14美元，报1852美元/吨。 LME期镍收涨38美元，报16803美元/吨。 LME期锡收跌1033美元，报52780美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3134529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
         }
       ]
     }
