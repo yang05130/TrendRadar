@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T05:06:24.995251+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-07-17T07:55:16.272867+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
         },
@@ -37,7 +37,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
         },
@@ -51,6 +51,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "逾30年的美债多头Hoisington因通胀和债务加剧转而看空",
+          "url": "https://wallstreetcn.com/livenews/3135325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "美债收益率普遍涨超1个基点",
+          "url": "https://wallstreetcn.com/livenews/3135247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 05时06分]"
         }
       ]
     },
@@ -83,20 +112,19 @@
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
         {
-          "title": "美债收益率普遍涨超1个基点",
-          "url": "https://wallstreetcn.com/livenews/3135247",
-          "source": "华尔街见闻-快讯",
+          "title": "伯恩斯坦：将2026年黄金价格目标上调至4533美元/盎司，因各国央行正在实现储备多元化，且预计美联储在未来一年内最多只会加息一两次。",
+          "url": "https://flash.jin10.com/detail/20260717075253072800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            27
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时01分 ~ 05时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         }
       ]
     }
