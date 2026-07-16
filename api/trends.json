@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T07:56:18.878871+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2026-07-16T10:08:17.130646+08:00",
+  "total_titles_processed": 870,
   "failed_sources": [],
   "trends": [
     {
@@ -48,7 +48,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -157,6 +157,23 @@
       ]
     },
     {
+      "keyword_group": "泡泡玛特 labubu",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港股新消费概念走强，布鲁可(00325.HK)涨超7%，泡泡玛特(09992.HK)涨超4%，名创优品(09896.HK)、古茗(01364.HK)等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260716094441442800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "5090 nvidia",
       "match_count": 1,
       "titles": [
@@ -167,7 +184,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         }
