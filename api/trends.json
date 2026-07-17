@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T13:37:58.277477+08:00",
-  "total_titles_processed": 997,
+  "generated_at": "2026-07-17T16:02:48.879172+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
@@ -55,6 +55,56 @@
       ]
     },
     {
+      "keyword_group": "铜",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "上期所：本周铜库存减少20362吨，铝库存减少5401吨，锌库存减少427吨，铅库存减少1361吨，镍库存增加11078吨，锡库存减少268吨，天然橡胶库存减少190吨。",
+          "url": "https://wallstreetcn.com/livenews/3135556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "上期所：本周铜库存减少20362吨，铝库存减少5401吨，锌库存减少427吨，铅库存减少1361吨，镍库存增加11078吨，锡库存减少268吨，天然橡胶库存减少190吨。",
+          "url": "https://flash.jin10.com/detail/20260717152417263800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "国际铜夜盘收涨0.01%，沪铜收跌0.08%，沪铝收涨0.39%，沪锌收涨0.39%，沪铅收涨1.57%，沪镍收涨0.61%，沪锡收涨0.53%。 氧化铝夜盘收跌0.59%，铝合金收涨0.52%。 不锈钢夜盘收涨1.16%。",
+          "url": "https://wallstreetcn.com/livenews/3135203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "LME期铜收涨17美元，报13598美元/吨。 LME期铝收涨35美元，报3185美元/吨。 LME期锌收涨48美元，报3594美元/吨。 LME期铅收涨20美元，报1872美元/吨。 LME期镍收涨349美元，报17152美元/吨。 LME期锡收涨376美元，报53156美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3135200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -80,34 +130,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时01分 ~ 05时06分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "铜",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国际铜夜盘收涨0.01%，沪铜收跌0.08%，沪铝收涨0.39%，沪锌收涨0.39%，沪铅收涨1.57%，沪镍收涨0.61%，沪锡收涨0.53%。 氧化铝夜盘收跌0.59%，铝合金收涨0.52%。 不锈钢夜盘收涨1.16%。",
-          "url": "https://wallstreetcn.com/livenews/3135203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
-        },
-        {
-          "title": "LME期铜收涨17美元，报13598美元/吨。 LME期铝收涨35美元，报3185美元/吨。 LME期锌收涨48美元，报3594美元/吨。 LME期铅收涨20美元，报1872美元/吨。 LME期镍收涨349美元，报17152美元/吨。 LME期锡收涨376美元，报53156美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3135200",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
         }
       ]
     },
