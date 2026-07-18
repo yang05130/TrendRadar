@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T06:44:06.640395+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-07-19T07:50:04.898337+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "智利风暴减弱，Codelco将恢复安第纳铜矿开采",
@@ -15,8 +15,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时53分 ~ 06时44分]"
+          "appearance_count": 6,
+          "time_info": "[01时53分 ~ 07时50分]"
+        },
+        {
+          "title": "英格兰6:4法国收获铜牌",
+          "url": "https://www.douyin.com/hot/2576388",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时49分 ~ 07时50分]"
+        },
+        {
+          "title": "英格兰队史首获世界杯铜牌",
+          "url": "https://www.douyin.com/hot/2576646",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时49分 ~ 07时50分]"
         },
         {
           "title": "智利国家铜业公司：智利风暴灾情缓解，安第纳（Andina）铜矿恢复开采。",
