@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T18:24:05.695436+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2026-07-19T19:53:52.830613+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             2,
             16,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时49分 ~ 18时24分]"
+          "appearance_count": 8,
+          "time_info": "[07时49分 ~ 19时53分]"
         },
         {
           "title": "英格兰队史首获世界杯铜牌",
@@ -61,7 +62,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -83,7 +84,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         }
