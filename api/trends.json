@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-07-19T19:53:52.830613+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2026-07-19T21:07:06.877492+08:00",
+  "total_titles_processed": 1409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
       "match_count": 7,
       "titles": [
+        {
+          "title": "英格兰6:4法国收获铜牌",
+          "url": "https://www.douyin.com/hot/2576388",
+          "source": "抖音",
+          "ranks": [
+            2,
+            16,
+            19,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时49分 ~ 21时07分]"
+        },
         {
           "title": "智利风暴减弱，Codelco将恢复安第纳铜矿开采",
           "url": "https://wallstreetcn.com/livenews/3136077",
@@ -17,20 +32,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时53分 ~ 07时50分]"
-        },
-        {
-          "title": "英格兰6:4法国收获铜牌",
-          "url": "https://www.douyin.com/hot/2576388",
-          "source": "抖音",
-          "ranks": [
-            2,
-            16,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时49分 ~ 19时53分]"
         },
         {
           "title": "英格兰队史首获世界杯铜牌",
