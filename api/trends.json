@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T01:56:44.219525+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-21T03:39:33.531022+08:00",
+  "total_titles_processed": 371,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3137037",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 03时39分]"
         },
         {
           "title": "LME期铜收涨96美元，报13622美元/吨。 LME期铝收跌10美元，报3140美元/吨。 LME期锌收跌跌6美元，报3520美元/吨。 LME期铅收跌4美元，报1879美元/吨。 LME期镍收跌32美元，报16929美元/吨。 LME期锡收跌352美元，报52878美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -32,6 +33,23 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DoubleLine：美债收益率上升将有助于美联储维持利率不变",
+          "url": "https://wallstreetcn.com/livenews/3137053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 1,
       "titles": [
@@ -40,11 +58,12 @@
           "url": "https://wallstreetcn.com/livenews/3137031",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 03时39分]"
         }
       ]
     }
