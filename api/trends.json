@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T06:52:24.346709+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-07-22T07:54:05.346446+08:00",
+  "total_titles_processed": 627,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            18
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时03分 ~ 06时52分]"
+          "appearance_count": 3,
+          "time_info": "[05时03分 ~ 07时54分]"
         },
         {
           "title": "重庆铜梁龙晋级足协杯八强",
