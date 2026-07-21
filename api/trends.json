@@ -1,163 +1,39 @@
 {
-  "generated_at": "2026-07-21T23:41:00.811121+08:00",
-  "total_titles_processed": 1580,
+  "generated_at": "2026-07-22T01:12:57.729195+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "铜",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "伦敦金属交易所(LME)：铅库存减少2025吨，铜库存减少4350吨，锡库存减少30吨，铝库存减少1500吨，锌库存减少650吨，镍库存减少1182吨。",
-          "url": "https://wallstreetcn.com/livenews/3137443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "夜盘期货开盘，沪银涨3%，燃油、原油、低硫燃油、焦煤涨逾2%，乙二醇、PTA、塑料、丙烯、聚丙烯、甲醇、沪锡、沪铜、国际铜、纯苯、沥青、对二甲苯、液化石油气涨逾1%；烧碱、豆二等下跌。",
-          "url": "https://wallstreetcn.com/livenews/3137601",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "国际铜夜盘收涨1.29%，沪铜收涨0.69%，沪铝收跌0.78%，沪锌收跌0.16%，沪铅收涨0.06%，沪镍收跌0.35%，沪锡收跌0.21%。 氧化铝夜盘收涨0.63%，铝合金收跌0.80%。 不锈钢夜盘收涨0.07%。",
-          "url": "https://wallstreetcn.com/livenews/3137037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时56分 ~ 03时39分]"
-        },
-        {
-          "title": "重庆铜梁龙晋级足协杯八强",
-          "url": "https://www.douyin.com/hot/2580245",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时40分 ~ 23时41分]"
-        },
-        {
-          "title": "LME期铜收涨96美元，报13622美元/吨。 LME期铝收跌10美元，报3140美元/吨。 LME期锌收跌跌6美元，报3520美元/吨。 LME期铅收跌4美元，报1879美元/吨。 LME期镍收跌32美元，报16929美元/吨。 LME期锡收跌352美元，报52878美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3137029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        },
-        {
-          "title": "商品期货收盘，沪银主力合约涨超5%，钯涨近4%，铂、国际铜涨超2%。碳酸锂跌超4%，LU燃油跌超3%，液化气、鸡蛋、对二甲苯跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3137407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美联储进入噤声期，谁在推动美债抛售？",
-          "url": "https://flash.jin10.com/detail/20260721095639648800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "DoubleLine：美债收益率上升将有助于美联储维持利率不变",
-          "url": "https://wallstreetcn.com/livenews/3137053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        },
-        {
-          "title": "对冲基金创纪录抛售美科技股！戴蒙警告市场低估风险：当前不会买股票或美债",
-          "url": "https://flash.jin10.com/detail/20260721094243314800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.57%，暂报2154.58点。 MarketVectorTM数字资产100中盘指数涨1.31%，报2572.59点。 MarketVector数字资产100指数涨1.40%，报12976.54点。 目前，Solana涨2.52%，狗狗币涨1.40%，XRP涨1.67%。 比特币涨1.57%，暂报65389.40美元；以太坊涨2.09%，暂报1897.80美元。",
-          "url": "https://wallstreetcn.com/livenews/3137031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时56分 ~ 03时39分]"
-        },
-        {
-          "title": "周一（7月20日）纽约尾盘，ICE美元指数涨0.20%，报100.964点，日内交投区间为100.650-101.027点，整体呈现出V形反转行情。 彭博美元指数涨0.03%，报1217.41点，日内交投区间为1215.57-1218.47点。",
-          "url": "https://wallstreetcn.com/livenews/3137064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
         {
-          "title": "黄金反弹出现回落，价格到达关键区间，多头有机会继续突破吗？金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
-          "url": "https://flash.jin10.com/detail/20260721210254282800",
-          "source": "金十数据",
+          "title": "全球科技股反弹！美股存储芯片指数涨超10%，布油重回90美元上方，现货白银涨4%",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时28分"
+          "time_info": "01时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "铜",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "LME期铜收涨263美元，报13885美元/吨。 LME期铝收涨18美元，报3158美元/吨。 LME期锌收涨32美元，报3552美元/吨。 LME期铅收跌10美元，报1869美元/吨。 LME期镍收涨156美元，报17085美元/吨。 LME期锡收涨1007美元，报53885美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3137696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
         }
       ]
     }
