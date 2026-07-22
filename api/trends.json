@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T16:20:38.811094+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2026-07-22T19:06:17.508546+08:00",
+  "total_titles_processed": 1308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "伦敦金属交易所(LME)：铅库存减少425吨，锡库存减少140吨，锌库存减少850吨，铜库存减少6750吨，镍库存减少1512吨，铝库存减少1500吨。",
@@ -14,7 +14,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -73,9 +73,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
+        },
+        {
+          "title": "金安国纪：与珠海市金湾区人民政府就公司在珠海市金湾区增资扩产项目的相关事项达成合作意向，签订《金安国纪增资扩产项目投资协议》，意向投资金额约20亿元人民币，以满足覆铜板及半固化片持续增长的市场需求。",
+          "url": "https://wallstreetcn.com/livenews/3138152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
         },
         {
           "title": "Codelco旗下安迪纳铜矿受智利中部风暴影响，遭遇电力问题",
