@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-23T06:12:00.031964+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2026-07-23T07:59:34.659780+08:00",
+  "total_titles_processed": 643,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
       "match_count": 5,
       "titles": [
+        {
+          "title": "国际黄金、石油、铜、美股、美元再现同步上涨，日元兑美元跌破 163，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2063182962879993810",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时01分 ~ 07时59分]"
+        },
         {
           "title": "国际铜夜盘收跌0.06%，沪铜收跌0.16%，沪铝收涨0.35%，沪锌收涨0.98%，沪铅收涨0.54%，沪镍收涨0.62%，沪锡收跌0.23%。 氧化铝夜盘收跌1.72%，铝合金收涨0.28%。 不锈钢夜盘收涨0.20%。",
           "url": "https://wallstreetcn.com/livenews/3138338",
@@ -32,18 +45,6 @@
           "time_info": "[01时13分 ~ 03时07分]"
         },
         {
-          "title": "国际黄金、石油、铜、美股、美元再现同步上涨，日元兑美元跌破 163，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2063182962879993810",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时01分 ~ 06时12分]"
-        },
-        {
           "title": "南方铜业预计2027年产量持平，随后将恢复增长",
           "url": "https://wallstreetcn.com/livenews/3138347",
           "source": "华尔街见闻-快讯",
@@ -61,7 +62,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         }
