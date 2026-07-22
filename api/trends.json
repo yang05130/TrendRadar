@@ -1,166 +1,50 @@
 {
-  "generated_at": "2026-07-22T23:31:41.367406+08:00",
-  "total_titles_processed": 1588,
+  "generated_at": "2026-07-23T01:13:09.089575+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 9,
+      "match_count": 2,
       "titles": [
         {
-          "title": "伦敦金属交易所(LME)：铅库存减少425吨，锡库存减少140吨，锌库存减少850吨，铜库存减少6750吨，镍库存减少1512吨，铝库存减少1500吨。",
-          "url": "https://wallstreetcn.com/livenews/3138081",
+          "title": "国际铜夜盘收跌0.06%，沪铜收跌0.16%，沪铝收涨0.35%，沪锌收涨0.98%，沪铅收涨0.54%，沪镍收涨0.62%，沪锡收跌0.23%。 氧化铝夜盘收跌1.72%，铝合金收涨0.28%。 不锈钢夜盘收涨0.20%。",
+          "url": "https://wallstreetcn.com/livenews/3138338",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时20分"
+          "time_info": "01时13分"
         },
         {
-          "title": "金价涨超1.7%，4000美元整数位心理关口失而复得，白银涨4.2%，纽约铜涨超2.9%",
-          "url": "https://wallstreetcn.com/livenews/3137759",
+          "title": "LME期铜收跌77美元，报13808美元/吨。 LME期铝收涨34美元，报3192美元/吨。 LME期锌收涨40美元，报3592美元/吨。 LME期铅收涨28美元，报1896美元/吨。 LME期镍收涨149美元，报17234美元/吨。 LME期锡收涨37美元，报53922美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3138335",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            18,
-            30
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时03分 ~ 07时54分]"
-        },
-        {
-          "title": "A股算力概念股持续活跃，美利云3连板，利通电子2连板，群兴玩具涨停，铜牛信息涨超10%，华勤技术、紫光股份、宏景科技涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3137855",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "LME期铜收涨263美元，报13885美元/吨。 LME期铝收涨18美元，报3158美元/吨。 LME期锌收涨32美元，报3552美元/吨。 LME期铅收跌10美元，报1869美元/吨。 LME期镍收涨156美元，报17085美元/吨。 LME期锡收涨1007美元，报53885美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3137696",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时14分]"
-        },
-        {
-          "title": "重庆铜梁龙晋级足协杯八强",
-          "url": "https://www.douyin.com/hot/2580245",
-          "source": "抖音",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 13时45分]"
-        },
-        {
-          "title": "伦敦金属交易所(LME)：铅库存减少425吨，锡库存减少140吨，锌库存减少850吨，铜库存减少6750吨，镍库存减少1512吨，铝库存减少1500吨。",
-          "url": "https://flash.jin10.com/detail/20260722160046656800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时20分"
-        },
-        {
-          "title": "金安国纪：与珠海市金湾区人民政府就公司在珠海市金湾区增资扩产项目的相关事项达成合作意向，签订《金安国纪增资扩产项目投资协议》，意向投资金额约20亿元人民币，以满足覆铜板及半固化片持续增长的市场需求。",
-          "url": "https://wallstreetcn.com/livenews/3138152",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        },
-        {
-          "title": "Codelco旗下安迪纳铜矿受智利中部风暴影响，遭遇电力问题",
-          "url": "https://wallstreetcn.com/livenews/3137700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "国际铜夜盘收涨1.49%，沪铜收涨1.69%，沪铝收涨0.56%，沪锌收涨0.55%，沪铅收跌0.95%，沪镍收涨0.77%，沪锡收涨1.02%。 氧化铝夜盘收涨0.22%，铝合金收涨0.50%。 不锈钢夜盘收涨0.20%。",
-          "url": "https://wallstreetcn.com/livenews/3137699",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
+          "time_info": "01时13分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时03分]"
-        },
-        {
-          "title": "周三（8月6日）纽约尾盘，彭博谷物分类指数涨0.42%，报32.19点。 CBOT玉米期货涨0.48%，CBOT小麦期货涨0.67%。 CBOT大豆期货跌0.33%，报12.2225美元/蒲式耳，豆粕期货涨1.43%，豆油期货跌0.78%。 CBOT瘦肉猪期货涨0.54%，活牛期货跌0.74%，饲牛期货跌0.74%。",
-          "url": "https://wallstreetcn.com/livenews/3137719",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.55%，暂报2174.29点。 MarketVectorTM数字资产100中盘指数跌0.72%，报2491.90点，亚太午盘持续扩大跌幅。 MarketVector数字资产100指数跌0.31%，报13130点。 目前，Solana涨0.95%，狗狗币跌0.22%，XRP持平。 比特币跌0.32%，暂报66188.99美元；以太坊涨1.31%，暂报1947.90美元。",
+          "url": "https://wallstreetcn.com/livenews/3138337",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "全球科技股反弹！美股存储芯片指数涨超10%，布油重回90美元上方，现货白银涨4%",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "周二（7月21日），美股存储芯片与硬件供应链指数涨11.12%，报213.46点。 成分股闪迪收涨14.27%，西部数据、美光科技、泰瑞达、希捷科技涨12.51%-11.14%紧随其后，应用材料、拉姆研究、Rambus也至少涨4.90%。 美国科技股七巨头（Magnificent 7）指数涨0.12%，报217.46点。 “超大”市值科技股指数涨1.24%，报436.57点。 美股超大规模云服务商（Hyperscalers）跌0.45%，报92.19点。 信息科技指数涨5.98%，报400.79点。 人工智能（AI）赢家指数涨5.99%，报401.39点。 AI软件先驱指数跌1.08%，报108.27点。 北美科技软件股指数ETF跌1.25%，报91.82美元；Global X网络安全ETF跌2.82%，纳斯达克网络安全ETF跌1.32%，ETFMG网络安全ETF跌1.98%",
-          "url": "https://wallstreetcn.com/livenews/3137752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时03分 ~ 06时52分]"
+          "time_info": "01时13分"
         }
       ]
     }
