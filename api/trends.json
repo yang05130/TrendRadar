@@ -1,174 +1,8 @@
 {
-  "generated_at": "2026-07-23T23:53:30.523409+08:00",
-  "total_titles_processed": 1651,
+  "generated_at": "2026-07-24T01:16:16.690703+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "铜",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "伦敦金属交易所(LME)：锡库存减少125吨，锌库存减少1575吨，铜库存减少2750吨，镍库存减少1980吨，铝库存减少1600吨，铅库存持平。",
-          "url": "https://wallstreetcn.com/livenews/3138725",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "国际黄金、石油、铜、美股、美元再现同步上涨，日元兑美元跌破 163，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2063182962879993810",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时01分 ~ 07时59分]"
-        },
-        {
-          "title": "夜盘期货开盘，苯乙烯、原油、燃油涨逾3%，乙二醇、液化石油气、纯苯、沥青、低硫燃油、甲醇、塑料涨逾2%；沪银跌逾3%，沪金、国际铜跌逾1%。",
-          "url": "https://wallstreetcn.com/livenews/3138903",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时46分"
-        },
-        {
-          "title": "国际铜夜盘收跌0.06%，沪铜收跌0.16%，沪铝收涨0.35%，沪锌收涨0.98%，沪铅收涨0.54%，沪镍收涨0.62%，沪锡收跌0.23%。 氧化铝夜盘收跌1.72%，铝合金收涨0.28%。 不锈钢夜盘收涨0.20%。",
-          "url": "https://wallstreetcn.com/livenews/3138338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 03时07分]"
-        },
-        {
-          "title": "LME期铜收跌77美元，报13808美元/吨。 LME期铝收涨34美元，报3192美元/吨。 LME期锌收涨40美元，报3592美元/吨。 LME期铅收涨28美元，报1896美元/吨。 LME期镍收涨149美元，报17234美元/吨。 LME期锡收涨37美元，报53922美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3138335",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 03时07分]"
-        },
-        {
-          "title": "南方铜业预计2027年产量持平，随后将恢复增长",
-          "url": "https://wallstreetcn.com/livenews/3138347",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "A股算力租赁概念反复活跃，证通电子3连板，鸿博股份涨停，利通电子、浪潮信息、铜牛信息、行云科技涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3138537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "路透调查：伦敦金属交易所（LME）现货铜预计在2026年平均为每公吨13,169美元，2027年为每吨13,059美元，而2025年为每吨9,939美元。",
-          "url": "https://flash.jin10.com/detail/20260723211538481800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时46分"
-        },
-        {
-          "title": "金价涨超1%，重返4100美元上方，纽约铜跌1%",
-          "url": "https://wallstreetcn.com/livenews/3138415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美元指数DXY跌破101，日内跌0.12%。",
-          "url": "https://flash.jin10.com/detail/20260723104654205800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.55%，暂报2174.29点。 MarketVectorTM数字资产100中盘指数跌0.72%，报2491.90点，亚太午盘持续扩大跌幅。 MarketVector数字资产100指数跌0.31%，报13130点。 目前，Solana涨0.95%，狗狗币跌0.22%，XRP持平。 比特币跌0.32%，暂报66188.99美元；以太坊涨1.31%，暂报1947.90美元。",
-          "url": "https://wallstreetcn.com/livenews/3138337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 03时07分]"
-        },
-        {
-          "title": "周三（7月22日）纽约尾盘，ICE美元指数跌0.04%，报101.130点，日内交投区间为101.198-101.020点。 彭博美元指数跌0.01%，报1219.62点，日内交投区间为1220.20-1218.35点。",
-          "url": "https://wallstreetcn.com/livenews/3138377",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“债券义警”疑似再现：30年期美债收益率高于5%的天数创近二十年最多",
-          "url": "https://wallstreetcn.com/livenews/3138384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        }
-      ]
-    },
     {
       "keyword_group": "泡泡玛特 labubu",
       "match_count": 1,
@@ -180,9 +14,26 @@
           "ranks": [
             13
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 01时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "铜",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Kalshi在推进贵金属业务后，计划推出铜永续期货",
+          "url": "https://wallstreetcn.com/livenews/3139002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时53分"
+          "time_info": "01时16分"
         }
       ]
     }
