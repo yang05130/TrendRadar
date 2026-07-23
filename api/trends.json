@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-07-24T01:16:16.690703+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-07-24T03:08:09.080189+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "铜",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Kalshi在推进贵金属业务后，计划推出铜永续期货",
+          "url": "https://wallstreetcn.com/livenews/3139002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 03时08分]"
+        },
+        {
+          "title": "国际铜夜盘收跌1.79%，沪铜收跌1.40%，沪铝收跌0.02%，沪锌收跌0.22%，沪铅收跌0.57%，沪镍收涨0.07%，沪锡收跌1.24%。 氧化铝夜盘收跌0.33%，铝合金收跌0.17%。 不锈钢夜盘收跌0.47%。",
+          "url": "https://wallstreetcn.com/livenews/3139008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "LME期铜收跌214美元，报13594美元/吨。 LME期铝收跌4美元，报3188美元/吨。 LME期锌收跌6美元，报3586美元/吨。 LME期铅收跌3美元，报1894美元/吨。 LME期镍收跌1美元，报53326美元/吨。 LME期锡收跌596美元，报53326美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3139006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        }
+      ]
+    },
     {
       "keyword_group": "泡泡玛特 labubu",
       "match_count": 1,
@@ -15,25 +55,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 01时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "铜",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Kalshi在推进贵金属业务后，计划推出铜永续期货",
-          "url": "https://wallstreetcn.com/livenews/3139002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时16分"
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 03时08分]"
         }
       ]
     }
