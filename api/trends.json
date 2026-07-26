@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-07-27T04:53:36.691003+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2026-07-27T05:55:59.202481+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "汇市盘初，美元指数DXY跌0.16%，报101.31；澳元兑美元AUD/USD涨0.23%；美元兑日元USD/JPY跌0.16%；欧元兑美元EUR/USD涨0.18%。",
+          "url": "https://flash.jin10.com/detail/20260727051159970800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        }
+      ]
+    },
     {
       "keyword_group": "泡泡玛特 labubu",
       "match_count": 1,
@@ -16,8 +33,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 05时55分]"
         }
       ]
     }
