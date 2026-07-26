@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-07-26T20:01:48.795827+08:00",
-  "total_titles_processed": 1153,
-  "failed_sources": [
-    "thepaper"
-  ],
+  "generated_at": "2026-07-26T21:38:21.333472+08:00",
+  "total_titles_processed": 1241,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "泡泡玛特 labubu",
@@ -14,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2063932194024681825",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时00分 ~ 20时01分]"
+          "appearance_count": 3,
+          "time_info": "[20时00分 ~ 21时38分]"
         }
       ]
     }
