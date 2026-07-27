@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-07-27T18:38:18.673096+08:00",
-  "total_titles_processed": 1171,
+  "generated_at": "2026-07-27T21:37:01.746242+08:00",
+  "total_titles_processed": 1339,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "铜",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "夜盘期货开盘，原油跌逾3%，燃油、纯苯跌逾2%，苯乙烯、甲醇、液化石油气、丙烯、菜粕、对二甲苯、低硫燃油、瓶片、PTA、聚丙烯、豆二、短纤跌逾1%；沪锡、沪铜等上涨。",
+          "url": "https://wallstreetcn.com/livenews/3140346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "花旗：维持铜价0-3个月目标为每吨14,500美元。",
+          "url": "https://flash.jin10.com/detail/20260727210133233800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        }
+      ]
+    },
     {
       "keyword_group": "人民币",
       "match_count": 1,
