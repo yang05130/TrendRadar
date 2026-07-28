@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T04:13:51.310403+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-07-29T06:00:58.033412+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3141174",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 06时00分]"
         },
         {
           "title": "WTI原油期货跌幅扩大至4%，跌穿79.30美元。美国国债价格涨幅扩大，收益率普遍跌4-6个基点。标普涨超0.3%，道指涨超1.1%，纳指跌0.1%，纳斯达克100指数仍然跌约0.8%，半导体指数目前跌超4.3%。 据媒体报道，在内塔尼亚胡与特朗普会晤之前，调解方认为已接近达成突破性协议，有望重启美国与伊朗上个月签署的谅解备忘录。",
