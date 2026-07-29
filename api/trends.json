@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T04:51:01.461558+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-07-30T05:56:37.932761+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美联储主席沃什：名义美债收益率、实际美债收益率涨势都非常突出。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "彭博：美债收益率表明沃什如此有耐心是错的",
+          "url": "https://wallstreetcn.com/livenews/3141909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         },
         {
           "title": "市场反应：美国10年期国债收益率短线从4.635%附近跳水至4.61%下方，整体转跌；两年期美债收益率从4.32%附近跳水至接近4.24%，整体转跌。 现货黄金从4040美元附近拉升至4081美元上方，涨幅超过1.2%。 标普跌0.2%，道指跌1.1%，纳指转涨。 新兴市场外汇指数刷新日高，拉美股市、巴西股指跌幅收窄。",
@@ -81,7 +92,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         }
