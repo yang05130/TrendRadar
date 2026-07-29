@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T07:05:24.766518+08:00",
-  "total_titles_processed": 615,
+  "generated_at": "2026-07-29T10:07:46.759887+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
@@ -68,6 +68,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "赛力斯 问界",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港股智驾概念股盘初走强，禾赛-W(02525.HK)涨超10%，赛力斯(09927.HK)、文远知行-W(00800.HK)涨超6%，佑驾创新(02431.HK)涨超4%，速腾聚创(02498.HK)涨3.8%。",
+          "url": "https://flash.jin10.com/detail/20260729094534528800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "泡泡玛特 labubu",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "一年两涨！泡泡玛特城市乐园票价最高288元",
+          "url": "https://www.cls.cn/detail/2439275",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         }
       ]
     }
