@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T19:03:39.922844+08:00",
-  "total_titles_processed": 1400,
+  "generated_at": "2026-07-30T21:48:48.451645+08:00",
+  "total_titles_processed": 1586,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             1,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时57分 ~ 19时03分]"
+          "appearance_count": 9,
+          "time_info": "[06时57分 ~ 21时48分]"
         },
         {
           "title": "沃什拒绝给方向，美债市场怒了！冈拉克警告：想回2%就必须加息",
