@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T10:45:22.746983+08:00",
-  "total_titles_processed": 744,
+  "generated_at": "2026-08-01T13:51:55.175527+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2049427129285321969",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 13时51分]"
         },
         {
           "title": "LME期铜收跌12美元，报13791美元/吨。 LME期铝收跌12美元，报3184美元/吨。 LME期锌收涨21美元，报3643美元/吨。 LME期铅收跌18美元，报1878美元/吨。 LME期镍收地跌21美元，报17249美元/吨。 LME期锡收涨290美元，报55268美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -130,8 +131,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时58分 ~ 10时45分]"
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 13时51分]"
         },
         {
           "title": "美国圣路易斯联储主席穆萨勒姆（Musalem）针对美债抛售事件表示：美债抛售对美联储的信誉发出了警告。 我本人倾向于（支持）加息。（英国金融时报）",
@@ -140,7 +141,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         }
