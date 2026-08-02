@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T21:26:19.420036+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2026-08-02T22:59:16.164315+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             7,
             4,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时59分 ~ 21时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时59分 ~ 22时59分]"
         },
         {
           "title": "伊朗铜业公司2026年实现约90万亿里亚尔设备和零部件国产化",
