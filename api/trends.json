@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-08-03T07:55:23.624434+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2026-08-03T10:22:43.358347+08:00",
+  "total_titles_processed": 775,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "贝森特“小纸条”曝光：美国下场拉日元，是怕美债跟着遭殃？",
+          "url": "https://www.cls.cn/detail/2443401",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
+          "title": "美联储抗通胀信誉要崩？大型资管警告暂时别碰长期美债",
+          "url": "https://flash.jin10.com/detail/20260803094121969800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        }
+      ]
+    },
     {
       "keyword_group": "铜",
       "match_count": 1,
@@ -15,11 +43,12 @@
             8,
             10,
             11,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时12分 ~ 07时55分]"
+          "appearance_count": 7,
+          "time_info": "[03时12分 ~ 10时22分]"
         }
       ]
     }
