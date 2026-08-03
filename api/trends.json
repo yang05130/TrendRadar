@@ -1,87 +1,22 @@
 {
-  "generated_at": "2026-08-03T21:37:58.169098+08:00",
-  "total_titles_processed": 1377,
+  "generated_at": "2026-08-04T00:19:51.237019+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美债",
-      "match_count": 4,
+      "keyword_group": "赛力斯 问界",
+      "match_count": 1,
       "titles": [
         {
-          "title": "30年美债收益率破5%将如何影响股市",
-          "url": "https://www.toutiao.com/trending/7669755735231696420/",
+          "title": "赛力斯7月新能源汽车销量同比降45%",
+          "url": "https://www.toutiao.com/trending/7669619798967484459/",
           "source": "今日头条",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时37分"
-        },
-        {
-          "title": "贝森特“小纸条”曝光：美国下场拉日元，是怕美债跟着遭殃？",
-          "url": "https://www.cls.cn/detail/2443401",
-          "source": "财联社热门",
-          "ranks": [
-            11
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "美债彻底陷入“失控边缘”：真正的风暴才刚开始？",
-          "url": "https://www.cls.cn/detail/2443731",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        },
-        {
-          "title": "美联储抗通胀信誉要崩？大型资管警告暂时别碰长期美债",
-          "url": "https://flash.jin10.com/detail/20260803094121969800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "铜",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "用一万斤青铜复刻曾侯乙编钟",
-          "url": "https://www.douyin.com/hot/2593260",
-          "source": "抖音",
-          "ranks": [
-            8,
-            10,
-            11,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时12分 ~ 10时22分]"
-        },
-        {
-          "title": "上期所：将上线套利指令 初期套利指令适用于铜、黄金等期货",
-          "url": "https://wallstreetcn.com/livenews/3144071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时38分"
+          "time_info": "00时19分"
         }
       ]
     }
