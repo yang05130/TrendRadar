@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T10:22:43.358347+08:00",
-  "total_titles_processed": 775,
+  "generated_at": "2026-08-03T14:17:29.221753+08:00",
+  "total_titles_processed": 983,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "贝森特“小纸条”曝光：美国下场拉日元，是怕美债跟着遭殃？",
@@ -14,9 +14,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
+        },
+        {
+          "title": "美债彻底陷入“失控边缘”：真正的风暴才刚开始？",
+          "url": "https://www.cls.cn/detail/2443731",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         },
         {
           "title": "美联储抗通胀信誉要崩？大型资管警告暂时别碰长期美债",
@@ -25,7 +36,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         }
