@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T18:33:13.558669+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2026-08-04T20:57:41.115271+08:00",
+  "total_titles_processed": 1390,
   "failed_sources": [],
   "trends": [
     {
@@ -53,11 +53,12 @@
           "url": "https://wallstreetcn.com/articles/3778597",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时33分]"
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 20时57分]"
         },
         {
           "title": "周一（8月3日）纽约尾盘，现货黄金涨0.21%，报4054.95美元/盎司，亚太盘初高开至4080.87美元刷新日高，随后震荡下行、21:38刷新日低至4019.30美元。 COMEX黄金期货涨0.15%，报4113美元/盎司。 现货白银涨1.01%，报58.18美元/盎司，美股盘初也曾刷新日低至56.5694美元。 COMEX白银期货涨1.08%，报58.400美元/盎司。 COMEX铜期货涨0.65%，报6.5490美元/磅。 现货铂金跌1%，现货钯金跌1.30%。",
@@ -105,11 +106,12 @@
           "url": "https://www.zhihu.com/question/2067882801500836048",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时33分]"
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 20时57分]"
         }
       ]
     },
@@ -126,8 +128,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时34分 ~ 18时33分]"
+          "appearance_count": 4,
+          "time_info": "[15时34分 ~ 20时57分]"
         },
         {
           "title": "“沉睡巨人”正在苏醒：30万亿美债市场暗流涌动，美股还能撑多久？",
