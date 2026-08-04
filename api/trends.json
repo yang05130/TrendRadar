@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-08-05T00:08:52.531817+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-08-05T01:41:41.804152+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "铜",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "智利国家铜业公司（Codelco）因地震地质风险，临时暂停埃尔特尼恩特（El Teniente）铜矿扩建项目。",
+          "url": "https://wallstreetcn.com/livenews/3144889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "智利国家铜业公司：析发现一种新出现的地震现象，与此前已知风险不同。",
+          "url": "https://flash.jin10.com/detail/20260805010306091800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "国际铜夜盘收涨0.76%，沪铜收涨0.68%，沪铝收涨0.08%，沪锌收涨0.84%，沪铅收涨1.79%，沪镍收跌0.75%，沪锡收涨0.63%。 氧化铝夜盘收涨0.19%，铝合金收涨0.09%。 不锈钢夜盘收跌1.25%。",
+          "url": "https://wallstreetcn.com/livenews/3144888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "智利国家铜业公司：采取预防性安全措施，暂时暂停安第斯北部项目（Andes Norte）。",
+          "url": "https://flash.jin10.com/detail/20260805010121837800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "LME期铜收涨196美元，报14066美元/吨。 LME期铝收涨2美元，报3223美元/吨。 LME期锌收涨32美元，报3674美元/吨。 LME期铅收涨29美元，报1896美元/吨。 LME期镍收涨133美元，报17193美元/吨。 LME期锡收涨543美元，报55989美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3144885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "COMEX囤铜65万吨，去年那场20%暴跌会重演吗？",
+          "url": "https://flash.jin10.com/detail/20260804233130322800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时08分"
+        },
+        {
+          "title": "据智利媒体：智利国家铜业公司因地震风险暂时暂停El Teniente扩建项目。",
+          "url": "https://flash.jin10.com/detail/20260805005649513800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        }
+      ]
+    },
     {
       "keyword_group": "黄金",
       "match_count": 2,
@@ -12,11 +95,12 @@
           "url": "https://wallstreetcn.com/livenews/3144854",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 01时41分]"
         },
         {
           "title": "金属铱价格暴涨远超黄金",
@@ -40,11 +124,12 @@
           "url": "https://www.zhihu.com/question/2067882801500836048",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 01时41分]"
         }
       ]
     },
@@ -57,11 +142,12 @@
           "url": "https://wallstreetcn.com/articles/3778620",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 01时41分]"
         }
       ]
     },
@@ -73,23 +159,6 @@
           "title": "恒天然：8月4日全球乳品贸易（GDT）拍卖价格指数上升0.1%，奶粉各合同期拍卖均价3,778美元/吨。 批发奶粉价格指数上升0.2%，报3,483美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3144848",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "铜",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "COMEX囤铜65万吨，去年那场20%暴跌会重演吗？",
-          "url": "https://flash.jin10.com/detail/20260804233130322800",
-          "source": "金十数据",
           "ranks": [
             12
           ],
