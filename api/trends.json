@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T17:33:23.392243+08:00",
-  "total_titles_processed": 1218,
+  "generated_at": "2026-08-05T19:56:11.371356+08:00",
+  "total_titles_processed": 1384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "智利国家铜业公司（Codelco）因地震地质风险，临时暂停埃尔特尼恩特（El Teniente）铜矿扩建项目。",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "美国 7 月囤 20 万吨精炼铜，美国为啥热衷抢铜？会对全球产业链产生什么影响？",
+          "url": "https://www.zhihu.com/question/2068000098995402303",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 19时56分]"
         },
         {
           "title": "国际铜夜盘收涨0.76%，沪铜收涨0.68%，沪铝收涨0.08%，沪锌收涨0.84%，沪铅收涨1.79%，沪镍收跌0.75%，沪锡收涨0.63%。 氧化铝夜盘收涨0.19%，铝合金收涨0.09%。 不锈钢夜盘收跌1.25%。",
@@ -100,6 +111,67 @@
       ]
     },
     {
+      "keyword_group": "泡泡玛特 labubu",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "段永平持仓从7.65%降至5.55%，泡泡玛特澄清：不是主动减持",
+          "url": "https://wallstreetcn.com/livenews/3145369",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
+          "title": "段永平减持泡泡玛特，持股比例降至5.55%，两周前称“十年内大概率不卖”",
+          "url": "https://wallstreetcn.com/articles/3778745",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 19时56分]"
+        },
+        {
+          "title": "段永平持股泡泡玛特比例下降，此前刚称“10年内大概率不卖”",
+          "url": "https://www.cls.cn/detail/2446447",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 19时56分]"
+        },
+        {
+          "title": "段永平管理的H&H International Investment对泡泡玛特的多头持仓比例降至5.55%",
+          "url": "https://flash.jin10.com/detail/20260805171916407800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
+          "title": "段永平持仓从7.65%降至5.55% 泡泡玛特澄清：不是主动减持",
+          "url": "https://flash.jin10.com/detail/20260805192903997800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 2,
       "titles": [
@@ -155,8 +227,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时57分 ~ 17时33分]"
+          "appearance_count": 5,
+          "time_info": "[11时57分 ~ 19时56分]"
         }
       ]
     },
@@ -206,23 +278,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时08分 ~ 08时05分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "泡泡玛特 labubu",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "段永平管理的H&H International Investment对泡泡玛特的多头持仓比例降至5.55%",
-          "url": "https://flash.jin10.com/detail/20260805171916407800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
         }
       ]
     }
