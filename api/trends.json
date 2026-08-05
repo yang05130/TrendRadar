@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-05T19:56:11.371356+08:00",
-  "total_titles_processed": 1384,
+  "generated_at": "2026-08-05T21:56:47.309351+08:00",
+  "total_titles_processed": 1522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "美国 7 月囤 20 万吨精炼铜，美国为啥热衷抢铜？会对全球产业链产生什么影响？",
+          "url": "https://www.zhihu.com/question/2068000098995402303",
+          "source": "知乎",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时55分 ~ 21时56分]"
+        },
         {
           "title": "智利国家铜业公司（Codelco）因地震地质风险，临时暂停埃尔特尼恩特（El Teniente）铜矿扩建项目。",
           "url": "https://wallstreetcn.com/livenews/3144889",
@@ -39,17 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
-        },
-        {
-          "title": "美国 7 月囤 20 万吨精炼铜，美国为啥热衷抢铜？会对全球产业链产生什么影响？",
-          "url": "https://www.zhihu.com/question/2068000098995402303",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 19时56分]"
         },
         {
           "title": "国际铜夜盘收涨0.76%，沪铜收涨0.68%，沪铝收涨0.08%，沪锌收涨0.84%，沪铅收涨1.79%，沪镍收跌0.75%，沪锡收涨0.63%。 氧化铝夜盘收涨0.19%，铝合金收涨0.09%。 不锈钢夜盘收跌1.25%。",
@@ -107,13 +108,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
+        },
+        {
+          "title": "三个月期伦铜升至14119美元/吨，为5月14日以来最高水平，涨0.4%。",
+          "url": "https://flash.jin10.com/detail/20260805211136220800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         }
       ]
     },
     {
       "keyword_group": "泡泡玛特 labubu",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "段永平减持泡泡玛特，持股比例降至5.55%，两周前称“十年内大概率不卖”",
+          "url": "https://wallstreetcn.com/articles/3778745",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时55分 ~ 21时56分]"
+        },
         {
           "title": "段永平持仓从7.65%降至5.55%，泡泡玛特澄清：不是主动减持",
           "url": "https://wallstreetcn.com/livenews/3145369",
@@ -121,31 +145,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
-        },
-        {
-          "title": "段永平减持泡泡玛特，持股比例降至5.55%，两周前称“十年内大概率不卖”",
-          "url": "https://wallstreetcn.com/articles/3778745",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 19时56分]"
         },
         {
           "title": "段永平持股泡泡玛特比例下降，此前刚称“10年内大概率不卖”",
           "url": "https://www.cls.cn/detail/2446447",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 19时56分]"
+          "appearance_count": 3,
+          "time_info": "[19时55分 ~ 21时56分]"
         },
         {
           "title": "段永平管理的H&H International Investment对泡泡玛特的多头持仓比例降至5.55%",
@@ -165,9 +179,70 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
+        },
+        {
+          "title": "段永平减持了泡泡玛特，前几天刚说十年内不卖，如何评价他的操作？",
+          "url": "https://www.zhihu.com/question/2068389679494161975",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "北美科技软件股指数ETF涨超1%，处于连续第九个交易日上涨之中，报103.50美元，逼近6月1日顶部108.03美元和2025年9月顶部117.97美元（历史最高位）。",
+          "url": "https://wallstreetcn.com/livenews/3145429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
+          "title": "美元指数4日下跌",
+          "url": "https://flash.jin10.com/detail/20260805045508425800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        },
+        {
+          "title": "美股开盘，道指涨0.33%，标普500指数涨0.56%，纳指涨0.39%。SpaceX(SPCX.O)跌10.5%，其AI支出激增引发担忧。AMD(AMD.O)跌7%，创7月28日以来最大跌幅，其Q2业绩及前景展望不佳。Shopify(SHOP.N)涨20%。黄金盘中一度站上4200美元，哈莫尼黄金(HMY.N)涨7.5%、金田(GFI.N)涨8.3%。存储概念股小幅下跌。",
+          "url": "https://flash.jin10.com/detail/20260805213030299800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
+          "title": "恒天然：8月4日全球乳品贸易（GDT）拍卖价格指数上升0.1%，奶粉各合同期拍卖均价3,778美元/吨。 批发奶粉价格指数上升0.2%，报3,483美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3144848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时08分"
         }
       ]
     },
@@ -229,34 +304,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时57分 ~ 19时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数4日下跌",
-          "url": "https://flash.jin10.com/detail/20260805045508425800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时07分"
-        },
-        {
-          "title": "恒天然：8月4日全球乳品贸易（GDT）拍卖价格指数上升0.1%，奶粉各合同期拍卖均价3,778美元/吨。 批发奶粉价格指数上升0.2%，报3,483美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3144848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
         }
       ]
     },
