@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T06:55:05.951624+08:00",
-  "total_titles_processed": 605,
+  "generated_at": "2026-08-06T07:56:43.970561+08:00",
+  "total_titles_processed": 693,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://wallstreetcn.com/articles/3778745",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 06时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 07时56分]"
         },
         {
           "title": "段永平刚说 “十年内大概率不卖” 后就减持？泡泡玛特：不是主动卖出",
           "url": "https://www.cls.cn/detail/2446602",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 06时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 07时56分]"
         },
         {
           "title": "段永平减持了泡泡玛特，前几天刚说十年内不卖，如何评价他的操作？",
@@ -40,8 +42,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 06时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 07时56分]"
         },
         {
           "title": "段永平持股泡泡玛特比例下降，此前刚称“10年内大概率不卖”",
@@ -51,8 +53,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时01分 ~ 05时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 07时56分]"
         }
       ]
     },
@@ -69,11 +71,12 @@
             2,
             1,
             8,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 06时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 07时56分]"
         },
         {
           "title": "国际铜夜盘收涨0.66%，沪铜收涨0.56%，沪铝收涨0.29%，沪锌收涨1.60%，沪铅收平，沪镍收跌0.17%，沪锡收涨1.70%。 氧化铝夜盘收涨2.56%，铝合金收涨0.13%。 不锈钢夜盘收跌0.72%。",
