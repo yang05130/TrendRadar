@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T07:56:43.970561+08:00",
-  "total_titles_processed": 693,
+  "generated_at": "2026-08-06T10:06:26.263216+08:00",
+  "total_titles_processed": 835,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 07时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 10时06分]"
         },
         {
           "title": "段永平刚说 “十年内大概率不卖” 后就减持？泡泡玛特：不是主动卖出",
@@ -25,11 +26,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 07时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 10时06分]"
         },
         {
           "title": "段永平减持了泡泡玛特，前几天刚说十年内不卖，如何评价他的操作？",
@@ -130,6 +132,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时45分 ~ 03时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金价格是否已经出现底部信号",
+          "url": "https://www.toutiao.com/trending/7670703383359000107/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         }
       ]
     }
