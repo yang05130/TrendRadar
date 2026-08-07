@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T17:57:31.937368+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-08-07T18:50:19.724475+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,19 @@
           "time_info": "16时54分"
         },
         {
+          "title": "刚果（金）正式禁止铜、钴精矿出口，全球 70% 钴供给将受影响，国际铜价应声上涨，将产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2068810918826447155",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时37分 ~ 18时50分]"
+        },
+        {
           "title": "中信证券：刚果（金）出口禁令或推动铜价加速冲击15000美元/吨以上",
           "url": "https://flash.jin10.com/detail/20260807080356799800",
           "source": "金十数据",
@@ -50,18 +63,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
-        },
-        {
-          "title": "刚果（金）正式禁止铜、钴精矿出口，全球 70% 钴供给将受影响，国际铜价应声上涨，将产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2068810918826447155",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时37分 ~ 16时54分]"
         },
         {
           "title": "刚果（金）决定彻底禁止铜精矿、钴精矿出口，华友钴业回应",
