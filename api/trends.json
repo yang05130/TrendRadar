@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T19:42:15.627580+08:00",
-  "total_titles_processed": 1245,
+  "generated_at": "2026-08-07T20:52:58.797517+08:00",
+  "total_titles_processed": 1343,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             19,
             17,
             13,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时37分 ~ 19时42分]"
+          "appearance_count": 8,
+          "time_info": "[13时37分 ~ 20时52分]"
         },
         {
           "title": "刚果（金）据传禁止铜、钴精矿出口 这是怎么一回事？",
