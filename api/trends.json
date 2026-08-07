@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-08-07T18:50:19.724475+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2026-08-07T19:42:15.627580+08:00",
+  "total_titles_processed": 1245,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
       "match_count": 7,
       "titles": [
+        {
+          "title": "刚果（金）正式禁止铜、钴精矿出口，全球 70% 钴供给将受影响，国际铜价应声上涨，将产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2068810918826447155",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时37分 ~ 19时42分]"
+        },
         {
           "title": "刚果（金）据传禁止铜、钴精矿出口 这是怎么一回事？",
           "url": "https://www.cls.cn/detail/2447690",
@@ -28,19 +42,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
-        },
-        {
-          "title": "刚果（金）正式禁止铜、钴精矿出口，全球 70% 钴供给将受影响，国际铜价应声上涨，将产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2068810918826447155",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时37分 ~ 18时50分]"
         },
         {
           "title": "中信证券：刚果（金）出口禁令或推动铜价加速冲击15000美元/吨以上",
