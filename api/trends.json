@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T13:39:42.020402+08:00",
-  "total_titles_processed": 962,
+  "generated_at": "2026-08-08T14:43:05.231107+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
             4,
             11,
             21,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时30分 ~ 13时39分]"
+          "appearance_count": 6,
+          "time_info": "[07时30分 ~ 14时43分]"
         },
         {
           "title": "刚果禁令拉响警报，铜价反应为时过早？",
@@ -42,11 +43,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时39分]"
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 14时43分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：8月4日当周，投机者所持COMEX黄金净多头头寸增加12,070手合约，至132,398手合约，创逾六个月新高。 所持COMEX白银净多头头寸增加至11,067手合约，创四周新高。 所持COMEX铜净多头头寸增加至77,796手合约，创逾五年新高。 所持NYMEX铂金净多头头寸增加至10,882手合约，创逾两个月新高。 所持NYMEX钯金净多头头寸减少至5,429手合约，创六周新低。",
@@ -95,6 +97,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时45分 ~ 02时48分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金期货价格突破4400美元关口 特朗普继续推进罢免美联储理事库克 | 环球市场",
+          "url": "https://www.cls.cn/detail/2448987",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 14时43分]"
         }
       ]
     },
