@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T21:42:34.187060+08:00",
-  "total_titles_processed": 1504,
+  "generated_at": "2026-08-08T22:27:55.834924+08:00",
+  "total_titles_processed": 1559,
   "failed_sources": [],
   "trends": [
     {
@@ -112,11 +112,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 21时42分]"
+          "appearance_count": 3,
+          "time_info": "[20时38分 ~ 22时27分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦(BRK.A.N)截至6月30日持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元，126.68亿美元，13.64亿美元。",
+          "url": "https://flash.jin10.com/detail/20260808201231128800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时38分 ~ 22时27分]"
         },
         {
           "title": "机构：日本不太可能为干预而出售中期美债，对长端收益率的影响有限",
@@ -129,18 +143,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时48分 ~ 03时50分]"
-        },
-        {
-          "title": "伯克希尔哈撒韦(BRK.A.N)截至6月30日持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元，126.68亿美元，13.64亿美元。",
-          "url": "https://flash.jin10.com/detail/20260808201231128800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 21时42分]"
         }
       ]
     },
