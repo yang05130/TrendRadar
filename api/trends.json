@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T14:43:05.231107+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2026-08-08T15:44:46.803781+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
@@ -44,11 +44,12 @@
           "ranks": [
             7,
             9,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 14时43分]"
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 15时44分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：8月4日当周，投机者所持COMEX黄金净多头头寸增加12,070手合约，至132,398手合约，创逾六个月新高。 所持COMEX白银净多头头寸增加至11,067手合约，创四周新高。 所持COMEX铜净多头头寸增加至77,796手合约，创逾五年新高。 所持NYMEX铂金净多头头寸增加至10,882手合约，创逾两个月新高。 所持NYMEX钯金净多头头寸减少至5,429手合约，创六周新低。",
