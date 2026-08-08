@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T09:13:16.779387+08:00",
-  "total_titles_processed": 727,
+  "generated_at": "2026-08-08T11:21:38.590286+08:00",
+  "total_titles_processed": 834,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            11
+            11,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 09时13分]"
+          "appearance_count": 3,
+          "time_info": "[07时30分 ~ 11时21分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至8月4日当周，COMEX黄金投机者净多头头寸增加12,070份合约，至132,398份合约。COMEX白银投机者净多头头寸增加2,679份合约，至11,067份合约。COMEX铜投机者净多头头寸增加11,307份合约，至77,796份合约。",
