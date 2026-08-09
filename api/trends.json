@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T19:25:03.273874+08:00",
-  "total_titles_processed": 1182,
+  "generated_at": "2026-08-09T20:40:09.490161+08:00",
+  "total_titles_processed": 1261,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             3,
             4,
             7,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时51分 ~ 19时25分]"
+          "appearance_count": 6,
+          "time_info": "[15时51分 ~ 20时40分]"
         },
         {
           "title": "摩尔线程：上半年净亏损1156.3万元，较上年同期收窄2.59亿元",
@@ -30,11 +31,12 @@
             4,
             5,
             8,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时36分 ~ 19时25分]"
+          "appearance_count": 5,
+          "time_info": "[16时36分 ~ 20时40分]"
         },
         {
           "title": "摩尔线程：上半年净利润1156.3万元，较上年同期收窄2.59亿元",
@@ -130,8 +132,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时29分 ~ 19时25分]"
+          "appearance_count": 16,
+          "time_info": "[11时29分 ~ 20时40分]"
         }
       ]
     }
