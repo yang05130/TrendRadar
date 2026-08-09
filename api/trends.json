@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T17:34:51.714230+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2026-08-09T18:29:09.606496+08:00",
+  "total_titles_processed": 1116,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时51分 ~ 17时34分]"
+          "appearance_count": 4,
+          "time_info": "[15时51分 ~ 18时29分]"
         },
         {
           "title": "摩尔线程：上半年净亏损1156.3万元，较上年同期收窄2.59亿元",
@@ -26,11 +27,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 17时34分]"
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 18时29分]"
         },
         {
           "title": "摩尔线程：上半年净利润1156.3万元，较上年同期收窄2.59亿元",
@@ -49,11 +51,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 17时34分]"
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 18时29分]"
         },
         {
           "title": "摩尔线程上半年营收大幅增长147.42%，S5000智算集群实现规模化销售",
@@ -120,11 +123,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时29分 ~ 17时34分]"
+          "appearance_count": 12,
+          "time_info": "[11时29分 ~ 18时29分]"
         }
       ]
     }
