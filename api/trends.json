@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T20:40:09.490161+08:00",
-  "total_titles_processed": 1261,
+  "generated_at": "2026-08-09T21:45:25.730422+08:00",
+  "total_titles_processed": 1343,
   "failed_sources": [],
   "trends": [
     {
@@ -77,6 +77,38 @@
       ]
     },
     {
+      "keyword_group": "5090 nvidia",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待华硕将海外用户已付 4607 美元的 5090 订单强行砍单，并随后提价至 5090 美元？",
+          "url": "https://www.zhihu.com/question/2069330740664439572",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7,
+            6,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[11时29分 ~ 20时40分]"
+        },
+        {
+          "title": "如何看待「现在查 RTX 5090 价格已经变成了一种恐怖片题材」这个梗？",
+          "url": "https://www.zhihu.com/question/2067910668142093912",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -113,27 +145,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时01分 ~ 15时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "5090 nvidia",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待华硕将海外用户已付 4607 美元的 5090 订单强行砍单，并随后提价至 5090 美元？",
-          "url": "https://www.zhihu.com/question/2069330740664439572",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            6,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时29分 ~ 20时40分]"
         }
       ]
     }
