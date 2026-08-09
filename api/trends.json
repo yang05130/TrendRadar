@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T09:18:07.853993+08:00",
-  "total_titles_processed": 566,
+  "generated_at": "2026-08-09T11:30:06.565583+08:00",
+  "total_titles_processed": 697,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 09时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "5090 nvidia",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待华硕将海外用户已付 4607 美元的 5090 订单强行砍单，并随后提价至 5090 美元？",
+          "url": "https://www.zhihu.com/question/2069330740664439572",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 11时30分]"
         }
       ]
     }
