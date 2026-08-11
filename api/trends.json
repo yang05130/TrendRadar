@@ -1,178 +1,88 @@
 {
-  "generated_at": "2026-08-11T23:57:16.738962+08:00",
-  "total_titles_processed": 1931,
+  "generated_at": "2026-08-12T00:54:49.065783+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 8,
+      "match_count": 7,
       "titles": [
         {
-          "title": "智利国家铜业委员会：智利科拉瓦西矿6月份铜产量同比增长1.7%，达到34,900吨。",
-          "url": "https://flash.jin10.com/detail/20260811051431874800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时37分 ~ 06时32分]"
-        },
-        {
-          "title": "智利国家铜业委员会：智利埃斯孔迪达铜矿6月份铜产量同比增长45.8%，达到111,400吨。",
-          "url": "https://flash.jin10.com/detail/20260811051428380800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时37分 ~ 06时32分]"
-        },
-        {
-          "title": "智利国家铜业委员会：智利国家铜业公司6月份铜产量同比下降4.8%至114,400吨。",
-          "url": "https://flash.jin10.com/detail/20260811051120121800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时37分 ~ 06时32分]"
-        },
-        {
-          "title": "国际铜夜盘收跌0.02%，沪铜收涨0.16%，沪铝收涨0.64%，沪锌收涨0.35%，沪铅收涨0.60%，沪镍收跌0.42%，沪锡收跌0.46%。 氧化铝夜盘收跌0.59%，铝合金收涨0.28%。 不锈钢夜盘收跌0.62%。",
-          "url": "https://wallstreetcn.com/livenews/3147631",
+          "title": "智利铜委员会预计，智利2027年铜产量将达555万吨，较2026年增长5.2%。",
+          "url": "https://wallstreetcn.com/livenews/3148171",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            20
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 02时50分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
-          "title": "LME期铜收涨84美元，报14160美元/吨。 LME期铝收涨38美元，报3318美元/吨。 LME期锌收涨30美元，报3738美元/吨。 LME期铅收涨16美元，报1903美元/吨。 LME期镍收跌79美元，报16925美元/吨。 LME期锡收涨222美元，报55752美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3147626",
-          "source": "华尔街见闻-快讯",
+          "title": "智利铜业委员会Cochilco预计，智利2027年铜产量将达到555万吨，比2026年增长5.2%。",
+          "url": "https://flash.jin10.com/detail/20260812002203493800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            25
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 02时50分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
-          "title": "智利政府部长：智利政府将对铜生产商CODELCO的2025年利润进行100%再资本化。",
-          "url": "https://flash.jin10.com/detail/20260811014009987800",
+          "title": "智利铜委员会Cochilco预计，智利2026年铜产量将达到527万吨，比2025年下降2.6%。",
+          "url": "https://flash.jin10.com/detail/20260812001641391800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "智利铜业委员会Cochilco预计，2027年全球铜产量将达到2450万吨。",
+          "url": "https://flash.jin10.com/detail/20260812001515491800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "智利铜业委员会Cochilco预计，2026年全球铜产量将达到2350万吨，较2025年增长0.2%。",
+          "url": "https://flash.jin10.com/detail/20260812001459331800",
           "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时50分"
+          "time_info": "00时54分"
         },
         {
-          "title": "LME现货铜溢价飙升至近10个月新高",
-          "url": "https://wallstreetcn.com/livenews/3148085",
-          "source": "华尔街见闻-快讯",
+          "title": "据相关声明：智利铜委员会Cochilco将2027年平均铜价预估维持在每磅5.10美元。",
+          "url": "https://flash.jin10.com/detail/20260812001232384800",
+          "source": "金十数据",
           "ranks": [
-            24
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时18分"
+          "time_info": "00时54分"
         },
         {
-          "title": "印尼铜出口因冶炼厂故障延误",
-          "url": "https://wallstreetcn.com/livenews/3147872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "北美科技软件股指数ETF收涨2.26%，报105.01美元，逼近6月1日收盘位107.68美元和2025年9月份顶部117.97美元。",
-          "url": "https://wallstreetcn.com/livenews/3147689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时37分 ~ 06时32分]"
-        },
-        {
-          "title": "周一（8月10日）纽约尾盘，ICE美元指数涨0.29%，刷新日高至99.829点，整体处于上涨状态，亚太盘初以来冲高回落、北京时间16:15回落至99.603点刷新日低，之后一度持续扩大涨幅。 彭博美元指数涨0.25%，逼近21:53刷新的日高1203.67点。",
-          "url": "https://wallstreetcn.com/livenews/3147664",
-          "source": "华尔街见闻-快讯",
+          "title": "据相关声明：智利铜业委员会Cochilco将2026年平均铜价预估上调至每磅5.95美元。",
+          "url": "https://flash.jin10.com/detail/20260812001208309800",
+          "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "美元指数10日上涨",
-          "url": "https://flash.jin10.com/detail/20260811033207795800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "赛力斯 问界",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "港股汽车股持续走低，蔚来-SW(09866.HK)、吉利汽车(00175.HK)跌超4%，小鹏集团(09868.HK)跌超3%，比亚迪股份(01211.HK)、赛力斯(09927.HK)等跟跌。",
-          "url": "https://flash.jin10.com/detail/20260811154701808800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "人民币汇率创三年半新高 人民币强势突围三大原因",
-          "url": "https://flash.jin10.com/detail/20260811141105712800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时59分"
+          "time_info": "00时54分"
         }
       ]
     }
