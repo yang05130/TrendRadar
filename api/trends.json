@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T00:54:49.065783+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-12T03:59:55.279241+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
@@ -83,6 +83,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数11日上涨",
+          "url": "https://flash.jin10.com/detail/20260812032920147800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "周二（8月11日）纽约尾盘，ICE美元指数涨0.02%，报99.833点，日内交投区间为99.725-99.898点。 彭博美元指数跌0.05%，报1203.02点，日内交投区间为1204.50-1202.56点。",
+          "url": "https://wallstreetcn.com/livenews/3148221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
         }
       ]
     }
