@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T20:53:38.020393+08:00",
-  "total_titles_processed": 1698,
+  "generated_at": "2026-08-11T22:18:02.946377+08:00",
+  "total_titles_processed": 1815,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "铜",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "智利国家铜业委员会：智利科拉瓦西矿6月份铜产量同比增长1.7%，达到34,900吨。",
@@ -77,6 +77,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "LME现货铜溢价飙升至近10个月新高",
+          "url": "https://wallstreetcn.com/livenews/3148085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "印尼铜出口因冶炼厂故障延误",
