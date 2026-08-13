@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T06:36:31.006989+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2026-08-14T07:37:50.968913+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时54分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[01时54分 ~ 07时37分]"
         },
         {
           "title": "如何看待 10 年期、 30 年期美债中标利率都达到 2007 年全球金融危机以来最高水平？",
@@ -26,11 +26,12 @@
           "ranks": [
             15,
             16,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时55分 ~ 06时36分]"
+          "appearance_count": 5,
+          "time_info": "[03时55分 ~ 07时37分]"
         },
         {
           "title": "美国PPI数据公布日，美债收益率普遍下挫",
@@ -96,11 +97,12 @@
           "url": "https://wallstreetcn.com/livenews/3149326",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时37分]"
         }
       ]
     }
