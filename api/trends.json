@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T07:37:06.950813+08:00",
-  "total_titles_processed": 565,
+  "generated_at": "2026-08-13T09:27:44.221612+08:00",
+  "total_titles_processed": 716,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 07时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 09时27分]"
         },
         {
           "title": "智利国有铜业公司Codelco高管表示，正在研究扩大埃尔特尼恩特铜矿的矿坑，以弥补因地震风险而推迟的生产。",
@@ -48,7 +48,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         },
@@ -59,7 +59,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         },
@@ -144,11 +144,12 @@
           "ranks": [
             19,
             20,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 07时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 09时27分]"
         }
       ]
     }
