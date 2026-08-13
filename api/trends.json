@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T22:23:22.840862+08:00",
-  "total_titles_processed": 1595,
+  "generated_at": "2026-08-13T23:55:16.055305+08:00",
+  "total_titles_processed": 1710,
   "failed_sources": [],
   "trends": [
     {
@@ -70,7 +70,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -114,7 +114,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -164,11 +164,12 @@
           "url": "https://www.cls.cn/detail/2453615",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时23分 ~ 23时55分]"
         },
         {
           "title": "温和通胀数据及10年期国债拍卖后，美债收盘涨跌互现",
