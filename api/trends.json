@@ -1,188 +1,83 @@
 {
-  "generated_at": "2026-08-14T23:46:45.815298+08:00",
-  "total_titles_processed": 1555,
+  "generated_at": "2026-08-15T02:46:17.625608+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美债",
-      "match_count": 6,
+      "keyword_group": "铜",
+      "match_count": 5,
       "titles": [
         {
-          "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
-          "url": "https://www.cls.cn/detail/2453615",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时54分 ~ 09时27分]"
-        },
-        {
-          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
-          "url": "https://wallstreetcn.com/articles/3779403",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时10分 ~ 23时46分]"
-        },
-        {
-          "title": "如何看待 10 年期、 30 年期美债中标利率都达到 2007 年全球金融危机以来最高水平？",
-          "url": "https://www.zhihu.com/question/2071179550575124530",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时55分 ~ 07时37分]"
-        },
-        {
-          "title": "美国PPI数据公布日，美债收益率普遍下挫",
-          "url": "https://wallstreetcn.com/livenews/3149300",
+          "title": "智利国有铜业公司Codelco将关闭Chuquicamata和Ministro Hales矿区。",
+          "url": "https://wallstreetcn.com/livenews/3149849",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "消息人士：智利国有铜业公司Codelco任命副总裁负责埃尔特尼恩特矿。",
+          "url": "https://flash.jin10.com/detail/20260815015947792800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "消息人士：智利国有铜业公司Codelco将关闭Chuquicamata和Ministro Hales矿区。",
+          "url": "https://flash.jin10.com/detail/20260815015930667800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时38分"
+          "time_info": "02时46分"
         },
         {
-          "title": "美联储抗通胀信誉面临大考！华尔街借“蝴蝶”策略押注美债反转",
-          "url": "https://flash.jin10.com/detail/20260814171830547800",
-          "source": "金十数据",
+          "title": "国际铜夜盘收涨0.47%，沪铜收涨0.49%，沪铝收涨0.08%，沪锌收涨0.41%，沪铅收跌0.22%，沪镍收涨0.07%，沪锡收涨0.36%。 氧化铝夜盘收跌0.19%，铝合金收涨0.24%。 不锈钢夜盘收跌0.49%。",
+          "url": "https://wallstreetcn.com/livenews/3149839",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时56分"
+          "time_info": "02时46分"
         },
         {
-          "title": "加息降温压不下收益率，40万亿美债要付出什么代价？",
-          "url": "https://flash.jin10.com/detail/20260814230024749800",
-          "source": "金十数据",
+          "title": "LME期铜收涨12美元，报14160美元/吨。 LME期铝收跌6美元，报3252美元/吨。 LME期锌收涨5美元，报3756美元/吨。 LME期铅收涨8美元，报1895美元/吨。 LME期镍收涨39美元，报16815美元/吨。 LME期锡收涨340美元，报56194美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3149833",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美国零售销售数据公布后，标普500指数期货升至盘中高点，美国国债上涨，美元指数跌幅扩大。",
-          "url": "https://wallstreetcn.com/livenews/3149766",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时55分"
-        },
-        {
-          "title": "美元指数13日下跌",
-          "url": "https://flash.jin10.com/detail/20260814032112550800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 04时38分]"
-        },
-        {
-          "title": "周四（8月13日）纽约尾盘，ICE美元指数下跌0.05%，报99.964点，日内交投区间为99.672-99.972点。 彭博美元指数跌0.05%，报1203.75点。",
-          "url": "https://wallstreetcn.com/livenews/3149294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 04时38分]"
+          "time_info": "02时46分"
         }
       ]
     },
     {
-      "keyword_group": "铜",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周四（8月13日）伦敦基本金属多数下跌，LME期铜涨0.02%，报14135.5美元/吨。 LME期锡涨0.01%，报55825.0美元/吨。 LME期锌跌0.32%，报3745.0美元/吨。 LME期铅跌1.00%，报1890.5美元/吨。 LME期镍跌1.11%，报16760.0美元/吨。 LME期铝跌2.19%，报3238.0美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3149293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 04时38分]"
-        },
-        {
-          "title": "周四（8月13日）纽约尾盘，现货黄金跌1.34%，报4350.20美元/盎司。 现货白银跌1.43%，报64.427美元/盎司，日内震荡下行，交投于66.303-64.219美元。 COMEX铜期货跌0.35%，报6.5326美元/磅，盘中一度走V收复跌幅，美PPI数据后较日高回落收跌。",
-          "url": "https://wallstreetcn.com/livenews/3149326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时37分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
+      "keyword_group": "美债",
       "match_count": 1,
       "titles": [
         {
-          "title": "2026年8月14日银行间外汇市场人民币汇率中间价",
-          "url": "https://flash.jin10.com/detail/20260814091530762800",
-          "source": "金十数据",
+          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
+          "url": "https://wallstreetcn.com/articles/3779403",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄金价格反弹意味什么",
-          "url": "https://www.toutiao.com/trending/7673529634117389887/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
+          "time_info": "02时46分"
         }
       ]
     }
