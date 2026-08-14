@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T09:27:28.667042+08:00",
-  "total_titles_processed": 740,
+  "generated_at": "2026-08-14T14:11:11.973651+08:00",
+  "total_titles_processed": 943,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
@@ -32,6 +32,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时55分 ~ 07时37分]"
+        },
+        {
+          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
+          "url": "https://wallstreetcn.com/articles/3779403",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时10分 ~ 14时11分]"
         },
         {
           "title": "美国PPI数据公布日，美债收益率普遍下挫",
@@ -117,7 +128,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         }
@@ -134,7 +145,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         }
