@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-08-16T10:23:27.443112+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-08-16T13:24:08.416967+08:00",
+  "total_titles_processed": 643,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "加息降温压不下收益率，40万亿美债要付出什么代价？",
+          "url": "https://flash.jin10.com/detail/20260816120240152800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
