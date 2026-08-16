@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T13:24:08.416967+08:00",
-  "total_titles_processed": 643,
+  "generated_at": "2026-08-16T14:32:25.647775+08:00",
+  "total_titles_processed": 717,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,29 @@
           "url": "https://flash.jin10.com/detail/20260816120240152800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 14时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "5090 nvidia",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "转转眼镜女压价,5090遭贱卖",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357801&amp;topic_name=%E8%BD%AC%E8%BD%AC%E7%9C%BC%E9%95%9C%E5%A5%B3%E5%8E%8B%E4%BB%B7%2C5090%E9%81%AD%E8%B4%B1%E5%8D%96",
+          "source": "贴吧",
+          "ranks": [
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时24分"
+          "time_info": "14时32分"
         }
       ]
     }
