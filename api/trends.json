@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T10:20:19.308846+08:00",
-  "total_titles_processed": 683,
+  "generated_at": "2026-08-17T18:28:14.847850+08:00",
+  "total_titles_processed": 934,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             2,
             4,
             5,
-            6
+            6,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 10时20分]"
+          "appearance_count": 9,
+          "time_info": "[01时16分 ~ 18时28分]"
         },
         {
           "title": "问界儿童车即将上市 网友：M0.9来了",
@@ -30,6 +31,36 @@
           ],
           "is_new": false,
           "appearance_count": 5,
+          "time_info": "[01时16分 ~ 06时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
+          "url": "https://wallstreetcn.com/articles/3779560",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
+        },
+        {
+          "title": "媒体人：美债买卖日本救火中国搬家",
+          "url": "https://www.toutiao.com/trending/7674607374035848723/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            30,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
           "time_info": "[01时16分 ~ 06时16分]"
         }
       ]
@@ -53,25 +84,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "媒体人：美债买卖日本救火中国搬家",
-          "url": "https://www.toutiao.com/trending/7674607374035848723/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            30,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 06时16分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "中国黄金国际",
       "match_count": 1,
       "titles": [
@@ -82,9 +94,26 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "铜",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伦铜逼近历史高位！现货升水幅度创2021年逼仓风暴以来之最",
+          "url": "https://www.cls.cn/detail/2455848",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
         }
       ]
     },
@@ -98,11 +127,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 10时20分]"
+          "appearance_count": 9,
+          "time_info": "[01时16分 ~ 18时28分]"
         }
       ]
     }
